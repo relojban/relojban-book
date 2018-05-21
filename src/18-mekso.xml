@@ -3,7 +3,6 @@
   <!-- Selected XML entity definitions from https://www.w3.org/TR/xml-entity-names/ -->
   <!ENTITY ndash          "&#x02013;" ><!--EN DASH -->
   <!ENTITY hellip         "&#x02026;" ><!--HORIZONTAL ELLIPSIS -->
-  <!ENTITY InvisibleTimes "&#x02062;" ><!--INVISIBLE TIMES -->
 ]>
 <chapter xml:id="chapter-mekso">
   <title><anchor xml:id="c18"/>lojbau mekso: Mathematical Expressions in Lojban</title>
@@ -40,38 +39,9 @@
       <title>
         <anchor xml:id="c18e1d1"/>
       </title>
-      <mmlmath>
-        <mml:mrow>
-          <mml:mn>3</mml:mn>
-          <mml:mo>&InvisibleTimes;</mml:mo>
-          <mml:mi>x</mml:mi>
-          <mml:mo>+</mml:mo>
-          <mml:mn>2</mml:mn>
-          <mml:mo>&InvisibleTimes;</mml:mo>
-          <mml:mi>y</mml:mi>
-        </mml:mrow>
-      </mmlmath>
+      <dbmath>3 x + 2 y</dbmath>
     </example>
-    <para role="noindent"> <indexterm type="general"><primary>mathematical notation</primary><secondary>and omitted operators</secondary></indexterm> contains omitted multiplication operators, but there are other possible interpretations for the strings
-
-      <mmlinlinemath>
-        <mml:mrow>
-          <mml:mn>3</mml:mn>
-          <mml:mo>&InvisibleTimes;</mml:mo>
-          <mml:mi>x</mml:mi>
-        </mml:mrow>
-      </mmlinlinemath>
-      and
-      <mmlinlinemath>
-        <mml:mrow>
-          <mml:mn>2</mml:mn>
-          <mml:mo>&InvisibleTimes;</mml:mo>
-          <mml:mi>y</mml:mi>
-        </mml:mrow>
-      </mmlinlinemath>
-      than as mathematical multiplication. Therefore, the Lojban verbal (spoken and written) form of
-
-      <xref linkend="example-random-id-dGcT"/> must not omit the multiplication operators.</para>
+    <para role="noindent"> <indexterm type="general"><primary>mathematical notation</primary><secondary>and omitted operators</secondary></indexterm> contains omitted multiplication operators, but there are other possible interpretations for the strings <dbinlinemath>3 x</dbinlinemath> and <dbinlinemath>2 y</dbinlinemath> than as mathematical multiplication. Therefore, the Lojban verbal (spoken and written) form of <xref linkend="example-random-id-dGcT"/> must not omit the multiplication operators.</para>
 
     <para> <indexterm type="general"><primary>mekso chapter</primary><secondary>completeness</secondary></indexterm>  <indexterm type="general"><primary>mekso chapter</primary><secondary>table notation convention</secondary></indexterm> The remainder of this chapter explains (in as much detail as is currently possible) the mekso system. This chapter is by intention complete as regards mekso components, but only suggestive about uses of those components &ndash; as of now, there has been no really comprehensive use made of mekso facilities, and many matters must await the test of usage to be fully clarified.</para>
   </section>
@@ -295,12 +265,14 @@
         <jbo>re fi'u ze</jbo>
 
         <gloss>two fraction seven</gloss>
-        <mmlmath>
-          <mml:mfrac>
-            <mml:mn>2</mml:mn>
-            <mml:mn>7</mml:mn>
-          </mml:mfrac>
-        </mmlmath>
+        <para>
+          <mediaobject>
+            <textobject><phrase>\frac{2}{7}</phrase></textobject>
+            <imageobject>
+              <imagedata fileref="media/chapter-18-frac-2-7.png"/>
+            </imageobject>
+          </mediaobject>
+        </para>
       </interlinear-gloss>
     </example>
     <para role="noindent">
@@ -318,12 +290,14 @@
         <jbo>fi'u ze</jbo>
 
         <gloss>fraction seven</gloss>
-        <mmlmath>
-          <mml:mfrac>
-            <mml:mn>1</mml:mn>
-            <mml:mn>7</mml:mn>
-          </mml:mfrac>
-        </mmlmath>
+        <para>
+          <mediaobject>
+            <textobject><phrase>\frac{1}{7}</phrase></textobject>
+            <imageobject>
+              <imagedata fileref="media/chapter-18-frac-1-7.png"/>
+            </imageobject>
+          </mediaobject>
+        </para>
       </interlinear-gloss>
     </example>
     <example xml:id="example-random-id-qhVs" role="interlinear-gloss-example">
@@ -2846,58 +2820,14 @@
       <interlinear-gloss>
         <jbo>… ve'o [ku'e] ve'o fe'i re bi'epi'i .abu</jbo>
         <gloss>… ) - ] divided-by two times <quote>a</quote></gloss>
-        <mmlmath>
-            <mml:mrow>
-              <mml:mo>Iff </mml:mo>
-              <mml:mi>a</mml:mi>
-              <mml:mo>&InvisibleTimes;</mml:mo>
-              <mml:msup>
-                <mml:mi>x</mml:mi>
-                <mml:mn>2</mml:mn>
-              </mml:msup>
-              <mml:mo>+</mml:mo>
-              <mml:mi>b</mml:mi>
-              <mml:mo>&InvisibleTimes;</mml:mo>
-              <mml:mi>x</mml:mi>
-              <mml:mo>+</mml:mo>
-              <mml:mi>c</mml:mi>
-              <mml:mo>=</mml:mo>
-              <mml:mn>0</mml:mn>
-              <mml:mo>, then </mml:mo>
-              <mml:mi>x</mml:mi>
-              <mml:mo>=</mml:mo>
-              <mml:mfrac>
-                <mml:mrow>
-                  <mml:mrow>
-                    <mml:mo>-</mml:mo>
-                    <mml:mi>b</mml:mi>
-                  </mml:mrow>
-                  <mml:mo>±</mml:mo>
-                  <mml:msqrt>
-                    <mml:mrow>
-                      <mml:msup>
-                        <mml:mi>b</mml:mi>
-                        <mml:mn>2</mml:mn>
-                      </mml:msup>
-                      <mml:mo>-</mml:mo>
-                      <mml:mrow>
-                        <mml:mn>4</mml:mn>
-                        <mml:mo>&InvisibleTimes;</mml:mo>
-                        <mml:mi>a</mml:mi>
-                        <mml:mo>&InvisibleTimes;</mml:mo>
-                        <mml:mi>c</mml:mi>
-                      </mml:mrow>
-                    </mml:mrow>
-                  </mml:msqrt>
-                </mml:mrow>
-                <mml:mrow>
-                  <mml:mn>2</mml:mn>
-                  <mml:mo>&InvisibleTimes;</mml:mo>
-                  <mml:mi>a</mml:mi>
-                </mml:mrow>
-              </mml:mfrac>
-            </mml:mrow>
-        </mmlmath>
+        <para>
+          <mediaobject>
+            <textobject><phrase>\rm{Iff} \enspace ax^2 + bx + c = 0 \rm{, then} \enspace x = \frac{- b \pm \sqrt {b^2 - 4ac}}{2a}</phrase></textobject>
+            <imageobject>
+              <imagedata fileref="media/chapter-18-quadratic-formula.png"/>
+            </imageobject>
+          </mediaobject>
+        </para>
       </interlinear-gloss>
     </example>
     <para role="indent">

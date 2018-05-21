@@ -6,12 +6,7 @@
 ]>
 <chapter xml:id="chapter-negation">
   <title><anchor xml:id="c15"/><quote>No</quote> Problems: On Lojban Negation</title>
-  <mediaobject xml:id="chapter-negation-picture">
-    <textobject><phrase>The picture for chapter 15</phrase></textobject>
-    <imageobject>
-      <imagedata fileref="media/chapter-negation.gif"/>
-    </imageobject>
-  </mediaobject>
+
   <section xml:id="section-negation-introduction">
     <title><anchor xml:id="c15s1"/>Introductory</title>
     <para>The grammatical expression of negation is a critical part of Lojban's claim to being logical. The problem of negation, simply put, is to come up with a complete definition of the word

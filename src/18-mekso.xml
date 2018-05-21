@@ -6,12 +6,7 @@
 ]>
 <chapter xml:id="chapter-mekso">
   <title><anchor xml:id="c18"/>lojbau mekso: Mathematical Expressions in Lojban</title>
-  <mediaobject xml:id="chapter-mekso-picture">
-    <textobject><phrase>The picture for chapter 18</phrase></textobject>
-    <imageobject>
-      <imagedata fileref="media/chapter-mekso.gif"/>
-    </imageobject>
-  </mediaobject>
+
   <section xml:id="section-mekso-introduction">
     <title><anchor xml:id="c18s1"/>Introductory</title>
     <para>lojbau mekso (<quote>Lojbanic mathematical-expression</quote>) is the part of the Lojban language that is tailored for expressing statements of a mathematical character, or for adding numerical information to non-mathematical statements. Its formal design goals include:</para>

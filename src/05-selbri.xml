@@ -1,3 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE chapter [
+  <!-- Selected XML entity definitions from https://www.w3.org/TR/xml-entity-names/ -->
+  <!ENTITY ndash  "&#x02013;" ><!--EN DASH -->
+  <!ENTITY hellip "&#x02026;" ><!--HORIZONTAL ELLIPSIS -->
+]>
+
 <chapter xml:id="chapter-selbri">
   <title><anchor xml:id="c5"/><quote>Pretty Little Girls' School</quote>: The Structure Of Lojban selbri</title>
   <mediaobject xml:id="chapter-selbri-picture">

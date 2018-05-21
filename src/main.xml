@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<book xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude" version="5.0" xml:lang="en">
+<info>
+  <title>The Relojban Language</title>
+  <subtitle>Derived from the original <emphasis>The Complete Lojban Language</emphasis> by John Woldemar Cowan</subtitle>
+  <othercredit><orgname class="informal">maintained by the Relojban community</orgname></othercredit>
+  <releaseinfo>Version 0.1-alpha</releaseinfo>
+</info>
+
+<xi:include href="01-about.xml"/>
+<xi:include href="02-tour.xml"/>
+<xi:include href="03-phonology.xml"/>
+<xi:include href="04-morphology.xml"/>
+<xi:include href="05-selbri.xml"/>
+<xi:include href="06-sumti.xml"/>
+<xi:include href="07-anaphoric-cmavo.xml"/>
+<xi:include href="08-relative-clauses.xml"/>
+<xi:include href="09-sumti-tcita.xml"/>
+<xi:include href="10-tenses.xml"/>
+<xi:include href="11-abstractions.xml"/>
+<xi:include href="12-lujvo.xml"/>
+<xi:include href="13-attitudinals.xml"/>
+<xi:include href="14-connectives.xml"/>
+<xi:include href="15-negation.xml"/>
+<xi:include href="16-quantifiers.xml"/>
+<xi:include href="17-letterals.xml"/>
+<xi:include href="18-mekso.xml"/>
+<xi:include href="19-structure.xml"/>
+<xi:include href="20-catalogue.xml"/>
+<xi:include href="21-grammars.xml"/>
+
+<index type="general">
+  <title>General Index</title>
+</index>
+
+<index type="lojban-word">
+  <title>Lojban Words Index</title>
+</index>
+
+<index type="example">
+  <title>Examples Index</title>
+</index>
+
+</book>

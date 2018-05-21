@@ -1,3 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE chapter [
+  <!-- Selected XML entity definitions from https://www.w3.org/TR/xml-entity-names/ -->
+  <!ENTITY ndash          "&#x02013;" ><!--EN DASH -->
+  <!ENTITY hellip         "&#x02026;" ><!--HORIZONTAL ELLIPSIS -->
+  <!ENTITY InvisibleTimes "&#x02062;" ><!--INVISIBLE TIMES -->
+]>
 <chapter xml:id="chapter-mekso">
   <title><anchor xml:id="c18"/>lojbau mekso: Mathematical Expressions in Lojban</title>
   <mediaobject xml:id="chapter-mekso-picture">

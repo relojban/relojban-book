@@ -2934,7 +2934,7 @@ This section contains examples of making and scoring lujvo. First, we will start
     <para> <indexterm type="general"><primary>gismu</primary><secondary>ethnic</secondary></indexterm> Countries with a large number of speakers of any of the above languages (where the meaning of <quote>large</quote> is dependent on the specific language):</para>
     <para>
     <informaltable>
-      <tr><td colspan="0">English:</td></tr>
+      <tr><td colspan="2">English:</td></tr>
           <tr>
             <td><valsi>merko</valsi></td>
             <td>American</td>
@@ -2957,7 +2957,7 @@ This section contains examples of making and scoring lujvo. First, we will start
           </tr>
         </informaltable>
         <informaltable>
-            <tr><td colspan="0">Spanish:</td></tr>
+          <tr><td colspan="2">Spanish:</td></tr>
           <tr>
             <td><valsi>gento</valsi></td>
             <td>Argentinian</td>
@@ -2968,7 +2968,7 @@ This section contains examples of making and scoring lujvo. First, we will start
           </tr>
         </informaltable>
         <informaltable>
-            <tr><td colspan="0">Russian:</td></tr>
+          <tr><td colspan="2">Russian:</td></tr>
           <tr>
             <td><valsi>softo</valsi></td>
             <td>Soviet/USSR</td>
@@ -2979,7 +2979,7 @@ This section contains examples of making and scoring lujvo. First, we will start
           </tr>
         </informaltable>
         <informaltable>
-            <tr><td colspan="0">Arabic:</td></tr>
+          <tr><td colspan="2">Arabic:</td></tr>
           <tr>
             <td><valsi>filso</valsi></td>
             <td>Palestinian</td>
@@ -3022,7 +3022,7 @@ This section contains examples of making and scoring lujvo. First, we will start
           </tr>
         </informaltable>
         <informaltable>
-            <tr><td colspan="0">Bahasa Melayu/Bahasa Indonesia:</td></tr>
+          <tr><td colspan="2">Bahasa Melayu/Bahasa Indonesia:</td></tr>
           <tr>
             <td><valsi>bindo</valsi></td>
             <td>Indonesian</td>
@@ -3033,14 +3033,14 @@ This section contains examples of making and scoring lujvo. First, we will start
           </tr>
         </informaltable>
         <informaltable>
-            <tr><td colspan="0">Portuguese:</td></tr>
+          <tr><td colspan="2">Portuguese:</td></tr>
           <tr>
             <td><valsi>brazo</valsi></td>
             <td>Brazilian</td>
           </tr>
         </informaltable>
         <informaltable>
-            <tr><td colspan="0">Urdu:</td></tr>
+          <tr><td colspan="2">Urdu:</td></tr>
           <tr>
             <td><valsi>kisto</valsi></td>
             <td>Pakistani</td>

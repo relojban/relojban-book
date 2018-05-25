@@ -151,14 +151,12 @@
       <itemizedlist>
         <listitem><para xml:lang="zh"> 水果我最喜欢香蕉。</para></listitem>
         <listitem><para xml:lang="zh"> shuǐguǒ wǒ zuì xǐhuān xiāngjiāo </para></listitem>
-        <listitem><para>fruits I mostly like bananas</para></listitem>
+        <listitem><para>fruits: I mostly like bananas</para></listitem>
         <listitem><para>As for fruits I like bananas most.</para></listitem>
       </itemizedlist>
     </example>
-    <para role="indent">
-
- The colon in the first two versions of
-    <xref linkend="example-random-id-ovFJ"/> separate the topic (<quote>this news</quote>) from the comment (<quote>I know already</quote>).</para>
+    <para role="indent"> The colon in the first translation of
+    <xref linkend="example-random-id-ovFJ"/> separates the topic (<quote>fruits</quote>) from the comment (<quote>I mostly like bananas</quote>).</para>
     <para>Lojban uses the cmavo
     <valsi>zo'u</valsi> (of selma'o ZOhU) to separate topic (a sumti) from comment (a bridi):</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-p4ww">

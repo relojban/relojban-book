@@ -5,10 +5,10 @@
   <!ENTITY hellip "&#x02026;" ><!--HORIZONTAL ELLIPSIS -->
 ]>
 <chapter xml:id="chapter-connectives">
-  <title><anchor xml:id="c14"/>If Wishes Were Horses: The Lojban Connective System</title>
+  <title>If Wishes Were Horses: The Lojban Connective System</title>
 
   <section xml:id="section-connectives-introduction">
-    <title><anchor xml:id="c14s1"/>Logical connection and truth tables</title>
+    <title>Logical connection and truth tables</title>
 
     <para> <indexterm type="general"><primary>truth functions</primary></indexterm>  <indexterm type="general"><primary>logical language</primary><secondary>truth functions</secondary></indexterm> Lojban is a logical language: the name of the language itself means
 
@@ -20,7 +20,6 @@
     <quote>truth functions</quote>, which combine two sentences to create a new sentence. The truth functions have the special characteristic that the truth value (that is, the truth or falsehood) of the results depends only on the truth value of the component sentences. For example,</para>
     <example xml:id="example-random-id-mJ6y">
       <title>
-        <anchor xml:id="c14e1d1"/>
         <indexterm type="example"><primary>man or woman</primary></indexterm>
       </title>
       <para>John is a man or James is a woman.</para>
@@ -168,7 +167,7 @@
 
   </section>
   <section xml:id="section-four-basics">
-    <title><anchor xml:id="c14s2"/>The Four basic vowels</title>
+    <title>The Four basic vowels</title>
     <para> <indexterm type="general"><primary>logical connectives</primary><secondary>relation to truth functions</secondary></indexterm>  <indexterm type="general"><primary>truth functions</primary><secondary>relation to logical connectives</secondary></indexterm>  <indexterm type="general"><primary>truth functions</primary><secondary>fundamental 4 in Lojban</secondary></indexterm> Lojban regards four of these 16 truth functions as fundamental, and assigns them the four vowels
     <phrase role="logical-vowel">A</phrase>,
     <phrase role="logical-vowel">E</phrase>,
@@ -262,12 +261,11 @@
 
   </section>
   <section xml:id="section-six-types">
-    <title><anchor xml:id="c14s3"/>The six types of logical connectives</title>
+    <title>The six types of logical connectives</title>
     <para> <indexterm type="general"><primary>logical connectives</primary><secondary>rationale for multiple sets in grammar</secondary></indexterm> In order to remain unambiguous, Lojban cannot have only a single logical connective for each truth function. There are many places in the grammar of the language where logical connection is permitted, and each must have its appropriate set of connectives. If the connective suitable for sumti were used to connect selbri, ambiguity would result.</para>
     <para>Consider the English sentence:</para>
     <example xml:id="example-random-id-ptgf">
       <title>
-        <anchor xml:id="c14e3d1"/>
         <indexterm type="example"><primary>window</primary></indexterm>
       </title>
       <para>Mary went to the window and ...</para>
@@ -314,12 +312,11 @@
 
   </section>
   <section xml:id="section-bridi-connection">
-    <title><anchor xml:id="c14s4"/>Logical connection of bridi</title>
+    <title>Logical connection of bridi</title>
     <para> <indexterm type="general"><primary>bridi</primary><secondary>logical connective for</secondary></indexterm>  <indexterm type="general"><primary>ijek logical connectives</primary><secondary>connecting bridi</secondary></indexterm> Now we are ready to express
     <xref linkend="example-random-id-mJ6y"/> in Lojban! The kind of logical connective which is placed between two Lojban bridi to connect them logically is an ijek:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-h2hN">
       <title>
-        <anchor xml:id="c14e4d1"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djan. cu nanmu .ija la .djeimyz. cu ninmu</jbo>
@@ -334,7 +331,6 @@
     <valsi>i</valsi> portion of the ijek tells us that we are dealing with separate sentences here. Similarly, we can now say:</para>
     <example xml:id="example-random-id-qGiu" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c14e4d2"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djan. cu nanmu .ije la .djeimyz. cu ninmu</jbo>
@@ -343,7 +339,6 @@
     </example>
     <example xml:id="example-random-id-qGIu" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c14e4d3"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djan. cu nanmu .ijo la .djeimyz. cu ninmu</jbo>
@@ -352,7 +347,6 @@
     </example>
     <example xml:id="example-random-id-qgJC" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c14e4d4"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djan. cu nanmu .iju la .djeimyz. cu ninmu</jbo>
@@ -372,7 +366,6 @@
     <phrase role="logical-vowel">O</phrase> with either of the two bridi negated (not both), we can say either:</para>
     <example xml:id="example-random-id-qgKB" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c14e4d5"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djan. cu nanmu .inajo la .djeimyz. cu ninmu</jbo>
@@ -381,7 +374,6 @@
     </example>
     <example xml:id="example-random-id-qgLH" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c14e4d6"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djan. cu nanmu .ijonai la .djeimyz. cu ninmu</jbo>
@@ -393,14 +385,12 @@
     <xref linkend="example-random-id-qgLH"/> is the same as that of:</para>
     <example xml:id="example-random-id-1Kp9">
       <title>
-        <anchor xml:id="c14e4d7"/>
       </title>
       <para>John is a man or James is a woman, but not both.</para>
     </example>
     <para role="indent">Here is another example:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-FXSC">
       <title>
-        <anchor xml:id="c14e4d8"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djan. cu nanmu .ijanai la .djeimyz. cu ninmu</jbo>
@@ -423,7 +413,6 @@
     <xref linkend="example-random-id-EdY5"/>, however, is equally true:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-EdY5">
       <title>
-        <anchor xml:id="c14e4d9"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djan. cu ninmu .ijanai la .djeimyz. cu ninmu</jbo>
@@ -444,7 +433,6 @@
     <quote>only if</quote>.</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-9CCS">
       <title>
-        <anchor xml:id="c14e4d10"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djan. cu nanmu .inaja la .djeimyz. cu ninmu</jbo>
@@ -459,7 +447,6 @@
     <xref linkend="section-place-conversion"/>.</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-z43X">
       <title>
-        <anchor xml:id="c14e4d11"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djan. cu nanmu .iseju la .djeimyz. cu ninmu</jbo>
@@ -478,7 +465,7 @@
     <para>where the cmavo in brackets are optional.</para>
   </section>
   <section xml:id="section-forethought-bridi-connection">
-    <title><anchor xml:id="c14s5"/>Forethought bridi connection</title>
+    <title>Forethought bridi connection</title>
 
 
     <para> <indexterm type="general"><primary>forethought connectives</primary><secondary>contrasted with afterthought connectives</secondary></indexterm>  <indexterm type="general"><primary>afterthought connectives</primary><secondary>contrasted with forethought connectives</secondary></indexterm> Many concepts in Lojban are expressible in two different ways, generally referred to as
@@ -490,7 +477,6 @@
     <quote>afterthought</quote> is used because the connective cmavo and the second bridi were added, as it were, afterwards and without changing the form of the first bridi. This form might be used by someone who makes a statement and then wishes to add or qualify that statement after it has been completed. Thus,</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-dp8V">
       <title>
-        <anchor xml:id="c14e5d1"/>
       </title>
       <jbophrase>la .djan. cu nanmu</jbophrase>
     </example>
@@ -498,7 +484,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-7h3s">
       <title>
-        <anchor xml:id="c14e5d2"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djan. cu nanmu .ija la .djeimyz. cu ninmu</jbo>
@@ -510,7 +495,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-mYeS">
       <title>
-        <anchor xml:id="c14e5d3"/>
       </title>
       <interlinear-gloss>
         <jbo>ga la .djan. cu nanmu gi la .djeimyz. cu ninmu</jbo>
@@ -534,7 +518,6 @@
 
     <example xml:id="example-random-id-qGLh" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c14e5d4"/>
       </title>
       <interlinear-gloss>
         <jbo>ge la .djan. cu nanmu gi la .djeimyz. cu ninmu</jbo>
@@ -543,7 +526,6 @@
     </example>
     <example xml:id="example-random-id-qgMN" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c14e5d5"/>
       </title>
       <interlinear-gloss>
         <jbo>gu la .djan. cu nanmu gi la .djeimyz. cu ninmu</jbo>
@@ -559,7 +541,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-Xcg1">
       <title>
-        <anchor xml:id="c14e5d6"/>
       </title>
       <interlinear-gloss>
         <jbo>ganai la .djan. cu nanmu gi la .djeimyz. cu ninmu</jbo>
@@ -586,7 +567,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-TQP9">
       <title>
-        <anchor xml:id="c14e5d7"/>
       </title>
       <interlinear-gloss>
         <jbo>le nu do cidja dunda fi le xarju</jbo>
@@ -604,7 +584,6 @@
     <xref linkend="example-random-id-Tiz6"/> illustrates a truth function, FTTF, which needs to negate either the first or the second bridi. We already understand how to negate the first bridi:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-I2jU">
       <title>
-        <anchor xml:id="c14e5d8"/>
       </title>
       <interlinear-gloss>
         <jbo>gonai la .djan. cu nanmu gi la .djeimyz. cu ninmu</jbo>
@@ -617,7 +596,6 @@
     <valsi>gi</valsi>.</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Tiz6">
       <title>
-        <anchor xml:id="c14e5d9"/>
       </title>
       <interlinear-gloss>
         <jbo>go la .djan. cu nanmu ginai la .djeimyz. cu ninmu</jbo>
@@ -633,7 +611,6 @@
     <para>Further examples:</para>
     <example xml:id="example-random-id-qgmv" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c14e5d10"/>
       </title>
       <interlinear-gloss>
         <jbo>ge la .djan. cu nanmu ginai la .djeimyz. cu ninmu</jbo>
@@ -642,7 +619,6 @@
     </example>
     <example xml:id="example-random-id-qgMy" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c14e5d11"/>
       </title>
       <interlinear-gloss>
         <jbo>ganai la .djan. cu nanmu ginai la .djeimyz. cu ninmu</jbo>
@@ -662,12 +638,11 @@
     </grammar-template>
   </section>
   <section xml:id="section-sumti-connection">
-    <title><anchor xml:id="c14s6"/>sumti connection</title>
+    <title>sumti connection</title>
 
     <para> <indexterm type="general"><primary>bridi logical connection</primary><secondary>compared with sumti logical connections</secondary></indexterm>  <indexterm type="general"><primary>sumti logical connection</primary><secondary>compared with bridi logical connections</secondary></indexterm>  <indexterm type="general"><primary>sumti logical connection</primary><secondary>rationale for</secondary></indexterm>  <indexterm type="general"><primary>sumti logical connection</primary></indexterm> Geks and ijeks are sufficient to state every possible logical connection between two bridi. However, it is often the case that two bridi to be logically connected have one or more portions in common:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Ecnq">
       <title>
-        <anchor xml:id="c14e6d1"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djan. cu klama le zarci .ije la .alis. cu klama le zarci</jbo>
@@ -677,7 +652,6 @@
     <para role="indent">Here only a single sumti differs between the two bridi. Lojban does not require that both bridi be expressed in full. Instead, a single bridi can be given which contains both of the different sumti and uses a logical connective from a different selma'o to combine the two sumti:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-JTIm">
       <title>
-        <anchor xml:id="c14e6d2"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djan .e la .alis. cu klama le zarci</jbo>
@@ -692,7 +666,6 @@
     <xref linkend="example-random-id-JTIm"/>, the meaning would be changed:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-7KHA">
       <title>
-        <anchor xml:id="c14e6d3"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djan. -- .ije</jbo>
@@ -707,7 +680,6 @@
     <para>Any ek may be used between sumti, even if there is no direct English equivalent:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-BDLS">
       <title>
-        <anchor xml:id="c14e6d4"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djan. o la .alis. cu klama le zarci</jbo>
@@ -723,7 +695,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-YEa4">
       <title>
-        <anchor xml:id="c14e6d5"/>
       </title>
       <interlinear-gloss>
         <jbo>ga la .djan. gi la .alis. cu klama le zarci</jbo>
@@ -735,7 +706,6 @@
     <valsi>se</valsi> is part of an ek, a special writing convention is invoked, as in the following example:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-caoY">
       <title>
-        <anchor xml:id="c14e6d6"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djan. na.a la .alis. cu klama le zarci</jbo>
@@ -749,7 +719,7 @@
     <valsi>a</valsi> would tend to run together.</para>
   </section>
   <section xml:id="section-more-propositions">
-    <title><anchor xml:id="c14s7"/>More than two propositions</title>
+    <title>More than two propositions</title>
     <para> <indexterm type="general"><primary>logical connectives</primary><secondary>more than 2 sentences</secondary></indexterm> So far we have seen logical connectives used to connect exactly two sentences. How about connecting three or more? Is this possible in Lojban? The answer is yes, subject to some warnings and some restrictions.</para>
     <para> <indexterm type="general"><primary>logical connectives</primary><secondary>associative</secondary></indexterm> Of the four primitive truth functions
     <phrase role="logical-vowel">A</phrase>,
@@ -759,7 +729,6 @@
     <phrase role="logical-vowel">O</phrase> have the same truth values no matter how their component sentences are associated in pairs. Therefore,</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-9tHr">
       <title>
-        <anchor xml:id="c14e7d1"/>
       </title>
       <interlinear-gloss>
         <jbo>mi dotco .ije mi ricfu .ije mi nanmu</jbo>
@@ -769,7 +738,6 @@
     <para role="noindent">means that all three component sentences are true. Likewise,</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-MCsf">
       <title>
-        <anchor xml:id="c14e7d2"/>
       </title>
       <interlinear-gloss>
         <jbo>mi dotco .ija mi ricfu .ija mi nanmu</jbo>
@@ -782,7 +750,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-3zE1">
       <title>
-        <anchor xml:id="c14e7d3"/>
       </title>
       <interlinear-gloss>
         <jbo>mi dotco .ijo mi ricfu .ijo mi nanmu</jbo>
@@ -803,7 +770,6 @@
     <para>There is an additional difficulty with the use of more than two sentences. What is the meaning of: <indexterm type="general"><primary>logical connection of more than 2 sentences</primary><secondary>mixed &quot;and&quot; and &quot;or&quot;</secondary></indexterm></para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-mLo1">
       <title>
-        <anchor xml:id="c14e7d4"/>
       </title>
       <interlinear-gloss>
         <jbo>mi nelci la .djan. ije mi nelci la .martas.</jbo>
@@ -817,14 +783,12 @@
     <para role="indent">Does this mean:</para>
     <example xml:id="example-random-id-BSuT">
       <title>
-        <anchor xml:id="c14e7d5"/>
       </title>
       <para>I like John, and I like either Martha or Mary or both.</para>
     </example>
     <para role="indent">Or is the correct translation:</para>
     <example xml:id="example-random-id-dPcI">
       <title>
-        <anchor xml:id="c14e7d6"/>
       </title>
       <para>Either I like John and I like Martha, or I like Mary, or both.</para>
     </example>
@@ -833,7 +797,6 @@
     <xref linkend="example-random-id-mLo1"/>. The reason is that Lojban logical connectives pair off from the left, like many constructs in the language. This rule, called the left-grouping rule, is easy to forget, especially when intuition pulls the other way. Forethought connectives are not subject to this problem:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-487z">
       <title>
-        <anchor xml:id="c14e7d7"/>
       </title>
       <interlinear-gloss>
         <jbo>ga ge mi nelci la .djan.</jbo>
@@ -852,7 +815,6 @@
     <xref linkend="example-random-id-mLo1"/>, whereas</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-1Dd2">
       <title>
-        <anchor xml:id="c14e7d8"/>
       </title>
       <interlinear-gloss>
         <jbo>ge mi nelci la .djan.</jbo>
@@ -872,7 +834,7 @@
     <xref linkend="example-random-id-BSuT"/>.</para>
   </section>
   <section xml:id="section-afterthought-connectives-grouping">
-    <title><anchor xml:id="c14s8"/>Grouping of afterthought connectives</title>
+    <title>Grouping of afterthought connectives</title>
     <para> <indexterm type="general"><primary>bo</primary><secondary>in logical connectives</secondary></indexterm>  <indexterm type="general"><primary>logical connection</primary><secondary>with bo</secondary><tertiary>precedence</tertiary></indexterm>  <indexterm type="general"><primary>logical connectives</primary><secondary>grouping with bo</secondary></indexterm> There are several ways in Lojban to render
     <xref linkend="example-random-id-BSuT"/> using afterthought only. The simplest method is to make use of the cmavo
     <valsi>bo</valsi> (of selma'o BO). This cmavo has several functions in Lojban, but is always associated with high precedence and short scope. In particular, if
@@ -882,7 +844,6 @@
     <xref linkend="example-random-id-1Dd2"/>:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Uu7D">
       <title>
-        <anchor xml:id="c14e8d1"/>
       </title>
       <interlinear-gloss>
         <jbo>mi nelci la .djan. ije mi nelci la .martas.</jbo>
@@ -905,7 +866,6 @@
     <xref linkend="example-random-id-JVhK"/> is equivalent in meaning to <xref linkend="example-random-id-Uu7D"/>:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-JVhK">
       <title>
-        <anchor xml:id="c14e8d2"/>
       </title>
       <jbophrase>mi nelci la .djan. e la .martas. abo la .meris.</jbophrase>
     </example>
@@ -917,7 +877,6 @@
     <xref linkend="example-random-id-YJeE"/>?</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-YJeE">
       <title>
-        <anchor xml:id="c14e8d3"/>
       </title>
       <jbophrase>mi nelci la .djan. ebo la .martas. abo la .meris.</jbophrase>
     </example>
@@ -942,7 +901,6 @@
     <valsi>ke'e</valsi> are also used in other roles in the language, but always as grouping markers). Consider the English sentence:</para>
     <example xml:id="example-random-id-aqIg">
       <title>
-        <anchor xml:id="c14e8d4"/>
       </title>
       <para>I kiss you and you kiss me, if I love you and you love me.</para>
     </example>
@@ -952,7 +910,6 @@
     <xref linkend="example-random-id-aqIg"/> in afterthought, we can say:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-1PSK">
       <title>
-        <anchor xml:id="c14e8d5"/>
       </title>
       <interlinear-gloss>
         <jbo>mi cinba do .ije[bo] do cinba mi</jbo>
@@ -969,7 +926,6 @@
     <para> <indexterm type="general"><primary>complex logical connectives</primary><secondary>grouping with parentheses</secondary></indexterm> But it may be clearer to use explicit parenthesis words and say:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-erTb">
       <title>
-        <anchor xml:id="c14e8d6"/>
       </title>
       <interlinear-gloss>
         <jbo>tu'e mi cinba do .ije do cinba mi tu'u</jbo>
@@ -990,7 +946,6 @@
     <valsi>tu'e</valsi>&hellip;<valsi>tu'u</valsi> parentheses may actually be left off altogether, producing:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-QGBz">
       <title>
-        <anchor xml:id="c14e8d7"/>
       </title>
       <interlinear-gloss>
         <jbo>mi cinba do .ije do cinba mi</jbo>
@@ -1005,7 +960,6 @@
 
     <example xml:id="example-random-id-y9CC">
       <title>
-        <anchor xml:id="c14e8d8"/>
       </title>
       <para>I walk to either the market and the house, or the school and the office.</para>
     </example>
@@ -1016,7 +970,6 @@
     <xref linkend="example-random-id-QGBz"/>:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-0mJM">
       <title>
-        <anchor xml:id="c14e8d9"/>
       </title>
       <interlinear-gloss>
         <jbo>mi dzukla le zarci .e le zdani</jbo>
@@ -1040,7 +993,6 @@
     <quote>I am German, rich, and a man &ndash; or else none of these.</quote> The following paraphrase has the correct meaning:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-KyHw">
       <title>
-        <anchor xml:id="c14e8d10"/>
         <indexterm type="example"><primary>German rich man</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -1056,7 +1008,7 @@
 
   </section>
   <section xml:id="section-compound-bridi">
-    <title><anchor xml:id="c14s9"/>Compound bridi</title>
+    <title>Compound bridi</title>
     <para> <indexterm type="general"><primary>logical connection</primary><secondary>of selbri</secondary></indexterm> So far we have seen how to handle two sentences that need have no similarity at all (bridi connection) and sentences that are identical except for a difference in one sumti (sumti connection). It would seem natural to ask how to logically connect sentences that are identical except for having different selbri.</para>
 
 
@@ -1067,7 +1019,6 @@
     <para> <indexterm type="general"><primary>compound bridi</primary><secondary>one sumti in common</secondary></indexterm> The simplest cases result when the x1 sumti is the only common point:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-WebJ">
       <title>
-        <anchor xml:id="c14e9d1"/>
       </title>
       <interlinear-gloss>
         <jbo>mi klama le zarci .ije mi nelci la .djan.</jbo>
@@ -1078,7 +1029,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-9H9e">
       <title>
-        <anchor xml:id="c14e9d2"/>
       </title>
       <interlinear-gloss>
         <jbo>mi klama le zarci gi'e nelci la .djan.</jbo>
@@ -1097,7 +1047,6 @@
     <quote>tail end</quote> of a bridi, including the selbri and any following sumti, but excluding any sumti that precede the selbri:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-F3RE">
       <title>
-        <anchor xml:id="c14e9d3"/>
       </title>
       <interlinear-gloss>
         <jbo>mi ricfu gi'e klama le zarci</jbo>
@@ -1111,7 +1060,6 @@
     <para> <indexterm type="general"><primary>compound bridi</primary><secondary>more than one sumti in common</secondary></indexterm> Suppose that more than a single sumti is identical between the two sentences:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-PRxj">
       <title>
-        <anchor xml:id="c14e9d4"/>
       </title>
       <interlinear-gloss>
         <jbo>mi dunda le cukta do .ije mi lebna lo rupnu do</jbo>
@@ -1123,7 +1071,6 @@
     <xref linkend="example-random-id-9H9e"/> can be achieved:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Evo4">
       <title>
-        <anchor xml:id="c14e9d5"/>
       </title>
       <interlinear-gloss>
         <jbo>fi do fa mi dunda le cukta</jbo>
@@ -1142,7 +1089,6 @@
     <xref linkend="example-random-id-PRxj"/> therefore is:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-DYBN">
       <title>
-        <anchor xml:id="c14e9d6"/>
       </title>
       <interlinear-gloss>
         <jbo>mi dunda le cukta gi'e lebna lo rupnu vau do</jbo>
@@ -1156,7 +1102,6 @@
     <valsi>vau</valsi>. Thus:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-L3eN">
       <title>
-        <anchor xml:id="c14e9d7"/>
       </title>
       <interlinear-gloss>
         <jbo>mi klama le zarci [vau]</jbo>
@@ -1168,7 +1113,6 @@
     <xref linkend="example-random-id-9H9e"/> is equivalent to:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-RfIR">
       <title>
-        <anchor xml:id="c14e9d8"/>
       </title>
       <jbophrase>mi klama le zarci [vau] gi'e nelci la .djan. [vau] [vau]</jbophrase>
     </example>
@@ -1180,7 +1124,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-rvUD">
       <title>
-        <anchor xml:id="c14e9d9"/>
       </title>
       <interlinear-gloss>
         <jbo>klama le zarci gi'e dzukla le briju</jbo>
@@ -1193,7 +1136,6 @@
     <para> A strong argument for this convention is provided by analysis of the following example:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-cBrg">
       <title>
-        <anchor xml:id="c14e9d10"/>
       </title>
       <interlinear-gloss>
         <jbo>klama la .nuIORK.</jbo>
@@ -1217,7 +1159,6 @@
     <quote>something</quote>, into the x1 place cures the problem:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-ij9G">
       <title>
-        <anchor xml:id="c14e9d11"/>
       </title>
       <interlinear-gloss>
         <jbo>da klama la .nuIORK. la .finyks.</jbo>
@@ -1236,13 +1177,12 @@
     <para>which is exactly parallel to the syntax of eks.</para>
   </section>
   <section xml:id="section-multiple-compound-bridi">
-    <title><anchor xml:id="c14s10"/>Multiple compound bridi</title>
+    <title>Multiple compound bridi</title>
 
     <para> <indexterm type="general"><primary>compound bridi</primary><secondary>multiple with bo</secondary></indexterm> Giheks can be combined with
     <valsi>bo</valsi> in the same way as eks:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-DpCN">
       <title>
-        <anchor xml:id="c14e10d1"/>
       </title>
       <interlinear-gloss>
         <jbo>mi nelci la .djan. gi'e nelci la .martas. gi'abo nelci la .meris.</jbo>
@@ -1256,7 +1196,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-rH4n">
       <title>
-        <anchor xml:id="c14e10d2"/>
       </title>
       <interlinear-gloss>
         <jbo>mi dzukla le zarci</jbo>
@@ -1283,7 +1222,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-1asY">
       <title>
-        <anchor xml:id="c14e10d3"/>
         <indexterm type="example"><primary>owe money</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -1302,7 +1240,6 @@
     <para role="noindent">is equivalent in meaning to:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-901t">
       <title>
-        <anchor xml:id="c14e10d4"/>
       </title>
       <interlinear-gloss>
         <jbo>- mi dejni lo rupnu nagi'a dunda</jbo>
@@ -1328,7 +1265,6 @@
     <xref linkend="example-random-id-Evo4"/>:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-7NnV">
       <title>
-        <anchor xml:id="c14e10d5"/>
       </title>
       <interlinear-gloss>
         <jbo>fi la .djan. - fa mi dejni lo rupnu</jbo>
@@ -1342,7 +1278,6 @@
     <para role="indent"> <indexterm type="general"><primary>logical connection</primary><secondary>of bridi-tails</secondary><tertiary>forethought</tertiary></indexterm> Finally, what about forethought logical connection of bridi-tails? There is no direct mechanism for the purpose. Instead, Lojban grammar allows a pair of forethought-connected sentences to function as a single bridi-tail, and of course the sentences need not have terms before their selbri. For example:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-4gJC">
       <title>
-        <anchor xml:id="c14e10d6"/>
       </title>
       <interlinear-gloss>
         <jbo>mi ge klama le zarci gi nelci la .djan.</jbo>
@@ -1355,7 +1290,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-mInd">
       <title>
-        <anchor xml:id="c14e10d7"/>
       </title>
       <interlinear-gloss>
         <jbo>mi ge klama le zarci gi'e dzukla le zdani</jbo>
@@ -1370,7 +1304,6 @@
     <valsi>na</valsi>:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-DzgI">
       <title>
-        <anchor xml:id="c14e10d8"/>
       </title>
       <interlinear-gloss>
         <jbo>- mi na ge klama le zarci gi dzukla le zdani</jbo>
@@ -1381,7 +1314,6 @@
     <xref linkend="example-random-id-DYBN"/> is:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-BUsi">
       <title>
-        <anchor xml:id="c14e10d9"/>
       </title>
       <interlinear-gloss>
         <jbo>mi ge dunda le cukta</jbo>
@@ -1397,7 +1329,6 @@
     <xref linkend="example-random-id-rvUD"/>:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-C5Wc">
       <title>
-        <anchor xml:id="c14e10d10"/>
       </title>
       <interlinear-gloss>
         <jbo>ge klama le zarci gi dzukla le briju</jbo>
@@ -1407,7 +1338,6 @@
     <para role="indent">Finally, here is an example of gek-connected sentences with both shared and unshared terms before their selbri:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-eJyK">
       <title>
-        <anchor xml:id="c14e10d11"/>
       </title>
       <interlinear-gloss>
         <jbo>mi gonai le zarci cu klama gi le bisli cu dansu</jbo>
@@ -1417,14 +1347,13 @@
     </example>
   </section>
   <section xml:id="section-termsets">
-    <title><anchor xml:id="c14s11"/>Termset logical connection</title>
+    <title>Termset logical connection</title>
     <para>So far we have seen sentences that differ in all components, and require bridi connection; sentences that differ in one sumti only, and permit sumti connection; and sentences that differ in the selbri and possibly one or more sumti, and permit bridi-tail connection. Termset logical connectives are employed for sentences that differ in more than one sumti but not in the selbri, such as:</para>
 
 
 
     <example xml:id="example-random-id-G02C">
       <title>
-        <anchor xml:id="c14e11d1"/>
       </title>
       <para>I go to the market from the office and to the house from the school.</para>
 
@@ -1442,7 +1371,6 @@
     <quote>pehejek</quote>, I suppose.)</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-UVPj">
       <title>
-        <anchor xml:id="c14e11d2"/>
 <indexterm type="general"><primary>to the market from the office</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -1459,7 +1387,6 @@
     <quote>[joint]</quote> to indicate the position of the logical connective joint. As usual, there is an equivalent bridi-connection form:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Bp2v">
       <title>
-        <anchor xml:id="c14e11d3"/>
       </title>
       <interlinear-gloss>
         <jbo>mi klama le zarci le briju</jbo>
@@ -1476,7 +1403,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-yYsr">
       <title>
-        <anchor xml:id="c14e11d4"/>
       </title>
       <interlinear-gloss>
         <jbo>mi pe'e ja do ce'e le zarci cu klama le briju</jbo>
@@ -1486,7 +1412,6 @@
     <para role="noindent">can be clearly understood by expansion to:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-NIuS">
       <title>
-        <anchor xml:id="c14e11d5"/>
       </title>
       <interlinear-gloss>
         <jbo>mi klama le briju .ija do le zarci cu klama</jbo>
@@ -1506,7 +1431,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-zsiy">
       <title>
-        <anchor xml:id="c14e11d6"/>
       </title>
       <interlinear-gloss>
         <jbo>mi -- klama le zarci gi'e dzukla vau le briju</jbo>
@@ -1525,7 +1449,6 @@
     <valsi>nu'u</valsi> just before the gik:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-KeLv">
       <title>
-        <anchor xml:id="c14e11d7"/>
       </title>
       <interlinear-gloss>
         <jbo>mi klama nu'i ge le zarci le briju</jbo>
@@ -1544,7 +1467,7 @@
     <xref linkend="section-quantifier-grouping"/>.</para>
   </section>
   <section xml:id="section-tanru">
-    <title><anchor xml:id="c14s12"/>Logical connection within tanru</title>
+    <title>Logical connection within tanru</title>
     <para> <indexterm type="general"><primary>logical connectives in tanru</primary></indexterm> As noted at the beginning of
     <xref linkend="section-compound-bridi"/>, there is no logical connective in Lojban that joins selbri and nothing but selbri. However, it is possible to have logical connectives within a selbri, forming a kind of tanru that involves a logical connection. Consider the simple tanru
     <jbophrase>blanu zdani</jbophrase>, blue house. Now anything that is a blue ball, in the most ordinary understanding of the phrase at least, is both blue and a ball. And indeed, instead of
@@ -1555,7 +1478,6 @@
 
     <example xml:id="example-random-id-qGoH" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c14e12d1"/>
         <indexterm type="example"><primary>blue house</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -1565,7 +1487,6 @@
     </example>
     <example xml:id="example-random-id-qgoW" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c14e12d2"/>
         <indexterm type="example"><primary>blue house</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -1582,7 +1503,6 @@
     <xref linkend="example-random-id-qGoH"/> might just as well mean</para>
     <example xml:id="example-random-id-DxVB">
       <title>
-        <anchor xml:id="c14e12d3"/>
       </title>
       <para>This is a house for blue inhabitants.</para>
     </example>
@@ -1593,14 +1513,12 @@
     <xref linkend="example-random-id-qgoW"/> happens to mean the same as</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-XXX6">
       <title>
-        <anchor xml:id="c14e12d4"/>
       </title>
       <jbophrase>ti blanu gi'e zdani</jbophrase>
     </example>
     <para role="noindent">and therefore as</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-HqYS">
       <title>
-        <anchor xml:id="c14e12d5"/>
       </title>
       <jbophrase>ti blanu .ije ti zdani</jbophrase>
     </example>
@@ -1608,7 +1526,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-DG5K">
       <title>
-        <anchor xml:id="c14e12d6"/>
       </title>
       <interlinear-gloss>
         <jbo>la .alis. cu - blanu je zdani - prenu</jbo>
@@ -1623,7 +1540,6 @@
     would be true, because tanru grouping with a jek has higher precedence than unmarked tanru grouping, but:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-eh2i">
       <title>
-        <anchor xml:id="c14e12d7"/>
       </title>
       <interlinear-gloss>
         <jbo>la .alis. cu - blanu prenu</jbo>
@@ -1642,7 +1558,6 @@
     <valsi>bo</valsi> may be appended to jeks as to eks, with the same rules:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-RNMY">
       <title>
-        <anchor xml:id="c14e12d8"/>
       </title>
       <interlinear-gloss>
         <jbo>la .teris. cu ricfu je nakni jabo fetsi</jbo>
@@ -1654,7 +1569,6 @@
     <valsi>ke</valsi> both before and after a logical connective:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-JdID">
       <title>
-        <anchor xml:id="c14e12d9"/>
       </title>
       <interlinear-gloss>
         <jbo>la .teris. cu [ke] ricfu ja pindi [ke'e]</jbo>
@@ -1683,7 +1597,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-mjog">
       <title>
-        <anchor xml:id="c14e12d10"/>
       </title>
       <interlinear-gloss>
         <jbo>la .alis. cu gu'e ricfu gi fetsi</jbo>
@@ -1696,7 +1609,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-Gyrc">
       <title>
-        <anchor xml:id="c14e12d11"/>
       </title>
       <interlinear-gloss>
         <jbo>la .alis. cu gu'e blanu gi zdani prenu</jbo>
@@ -1708,7 +1620,6 @@
     <para> <indexterm type="general"><primary>sumti logical connection</primary><secondary>contrasted with tanru logical connection</secondary></indexterm>  <indexterm type="general"><primary>tanru logical connection</primary><secondary>contrasted with sumti logical connection</secondary></indexterm>  <indexterm type="general"><primary>tanru</primary><secondary>reducing logically connected sumti to</secondary><tertiary>caveat</tertiary></indexterm>  <indexterm type="general"><primary>logical connection</primary><secondary>of tanru</secondary><tertiary>caveat</tertiary></indexterm> A word of caution about the use of logically connected tanru within descriptions. English-based intuition can lead the speaker astray. In correctly reducing</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-8wbd">
       <title>
-        <anchor xml:id="c14e12d12"/>
       </title>
       <interlinear-gloss>
         <jbo>mi viska pa nanmu .ije mi viska pa ninmu</jbo>
@@ -1718,7 +1629,6 @@
     <para role="noindent">to</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-qf3n">
       <title>
-        <anchor xml:id="c14e12d13"/>
       </title>
       <interlinear-gloss>
         <jbo>mi viska pa nanmu .e pa ninmu</jbo>
@@ -1728,7 +1638,6 @@
     <para role="noindent">there is a great temptation to reduce further to:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-ag8r">
       <title>
-        <anchor xml:id="c14e12d14"/>
         <indexterm type="example"><primary>man-woman</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -1743,7 +1652,7 @@
     <valsi>ninmu</valsi>.</para>
   </section>
   <section xml:id="section-truth-and-connective-questions">
-    <title><anchor xml:id="c14s13"/>Truth questions and connective questions</title>
+    <title>Truth questions and connective questions</title>
 
     <para>So far we have addressed only sentences which are statements. Lojban, like all human languages, needs also to deal with sentences which are questions. There are many ways of asking questions in Lojban, but some of these (like questions about quantity, tense, and emotion) are discussed in other chapters.</para>
     <para> <indexterm type="general"><primary>truth questions</primary><secondary>simple</secondary></indexterm> The simplest kind of question is of the type
@@ -1752,7 +1661,6 @@
     <xref linkend="example-random-id-bMjE"/>:</para>
     <example xml:id="example-random-id-bMjE">
       <title>
-        <anchor xml:id="c14e13d1"/>
       </title>
       <para>Is it true that Fido is a dog?</para>
       <para>Is Fido a dog?</para>
@@ -1764,7 +1672,6 @@
     <valsi>xu</valsi> (of selma'o UI) to the statement:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-gKaM">
       <title>
-        <anchor xml:id="c14e13d2"/>
       </title>
       <interlinear-gloss>
         <jbo>xu la .faidon. cu gerku</jbo>
@@ -1786,7 +1693,6 @@
     <xref linkend="example-random-id-gKaM"/>, the possible answers are:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-XSmq">
       <title>
-        <anchor xml:id="c14e13d3"/>
       </title>
       <interlinear-gloss>
         <jbo>go'i</jbo>
@@ -1796,7 +1702,6 @@
     <para role="noindent">and</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-WI3P">
       <title>
-        <anchor xml:id="c14e13d4"/>
       </title>
       <interlinear-gloss>
         <jbo>nago'i</jbo>
@@ -1807,7 +1712,6 @@
     <para role="indent"> <indexterm type="general"><primary>truth questions</primary><secondary>contrasted with connection questions</secondary></indexterm> Some English questions seemingly have the same form as the truth questions so far discussed. Consider</para>
     <example xml:id="example-random-id-mftC">
       <title>
-        <anchor xml:id="c14e13d5"/>
         <indexterm type="example"><primary>dog or cat</primary></indexterm>
       </title>
       <para>Is Fido a dog or a cat?</para>
@@ -1816,7 +1720,6 @@
     <xref linkend="example-random-id-mftC"/> seems like a truth question with the underlying statement:</para>
     <example xml:id="example-random-id-n6Ec">
       <title>
-        <anchor xml:id="c14e13d6"/>
         <indexterm type="example"><primary>dog or cat</primary></indexterm>
       </title>
       <para>Fido is a dog or a cat.</para>
@@ -1826,7 +1729,6 @@
     <valsi>xu</valsi> to signal a truth question, we get:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-hz4S">
       <title>
-        <anchor xml:id="c14e13d7"/>
         <indexterm type="example"><primary>dog or cat</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -1883,7 +1785,6 @@
     <xref linkend="example-random-id-mftC"/> employs a question gihek:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-G1Xs">
       <title>
-        <anchor xml:id="c14e13d8"/>
       </title>
       <interlinear-gloss>
         <jbo>la .alis. cu gerku gi'i mlatu</jbo>
@@ -1893,7 +1794,6 @@
     <para role="indent">Here are some plausible answers:</para>
     <example xml:id="example-random-id-qGPp" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c14e13d9"/>
       </title>
       <interlinear-gloss>
         <jbo>nagi'e</jbo>
@@ -1902,7 +1802,6 @@
     </example>
     <example xml:id="example-random-id-qGPq" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c14e13d10"/>
       </title>
       <interlinear-gloss>
         <jbo>gi'enai</jbo>
@@ -1911,7 +1810,6 @@
     </example>
     <example xml:id="example-random-id-qgrw" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c14e13d11"/>
       </title>
       <interlinear-gloss>
         <jbo>nagi'enai</jbo>
@@ -1920,7 +1818,6 @@
     </example>
     <example xml:id="example-random-id-qGRz" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c14e13d12"/>
       </title>
       <interlinear-gloss>
         <jbo>nagi'o</jbo>
@@ -1936,7 +1833,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-xtIf">
       <title>
-        <anchor xml:id="c14e13d13"/>
         <indexterm type="example"><primary>coffee or tea</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -1961,7 +1857,6 @@
     <xref linkend="example-random-id-xtIf"/>:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-286J">
       <title>
-        <anchor xml:id="c14e13d14"/>
       </title>
       <interlinear-gloss>
         <jbo>do djica tu'a ge'i loi ckafi</jbo>
@@ -1976,7 +1871,6 @@
     <para> <indexterm type="general"><primary>connective questions</primary><secondary>compared with other languages</secondary></indexterm> There are natural languages, notably Chinese, which employ the Lojbanic form of connective question. The Chinese sentence</para>
     <example xml:id="example-random-id-HyVv">
       <title>
-        <anchor xml:id="c14e13d15"/>
       </title>
       <simplelist>
         <member><foreignphrase xml:lang="zh">ni<superscript>3</superscript> zou<superscript>3</superscript> hai<superscript>2</superscript>shi pao<superscript>3</superscript></foreignphrase></member>
@@ -1987,7 +1881,6 @@
     <quote>Do you walk or run?</quote>, and is exactly parallel to the Lojban:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-3jIq">
       <title>
-        <anchor xml:id="c14e13d16"/>
       </title>
       <interlinear-gloss>
         <jbo>do cadzu gi'i bajra</jbo>
@@ -2008,7 +1901,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-BPv0">
       <title>
-        <anchor xml:id="c14e13d17"/>
         <indexterm type="example"><primary>if coffee</primary><secondary>bring tea</secondary></indexterm>
         <indexterm type="example"><primary>Abraham Lincoln</primary></indexterm>
       </title>
@@ -2032,7 +1924,7 @@
     <valsi>.i</valsi><valsi>je</valsi>.)</para>
   </section>
   <section xml:id="section-non-logical-connectives">
-    <title><anchor xml:id="c14s14"/>Non-logical connectives</title>
+    <title>Non-logical connectives</title>
     <para> <indexterm type="general"><primary>and</primary><secondary>as non-logical connective</secondary></indexterm> Way back in
     <xref linkend="section-connectives-introduction"/>, the point was made that not every use of English
     <quote>and</quote>,
@@ -2041,7 +1933,6 @@
     <quote>and</quote> of:</para>
     <example xml:id="example-random-id-x6JW">
       <title>
-        <anchor xml:id="c14e14d1"/>
         <indexterm type="example"><primary>carried piano</primary></indexterm>
       </title>
       <para>John and Alice carried the piano.</para>
@@ -2052,7 +1943,6 @@
   <indexterm type="general"><primary>mass</primary><secondary>joining elements into a</secondary></indexterm> Given the nature of pianos, this probably means that John carried one end and Alice the other. So it is not true that:</para>
     <example xml:id="example-random-id-58yv">
       <title>
-        <anchor xml:id="c14e14d2"/>
       </title>
       <para>John carried the piano, and Alice carried the piano.</para>
     </example>
@@ -2061,7 +1951,6 @@
     <valsi>joi</valsi> (of selma'o JOI) is used to join two or more components into a mass:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-pC5x">
       <title>
-        <anchor xml:id="c14e14d3"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djan. joi la .alis. cu bevri le pipno</jbo>
@@ -2077,7 +1966,6 @@
     <valsi>joi</valsi> can appear between two sumti (like an ek) or between two tanru components (like a jek). This flexibility must be paid for in the form of occasional terminators that cannot be elided:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-NN93">
       <title>
-        <anchor xml:id="c14e14d4"/>
     <indexterm type="general"><primary>terminators</primary><secondary>eliding ku in non-logical connections</secondary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2101,7 +1989,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-Xxp2">
       <title>
-        <anchor xml:id="c14e14d5"/>
         <indexterm type="example"><primary>blue and red</primary></indexterm>
         <indexterm type="example"><primary>mixed with</primary></indexterm>
       </title>
@@ -2166,7 +2053,6 @@
     <valsi>se</valsi> is grammatical before any JOI cmavo, but only useful with those that have inherent order. Here are some examples of joiks:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-cwG8">
       <title>
-        <anchor xml:id="c14e14d6"/>
         <indexterm type="example"><primary>choose from</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2190,7 +2076,6 @@
     <valsi>ce</valsi> joining them.</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Emw0">
       <title>
-        <anchor xml:id="c14e14d7"/>
         <indexterm type="example"><primary>list</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2218,7 +2103,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-sy2V">
       <title>
-        <anchor xml:id="c14e14d8"/>
         <indexterm type="example"><primary>brothers</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2235,7 +2119,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-1PHN">
       <title>
-        <anchor xml:id="c14e14d9"/>
         <indexterm type="example"><primary>brothers</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2250,7 +2133,6 @@
     <xref linkend="example-random-id-sy2V"/> is preserved:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-gnwy">
       <title>
-        <anchor xml:id="c14e14d10"/>
         <indexterm type="example"><primary>brothers</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2268,7 +2150,6 @@
     <valsi>re</valsi><valsi>mei</valsi> is a mass with two components, leading to:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-t0FJ">
       <title>
-        <anchor xml:id="c14e14d11"/>
         <indexterm type="example"><primary>brothers</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2290,7 +2171,6 @@
     <valsi>fa'u</valsi> somewhere else in the same bridi:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-MBsp">
       <title>
-        <anchor xml:id="c14e14d12"/>
         <indexterm type="example"><primary>respectively</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2310,7 +2190,6 @@
     <valsi>e</valsi>, we would get:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-7bv3">
       <title>
-        <anchor xml:id="c14e14d13"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djeimyz. e la .djordj. cu prami</jbo>
@@ -2324,7 +2203,6 @@
     <para role="noindent">which can be transformed to four bridi:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-I3gH">
       <title>
-        <anchor xml:id="c14e14d14"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djeimyz. cu prami la .meris. ije la .djordj. cu prami</jbo>
@@ -2344,7 +2222,6 @@
     <xref linkend="example-random-id-MBsp"/> can also be conveyed by a termset:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-nER7">
       <title>
-        <anchor xml:id="c14e14d15"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djeimyz. ce'e la .meris. pe'e</jbo>
@@ -2359,7 +2236,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-1r61">
       <title>
-        <anchor xml:id="c14e14d16"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djeimyz. fa'u la .djordj. cu prami re mensi</jbo>
@@ -2369,7 +2245,7 @@
     <para role="noindent">which conveys that James loves one sister and George the other, though we are not able to tell which of the sisters is which.</para>
   </section>
   <section xml:id="section-non-logical-continued">
-    <title><anchor xml:id="c14s15"/>More about non-logical connectives</title>
+    <title>More about non-logical connectives</title>
     <para> <indexterm type="general"><primary>cross-product</primary><secondary>of sets</secondary></indexterm>  <indexterm type="general"><primary>intersection</primary><secondary>of sets</secondary></indexterm>  <indexterm type="general"><primary>union</primary><secondary>of sets</secondary></indexterm>  <indexterm type="general"><primary>set operations</primary></indexterm> The final three JOI cmavo,
     <valsi>jo'e</valsi>,
 
@@ -2390,7 +2266,6 @@
 
     <example xml:id="example-random-id-qGSA" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c14e15d1"/>
         <indexterm type="example"><primary>rich and German</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2400,7 +2275,6 @@
     </example>
     <example xml:id="example-random-id-qgSe" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c14e15d2"/>
         <indexterm type="example"><primary>rich and German</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2416,7 +2290,6 @@
     <xref linkend="example-random-id-qgSe"/> equivalent respectively to:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-azCQ">
       <title>
-        <anchor xml:id="c14e15d3"/>
       </title>
       <interlinear-gloss>
         <jbo>lo'i ricfu ja dotco cu barda</jbo>
@@ -2426,7 +2299,6 @@
     <para role="noindent">and</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-QjD7">
       <title>
-        <anchor xml:id="c14e15d4"/>
       </title>
       <interlinear-gloss>
         <jbo>lo'i ricfu je dotco cu cmalu</jbo>
@@ -2437,7 +2309,6 @@
     <jbophrase>se remei</jbophrase>, which is a set (not a mass) of two elements:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-D9gz">
       <title>
-        <anchor xml:id="c14e15d5"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djeimyz. ce[bo] la .djordj. pi'u</jbo>
@@ -2455,7 +2326,6 @@
     <valsi>ke</valsi> in the same way as eks and jeks; this allows grouping of non-logical connections between sumti and tanru units, in complete parallelism with logical connections:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-mwpo">
       <title>
-        <anchor xml:id="c14e15d6"/>
       </title>
       <interlinear-gloss>
         <jbo>mi joibo do ce la .djan. joibo la .djein.</jbo>
@@ -2474,7 +2344,6 @@
     <para>so the x1 place must be occupied by a mass (for reasons not explained here); however, different components of the mass may discuss in different languages. To associate each participant with his or her language, we can say:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-sdba">
       <title>
-        <anchor xml:id="c14e15d7"/>
         <indexterm type="example"><primary>discuss in language</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2491,7 +2360,6 @@
     <xref linkend="example-random-id-sdba"/> is:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-DgXI">
       <title>
-        <anchor xml:id="c14e15d8"/>
       </title>
       <jbophrase>nu'i joigi mi bau la .lojban. gi do bau la .gliban. nu'u casnu</jbophrase>
     </example>
@@ -2499,7 +2367,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-wVSG">
       <title>
-        <anchor xml:id="c14e15d9"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djan. fa'u la .frank. cu cusku</jbo>
@@ -2529,7 +2396,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-27xU">
       <title>
-        <anchor xml:id="c14e15d10"/>
         <indexterm type="example"><primary>list of things to do</primary></indexterm>
         <indexterm type="example"><primary>to-do list</primary></indexterm>
       </title>
@@ -2569,7 +2435,6 @@
     <valsi>nai</valsi>, if present, does not negate either of the things to be connected, but instead specifies that some other connection (logical or non-logical) is applicable: it is a scalar negation:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-mMdb">
       <title>
-        <anchor xml:id="c14e15d11"/>
       </title>
       <interlinear-gloss>
         <jbo>mi jo'u nai do cu remei</jbo>
@@ -2585,7 +2450,6 @@
     <para> <indexterm type="general"><primary>connective answers</primary><secondary>non-logical</secondary></indexterm>  <indexterm type="general"><primary>connective questions</primary><secondary>non-logical</secondary></indexterm> There is no joik question cmavo as such; however, joiks and ijoiks may be uttered in isolation in response to a logical connective question, as in the following exchange:</para>
     <example xml:id="example-random-id-qGSm" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c14e15d12"/>
       </title>
       <interlinear-gloss>
         <jbo>do djica tu'a loi ckafi</jbo>
@@ -2599,7 +2463,6 @@
     </example>
     <example xml:id="example-random-id-qgsp" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c14e15d13"/>
         <indexterm type="example"><primary>ugh</primary></indexterm>
         <indexterm type="example"><primary>coffee mixed with tea</primary></indexterm>
       </title>
@@ -2615,7 +2478,7 @@
 Ugh. (Or in Lojban: <valsi>.a'u</valsi><valsi>nai</valsi><valsi>sai</valsi><valsi>ro'o</valsi>.)</para>
   </section>
   <section xml:id="section-non-logical-continued-continued">
-    <title><anchor xml:id="c14s16"/>Interval connectives and forethought non-logical connection</title>
+    <title>Interval connectives and forethought non-logical connection</title>
 
     <para> <indexterm type="general"><primary>intervals</primary><secondary>expressed as endpoints</secondary></indexterm>  <indexterm type="general"><primary>non-logical connectives</primary><secondary>intervals</secondary></indexterm> In addition to the non-logical connectives of selma'o JOI explained in
     <xref linkend="section-non-logical-connectives"/> and
@@ -2633,7 +2496,6 @@ Ugh. (Or in Lojban: <valsi>.a'u</valsi><valsi>nai</valsi><valsi>sai</valsi><vals
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-sHhA">
       <title>
-        <anchor xml:id="c14e16d1"/>
         <indexterm type="example"><primary>between Dresden and Frankfurt</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2659,7 +2521,6 @@ Ugh. (Or in Lojban: <valsi>.a'u</valsi><valsi>nai</valsi><valsi>sai</valsi><vals
     <valsi>sanli</valsi> specifies a surface which is typically larger in extent than just the size of the stander's feet.)</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-rYv4">
       <title>
-        <anchor xml:id="c14e16d2"/>
         <indexterm type="example"><primary>from one to two o'clock</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2683,7 +2544,6 @@ Ugh. (Or in Lojban: <valsi>.a'u</valsi><valsi>nai</valsi><valsi>sai</valsi><vals
     <xref linkend="example-random-id-rYv4"/> is equivalent to:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-qqIr">
       <title>
-        <anchor xml:id="c14e16d3"/>
       </title>
       <interlinear-gloss>
         <jbo>mi cadzu ca la .recac.</jbo>
@@ -2702,7 +2562,6 @@ Ugh. (Or in Lojban: <valsi>.a'u</valsi><valsi>nai</valsi><valsi>sai</valsi><vals
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-wm5E">
       <title>
-        <anchor xml:id="c14e16d4"/>
         <indexterm type="example"><primary>bomb destroyed fifty miles</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2724,7 +2583,6 @@ Ugh. (Or in Lojban: <valsi>.a'u</valsi><valsi>nai</valsi><valsi>sai</valsi><vals
     <valsi>ke'i</valsi> that it is excluded:</para>
     <example xml:id="example-random-id-qGTc" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c14e16d5"/>
       </title>
       <interlinear-gloss>
         <jbo>mi ca sanli la .drezdn. ga'o</jbo>
@@ -2738,7 +2596,6 @@ Ugh. (Or in Lojban: <valsi>.a'u</valsi><valsi>nai</valsi><valsi>sai</valsi><vals
     </example>
     <example xml:id="example-random-id-qGtv" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c14e16d6"/>
       </title>
       <interlinear-gloss>
         <jbo>mi ca sanli la .drezdn. ga'o</jbo>
@@ -2752,7 +2609,6 @@ Ugh. (Or in Lojban: <valsi>.a'u</valsi><valsi>nai</valsi><valsi>sai</valsi><vals
     </example>
     <example xml:id="example-random-id-qgUo" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c14e16d7"/>
       </title>
       <interlinear-gloss>
         <jbo>mi ca sanli la .drezdn. ke'i</jbo>
@@ -2766,7 +2622,6 @@ Ugh. (Or in Lojban: <valsi>.a'u</valsi><valsi>nai</valsi><valsi>sai</valsi><vals
     </example>
     <example xml:id="example-random-id-qGvB" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c14e16d8"/>
         <indexterm type="example"><primary>between Dresden and Frankfurt</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2797,7 +2652,6 @@ Ugh. (Or in Lojban: <valsi>.a'u</valsi><valsi>nai</valsi><valsi>sai</valsi><vals
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-39EI">
       <title>
-        <anchor xml:id="c14e16d9"/>
         <indexterm type="example"><primary>except from 10 to 12</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2866,7 +2720,6 @@ Ugh. (Or in Lojban: <valsi>.a'u</valsi><valsi>nai</valsi><valsi>sai</valsi><vals
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-iBpP">
       <title>
-        <anchor xml:id="c14e16d10"/>
         <indexterm type="example"><primary>carry the piano</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2883,7 +2736,6 @@ Ugh. (Or in Lojban: <valsi>.a'u</valsi><valsi>nai</valsi><valsi>sai</valsi><vals
     <xref linkend="example-random-id-qGtv"/> can be expressed in forethought as:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-u51K">
       <title>
-        <anchor xml:id="c14e16d11"/>
         <indexterm type="example"><primary>between Dresden and Frankfurt</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2902,7 +2754,7 @@ Ugh. (Or in Lojban: <valsi>.a'u</valsi><valsi>nai</valsi><valsi>sai</valsi><vals
   <indexterm type="general"><primary>GAhO position in forethought intervals</primary></indexterm>  <indexterm type="general"><primary>forethought intervals</primary><secondary>GAhO position</secondary></indexterm> In forethought, unfortunately, the GAhOs become physically separated from the endpoints, but the same rule applies: the first GAhO refers to the first endpoint.</para>
   </section>
   <section xml:id="section-mekso-connections">
-    <title><anchor xml:id="c14s17"/>Logical and non-logical connectives within mekso</title>
+    <title>Logical and non-logical connectives within mekso</title>
     <para> <indexterm type="general"><primary>mathematical expressions</primary><secondary>connectives in</secondary></indexterm>  <indexterm type="general"><primary>non-logical connection</primary><secondary>in mathematical expressions</secondary></indexterm>  <indexterm type="general"><primary>logical connection</primary><secondary>in mathematical expressions</secondary></indexterm> Lojban has a separate grammar embedded within the main grammar for representing mathematical expressions (or mekso in Lojban) such as
 
     <quote>2 + 2</quote>. Mathematical expressions are explained fully in
@@ -2922,7 +2774,6 @@ Ugh. (Or in Lojban: <valsi>.a'u</valsi><valsi>nai</valsi><valsi>sai</valsi><vals
     <xref linkend="example-random-id-gMU4"/> exhibits afterthought logical connection between operands:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-gMU4">
       <title>
-        <anchor xml:id="c14e17d1"/>
         <indexterm type="example"><primary>three of four people</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2939,7 +2790,6 @@ Ugh. (Or in Lojban: <valsi>.a'u</valsi><valsi>nai</valsi><valsi>sai</valsi><vals
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-ftNY">
       <title>
-        <anchor xml:id="c14e17d2"/>
       </title>
       <interlinear-gloss>
         <jbo>vei ga ci gi vo [ve'o] prenu cu klama le zarci</jbo>
@@ -2955,7 +2805,6 @@ Ugh. (Or in Lojban: <valsi>.a'u</valsi><valsi>nai</valsi><valsi>sai</valsi><vals
     <para>Simple examples of logical connection between operators are hard to come by. A contrived example is:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-dCxf">
       <title>
-        <anchor xml:id="c14e17d3"/>
       </title>
       <interlinear-gloss>
         <jbo>li re su'i je pi'i re du li vo</jbo>
@@ -2967,7 +2816,6 @@ Ugh. (Or in Lojban: <valsi>.a'u</valsi><valsi>nai</valsi><valsi>sai</valsi><vals
     <xref linkend="example-random-id-dCxf"/> is:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-YBD6">
       <title>
-        <anchor xml:id="c14e17d4"/>
       </title>
       <interlinear-gloss>
         <jbo>li re gu'e su'i gi pi'i re du li vo</jbo>
@@ -2981,7 +2829,6 @@ Ugh. (Or in Lojban: <valsi>.a'u</valsi><valsi>nai</valsi><valsi>sai</valsi><vals
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-z2oF">
       <title>
-        <anchor xml:id="c14e17d5"/>
         <indexterm type="example"><primary>zero to one</primary></indexterm>
         <indexterm type="lojban-word"><primary>ke'i</primary></indexterm>
         <indexterm type="lojban-word"><primary>ga'o</primary></indexterm>
@@ -3003,7 +2850,6 @@ Ugh. (Or in Lojban: <valsi>.a'u</valsi><valsi>nai</valsi><valsi>sai</valsi><vals
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-8rEL">
       <title>
-        <anchor xml:id="c14e17d6"/>
         <indexterm type="example"><primary>x sub b,d</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -3022,7 +2868,7 @@ Note that the
     <valsi>xi</valsi> subscript needs something to attach to.</para>
   </section>
   <section xml:id="section-sumtcita">
-    <title><anchor xml:id="c14s18"/>Tenses, modals, and logical connection</title>
+    <title>Tenses, modals, and logical connection</title>
     <para> The tense and modal systems of Lojban interact with the logical connective system. No one chapter can explain all of these simultaneously, so each chapter must present its own view of the area of interaction with emphasis on its own concepts and terminology. In the examples of this chapter, the many tenses of various selma'o as well as the modals of selma'o BAI are represented by the simple time cmavo
     <valsi>pu</valsi>,
     <valsi>ca</valsi>, and
@@ -3034,7 +2880,6 @@ Note that the
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-g6iT">
       <title>
-        <anchor xml:id="c14e18d1"/>
         <indexterm type="example"><primary>once and future king</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -3053,7 +2898,6 @@ Note that the
  can be reduced to:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-PLgw">
       <title>
-        <anchor xml:id="c14e18d2"/>
         <indexterm type="example"><primary>once and future king</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -3069,7 +2913,6 @@ Note that the
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-Mcsi">
       <title>
-        <anchor xml:id="c14e18d3"/>
         <indexterm type="example"><primary>breathe</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -3089,7 +2932,6 @@ Note that the
 
     <example xml:id="example-random-id-efav">
       <title>
-        <anchor xml:id="c14e18d4"/>
         <indexterm type="example"><primary>went and bought</primary></indexterm>
       </title>
       <para>I went to the market, and I bought food.</para>
@@ -3098,7 +2940,6 @@ Note that the
     <xref linkend="example-random-id-efav"/>, namely:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-PMTu">
       <title>
-        <anchor xml:id="c14e18d5"/>
       </title>
       <interlinear-gloss>
         <jbo>mi pu klama le zarci .ije mi pu tervecnu lo cidja</jbo>
@@ -3114,7 +2955,6 @@ Note that the
     <valsi>bo</valsi>:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-BPG1">
       <title>
-        <anchor xml:id="c14e18d6"/>
     <indexterm type="lojban-word"><primary>.ijebabo</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -3141,7 +2981,6 @@ Note that the
     <valsi>bo</valsi>, as in:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-129L">
       <title>
-        <anchor xml:id="c14e18d7"/>
         <indexterm type="example"><primary>simultaneously</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -3157,7 +2996,6 @@ Note that the
     <valsi>ke</valsi>, as in:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-nydK">
       <title>
-        <anchor xml:id="c14e18d8"/>
         <indexterm type="example"><primary>and earlier</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -3178,7 +3016,6 @@ Note that the
     <example role="interlinear-gloss-example" xml:id="example-random-id-APPE">
       <title>
         <indexterm type="example"><primary>and then</primary></indexterm>
-        <anchor xml:id="c14e18d9"/>
       </title>
       <interlinear-gloss>
         <jbo>mi dunda le cukta gi'e babo</jbo>
@@ -3195,7 +3032,6 @@ Note that the
     <valsi>ke</valsi>, as in:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-A0yC">
       <title>
-        <anchor xml:id="c14e18d10"/>
         <indexterm type="example"><primary>and simultaneously</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -3216,7 +3052,6 @@ Note that the
     <valsi>bo</valsi>, as in:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-AhnP">
       <title>
-        <anchor xml:id="c14e18d11"/>
         <indexterm type="example"><primary>and then</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -3234,7 +3069,6 @@ Note that the
     <valsi>tu'e</valsi>, as in:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-GBgP">
       <title>
-        <anchor xml:id="c14e18d12"/>
         <indexterm type="example"><primary>and then</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -3250,7 +3084,6 @@ Note that the
     <valsi>bo</valsi>, as in:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Ce09">
       <title>
-        <anchor xml:id="c14e18d13"/>
         <indexterm type="example"><primary>doctor and then rich</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -3279,7 +3112,6 @@ Note that the
     <valsi>ke</valsi> can include tense information in exactly the same way as logical connectives. Forethought connectives, however (except as noted below) are unable to do so, as are termsets or tense connectives. Mathematical operands and operators can also include tense information in their logical connectives as a result of their close parallelism with sumti and tanru components respectively:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-sgUo">
       <title>
-        <anchor xml:id="c14e18d14"/>
       </title>
       <interlinear-gloss>
         <jbo>vei ci .ebabo vo [ve'o] tadni cu zvati le kumfa</jbo>
@@ -3291,7 +3123,6 @@ Note that the
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-DxuA">
       <title>
-        <anchor xml:id="c14e18d15"/>
         <indexterm type="example"><primary>went and bought</primary></indexterm>
 <indexterm type="lojban-word"><primary>pu ge</primary></indexterm>
       </title>
@@ -3310,7 +3141,7 @@ Note that the
     <xref linkend="example-random-id-PMTu"/>. There is no time relationship specified between the going and the buying; both are simply set in the past.</para>
   </section>
   <section xml:id="section-abstractors">
-    <title><anchor xml:id="c14s19"/>Abstractor connection and connection within abstractions</title>
+    <title>Abstractor connection and connection within abstractions</title>
     <para> <indexterm type="lojban-word"><primary>JA selma'o</primary></indexterm>  <indexterm type="lojban-word"><primary>NU selma'o</primary></indexterm>  <indexterm type="general"><primary>jeks</primary><secondary>connecting abstractors</secondary></indexterm>  <indexterm type="general"><primary>abstractions</primary><secondary>logical connection of</secondary></indexterm>  <indexterm type="general"><primary>logical connection of abstractors</primary></indexterm> Last and (as a matter of fact) least: a logical connective is allowed between abstraction markers of selma'o NU. As usual, the connection can be expanded to a bridi connection between two bridi which differ only in abstraction marker. Jeks are the appropriate connective.
 
 
@@ -3318,7 +3149,6 @@ Note that the
     <xref linkend="example-random-id-qgVR"/> are equivalent in meaning:</para>
     <example xml:id="example-random-id-qGVP" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c14e19d1"/>
         <indexterm type="example"><primary>quality and quantity</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -3332,7 +3162,6 @@ Note that the
     </example>
     <example xml:id="example-random-id-qgVR" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c14e19d2"/>
         <indexterm type="example"><primary>quality and quantity</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -3347,7 +3176,6 @@ Note that the
     <para> <indexterm type="general"><primary>logical connection</primary><secondary>inside abstractions</secondary><tertiary>contrasted with outside</tertiary></indexterm>  <indexterm type="general"><primary>logical connection</primary><secondary>in abstractions</secondary><tertiary>inner bridi contrasted with outer bridi</tertiary></indexterm> Logical connectives and abstraction are related in another way as well, though. Since an abstraction contains a bridi, the bridi may have a logical connection inside it. Is it legitimate to split the outer bridi into two, joined by the logical connection? Absolutely not. For example:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-f1uT">
       <title>
-        <anchor xml:id="c14e19d3"/>
         <indexterm type="example"><primary>Jupiter life</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -3366,7 +3194,6 @@ Note that the
  is true, since the embedded sentence is a tautology, but:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-X69J">
       <title>
-        <anchor xml:id="c14e19d4"/>
       </title>
       <interlinear-gloss>
         <jbo>mi jinvi le du'u loi jmive cu zvati la .iupiter.</jbo>
@@ -3385,7 +3212,7 @@ Note that the
     <valsi>krici</valsi>).</para>
   </section>
   <section xml:id="section-constructs-summary">
-    <title><anchor xml:id="c14s20"/>Constructs and appropriate connectives</title>
+    <title>Constructs and appropriate connectives</title>
     <para> <indexterm type="general"><primary>connectives</primary><secondary>table by constructs connected</secondary></indexterm> The following table specifies, for each kind of construct that can be logically or non-logically connected in Lojban, what kind of connective is required for both afterthought and (when possible) forethought modes. An asterisk (*) indicates that tensed connection is permitted.</para>
     <para>A dash indicates that connection of the specified type is not possible.</para>
     <informaltable class="vertsep">
@@ -3464,7 +3291,7 @@ Note that the
     </informaltable>
   </section>
   <section xml:id="section-truth-functions-summary">
-    <title><anchor xml:id="c14s21"/>Truth functions and corresponding logical connectives</title>
+    <title>Truth functions and corresponding logical connectives</title>
     <para> <indexterm type="general"><primary>logical connectives</primary><secondary>table by truth function value</secondary></indexterm>  <indexterm type="general"><primary>truth functions</primary><secondary>table of logical connectives</secondary></indexterm> The following table specifies, for each truth function, the most-often used cmavo or compound cmavo which expresses it for each of the six types of logical connective. (Other compound cmavo are often possible: for example,
     <valsi>se</valsi><valsi>.a</valsi> means the same as
     <valsi>a</valsi>, and could be used instead.)</para>
@@ -3596,7 +3423,7 @@ Note that the
     <valsi>i</valsi>.</para>
   </section>
   <section xml:id="section-construction-summary">
-    <title><anchor xml:id="c14s22"/>Rules for making logical and non-logical connectives</title>
+    <title>Rules for making logical and non-logical connectives</title>
     <!-- This section looks terrible if the first paragraph is
          non-indented as usual, so here's a fake para to catch the
          non-indent CSS
@@ -3657,7 +3484,7 @@ Note that the
     </itemizedlist>
   </section>
   <section xml:id="section-other-tables">
-    <title><anchor xml:id="c14s23"/>Locations of other tables</title>
+    <title>Locations of other tables</title>
     <!-- This section looks terrible if the first paragraph is
          non-indented as usual, so here's a fake para to catch the
          non-indent CSS

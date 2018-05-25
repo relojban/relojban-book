@@ -5,10 +5,10 @@
   <!ENTITY hellip         "&#x02026;" ><!--HORIZONTAL ELLIPSIS -->
 ]>
 <chapter xml:id="chapter-mekso">
-  <title><anchor xml:id="c18"/>lojbau mekso: Mathematical Expressions in Lojban</title>
+  <title>lojbau mekso: Mathematical Expressions in Lojban</title>
 
   <section xml:id="section-mekso-introduction">
-    <title><anchor xml:id="c18s1"/>Introductory</title>
+    <title>Introductory</title>
     <para>lojbau mekso (<quote>Lojbanic mathematical-expression</quote>) is the part of the Lojban language that is tailored for expressing statements of a mathematical character, or for adding numerical information to non-mathematical statements. Its formal design goals include:</para>
     <orderedlist>
       <listitem>
@@ -32,7 +32,6 @@
 
     <example xml:id="example-random-id-dGcT">
       <title>
-        <anchor xml:id="c18e1d1"/>
       </title>
       <dbmath>3 x + 2 y</dbmath>
     </example>
@@ -41,7 +40,7 @@
     <para> <indexterm type="general"><primary>mekso chapter</primary><secondary>completeness</secondary></indexterm>  <indexterm type="general"><primary>mekso chapter</primary><secondary>table notation convention</secondary></indexterm> The remainder of this chapter explains (in as much detail as is currently possible) the mekso system. This chapter is by intention complete as regards mekso components, but only suggestive about uses of those components &ndash; as of now, there has been no really comprehensive use made of mekso facilities, and many matters must await the test of usage to be fully clarified.</para>
   </section>
   <section xml:id="section-mekso-numbers">
-    <title><anchor xml:id="c18s2"/>Lojban numbers</title>
+    <title>Lojban numbers</title>
     <para>The following cmavo are discussed in this section:</para>
     <informaltable class="noborder">
       <tr><td>
@@ -105,7 +104,6 @@
     <para role="indent"> <indexterm type="general"><primary>hundred</primary><secondary>expressing as number</secondary></indexterm>  <indexterm type="general"><primary>ten</primary><secondary>expressing as number</secondary></indexterm>  <indexterm type="general"><primary>numbers</primary><secondary>as compound cmavo</secondary></indexterm>  <indexterm type="general"><primary>digits</primary><secondary>cmavo for</secondary></indexterm>  <indexterm type="general"><primary>numbers</primary><secondary>expressing simple</secondary></indexterm> The simplest kind of mekso are numbers, which are cmavo or compound cmavo. There are cmavo for each of the 10 decimal digits, and numbers greater than 9 are made by stringing together the cmavo. Some examples:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-LmPr">
       <title>
-        <anchor xml:id="c18e2d1"/>
         <indexterm type="example"><primary>123</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -118,7 +116,6 @@
     </example>
     <example role="interlinear-gloss-example" xml:id="example-random-id-TNjj">
       <title>
-        <anchor xml:id="c18e2d2"/>
       </title>
       <interlinear-gloss>
         <jbo>pa no</jbo>
@@ -129,7 +126,6 @@
     </example>
     <example role="interlinear-gloss-example" xml:id="example-random-id-gjzw">
       <title>
-        <anchor xml:id="c18e2d3"/>
       </title>
       <interlinear-gloss>
         <jbo>pa re ci vo mu xa ze bi so no</jbo>
@@ -160,7 +156,7 @@
 
   </section>
   <section xml:id="section-signs-punctuation">
-    <title><anchor xml:id="c18s3"/>Signs and numerical punctuation</title>
+    <title>Signs and numerical punctuation</title>
     <para> The following cmavo are discussed in this section:</para>
     <cmavo-list>
       <cmavo-entry>
@@ -213,7 +209,6 @@
     <valsi>ni'u</valsi>, which are the positive and negative signs as distinct from the addition, subtraction, and negation operators. For example:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-6A5H">
       <title>
-        <anchor xml:id="c18e3d1"/>
         <indexterm type="example"><primary>-1</primary></indexterm>
         <indexterm type="lojban-word"><primary>pa</primary></indexterm>
       </title>
@@ -234,7 +229,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-Ust4">
       <title>
-        <anchor xml:id="c18e3d2"/>
         <indexterm type="example"><primary>3.1415</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -252,7 +246,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-AeRL">
       <title>
-        <anchor xml:id="c18e3d3"/>
         <indexterm type="example"><primary>2/7</primary></indexterm>
         <indexterm type="lojban-word"><primary>fi'u</primary></indexterm>
       </title>
@@ -279,7 +272,6 @@
 
     <example xml:id="example-random-id-qhvj" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e3d4"/>
       </title>
       <interlinear-gloss>
         <jbo>fi'u ze</jbo>
@@ -297,7 +289,6 @@
     </example>
     <example xml:id="example-random-id-qhVs" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e3d5"/>
       </title>
       <interlinear-gloss>
         <jbo>pi ci mu ra'e pa vo re bi mu ze</jbo>
@@ -312,7 +303,6 @@
     <quote>142857</quote> begins.</para>
     <example xml:id="example-random-id-qhWd" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e3d6"/>
         <indexterm type="lojban-word"><primary>ce'i</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -325,7 +315,6 @@
     </example>
     <example xml:id="example-random-id-qhwM" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e3d7"/>
       </title>
       <interlinear-gloss>
         <jbo>pa ki'o re ci vo ki'o mu xa ze</jbo>
@@ -344,7 +333,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-TTBx">
       <title>
-        <anchor xml:id="c18e3d8"/>
       </title>
       <interlinear-gloss>
         <jbo>pa ki'o re ci ki'o vo</jbo>
@@ -360,7 +348,6 @@
 
     <example xml:id="example-random-id-qHwu" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e3d9"/>
       </title>
       <interlinear-gloss>
         <jbo>pi ki'o re re</jbo>
@@ -371,7 +358,6 @@
     </example>
     <example xml:id="example-random-id-qhxp" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e3d10"/>
       </title>
       <interlinear-gloss>
         <jbo>pi pa ki'o pa re ki'o pa</jbo>
@@ -382,7 +368,7 @@
     </example>
   </section>
   <section xml:id="section-constants">
-    <title><anchor xml:id="c18s4"/>Special numbers</title>
+    <title>Special numbers</title>
     <para>The following cmavo are discussed in this section:</para>
     <cmavo-list>
       <cmavo-entry>
@@ -418,7 +404,6 @@
     <para>Numbers can have any of these digit, punctuation, and special-number cmavo of Sections 2, 3, and 4 in any combination:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k2U4">
       <title>
-        <anchor xml:id="c18e4d1"/>
         <indexterm type="example"><primary>infinity</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -428,7 +413,6 @@
     </example>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k2VC">
       <title>
-        <anchor xml:id="c18e4d2"/>
       </title>
       <interlinear-gloss>
         <jbo>ci ka'o re</jbo>
@@ -444,7 +428,6 @@
     <quote>i</quote>) and a number punctuation mark (separating the real and the imaginary parts of a complex number).</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k32m">
       <title>
-        <anchor xml:id="c18e4d3"/>
         <indexterm type="example"><primary>aleph null</primary></indexterm>
         <indexterm type="example"><primary>transfinite cardinal</primary></indexterm>
       </title>
@@ -460,7 +443,6 @@
     <valsi>te'o</valsi> are mathematically important, which is why they are given their own cmavo:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k356">
       <title>
-        <anchor xml:id="c18e4d4"/>
       </title>
       <interlinear-gloss>
         <jbo>pai</jbo>
@@ -469,7 +451,6 @@
     </example>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k36i">
       <title>
-        <anchor xml:id="c18e4d5"/>
       </title>
       <interlinear-gloss>
         <jbo>te'o</jbo>
@@ -479,7 +460,6 @@
     <para role="indent"> <indexterm type="general"><primary>numerical punctuation</primary><secondary>undefined</secondary></indexterm> However, many combinations are as yet undefined:</para>
     <example xml:id="example-random-id-qHXr" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e4d6"/>
       </title>
       <interlinear-gloss>
         <jbo>pa pi re pi ci</jbo>
@@ -488,7 +468,6 @@
     </example>
     <example xml:id="example-random-id-qHya" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e4d7"/>
       </title>
       <interlinear-gloss>
         <jbo>pa ni'u re</jbo>
@@ -505,7 +484,7 @@
     <xref linkend="section-number-questions"/>.</para>
   </section>
   <section xml:id="section-simple-infix">
-    <title><anchor xml:id="c18s5"/>Simple infix expressions and equations</title>
+    <title>Simple infix expressions and equations</title>
 
     <para>The following cmavo are discussed in this section:</para>
     <cmavo-list>
@@ -557,7 +536,6 @@
   <indexterm type="general"><primary>mathematical notation</primary><secondary>infix</secondary></indexterm> Let us begin at the beginning: one plus one equals two. In Lojban, that sentence translates to:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-CUeK">
       <title>
-        <anchor xml:id="c18e5d1"/>
         <indexterm type="example"><primary>1 + 1 = 2</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -579,7 +557,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-nSU9">
       <title>
-        <anchor xml:id="c18e5d2"/>
       </title>
       <interlinear-gloss>
         <jbo>le ci prenu</jbo>
@@ -593,7 +570,6 @@
     <valsi>prenu</valsi>. However, the sentence</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-BNFi">
       <title>
-        <anchor xml:id="c18e5d3"/>
         <indexterm type="example"><primary>3 grams</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -614,7 +590,6 @@
     <xref linkend="example-random-id-nSU9"/> would produce</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-gJe1">
       <title>
-        <anchor xml:id="c18e5d4"/>
       </title>
       <interlinear-gloss>
         <jbo>li ci prenu</jbo>
@@ -630,7 +605,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-4gsp">
       <title>
-        <anchor xml:id="c18e5d5"/>
         <indexterm type="example"><primary>+1 + -1 = 0</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -647,7 +621,6 @@
     <valsi>du</valsi>:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-d6bM">
       <title>
-        <anchor xml:id="c18e5d6"/>
       </title>
       <interlinear-gloss>
         <jbo>li mu su'i pa du li ci su'i ci</jbo>
@@ -671,7 +644,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-7a2Q">
       <title>
-        <anchor xml:id="c18e5d7"/>
       </title>
       <interlinear-gloss>
         <jbo>li ci su'i vo pi'i mu du li reci</jbo>
@@ -687,7 +659,6 @@
     <quote>3 + 20</quote>. But VUhU operators by default are done left to right, like other Lojban grouping, and so a truthful bridi would be:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-XUQh">
       <title>
-        <anchor xml:id="c18e5d8"/>
       </title>
       <interlinear-gloss>
         <jbo>li ci su'i vo pi'i mu du li cimu</jbo>
@@ -707,7 +678,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-LIUa">
       <title>
-        <anchor xml:id="c18e5d9"/>
       </title>
       <interlinear-gloss>
         <jbo>li ci su'i vo bi'e pi'i mu du li reci</jbo>
@@ -728,7 +698,6 @@
     <quote>)</quote> to group expressions in any way desired:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-wfFV">
       <title>
-        <anchor xml:id="c18e5d10"/>
         <indexterm type="example"><primary>(n + 1)(n + 1) = n^2 + 2n + 1</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -773,7 +742,7 @@
 
   </section>
   <section xml:id="section-forethought">
-    <title><anchor xml:id="c18s6"/>Forethought operators (Polish notation, functions)</title>
+    <title>Forethought operators (Polish notation, functions)</title>
     <para>The following cmavo are discussed in this section:</para>
     <cmavo-list>
       <cmavo-entry>
@@ -827,7 +796,6 @@
     <quote>forethought operators</quote>, also known as Polish notation. In this style of writing mathematics, the operator comes first and the operands afterwards:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-I0Bm">
       <title>
-        <anchor xml:id="c18e6d1"/>
       </title>
       <interlinear-gloss>
         <jbo>li su'i paboi reboi ci[boi] du li xa</jbo>
@@ -848,7 +816,6 @@
     <valsi>ku'e</valsi>. Here is an example:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-IxMG">
       <title>
-        <anchor xml:id="c18e6d2"/>
       </title>
       <interlinear-gloss>
         <jbo>li py. su'i va'a ny. ku'e su'i zy du</jbo>
@@ -891,7 +858,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-VybU">
       <title>
-        <anchor xml:id="c18e6d3"/>
       </title>
       <interlinear-gloss>
         <jbo>li zy du li ma'o fy.boi xy.</jbo>
@@ -924,19 +890,16 @@
     <valsi>ku'e</valsi>:</para>
     <example xml:id="example-random-id-qhz5" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e6d4"/>
       </title>
       <jbophrase>li pe'o su'i paboi reboi ciboi ku'e du li xa</jbophrase>
     </example>
     <example xml:id="example-random-id-qhzu" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e6d5"/>
       </title>
       <jbophrase>li py. su'i pe'o va'a ny. ku'e su'i zy du li xy.</jbophrase>
     </example>
     <example xml:id="example-random-id-qi0g" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e6d6"/>
       </title>
         <jbophrase>li zy du li pe'o ma'o fy.boi xy. ku'e</jbophrase>
     </example>
@@ -947,13 +910,12 @@
     <xref linkend="example-random-id-k36J"/> came to grief because I forgot this rule.</para>
   </section>
   <section xml:id="section-useful-selbri">
-    <title><anchor xml:id="c18s7"/>Other useful selbri for mekso bridi</title>
+    <title>Other useful selbri for mekso bridi</title>
     <para>So far our examples have been isolated mekso (it is legal to have a bare mekso as a sentence in Lojban) and equation bridi involving
     <valsi>du</valsi>. What about inequalities such as
     <quote>x &lt; 5</quote>? The answer is to use a bridi with an appropriate selbri, thus:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-s4TW">
       <title>
-        <anchor xml:id="c18e7d1"/>
       </title>
       <interlinear-gloss>
         <jbo>li xy. mleca li mu</jbo>
@@ -985,7 +947,6 @@
     <valsi>du</valsi> refers to actual identity, and can have any number of places:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-PTmF">
       <title>
-        <anchor xml:id="c18e7d2"/>
       </title>
       <interlinear-gloss>
         <jbo>py. du xy.boi zy.</jbo>
@@ -1004,7 +965,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-WuRn">
       <title>
-        <anchor xml:id="c18e7d3"/>
       </title>
       <interlinear-gloss>
         <jbo>li re su'i re na du li mu</jbo>
@@ -1015,7 +975,7 @@
     <para role="indent">As usual in Lojban, negated bridi say what is false, and do not say anything about what might be true.</para>
   </section>
   <section xml:id="section-indefinite-numbers">
-    <title><anchor xml:id="c18s8"/>Indefinite numbers</title>
+    <title>Indefinite numbers</title>
     <para>The following cmavo are discussed in this section:</para>
     <cmavo-list>
       <cmavo-entry>
@@ -1146,7 +1106,6 @@
     <valsi>pa</valsi> is clearer:</para>
     <example xml:id="example-random-id-qI27" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e8d1"/>
       </title>
       <interlinear-gloss>
         <jbo>mi catlu pa prenu</jbo>
@@ -1155,7 +1114,6 @@
     </example>
     <example xml:id="example-random-id-qI3P" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e8d2"/>
       </title>
       <interlinear-gloss>
         <jbo>mi catlu ro prenu</jbo>
@@ -1183,7 +1141,6 @@
 
     <example xml:id="example-random-id-qi4a" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e8d3"/>
       </title>
       <interlinear-gloss>
         <jbo>mi catlu so'a prenu</jbo>
@@ -1194,7 +1151,6 @@
     </example>
     <example xml:id="example-random-id-qi55" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e8d4"/>
       </title>
       <interlinear-gloss>
         <jbo>mi catlu so'e prenu</jbo>
@@ -1205,7 +1161,6 @@
     </example>
     <example xml:id="example-random-id-qi5m" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e8d5"/>
       </title>
       <interlinear-gloss>
         <jbo>mi catlu so'i prenu</jbo>
@@ -1215,7 +1170,6 @@
     </example>
     <example xml:id="example-random-id-qi5U" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e8d6"/>
       </title>
       <interlinear-gloss>
         <jbo>mi catlu so'o prenu</jbo>
@@ -1225,7 +1179,6 @@
     </example>
     <example xml:id="example-random-id-qI6B" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e8d7"/>
       </title>
       <interlinear-gloss>
         <jbo>mi catlu so'u prenu</jbo>
@@ -1250,7 +1203,6 @@
     <quote>the whole of</quote>:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-dwJI">
       <title>
-        <anchor xml:id="c18e8d8"/>
       </title>
       <interlinear-gloss>
         <jbo>mi citka piro lei nanba</jbo>
@@ -1275,7 +1227,6 @@
     <quote>the average value</quote>, but the average in question is not, in general, a mathematical mean, median, or mode; these would be more appropriately represented by operators.</para>
     <example xml:id="example-random-id-qi7Q" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e8d9"/>
       </title>
       <interlinear-gloss>
         <jbo>mi catlu no'o prenu</jbo>
@@ -1285,7 +1236,6 @@
     </example>
     <example xml:id="example-random-id-qI8K" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e8d10"/>
       </title>
       <interlinear-gloss>
         <jbo>mi citka pino'o lei nanba</jbo>
@@ -1297,7 +1247,6 @@
     <quote>all but</quote>:</para>
     <example xml:id="example-random-id-qi94" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e8d11"/>
       </title>
       <interlinear-gloss>
         <jbo>mi catlu da'a re prenu</jbo>
@@ -1306,7 +1255,6 @@
     </example>
     <example xml:id="example-random-id-qia0" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e8d12"/>
       </title>
       <interlinear-gloss>
         <jbo>mi catlu da'a so'u prenu</jbo>
@@ -1325,7 +1273,6 @@
     <quote>all but the last</quote>:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-3z2U">
       <title>
-        <anchor xml:id="c18e8d13"/>
         <indexterm type="example"><primary>eat themselves</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -1352,7 +1299,6 @@
     <quote>some negative number</quote> respectively.</para>
     <example xml:id="example-random-id-qiaK" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e8d14"/>
       </title>
       <interlinear-gloss>
         <jbo>li ci vu'u re du li ma'u</jbo>
@@ -1361,7 +1307,6 @@
     </example>
     <example xml:id="example-random-id-qiAq" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e8d15"/>
       </title>
       <interlinear-gloss>
         <jbo>li ci vu'u vo du li ni'u</jbo>
@@ -1370,7 +1315,6 @@
     </example>
     <example xml:id="example-random-id-qiAR" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e8d16"/>
       </title>
       <interlinear-gloss>
         <jbo>mi ponse ma'u rupnu</jbo>
@@ -1390,7 +1334,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-TIiE">
       <title>
-        <anchor xml:id="c18e8d17"/>
         <indexterm type="example"><primary>enough currency</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -1419,7 +1362,6 @@
 
     <example xml:id="example-random-id-qibb" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e8d18"/>
         <indexterm type="example"><primary>both dogs</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -1431,7 +1373,6 @@
     </example>
     <example xml:id="example-random-id-qIBi" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e8d19"/>
       </title>
       <interlinear-gloss>
         <jbo>mi speni so'ici prenu</jbo>
@@ -1448,7 +1389,7 @@
     <quote>many</quote>.</para>
   </section>
   <section xml:id="section-approximation">
-    <title><anchor xml:id="c18s9"/>Approximation and inexact numbers</title>
+    <title>Approximation and inexact numbers</title>
     <para>The following cmavo are discussed in this section:</para>
     <cmavo-list>
       <cmavo-entry>
@@ -1486,7 +1427,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-YLcy">
       <title>
-        <anchor xml:id="c18e9d1"/>
         <indexterm type="example"><primary>approximately 40</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -1503,7 +1443,6 @@
     <valsi>ji'i</valsi> appears in the middle of a number, all the digits following it are approximate:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-BANC">
       <title>
-        <anchor xml:id="c18e9d2"/>
       </title>
       <interlinear-gloss>
         <jbo>vo no ji'i mu no</jbo>
@@ -1519,7 +1458,6 @@
 
     <example xml:id="example-random-id-qIc5" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e9d3"/>
       </title>
       <interlinear-gloss>
         <jbo>re pi ze re ji'i</jbo>
@@ -1529,7 +1467,6 @@
     </example>
     <example xml:id="example-random-id-qicz" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e9d4"/>
         <indexterm type="example"><primary>rounded up</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -1541,7 +1478,6 @@
     </example>
     <example xml:id="example-random-id-qiDE" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e9d5"/>
         <indexterm type="example"><primary>rounded down</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -1571,7 +1507,6 @@
 
     <example xml:id="example-random-id-qidi" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e9d6"/>
         <indexterm type="example"><primary>at most two</primary></indexterm>
         <indexterm type="example"><primary>at most</primary></indexterm>
       </title>
@@ -1583,7 +1518,6 @@
     </example>
     <example xml:id="example-random-id-qiE3" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e9d7"/>
         <indexterm type="example"><primary>at least two</primary></indexterm>
         <indexterm type="example"><primary>at least</primary></indexterm>
       </title>
@@ -1594,7 +1528,6 @@
     </example>
     <example xml:id="example-random-id-qIe7" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e9d8"/>
         <indexterm type="example"><primary>less than two</primary></indexterm>
         <indexterm type="example"><primary>less than</primary></indexterm>
       </title>
@@ -1606,7 +1539,6 @@
     </example>
     <example xml:id="example-random-id-qIfM" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e9d9"/>
         <indexterm type="example"><primary>more than two</primary></indexterm>
         <indexterm type="example"><primary>more than</primary></indexterm>
       </title>
@@ -1634,7 +1566,6 @@
     <valsi>pa</valsi> is understood: therefore,</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-brir">
       <title>
-        <anchor xml:id="c18e9d10"/>
       </title>
       <interlinear-gloss>
         <jbo>mi catlu su'o prenu</jbo>
@@ -1656,7 +1587,7 @@
     <xref linkend="section-quantified-descriptions"/>. Descriptions in general are outside the scope of this chapter.</para>
   </section>
   <section xml:id="section-radixen">
-    <title><anchor xml:id="c18s10"/>Non-decimal and compound bases</title>
+    <title>Non-decimal and compound bases</title>
     <para>The following cmavo are discussed in this section:</para>
     <cmavo-list>
       <cmavo-entry>
@@ -1707,7 +1638,6 @@
     <valsi>ju'u</valsi> is suitable:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Iw8u">
       <title>
-        <anchor xml:id="c18e10d1"/>
       </title>
       <interlinear-gloss>
         <jbo>li panopano ju'u re du li pano</jbo>
@@ -1719,7 +1649,6 @@
     <para> <indexterm type="general"><primary>hexadecimal system</primary><secondary>specifying numbers in (see also base)</secondary></indexterm>  <indexterm type="general"><primary>digits</primary><secondary>rationale for having 16</secondary></indexterm> Lojban has digits for representing bases up to 16, because 16 is a base often used in computer applications. In English, it is customary to use the letters A-F as the base 16 digits equivalent to the numbers ten through fifteen. In Lojban, this ambiguity is avoided:</para>
     <example xml:id="example-random-id-qIgb" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e10d2"/>
         <indexterm type="example"><primary>ABC base 16</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -1730,7 +1659,6 @@
     </example>
     <example xml:id="example-random-id-qIha" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e10d3"/>
       </title>
       <interlinear-gloss>
         <jbo>li jaureivai ju'u paxa du li cimuxaze</jbo>
@@ -1749,7 +1677,6 @@
     <valsi>pi</valsi> is used in non-decimal bases just as in base 10:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-gCo4">
       <title>
-        <anchor xml:id="c18e10d4"/>
         <indexterm type="example"><primary>F.8 base 16</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -1773,7 +1700,6 @@
     <valsi>pi'e</valsi> is used:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-17HR">
       <title>
-        <anchor xml:id="c18e10d5"/>
         <indexterm type="example"><primary>hours</primary><secondary>minutes</secondary><tertiary>seconds: example</tertiary></indexterm>
       </title>
       <interlinear-gloss>
@@ -1785,7 +1711,6 @@
     <valsi>pi'e</valsi> is expressed in decimal notation, but the number as a whole is not decimal and can only be added and subtracted by special rules:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-iUYu">
       <title>
-        <anchor xml:id="c18e10d6"/>
       </title>
       <interlinear-gloss>
         <jbo>li ci pi'e rere pi'e vono su'i pi'e ci pi'e cici</jbo>
@@ -1809,7 +1734,6 @@
     <valsi>pi'e</valsi>:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Nx5T">
       <title>
-        <anchor xml:id="c18e10d7"/>
       </title>
       <interlinear-gloss>
         <jbo>li pa pi'e re pi'e ci ju'u reno du li vovoci</jbo>
@@ -1819,7 +1743,6 @@
     <para role="indent"> <indexterm type="general"><primary>base greater than 16</primary><secondary>two digits contrasted with compound single-digits</secondary></indexterm>  <indexterm type="general"><primary>base greater than 16</primary><secondary>compound single-digits contrasted with two digits</secondary></indexterm> Carefully note the difference between:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-ydwP">
       <title>
-        <anchor xml:id="c18e10d8"/>
       </title>
       <interlinear-gloss>
         <jbo>pano ju'u reno</jbo>
@@ -1829,7 +1752,6 @@
     <para role="noindent">which is equal to ten, and:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-QBQx">
       <title>
-        <anchor xml:id="c18e10d9"/>
       </title>
       <interlinear-gloss>
         <jbo>pa pi'e no ju'u reno</jbo>
@@ -1843,7 +1765,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-26Li">
       <title>
-        <anchor xml:id="c18e10d10"/>
       </title>
       <interlinear-gloss>
         <jbo>li pa pi'e vo pi ze ju'u reno</jbo>
@@ -1858,7 +1779,6 @@
     <valsi>pi'e</valsi> is also used where the base of each digit is vague, as in the numbering of the examples in this chapter:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-U161">
       <title>
-        <anchor xml:id="c18e10d11"/>
       </title>
       <interlinear-gloss>
         <jbo>dei jufra panopi'epapamoi</jbo>
@@ -1868,7 +1788,7 @@
     </example>
   </section>
   <section xml:id="section-mekso-selbri">
-    <title><anchor xml:id="c18s11"/>Special mekso selbri</title>
+    <title>Special mekso selbri</title>
     <para>The following cmavo are discussed in this section:</para>
     <cmavo-list>
       <cmavo-entry>
@@ -1927,7 +1847,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-ujSA">
       <title>
-        <anchor xml:id="c18e11d1"/>
         <indexterm type="example"><primary>three rats</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -1943,7 +1862,6 @@
     <para>Another example, with one element this time:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-1Pen">
       <title>
-        <anchor xml:id="c18e11d2"/>
         <indexterm type="example"><primary>singular me</primary></indexterm>
         <indexterm type="example"><primary>individual</primary></indexterm>
       </title>
@@ -1963,7 +1881,6 @@
     <para>An example:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-GJsg">
       <title>
-        <anchor xml:id="c18e11d3"/>
         <indexterm type="example"><primary>rats in park</primary></indexterm>
         <indexterm type="example"><primary>fewsome</primary></indexterm>
         <indexterm type="example"><primary>set of all rats</primary></indexterm>
@@ -1990,7 +1907,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-n52D">
       <title>
-        <anchor xml:id="c18e11d4"/>
         <indexterm type="example"><primary>manysome</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2014,7 +1930,6 @@
     <para>Some examples:</para>
     <example xml:id="example-random-id-qiHw" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e11d5"/>
         <indexterm type="example"><primary>first rat</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2026,7 +1941,6 @@
     </example>
     <example xml:id="example-random-id-qii2" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e11d6"/>
         <indexterm type="example"><primary>all-th</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2037,7 +1951,6 @@
     </example>
     <example xml:id="example-random-id-qIiA" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e11d7"/>
         <indexterm type="example"><primary>enough-th</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2058,7 +1971,6 @@
     <para>Some examples:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-i8r4">
       <title>
-        <anchor xml:id="c18e11d8"/>
       </title>
       <interlinear-gloss>
         <jbo>levi sanmi cu fi'ucisi'e lei mi djedi cidja</jbo>
@@ -2074,7 +1986,6 @@
     <para> <indexterm type="general"><primary>probability selbri</primary><secondary>values</secondary></indexterm> The number must be between 0 and 1 inclusive. For example:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-9sf6">
       <title>
-        <anchor xml:id="c18e11d9"/>
         <indexterm type="example"><primary>coin heads</primary></indexterm>
         <indexterm type="example"><primary>probability .5</primary></indexterm>
       </title>
@@ -2097,7 +2008,6 @@
     <jbophrase>cifi'uxa</jbophrase> (3/6) may be used; in this case, 3/6 is not the same as 1/2, because the third position on a scale of six positions is not the same as the first position on a scale of two positions. Here is an example:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-XiTd">
       <title>
-        <anchor xml:id="c18e11d10"/>
         <indexterm type="example"><primary>scale of redness</primary></indexterm>
         <indexterm type="example"><primary>8 out of 10</primary></indexterm>
         <indexterm type="example"><primary>eight out of ten</primary></indexterm>
@@ -2122,7 +2032,6 @@
     <quote>by standard</quote>. For example:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-aGLh">
       <title>
-        <anchor xml:id="c18e11d11"/>
       </title>
       <interlinear-gloss>
         <jbo>lei ratcu poi zvati le</jbo>
@@ -2148,7 +2057,6 @@
     <para> <indexterm type="general"><primary>lerfu strings</primary><secondary>with numerical selbri</secondary></indexterm>  <indexterm type="general"><primary>numerical selbri</primary><secondary>special</secondary><tertiary>with lerfu strings</tertiary></indexterm> It is also grammatical to substitute a lerfu string for a number:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-cyLo">
       <title>
-        <anchor xml:id="c18e11d12"/>
         <indexterm type="example"><primary>nth rat</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2167,7 +2075,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-xaYd">
       <title>
-        <anchor xml:id="c18e11d13"/>
         <indexterm type="example"><primary>(n+1)-th rat</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2193,7 +2100,6 @@
     <valsi>me</valsi> and before a member of MOI, producing strange results indeed:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-enCe">
       <title>
-        <anchor xml:id="c18e11d14"/>
         <indexterm type="example"><primary>snowball's chance</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2218,7 +2124,7 @@
     <valsi>moi</valsi> from joining into a compound.</para>
   </section>
   <section xml:id="section-number-questions">
-    <title><anchor xml:id="c18s12"/>Number questions</title>
+    <title>Number questions</title>
     <para>The following cmavo is discussed in this section:</para>
     <cmavo-list>
       <cmavo-entry>
@@ -2234,7 +2140,6 @@
     <xref linkend="section-questions-and-answers"/> for more on Lojban questions.)</para>
     <example xml:id="example-random-id-qIiE" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e12d1"/>
       </title>
       <interlinear-gloss>
         <jbo>li re su'i re du li xo</jbo>
@@ -2245,7 +2150,6 @@
     </example>
     <example xml:id="example-random-id-qiIQ" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e12d2"/>
       </title>
       <interlinear-gloss>
         <jbo>le xomoi prenu cu darxi do</jbo>
@@ -2258,7 +2162,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-hSee">
       <title>
-        <anchor xml:id="c18e12d3"/>
       </title>
       <interlinear-gloss>
         <jbo>li remu pi'i xa du li paxono</jbo>
@@ -2271,7 +2174,7 @@
 
   </section>
   <section xml:id="section-subscripts-math">
-    <title><anchor xml:id="c18s13"/>Subscripts</title>
+    <title>Subscripts</title>
     <para>The following cmavo is discussed in this section:</para>
     <cmavo-list>
       <cmavo-entry>
@@ -2283,7 +2186,6 @@
     <para role="indent"> <indexterm type="general"><primary>subscripts</primary><secondary>external grammar of</secondary></indexterm> Subscripting is a general Lojban feature, not used only in mekso; there are many things that can logically be subscripted, and grammatically a subscript is a free modifier, usable almost anywhere. In particular, of course, mekso variables (lerfu strings) can be subscripted:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-MT0a">
       <title>
-        <anchor xml:id="c18e13d1"/>
         <indexterm type="example"><primary>x-sub-3</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2301,7 +2203,6 @@
     <valsi>xi</valsi> may be followed by a number, a lerfu string, or a general mekso expression in parentheses:</para>
     <example xml:id="example-random-id-qiIs" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e13d2"/>
       </title>
       <interlinear-gloss>
         <jbo>xy.boixino</jbo>
@@ -2310,7 +2211,6 @@
     </example>
     <example xml:id="example-random-id-qIJ6" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e13d3"/>
       </title>
       <interlinear-gloss>
         <jbo>xy.boixiny.</jbo>
@@ -2319,7 +2219,6 @@
     </example>
     <example xml:id="example-random-id-qIjf" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e13d4"/>
       </title>
       <interlinear-gloss>
         <jbo>xy.boixi vei ny. su'i pa [ve'o]</jbo>
@@ -2334,7 +2233,6 @@
     <valsi>boi</valsi>. By convention, a subscript following another subscript is taken to be a sub-subscript:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-FddL">
       <title>
-        <anchor xml:id="c18e13d5"/>
       </title>
       <interlinear-gloss>
         <jbo>xy.boi xi by.boi xi vo</jbo>
@@ -2347,7 +2245,7 @@
     <xref linkend="section-subscripts-general"/>.</para>
   </section>
   <section xml:id="section-infix-again">
-    <title><anchor xml:id="c18s14"/>Infix operators revisited</title>
+    <title>Infix operators revisited</title>
     <para>The following cmavo are discussed in this section:</para>
     <cmavo-list>
       <cmavo-entry>
@@ -2383,7 +2281,6 @@
     <valsi>va'a</valsi> in infix form. We would use:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-8Uh9">
       <title>
-        <anchor xml:id="c18e14d1"/>
       </title>
       <interlinear-gloss>
         <jbo>li tu'o va'a ny. du li no vu'u ny.</jbo>
@@ -2402,7 +2299,6 @@
     <valsi>gei</valsi> is the exponent, and the second operand is the mantissa or fraction:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-VjtV">
       <title>
-        <anchor xml:id="c18e14d2"/>
         <indexterm type="example"><primary>3 * 10^8</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2423,7 +2319,6 @@
     <valsi>gei</valsi> can be used in forethought to allow easy specification of a large (or small) imprecise number:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-zmqy">
       <title>
-        <anchor xml:id="c18e14d3"/>
         <indexterm type="example"><primary>10^20</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2441,7 +2336,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-7nMz">
       <title>
-        <anchor xml:id="c18e14d4"/>
       </title>
       <interlinear-gloss>
         <jbo>papano bi'eju'u re gei</jbo>
@@ -2455,7 +2349,7 @@
     </example>
   </section>
   <section xml:id="section-vectors-matrices">
-    <title><anchor xml:id="c18s15"/>Vectors and matrices</title>
+    <title>Vectors and matrices</title>
     <para>The following cmavo are discussed in this section:</para>
     <cmavo-list>
       <cmavo-entry>
@@ -2488,7 +2382,6 @@
     <valsi>te'u</valsi> is the elidable terminator. An example:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-IVDJ">
       <title>
-        <anchor xml:id="c18e15d1"/>
       </title>
       <interlinear-gloss>
         <jbo>li jo'i paboi reboi te'u su'i jo'i ciboi voboi -</jbo>
@@ -2529,7 +2422,6 @@
     <example role="interlinear-gloss-example" xml:id="example-random-id-zbJP">
       <title>
         <indexterm type="example"><primary>magic square</primary></indexterm>
-        <anchor xml:id="c18e15d2"/>
       </title>
       <interlinear-gloss>
         <jbo>jo'i biboi paboi xa pi'a jo'i ciboi muboi ze</jbo>
@@ -2543,7 +2435,6 @@
     <para role="noindent">or as</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-06dx">
       <title>
-        <anchor xml:id="c18e15d3"/>
       </title>
       <interlinear-gloss>
         <jbo>jo'i biboi ciboi vo sa'i jo'i paboi muboi so</jbo>
@@ -2569,7 +2460,7 @@
 
   </section>
   <section xml:id="section-reverse-polish-notation">
-    <title><anchor xml:id="c18s16"/>Reverse Polish notation</title>
+    <title>Reverse Polish notation</title>
     <para>The following cmavo is discussed in this section:</para>
     <cmavo-list>
       <cmavo-entry>
@@ -2589,7 +2480,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-V4xe">
       <title>
-        <anchor xml:id="c18e16d1"/>
       </title>
       <interlinear-gloss>
         <jbo>li fu'a reboi ci su'i du li mu</jbo>
@@ -2604,7 +2494,6 @@
     <para>Here is a more complex example:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-PSpq">
       <title>
-        <anchor xml:id="c18e16d2"/>
       </title>
       <interlinear-gloss>
         <jbo>li fu'a reboi ci pi'i voboi mu pi'i su'i</jbo>
@@ -2647,7 +2536,6 @@
     <valsi>ge'a</valsi> effectively merges the 2nd and 3rd operands into a single operand. Here are some examples:</para>
     <example xml:id="example-random-id-qiJp" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e16d3"/>
       </title>
       <interlinear-gloss>
         <jbo>li fu'a ciboi muboi vu'u</jbo>
@@ -2661,7 +2549,6 @@
     </example>
     <example xml:id="example-random-id-qijY" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e16d4"/>
       </title>
       <interlinear-gloss>
         <jbo>li cinoki'oki'o du</jbo>
@@ -2675,7 +2562,7 @@
     </example>
   </section>
   <section xml:id="section-connectives-within-mekso">
-    <title><anchor xml:id="c18s17"/>Logical and non-logical connectives within mekso</title>
+    <title>Logical and non-logical connectives within mekso</title>
     <para>The following cmavo are discussed in this section:</para>
     <cmavo-list>
       <cmavo-entry>
@@ -2714,7 +2601,6 @@
     <xref linkend="example-random-id-e9Xi"/> exhibits afterthought logical connection between operands:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-e9Xi">
       <title>
-        <anchor xml:id="c18e17d1"/>
         <indexterm type="example"><primary>three or four people</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2731,7 +2617,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-eiTM">
       <title>
-        <anchor xml:id="c18e17d2"/>
       </title>
       <interlinear-gloss>
         <jbo>vei ga ci gi vo ve'o prenu cu klama le zarci</jbo>
@@ -2747,7 +2632,6 @@
     <valsi>li</valsi> sumti is followed by a logical connective that could seem to be within the mekso. For example:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-LXtp">
       <title>
-        <anchor xml:id="c18e17d3"/>
       </title>
       <interlinear-gloss>
         <jbo>li re su'i re du</jbo>
@@ -2766,7 +2650,6 @@
     <para>Simple examples of logical connection between operators are hard to come by. A contrived example is:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-YoFg">
       <title>
-        <anchor xml:id="c18e17d4"/>
       </title>
       <interlinear-gloss>
         <jbo>li re su'i je pi'i re du li vo</jbo>
@@ -2778,7 +2661,6 @@
     <xref linkend="example-random-id-YoFg"/> is:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-ccNn">
       <title>
-        <anchor xml:id="c18e17d5"/>
       </title>
       <interlinear-gloss>
         <jbo>li re gu'e su'i gi pi'i re du li vo</jbo>
@@ -2789,7 +2671,6 @@
     <para role="indent">Here is a classic example of operator logical connection:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k36J">
       <title>
-        <anchor xml:id="c18e17d6"/>
         <indexterm type="example"><primary>quadratic formula</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2842,7 +2723,6 @@
     <valsi>bi'o</valsi> to create intervals:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Bzf6">
       <title>
-        <anchor xml:id="c18e17d7"/>
       </title>
       <interlinear-gloss>
         <jbo>li no ga'o bi'o ke'i pa</jbo>
@@ -2857,7 +2737,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-LvBT">
       <title>
-        <anchor xml:id="c18e17d8"/>
       </title>
       <interlinear-gloss>
         <jbo>li pimu ga'o mi'i ke'i pimu</jbo>
@@ -2870,7 +2749,6 @@
     <valsi>ke'i</valsi> still refer to the endpoints, although these are now implied rather than expressed. Another way of expressing the same thing:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-CEvD">
       <title>
-        <anchor xml:id="c18e17d9"/>
       </title>
       <interlinear-gloss>
         <jbo>li pimu su'i ni'upimu bi'o ke'i ma'upimu</jbo>
@@ -2886,7 +2764,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-eMsd">
       <title>
-        <anchor xml:id="c18e17d10"/>
       </title>
       <interlinear-gloss>
         <jbo>xy. xi vei by. ce'o dy. [ve'o]</jbo>
@@ -2899,7 +2776,7 @@
     </example>
   </section>
   <section xml:id="section-lojban-within-mekso">
-    <title><anchor xml:id="c18s18"/>Using Lojban resources within mekso</title>
+    <title>Using Lojban resources within mekso</title>
     <para>The following cmavo are discussed in this section:</para>
     <cmavo-list>
       <cmavo-entry>
@@ -2932,7 +2809,6 @@
     <valsi>na'u</valsi> makes a selbri into an operator. In general, the first place of the selbri specifies the result of the operator, and the other unfilled places specify the operands:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k38f">
       <title>
-        <anchor xml:id="c18e18d1"/>
         <indexterm type="example"><primary>tan(pi/2) = infinity</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2961,7 +2837,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-wCJQ">
       <title>
-        <anchor xml:id="c18e18d2"/>
         <indexterm type="example"><primary>Length * Width * Depth = Volume</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2993,7 +2868,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-ETmX">
       <title>
-        <anchor xml:id="c18e18d3"/>
         <indexterm type="example"><primary>2 rats + 2 rabbits = 4 animals</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -3016,7 +2890,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-D4y4">
       <title>
-        <anchor xml:id="c18e18d4"/>
         <indexterm type="example"><primary>pride of lions</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -3029,7 +2902,7 @@
     </example>
   </section>
   <section xml:id="section-other-mekso-uses">
-    <title><anchor xml:id="c18s19"/>Other uses of mekso</title>
+    <title>Other uses of mekso</title>
     <para>The following cmavo are discussed in this section:</para>
     <cmavo-list>
       <cmavo-entry>
@@ -3072,7 +2945,6 @@
     <quote>the mekso ...</quote> So it is true that:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-93Qu">
       <title>
-        <anchor xml:id="c18e19d1"/>
       </title>
       <interlinear-gloss>
         <jbo>li re su'i re du li vo</jbo>
@@ -3083,7 +2955,6 @@
     <para role="noindent">but false that:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Shbg">
       <title>
-        <anchor xml:id="c18e19d2"/>
       </title>
       <interlinear-gloss>
         <jbo>me'o re su'i re du me'o vo</jbo>
@@ -3106,7 +2977,6 @@
     <para>for as many places as may be required. For example:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-9idi">
       <title>
-        <anchor xml:id="c18e19d3"/>
       </title>
       <interlinear-gloss>
         <jbo>li ni'umu cu nu'a va'a li ma'umu</jbo>
@@ -3123,7 +2993,6 @@
     <xref linkend="example-random-id-qILi"/> is one correct answer:</para>
     <example xml:id="example-random-id-qIKp" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e19d4"/>
       </title>
       <interlinear-gloss>
         <jbo>li re na'u</jbo>
@@ -3137,7 +3006,6 @@
     </example>
     <example xml:id="example-random-id-qILi" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e19d5"/>
       </title>
       <interlinear-gloss>
         <jbo>nu'a su'i</jbo>
@@ -3156,7 +3024,6 @@
     <xref linkend="example-random-id-qIKp"/> produces:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-M5YX">
       <title>
-        <anchor xml:id="c18e19d6"/>
       </title>
       <interlinear-gloss>
         <jbo>li re na'u nu'a</jbo>
@@ -3181,7 +3048,6 @@
     <example xml:id="example-random-id-qimN" role="interlinear-gloss-example">
       <title>
         <indexterm type="example"><primary>firstly</primary></indexterm>
-        <anchor xml:id="c18e19d7"/>
       </title>
       <interlinear-gloss>
         <jbo>pamai</jbo>
@@ -3191,7 +3057,6 @@
     </example>
     <example xml:id="example-random-id-qiMz" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e19d8"/>
       </title>
       <interlinear-gloss>
         <jbo>remai</jbo>
@@ -3200,7 +3065,6 @@
     </example>
     <example xml:id="example-random-id-qInd" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e19d9"/>
       </title>
       <interlinear-gloss>
         <jbo>romai</jbo>
@@ -3210,7 +3074,6 @@
     </example>
     <example xml:id="example-random-id-qIoY" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e19d10"/>
       </title>
       <interlinear-gloss>
         <jbo>ny.mai</jbo>
@@ -3219,7 +3082,6 @@
     </example>
     <example xml:id="example-random-id-qiPq" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e19d11"/>
       </title>
       <interlinear-gloss>
         <jbo>pasomo'o</jbo>
@@ -3250,7 +3112,7 @@
     <valsi>boi</valsi> is not used between a number and a member of MAI or ROI.</para>
   </section>
   <section xml:id="section-explicit-operator-precedence">
-    <title><anchor xml:id="c18s20"/>Explicit operator precedence</title>
+    <title>Explicit operator precedence</title>
 
     <para>As mentioned earlier, Lojban does provide a way for the precedences of operators to be explicitly declared, although current parsers do not understand these declarations.</para>
     <para> The declaration is made in the form of a metalinguistic comment using
@@ -3270,13 +3132,12 @@
 
   </section>
   <section xml:id="section-miscellany">
-    <title><anchor xml:id="c18s21"/>Miscellany</title>
+    <title>Miscellany</title>
     <para>A few other points:</para>
     <para> <indexterm type="general"><primary>se</primary><secondary>use with operators</secondary></indexterm>  <indexterm type="general"><primary>conversion</primary><secondary>of operator places</secondary></indexterm>
     <valsi>se</valsi> can be used to convert an operator as if it were a tanru unit, so that its arguments are exchanged. For example:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-NwYJ">
       <title>
-        <anchor xml:id="c18e21d1"/>
       </title>
       <interlinear-gloss>
         <jbo>li ci se vu'u vo du li pa</jbo>
@@ -3288,7 +3149,6 @@
     <para> <indexterm type="lojban-word"><primary>NAhE selma'o</primary></indexterm>  <indexterm type="general"><primary>negation</primary><secondary>of operator</secondary></indexterm> Members of selma'o NAhE are also legal on an operator to produce a scalar negation of it. The implication is that some other operator would apply to make the bridi true:</para>
     <example xml:id="example-random-id-qIPR" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e21d2"/>
       </title>
       <interlinear-gloss>
         <jbo>li ci na'e su'i vo du li pare</jbo>
@@ -3297,7 +3157,6 @@
     </example>
     <example xml:id="example-random-id-qiqd" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c18e21d3"/>
         <indexterm type="example"><primary>opposite-of-minus</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -3315,7 +3174,6 @@
     <valsi>bo</valsi> serves to scalar-negate an operand, implying that some other operand would make the bridi true:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-3het">
       <title>
-        <anchor xml:id="c18e21d4"/>
       </title>
       <interlinear-gloss>
         <jbo>li re su'i re du li na'ebo mu</jbo>
@@ -3327,7 +3185,6 @@
     <para role="indent"> <indexterm type="general"><primary>digits</primary><secondary>names from</secondary></indexterm>  <indexterm type="general"><primary>digits</primary><secondary>rafsi for</secondary></indexterm> The digits 0-9 have rafsi, and therefore can be used in making lujvo. Additionally, all the rafsi have CVC form and can stand alone or together as names:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-hvGK">
       <title>
-        <anchor xml:id="c18e21d5"/>
       </title>
       <interlinear-gloss>
         <jbo>la .zel. poi gunta la .tebes. pu nanmu</jbo>
@@ -3339,7 +3196,6 @@
     <cmevla>.zel.</cmevla> is connected with the number rafsi: an alternative which cannot be misconstrued is:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-pf3n">
       <title>
-        <anchor xml:id="c18e21d6"/>
       </title>
       <interlinear-gloss>
         <jbo>la zemei ku poi gunta</jbo>
@@ -3403,7 +3259,7 @@
     <quote>the function whose value is always <varname>f</varname></quote>. However, mathematicians do not normally use the same lerfu words or strings as both functions and variables, so this case should not arise in practice.</para>
   </section>
   <section xml:id="section-four-score-and-seven">
-    <title><anchor xml:id="c18s22"/>Four score and seven: a mekso problem</title>
+    <title>Four score and seven: a mekso problem</title>
 
     <para>
 
@@ -3418,7 +3274,6 @@
     <quote>dozen</quote> for 12.) The trivial way:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-DzMH">
       <title>
-        <anchor xml:id="c18e22d1"/>
       </title>
       <interlinear-gloss>
         <jbo>li bize</jbo>
@@ -3430,7 +3285,6 @@
     <xref linkend="example-random-id-DzMH"/> is mathematically correct, but sacrifices the spirit of the English words, which are intended to be complex and formal.</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-HNyL">
       <title>
-        <anchor xml:id="c18e22d2"/>
       </title>
       <interlinear-gloss>
         <jbo>li vo pi'i reno su'i ze</jbo>
@@ -3445,7 +3299,6 @@
     <quote>Four score years and seven years ago</quote>. Thinking of a score as a twentysome rather than as 20 leads to:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-iwba">
       <title>
-        <anchor xml:id="c18e22d3"/>
         <indexterm type="example"><primary>Four score and seven</primary></indexterm>
         <indexterm type="example"><primary>Gettysburg Address</primary></indexterm>
       </title>
@@ -3474,7 +3327,6 @@
     <quote>score</quote> is the representation base, then we have:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-2C3I">
       <title>
-        <anchor xml:id="c18e22d4"/>
       </title>
       <interlinear-gloss>
         <jbo>li vo pi'e ze ju'u reno</jbo>
@@ -3489,7 +3341,7 @@
     <xref linkend="example-random-id-2C3I"/> is too tricky. Nevertheless, all four examples are good Lojban. Pedagogically, these examples illustrate the richness of lojbau mekso: anything that can be said at all, can probably be said in more than one way.</para>
   </section>
   <section xml:id="section-selmaho-summary">
-    <title><anchor xml:id="c18s23"/>mekso selma'o summary</title>
+    <title>mekso selma'o summary</title>
     <para>Except as noted, each selma'o has only one cmavo.</para>
     <para role="allowbreaks"/>
     <cmavo-list>
@@ -3578,7 +3430,7 @@
     </cmavo-list>
   </section>
   <section xml:id="section-vuhu">
-    <title><anchor xml:id="c18s24"/>Complete table of VUhU cmavo, with operand structures</title>
+    <title>Complete table of VUhU cmavo, with operand structures</title>
     <para>The operand structures specify what various operands (labeled a, b, c, ...) mean. The implied context is forethought, since only forethought operators can have a variable number of operands; however, the same rules apply to infix and RP uses of VUhU.<indexterm type="general"><primary>operators</primary><secondary>list of simple</secondary></indexterm></para>
     <para role="allowbreaks"/>
     <cmavo-list>
@@ -3699,7 +3551,7 @@
     </cmavo-list>
   </section>
   <section xml:id="section-pa">
-    <title><anchor xml:id="c18s25"/>Complete table of PA cmavo: digits, punctuation, and other numbers.</title>
+    <title>Complete table of PA cmavo: digits, punctuation, and other numbers.</title>
     <itemizedlist>
       <listitem>
         <cmavo-list>
@@ -3945,7 +3797,7 @@
     </itemizedlist>
   </section>
   <section xml:id="section-moi">
-    <title><anchor xml:id="c18s26"/>Table of MOI cmavo, with associated rafsi and place structures</title>
+    <title>Table of MOI cmavo, with associated rafsi and place structures</title>
     <cmavo-list>
       <cmavo-list-head>
         <td><emphasis role="bold">cmavo</emphasis></td>

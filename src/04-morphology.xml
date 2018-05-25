@@ -5,10 +5,10 @@
   <!ENTITY hellip "&#x02026;" ><!--HORIZONTAL ELLIPSIS -->
 ]>
 <chapter xml:id="chapter-morphology">
-  <title><anchor xml:id="c4"/>The Shape Of Words To Come: Lojban Morphology</title>
+  <title>The Shape Of Words To Come: Lojban Morphology</title>
 
   <section xml:id="section-morphology-introduction">
-    <title><anchor xml:id="c4s1"/>Introductory</title>
+    <title>Introductory</title>
     <para><indexterm type="general"><primary>word forms</primary><secondary>in Lojban (see also morphology)</secondary></indexterm>  <indexterm type="general"><primary>morphology</primary><secondary>definition</secondary></indexterm>  <indexterm type="general"><primary>morphology</primary><secondary>simplicity of</secondary></indexterm> Morphology is the part of grammar that deals with the form of words. Lojban's morphology is fairly simple compared to that of many languages, because Lojban words don't change form depending on how they are used. English has only a small number of such changes compared to languages like Russian, but it does have changes like
     <quote>boys</quote> as the plural of
 
@@ -327,7 +327,7 @@
     <quote>Pope John Paul II</quote>.</para>
   </section>
   <section xml:id="section-cmavo">
-    <title><anchor xml:id="c4s2"/>cmavo</title>
+    <title>cmavo</title>
     <para> <indexterm type="general"><primary>punctuation marks</primary><secondary>cmavo as Lojban equivalents</secondary></indexterm>  <indexterm type="general"><primary>numbers</primary><secondary>cmavo as Lojban equivalents</secondary></indexterm>  <indexterm type="general"><primary>prepositions</primary><secondary>cmavo as Lojban equivalents</secondary></indexterm>  <indexterm type="general"><primary>conjunctions</primary><secondary>cmavo as Lojban equivalents</secondary></indexterm>  <indexterm type="general"><primary>articles</primary><secondary>cmavo as Lojban equivalents</secondary></indexterm>  <indexterm type="general"><primary>structure words</primary></indexterm>  <indexterm type="general"><primary>selma'o</primary><secondary>definition</secondary></indexterm>  <indexterm type="general"><primary>cmavo</primary><secondary>definition</secondary></indexterm> The first group of Lojban words discussed in this chapter are the cmavo. They are the structure words that hold the Lojban language together. They often have no semantic meaning in themselves, though they may affect the semantics of brivla to which they are attached. The cmavo include the equivalent of English articles, conjunctions, prepositions, numbers, and punctuation marks. There are over a hundred subcategories of cmavo, known as <valsi>selma'o</valsi>, each having a specifically defined grammatical usage. The various selma'o are discussed throughout
     <xref linkend="chapter-selbri"/> to
     <xref linkend="chapter-structure"/> and summarized in
@@ -374,7 +374,6 @@
     <para>For example:</para>
     <example xml:id="example-random-id-qiXV" role="compound-cmavo-example">
       <title>
-        <anchor xml:id="c4e2d1"/>
       </title>
       <compound-cmavo>
         <jbo>.iseju</jbo>
@@ -383,7 +382,6 @@
     </example>
     <example xml:id="example-random-id-qIYK" role="compound-cmavo-example">
       <title>
-        <anchor xml:id="c4e2d2"/>
       </title>
       <compound-cmavo>
         <jbo>punaijecanai</jbo>
@@ -392,7 +390,6 @@
     </example>
     <example xml:id="example-random-id-qiz6" role="compound-cmavo-example">
       <title>
-        <anchor xml:id="c4e2d3"/>
       </title>
       <compound-cmavo>
         <jbo>ki'a.u'e</jbo>
@@ -404,14 +401,12 @@
     <letteral>.</letteral>) before it. On the other hand,</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-FDhH">
       <title>
-        <anchor xml:id="c4e2d4"/>
       </title>
       <para><jbophrase>ki'au'e</jbophrase> and <jbophrase>ki'a'u'e</jbophrase></para>
     </example>
     <para role="noindent">are both single cmavo reserved for experimental purposes.</para>
     <example role="compound-cmavo-example" xml:id="example-random-id-CtnR">
       <title>
-        <anchor xml:id="c4e2d5"/>
       </title>
       <compound-cmavo>
         <jbo>cy.ibu.abu</jbo>
@@ -425,7 +420,6 @@
     <para> <indexterm type="general"><primary>stress</primary><secondary>on cmavo</secondary></indexterm>  <indexterm type="general"><primary>cmavo</primary><secondary>stress on</secondary></indexterm> There is no particular stress required in cmavo or their compounds. Some conventions do exist that are not mandatory. For two-syllable cmavo, for example, stress is typically placed on the first vowel; an example is</para>
     <example role="pronunciation-example" xml:id="example-random-id-pdGY">
       <title>
-        <anchor xml:id="c4e2d6"/>
       </title>
       <pronunciation>
         <jbo>.e'o ko ko kurji</jbo>
@@ -437,14 +431,12 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-uqDz">
       <title>
-        <anchor xml:id="c4e2d7"/>
       </title>
       <jbophrase>lo re nanmu</jbophrase>
     </example>
     <para role="noindent">can be optionally pronounced</para>
     <example role="pronunciation-example" xml:id="example-random-id-dfzc">
       <title>
-        <anchor xml:id="c4e2d8"/>
       </title>
       <pronunciation>
         <jbo role="pronunciation">lo RE. NANmu</jbo>
@@ -459,7 +451,6 @@
 
     <example role="pronunciation-example" xml:id="example-random-id-bLbf">
       <title>
-        <anchor xml:id="c4e2d9"/>
       </title>
       <pronunciation>
         <jbo>LO re NANmu</jbo>
@@ -474,7 +465,6 @@
     <para>Both cmavo may also be left unstressed, thus:</para>
     <example role="pronunciation-example" xml:id="example-random-id-sg0p">
       <title>
-        <anchor xml:id="c4e2d10"/>
       </title>
       <pronunciation>
         <jbo role="pronunciation">lo re NANmu</jbo>
@@ -483,7 +473,7 @@
     <para role="indent">This would probably be the most common usage.</para>
   </section>
   <section xml:id="section-morphology-brivla">
-    <title><anchor xml:id="c4s3"/>brivla</title>
+    <title>brivla</title>
     <para> <indexterm type="general"><primary>adverbs</primary><secondary>brivla as Lojban equivalents</secondary></indexterm>  <indexterm type="general"><primary>verbs</primary><secondary>brivla as Lojban equivalents</secondary></indexterm>  <indexterm type="general"><primary>adjectives</primary><secondary>brivla as Lojban equivalents</secondary></indexterm>  <indexterm type="general"><primary>nouns</primary><secondary>brivla as Lojban equivalents</secondary></indexterm>  <indexterm type="general"><primary>brivla</primary><secondary>definition</secondary></indexterm> Predicate words, called
     <valsi>brivla</valsi>, are at the core of Lojban. They carry most of the semantic information in the language. They serve as the equivalent of English nouns, verbs, adjectives, and adverbs, all in a single part of speech.</para>
 
@@ -546,7 +536,7 @@
     </orderedlist>
   </section>
   <section xml:id="section-gismu">
-    <title><anchor xml:id="c4s4"/>gismu</title>
+    <title>gismu</title>
     <para> <indexterm type="general"><primary>gismu</primary><secondary>rationale for choice of</secondary></indexterm>  <indexterm type="general"><primary>gismu</primary><secondary>definition</secondary></indexterm> The gismu, or Lojban root words, are those brivla representing concepts most basic to the language. The gismu were chosen for various reasons: some represent concepts that are very familiar and basic; some represent concepts that are frequently used in other languages; some were added because they would be helpful in constructing more complex words; some because they represent fundamental Lojban concepts (like
     <valsi>cmavo</valsi> and
     <valsi>gismu</valsi> themselves).</para>
@@ -592,7 +582,6 @@
     <para> <indexterm type="general"><primary>gismu</primary><secondary>examples of</secondary></indexterm> Here are a few examples of gismu, with rough English equivalents (not definitions):</para>
     <example xml:id="example-random-id-qJ0x" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c4e4d1"/>
       </title>
       <interlinear-gloss>
         <jbo>creka</jbo>
@@ -601,7 +590,6 @@
     </example>
     <example xml:id="example-random-id-qj4M" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c4e4d2"/>
       </title>
       <interlinear-gloss>
         <jbo>lijda</jbo>
@@ -610,7 +598,6 @@
     </example>
     <example xml:id="example-random-id-qJ4M" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c4e4d3"/>
       </title>
       <interlinear-gloss>
         <jbo>blanu</jbo>
@@ -619,7 +606,6 @@
     </example>
     <example xml:id="example-random-id-qJ5Y" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c4e4d4"/>
       </title>
       <interlinear-gloss>
         <jbo>mamta</jbo>
@@ -628,7 +614,6 @@
     </example>
     <example xml:id="example-random-id-qj6K" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c4e4d5"/>
       </title>
       <interlinear-gloss>
         <jbo>cukta</jbo>
@@ -637,7 +622,6 @@
     </example>
     <example xml:id="example-random-id-qJ6R" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c4e4d6"/>
       </title>
       <interlinear-gloss>
         <jbo>patfu</jbo>
@@ -646,7 +630,6 @@
     </example>
     <example xml:id="example-random-id-qJ6y" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c4e4d7"/>
       </title>
       <interlinear-gloss>
         <jbo>nanmu</jbo>
@@ -655,7 +638,6 @@
     </example>
     <example xml:id="example-random-id-qj71" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c4e4d8"/>
       </title>
       <interlinear-gloss>
         <jbo>ninmu</jbo>
@@ -666,13 +648,12 @@
     <xref linkend="section-cultural-gismu"/> for a list.</para>
   </section>
   <section xml:id="section-lujvo">
-    <title><anchor xml:id="c4s5"/>lujvo</title>
+    <title>lujvo</title>
     <para> <indexterm type="general"><primary>modifying brivla (see also seltau)</primary></indexterm>  <indexterm type="general"><primary>seltau</primary><secondary>compared with English adverb</secondary></indexterm>  <indexterm type="general"><primary>seltau</primary><secondary>compared with English adjective</secondary></indexterm>  <indexterm type="general"><primary>tanru</primary><secondary>explanation of</secondary></indexterm> When specifying a concept that is not found among existing brivla (or, more specifically, when the relevant word seems too general in meaning), a Lojbanist generally first attempts to express the concept as a tanru. In Lojban, any brivla can be used to modify another brivla. The first of the pair modifies the second. This modification is usually restrictive &ndash; the modifying brivla reduces the broader sense of the modified brivla to form a more narrow, concrete, or specific concept. Modifying brivla may thus be seen as acting like English adverbs or adjectives. For example,</para>
 
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-xhQP">
       <title>
-        <anchor xml:id="c4e5d1"/>
       </title>
       <jbophrase>skami pilno</jbophrase>
     </example>
@@ -689,7 +670,6 @@
     <example role="interlinear-gloss-example" xml:id="example-random-id-oLE3">
       <title>
         <indexterm type="example"><primary>big boat</primary></indexterm>
-        <anchor xml:id="c4e5d2"/>
       </title>
       <jbophrase>barda bloti</jbophrase>
     </example>
@@ -704,11 +684,7 @@
     <example role="interlinear-gloss-example" xml:id="example-random-id-4wK9">
       <title>
 
-
 <indexterm type="example"><primary>father mother</primary></indexterm>
-
-
-        <anchor xml:id="c4e5d3"/>
       </title>
       <jbophrase>patfu mamta</jbophrase>
     </example>
@@ -716,11 +692,7 @@
     <example role="interlinear-gloss-example" xml:id="example-random-id-KQ4s">
       <title>
 
-
 <indexterm type="example"><primary>mother father</primary></indexterm>
-
-
-        <anchor xml:id="c4e5d4"/>
       </title>
       <jbophrase>mamta patfu</jbophrase>
     </example>
@@ -735,7 +707,6 @@
     <quote>user of computers</quote>, and form the new word</para>
     <example role="lujvo-example" xml:id="example-random-id-v5YD">
       <title>
-        <anchor xml:id="c4e5d5"/>
       </title>
       <lujvo-making>
         <jbo>sampli</jbo>
@@ -746,7 +717,6 @@
     <xref linkend="example-random-id-oLE3"/>, would be:</para>
     <example role="lujvo-example" xml:id="example-random-id-aiAR">
       <title>
-        <anchor xml:id="c4e5d6"/>
       </title>
       <lujvo-making>
         <jbo>brablo</jbo>
@@ -763,7 +733,6 @@
     <xref linkend="example-random-id-KQ4s"/> is</para>
     <example role="lujvo-example" xml:id="example-random-id-TCUH">
       <title>
-        <anchor xml:id="c4e5d7"/>
       </title>
       <lujvo-making>
         <jbo>mampa'u</jbo>
@@ -797,11 +766,7 @@
     <example role="lujvo-example" xml:id="example-random-id-3Qtv">
       <title>
 
-
 <indexterm type="example"><primary>field rations</primary></indexterm>
-
-
-        <anchor xml:id="c4e5d8"/>
       </title>
       <lujvo-making>
         <jbo>soirsai</jbo>
@@ -823,7 +788,7 @@
     <para> <indexterm type="general"><primary>lujvo</primary><secondary>invention of</secondary></indexterm> Most important, it is possible to invent new lujvo while you speak or write in order to represent a new or unfamiliar concept, one for which you do not know any existing Lojban word. As long as you follow the rules for building these compounds, there is a good chance that you will be understood without explanation.</para>
   </section>
   <section xml:id="section-rafsi">
-    <title><anchor xml:id="c4s6"/>rafsi</title>
+    <title>rafsi</title>
     <para> <indexterm type="general"><primary>rafsi</primary><secondary>selection considerations in making lujvo</secondary></indexterm>  <indexterm type="general"><primary>gismu</primary><secondary>level of uniqueness of rafsi relating to</secondary></indexterm>  <indexterm type="general"><primary>rafsi</primary><secondary>level of uniqueness of relation to gismu</secondary></indexterm>  <indexterm type="general"><primary>rafsi</primary><secondary>multiplicity of for single gismu</secondary></indexterm>  <indexterm type="general"><primary>rafsi</primary><secondary>uniqueness in gismu referent of</secondary></indexterm>  <indexterm type="general"><primary>rafsi</primary><secondary>use of</secondary></indexterm> Every gismu has from two to five rafsi, each of a different form, but each such rafsi represents only one gismu. It is valid to use any of the rafsi forms in building lujvo &ndash; whichever the reader or listener will most easily understand, or whichever is most pleasing &ndash; subject to the rules of lujvo making. There is a scoring algorithm which is intended to determine which of the possible and legal lujvo forms will be the standard dictionary form (see
     <xref linkend="section-lujvo-scoring"/>).</para>
     <para> <indexterm type="general"><primary>unreduced lujvo</primary><secondary>definition</secondary></indexterm>  <indexterm type="general"><primary>long rafsi</primary><secondary>definition</secondary></indexterm>  <indexterm type="general"><primary>4-letter rafsi</primary><secondary>definition</secondary></indexterm>  <indexterm type="general"><primary>5-letter rafsi</primary><secondary>definition</secondary></indexterm>  <indexterm type="general"><primary>gismu</primary><secondary>basic rafsi for</secondary></indexterm>  <indexterm type="general"><primary>lujvo</primary><secondary>unreduced</secondary></indexterm>  <indexterm type="general"><primary>rafsi</primary><secondary>long</secondary></indexterm>  <indexterm type="general"><primary>rafsi</primary><secondary>forms of</secondary></indexterm> Each gismu always has at least two rafsi forms; one is the gismu itself (used only at the end of a lujvo), and one is the gismu without its final vowel (used only at the beginning or middle of a lujvo). These forms are represented as CVC/CV or CCVCV (called
@@ -838,7 +803,6 @@
 
     <example xml:id="example-random-id-qj84" role="lujvo-example">
       <title>
-        <anchor xml:id="c4e6d1"/>
       </title>
       <lujvo-making>
         <jbo>mamtypatfu</jbo>
@@ -848,7 +812,6 @@
     </example>
     <example xml:id="example-random-id-qj99" role="lujvo-example">
       <title>
-        <anchor xml:id="c4e6d2"/>
       </title>
       <lujvo-making>
         <jbo>lerfyliste</jbo>
@@ -859,7 +822,6 @@
     </example>
     <example xml:id="example-random-id-qj9G" role="lujvo-example">
       <title>
-        <anchor xml:id="c4e6d3"/>
       </title>
       <lujvo-making>
         <jbo>nancyprali</jbo>
@@ -869,7 +831,6 @@
     </example>
     <example xml:id="example-random-id-qJbi" role="lujvo-example">
       <title>
-        <anchor xml:id="c4e6d4"/>
       </title>
       <lujvo-making>
         <jbo>prunyplipe</jbo>
@@ -880,11 +841,7 @@
     <example xml:id="example-random-id-qjbP" role="lujvo-example">
       <title>
 
-
 <indexterm type="example"><primary>supper</primary></indexterm>
-
-
-        <anchor xml:id="c4e6d5"/>
       </title>
       <lujvo-making>
         <jbo>vancysanmi</jbo>
@@ -1011,7 +968,6 @@
 
     <example xml:id="example-random-id-qJc2" role="lujvo-example">
       <title>
-        <anchor xml:id="c4e6d6"/>
       </title>
       <lujvo-making>
         <jbo>cumfri</jbo>
@@ -1021,7 +977,6 @@
     </example>
     <example xml:id="example-random-id-qjcA" role="lujvo-example">
       <title>
-        <anchor xml:id="c4e6d7"/>
       </title>
       <lujvo-making>
         <jbo>klezba</jbo>
@@ -1031,7 +986,6 @@
     </example>
     <example xml:id="example-random-id-qjD7" role="lujvo-example">
       <title>
-        <anchor xml:id="c4e6d8"/>
       </title>
       <lujvo-making>
         <jbo>kixta'a</jbo>
@@ -1041,7 +995,6 @@
     </example>
     <example xml:id="example-random-id-qJDa" role="lujvo-example">
       <title>
-        <anchor xml:id="c4e6d9"/>
       </title>
       <lujvo-making>
         <jbo>sniju'o</jbo>
@@ -1052,7 +1005,6 @@
     <para role="indent">In addition, the unreduced forms in <xref linkend="example-random-id-qj84"/> and <xref linkend="example-random-id-qj99"/> may be fully reduced to:</para>
     <example xml:id="example-random-id-qjdE" role="lujvo-example">
       <title>
-        <anchor xml:id="c4e6d10"/>
       </title>
       <lujvo-making>
         <jbo>mampa'u</jbo>
@@ -1062,7 +1014,6 @@
     </example>
     <example xml:id="example-random-id-qJDg" role="lujvo-example">
       <title>
-        <anchor xml:id="c4e6d11"/>
       </title>
       <lujvo-making>
         <jbo>lerste</jbo>
@@ -1122,7 +1073,6 @@ There is also a different way of building lujvo, or rather phrases which are gra
     <valsi>zei</valsi>. Thus,</para>
     <example role="lujvo-example" xml:id="example-random-id-VeGL">
       <title>
-        <anchor xml:id="c4e6d12"/>
       </title>
       <lujvo-making>
         <jbo>bridi zei valsi</jbo>
@@ -1135,11 +1085,7 @@ There is also a different way of building lujvo, or rather phrases which are gra
     <example xml:id="example-random-id-qJe1" role="lujvo-example">
       <title>
 
-
 <indexterm type="example"><primary>X-ray</primary></indexterm>
-
-
-        <anchor xml:id="c4e6d13"/>
       </title>
       <lujvo-making>
         <jbo>xy. zei kantu</jbo>
@@ -1149,12 +1095,10 @@ There is also a different way of building lujvo, or rather phrases which are gra
     <example xml:id="example-random-id-qJeE" role="lujvo-example">
       <title>
 
-
 <indexterm type="example"><primary>Persian rug</primary></indexterm>
 
 
         <indexterm type="example"><primary>rug</primary><secondary>Persian</secondary></indexterm>
-        <anchor xml:id="c4e6d14"/>
       </title>
       <lujvo-making>
         <jbo>kulnrfarsi zei lolgai</jbo>
@@ -1165,11 +1109,7 @@ There is also a different way of building lujvo, or rather phrases which are gra
     <example xml:id="example-random-id-qJef" role="lujvo-example">
       <title>
 
-
 <indexterm type="example"><primary>hepatitis</primary></indexterm>
-
-
-        <anchor xml:id="c4e6d15"/>
       </title>
       <lujvo-making>
         <jbo>na'e zei .a zei na'e zei by. livgyterbilma</jbo>
@@ -1180,12 +1120,10 @@ There is also a different way of building lujvo, or rather phrases which are gra
     <example xml:id="example-random-id-qJEh" role="lujvo-example">
       <title>
 
-
 <indexterm type="example"><primary>Sherman tank</primary></indexterm>
 
 
         <indexterm type="example"><primary>tank</primary><secondary>Sherman</secondary></indexterm>
-        <anchor xml:id="c4e6d16"/>
       </title>
       <lujvo-making>
         <jbo>.cerman. zei jamkarce</jbo>
@@ -1201,11 +1139,7 @@ There is also a different way of building lujvo, or rather phrases which are gra
     <example role="lujvo-example" xml:id="example-random-id-Wnaz">
       <title>
 
-
 <indexterm type="example"><primary>hepatitis</primary></indexterm>
-
-
-        <anchor xml:id="c4e6d17"/>
       </title>
       <lujvo-making>
         <jbo>na'e zei .a zei na'e zei by. zei livgyterbilma</jbo>
@@ -1219,7 +1153,7 @@ There is also a different way of building lujvo, or rather phrases which are gra
     <valsi>zei</valsi> phrases, because they are not words. CVV rafsi look like words (specifically cmavo) but there can be no confusion between the two uses of the same letters, because cmavo appear only as separate words; rafsi appear only as parts of lujvo.</para>
   </section>
   <section xml:id="section-fuhivla">
-    <title><anchor xml:id="c4s7"/>fu'ivla and zi'evla</title>
+    <title>fu'ivla and zi'evla</title>
     <para> <indexterm type="general"><primary>lujvo</primary><secondary>unsuitability of for concrete/specific terms and jargon</secondary></indexterm>  <indexterm type="general"><primary>food</primary><secondary>use of fu'ivla for specific</secondary></indexterm>  <indexterm type="general"><primary>animals</primary><secondary>use of fu'ivla for specific</secondary></indexterm>  <indexterm type="general"><primary>plants</primary><secondary>use of fu'ivla for specific</secondary></indexterm>  <indexterm type="general"><primary>jargon</primary><secondary>use of fu'ivla for</secondary></indexterm>  <indexterm type="general"><primary>specific terms</primary><secondary>use of fu'ivla for</secondary></indexterm>  <indexterm type="general"><primary>concrete terms</primary><secondary>use of fu'ivla for</secondary></indexterm>  <indexterm type="general"><primary>fu'ivla</primary><secondary>use of</secondary></indexterm> The use of tanru or lujvo is not always appropriate for very concrete or specific terms (e.g.
 
     <quote>brie</quote> or
@@ -1240,7 +1174,6 @@ There is also a different way of building lujvo, or rather phrases which are gra
     <xref linkend="section-more-quotations"/>):</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-QpNm">
       <title>
-        <anchor xml:id="c4e7d1"/>
       </title>
       <jbophrase>me la'o ly. spaghetti .ly.</jbophrase>
     </example>
@@ -1251,7 +1184,6 @@ There is also a different way of building lujvo, or rather phrases which are gra
     <xref linkend="section-cmevla"/>:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-zijY">
       <title>
-        <anchor xml:id="c4e7d2"/>
       </title>
       <jbophrase>me la .spagetis.</jbophrase>
     </example>
@@ -1331,12 +1263,7 @@ There is also a different way of building lujvo, or rather phrases which are gra
     <para>Here are a few examples:</para>
     <example role="lojbanization-example" xml:id="example-random-id-ufin">
       <title>
-
-
 <indexterm type="example"><primary>spaghetti</primary></indexterm>
-
-
-        <anchor xml:id="c4e7d3"/>
 <indexterm type="example"><primary>syllabic pronunciations of consonants</primary><secondary>in fu'ivla</secondary></indexterm>
         <indexterm type="example"><primary>syllabic pronunciations of consonants</primary><secondary>in fu'ivla category attachment</secondary></indexterm>
       </title>
@@ -1356,7 +1283,6 @@ There is also a different way of building lujvo, or rather phrases which are gra
     <valsi>cidjrspageti</valsi> as a kind of food. The form with the short rafsi happens to work, but such good fortune cannot be relied on: in any event, it means the same thing.</para>
     <example role="lojbanization-example" xml:id="example-random-id-pzXe">
       <title>
-
         <indexterm type="example"><primary>syllabic pronunciations of consonants</primary><secondary>in fu'ivla category attachment</secondary></indexterm>
 <indexterm type="example"><primary>syllabic pronunciations of consonants</primary><secondary>in fu'ivla</secondary></indexterm>
 
@@ -1371,9 +1297,6 @@ There is also a different way of building lujvo, or rather phrases which are gra
 
 
 <indexterm type="example"><primary>maple sugar</primary></indexterm>
-
-
-        <anchor xml:id="c4e7d4"/>
       </title>
       <lojbanization>
         <natlang>Acer <comment>(the scientific name of maple trees)</comment></natlang>
@@ -1398,14 +1321,10 @@ There is also a different way of building lujvo, or rather phrases which are gra
     <valsi valid='maybe'>tricrxaceru</valsi> are distinct fu'ivla, but they would surely be given the same meanings if both happened to be in use.</para>
     <example role="lojbanization-example" xml:id="example-random-id-C0YS">
       <title>
-
         <indexterm type="example"><primary>syllabic pronunciations of consonants</primary><secondary>in fu'ivla category attachment</secondary></indexterm>
 <indexterm type="example"><primary>syllabic pronunciations of consonants</primary><secondary>in fu'ivla</secondary></indexterm>
 
 <indexterm type="example"><primary>brie</primary></indexterm>
-
-
-        <anchor xml:id="c4e7d5"/>
       </title>
       <lojbanization>
         <natlang>brie <comment>(from French)</comment></natlang>
@@ -1419,14 +1338,10 @@ There is also a different way of building lujvo, or rather phrases which are gra
     <valsi>cirla</valsi> (<quote>cheese</quote>).</para>
     <example role="lojbanization-example" xml:id="example-random-id-DQju">
       <title>
-
         <indexterm type="example"><primary>syllabic pronunciations of consonants</primary><secondary>in fu'ivla category attachment</secondary></indexterm>
 <indexterm type="example"><primary>syllabic pronunciations of consonants</primary><secondary>in fu'ivla</secondary></indexterm>
 
 <indexterm type="example"><primary>cobra</primary></indexterm>
-
-
-        <anchor xml:id="c4e7d6"/>
       </title>
       <lojbanization>
         <natlang>cobra</natlang>
@@ -1440,14 +1355,10 @@ There is also a different way of building lujvo, or rather phrases which are gra
     <valsi>since</valsi> (<quote>snake</quote>).</para>
     <example role="lojbanization-example" xml:id="example-random-id-TFzH">
       <title>
-
         <indexterm type="example"><primary>syllabic pronunciations of consonants</primary><secondary>in fu'ivla category attachment</secondary></indexterm>
 <indexterm type="example"><primary>syllabic pronunciations of consonants</primary><secondary>in fu'ivla</secondary></indexterm>
 
 <indexterm type="example"><primary>quark</primary></indexterm>
-
-
-        <anchor xml:id="c4e7d7"/>
       </title>
       <lojbanization>
         <natlang>quark</natlang>
@@ -1465,7 +1376,6 @@ There is also a different way of building lujvo, or rather phrases which are gra
       <title>
         <indexterm type="example"><primary>syllabic pronunciations of consonants</primary><secondary>in fu'ivla category attachment</secondary></indexterm>
 <indexterm type="example"><primary>syllabic pronunciations of consonants</primary><secondary>in fu'ivla</secondary></indexterm>
-        <anchor xml:id="c4e7d8"/>
       </title>
       <lojbanization>
         <natlang xml:lang="ko">자모 <comment>(from Korean)</comment></natlang>
@@ -1517,7 +1427,6 @@ The prefix method would render the mathematical concept as
 <indexterm type="example"><primary>syllabic pronunciations of consonants</primary><secondary>in fu'ivla</secondary></indexterm>
         <indexterm type="example"><primary>syllabic pronunciations of consonants</primary><secondary>in fu'ivla category attachment</secondary></indexterm>
 <indexterm type="example"><primary>Bulgarian</primary></indexterm>
-        <anchor xml:id="c4e7d9"/>
       </title>
       <lojbanization>
         <jbo role="pronunciation">ban,gr,blgara</jbo>
@@ -1527,7 +1436,6 @@ The prefix method would render the mathematical concept as
     </example>
     <example xml:id="example-random-id-qJga" role="lojbanization-example">
       <title>
-        <anchor xml:id="c4e7d10"/>
         <indexterm type="example"><primary>syllabic pronunciations of consonants</primary><secondary>in fu'ivla category attachment</secondary></indexterm>
 <indexterm type="example"><primary>syllabic pronunciations of consonants</primary><secondary>in fu'ivla</secondary></indexterm>
 <indexterm type="example"><primary>Bulgarian</primary></indexterm>
@@ -1540,13 +1448,9 @@ The prefix method would render the mathematical concept as
     </example>
     <example xml:id="example-random-id-qjGf" role="lojbanization-example">
       <title>
-
         <indexterm type="example"><primary>syllabic pronunciations of consonants</primary><secondary>in fu'ivla category attachment</secondary></indexterm>
 
 <indexterm type="example"><primary>Bulgarian</primary></indexterm>
-
-
-        <anchor xml:id="c4e7d11"/>
 <indexterm type="example"><primary>syllabic pronunciations of consonants</primary><secondary>in fu'ivla</secondary></indexterm>
       </title>
       <lojbanization>
@@ -1556,7 +1460,6 @@ The prefix method would render the mathematical concept as
     </example>
     <example xml:id="example-random-id-qJGv" role="lojbanization-example">
       <title>
-        <anchor xml:id="c4e7d12"/>
         <indexterm type="example"><primary>syllabic pronunciations of consonants</primary><secondary>in fu'ivla category attachment</secondary></indexterm>
 <indexterm type="example"><primary>Korean</primary></indexterm>
 <indexterm type="example"><primary>syllabic pronunciations of consonants</primary><secondary>in fu'ivla</secondary></indexterm>
@@ -1570,12 +1473,8 @@ The prefix method would render the mathematical concept as
     <example xml:id="example-random-id-qjh0" role="lojbanization-example">
       <title>
 
-
         <indexterm type="example"><primary>syllabic pronunciations of consonants</primary><secondary>in fu'ivla category attachment</secondary></indexterm>
 <indexterm type="example"><primary>Korean</primary></indexterm>
-
-
-        <anchor xml:id="c4e7d13"/>
 <indexterm type="example"><primary>syllabic pronunciations of consonants</primary><secondary>in fu'ivla</secondary></indexterm>
       </title>
       <lojbanization>
@@ -1600,7 +1499,7 @@ The prefix method would render the mathematical concept as
 
 
   <section xml:id="section-cmevla">
-    <title><anchor xml:id="c4s8"/>cmevla</title>
+    <title>cmevla</title>
     <para> <indexterm type="general"><primary>names in Lojban (see also cmevla)</primary></indexterm>  <indexterm type="general"><primary>cmevla</primary><secondary>definition</secondary></indexterm>  <indexterm type="general"><primary>names</primary><secondary>purpose of</secondary></indexterm>  <indexterm type="general"><primary>cmevla</primary><secondary>purpose of</secondary></indexterm> Lojbanized names, called
     <valsi>cmevla</valsi>, are mostly used to Lojbanize names, in other words, they are used to create labels applied to things (or people) to stand for them in descriptions or in direct address. They may convey meaning in themselves, but do not necessarily do so.</para>
 
@@ -1608,11 +1507,7 @@ The prefix method would render the mathematical concept as
     <example xml:id="example-random-id-qjhN" role="lojbanization-example">
       <title>
 
-
 <indexterm type="example"><primary>Jim</primary></indexterm>
-
-
-        <anchor xml:id="c4e8d1"/>
       </title>
       <lojbanization>
         <jbo>.djim.</jbo>
@@ -1622,11 +1517,7 @@ The prefix method would render the mathematical concept as
     <example xml:id="example-random-id-qjHo" role="lojbanization-example">
       <title>
 
-
 <indexterm type="example"><primary>Jane</primary></indexterm>
-
-
-        <anchor xml:id="c4e8d2"/>
       </title>
       <lojbanization>
         <jbo>.djein.</jbo>
@@ -1636,11 +1527,7 @@ The prefix method would render the mathematical concept as
     <example xml:id="example-random-id-qjIj" role="lojbanization-example">
       <title>
 
-
 <indexterm type="example"><primary>Arnold</primary></indexterm>
-
-
-        <anchor xml:id="c4e8d3"/>
       </title>
       <lojbanization>
         <jbo>.arnold.</jbo>
@@ -1651,11 +1538,7 @@ The prefix method would render the mathematical concept as
     <example xml:id="example-random-id-qjim" role="lojbanization-example">
       <title>
 
-
 <indexterm type="example"><primary>Pete</primary></indexterm>
-
-
-        <anchor xml:id="c4e8d4"/>
       </title>
       <lojbanization>
         <jbo>.pit.</jbo>
@@ -1666,11 +1549,7 @@ The prefix method would render the mathematical concept as
     <example xml:id="example-random-id-qjin" role="lojbanization-example">
       <title>
 
-
 <indexterm type="example"><primary>Katrina</primary></indexterm>
-
-
-        <anchor xml:id="c4e8d5"/>
       </title>
       <lojbanization>
         <jbo>.katrinas.</jbo>
@@ -1681,11 +1560,7 @@ The prefix method would render the mathematical concept as
     <example xml:id="example-random-id-qjIq" role="lojbanization-example">
       <title>
 
-
 <indexterm type="example"><primary>Catherine</primary></indexterm>
-
-
-        <anchor xml:id="c4e8d6"/>
       </title>
       <lojbanization>
         <jbo>.katyrin.</jbo>
@@ -1702,11 +1577,7 @@ The prefix method would render the mathematical concept as
     <example xml:id="example-random-id-qJiv" role="lojbanization-example">
       <title>
 
-
 <indexterm type="example"><primary>Cathy</primary></indexterm>
-
-
-        <anchor xml:id="c4e8d7"/>
       </title>
       <lojbanization>
         <jbo>.katis.</jbo>
@@ -1717,11 +1588,7 @@ The prefix method would render the mathematical concept as
     <example xml:id="example-random-id-qjIy" role="lojbanization-example">
       <title>
 
-
 <indexterm type="example"><primary>Kate</primary></indexterm>
-
-
-        <anchor xml:id="c4e8d8"/>
       </title>
       <lojbanization>
         <jbo>.keit.</jbo>
@@ -1735,7 +1602,6 @@ The prefix method would render the mathematical concept as
       <title>
         <indexterm type="example"><primary>John Brown</primary></indexterm>
         <indexterm type="example"><primary>Brown</primary><secondary>John</secondary></indexterm>
-        <anchor xml:id="c4e8d9"/>
       </title>
       <lojbanization>
         <jbo>.djan. braun.</jbo>
@@ -1746,7 +1612,6 @@ The prefix method would render the mathematical concept as
       <title>
         <indexterm type="example"><primary>John Brown</primary></indexterm>
         <indexterm type="example"><primary>Brown</primary><secondary>John</secondary></indexterm>
-        <anchor xml:id="c4e8d10"/>
       </title>
       <lojbanization>
         <jbo>.djanbraun.</jbo>
@@ -1783,7 +1648,6 @@ The prefix method would render the mathematical concept as
     <example xml:id="example-random-id-qjj1" role="interlinear-gloss-example">
       <title>
         <indexterm type="example"><primary>One</primary><secondary>the</secondary></indexterm>
-        <anchor xml:id="c4e8d11"/>
       </title>
       <interlinear-gloss>
         <jbo>.pav.</jbo>
@@ -1794,7 +1658,6 @@ The prefix method would render the mathematical concept as
     <example xml:id="example-random-id-qjjN" role="interlinear-gloss-example">
       <title>
         <indexterm type="example"><primary>Sun</primary><secondary>the</secondary></indexterm>
-        <anchor xml:id="c4e8d12"/>
       </title>
       <interlinear-gloss>
         <jbo>.sol.</jbo>
@@ -1805,11 +1668,7 @@ The prefix method would render the mathematical concept as
     <example xml:id="example-random-id-qjJz" role="interlinear-gloss-example">
       <title>
 
-
 <indexterm type="example"><primary>Chief</primary></indexterm>
-
-
-        <anchor xml:id="c4e8d13"/>
       </title>
       <interlinear-gloss>
         <jbo>.ral.</jbo>
@@ -1820,16 +1679,8 @@ The prefix method would render the mathematical concept as
     <example xml:id="example-random-id-qJKt" role="interlinear-gloss-example">
       <title>
 
-
 <indexterm type="example"><primary>Lord</primary></indexterm>
-
-
-
-
 <indexterm type="example"><primary>Lady</primary></indexterm>
-
-
-        <anchor xml:id="c4e8d14"/>
       </title>
       <interlinear-gloss>
         <jbo>.nol.</jbo>
@@ -2092,7 +1943,7 @@ The prefix method would render the mathematical concept as
   </section>
 
   <section xml:id="section-pauses">
-    <title><anchor xml:id="c4s9"/>Rules for inserting pauses</title>
+    <title>Rules for inserting pauses</title>
     <para> <indexterm type="general"><primary>pauses</primary><secondary>rules for</secondary></indexterm> Summarized in one place, here are the rules for inserting pauses between Lojban words:</para>
     <orderedlist>
       <listitem>
@@ -2120,7 +1971,7 @@ The prefix method would render the mathematical concept as
     </orderedlist>
   </section>
   <section xml:id="section-lujvo-considerations">
-    <title><anchor xml:id="c4s10"/>Considerations for making lujvo</title>
+    <title>Considerations for making lujvo</title>
     <para>Given a tanru which expresses an idea to be used frequently, it can be turned into a lujvo by following the lujvo-making algorithm which is given in
     <xref linkend="section-lujvo-making"/>.</para>
     <para>In building a lujvo, the first step is to replace each gismu with a rafsi that uniquely represents that gismu. These rafsi are then attached together by fixed rules that allow the resulting compound to be recognized as a single word and to be analyzed in only one way.</para>
@@ -2152,7 +2003,7 @@ The prefix method would render the mathematical concept as
     <xref linkend="chapter-abstractions"/>.) Plausibility is the key to learning new ideas and to evaluating unfamiliar lujvo.</para>
   </section>
   <section xml:id="section-lujvo-making">
-    <title><anchor xml:id="c4s11"/>The lujvo-making algorithm</title>
+    <title>The lujvo-making algorithm</title>
     <para> <indexterm type="general"><primary>lujvo</primary><secondary>algorithm for</secondary></indexterm> The following is the current algorithm for generating Lojban lujvo given a known tanru and a complete list of gismu and their assigned rafsi. The algorithm was designed by Bob LeChevalier and Dr. James Cooke Brown for computer program implementation. It was modified in 1989 with the assistance of Nora LeChevalier, who detected a flaw in the original
 
     <quote>tosmabru test</quote>.</para>
@@ -2219,7 +2070,7 @@ The prefix method would render the mathematical concept as
 
   </section>
   <section xml:id="section-lujvo-scoring">
-    <title><anchor xml:id="c4s12"/>The lujvo scoring algorithm</title>
+    <title>The lujvo scoring algorithm</title>
     <para>This algorithm was devised by Bob and Nora LeChevalier in 1989. It is not the only possible algorithm, but it usually gives a choice that people find preferable. The algorithm may be changed in the future. The lowest-scoring variant will usually be the dictionary form of the lujvo. (In previous versions, it was the highest-scoring variant.)</para>
     <orderedlist>
         <listitem>
@@ -2301,7 +2152,6 @@ The prefix method would render the mathematical concept as
   <indexterm type="general"><primary>lujvo</primary><secondary>examples of making</secondary></indexterm> Here are some lujvo with their scores (not necessarily the lowest scoring forms for these lujvo, nor even necessarily sensible lujvo):</para>
     <example xml:id="example-random-id-qJKu" role="lujvo-making-example">
       <title>
-        <anchor xml:id="c4e12d1"/>
       </title>
       <lujvo-making>
         <jbo>zbasai</jbo>
@@ -2311,7 +2161,6 @@ The prefix method would render the mathematical concept as
     </example>
     <example xml:id="example-random-id-qjLd" role="lujvo-making-example">
       <title>
-        <anchor xml:id="c4e12d2"/>
       </title>
       <lujvo-making>
         <jbo>nunynau</jbo>
@@ -2321,7 +2170,6 @@ The prefix method would render the mathematical concept as
     </example>
     <example xml:id="example-random-id-qJLQ" role="lujvo-making-example">
       <title>
-        <anchor xml:id="c4e12d3"/>
       </title>
       <lujvo-making>
         <jbo>sairzbata'u</jbo>
@@ -2331,7 +2179,6 @@ The prefix method would render the mathematical concept as
     </example>
     <example xml:id="example-random-id-qJmn" role="lujvo-making-example">
       <title>
-        <anchor xml:id="c4e12d4"/>
       </title>
       <lujvo-making>
         <jbo>zbazbasysarji</jbo>
@@ -2341,7 +2188,7 @@ The prefix method would render the mathematical concept as
     </example>
   </section>
   <section xml:id="section-lujvo-making-examples">
-    <title><anchor xml:id="c4s13"/>lujvo-making examples</title>
+    <title>lujvo-making examples</title>
     <para>
 <indexterm type="general"><primary>doghouse</primary><secondary>example</secondary></indexterm>
 This section contains examples of making and scoring lujvo. First, we will start with the tanru
@@ -2598,7 +2445,7 @@ This section contains examples of making and scoring lujvo. First, we will start
     <valsi>ke</valsi> required for grouping need not be expressed.</para>
   </section>
   <section xml:id="section-gismu-making">
-    <title><anchor xml:id="c4s14"/>The gismu creation algorithm</title>
+    <title>The gismu creation algorithm</title>
     <para> <indexterm type="general"><primary>source languages</primary><secondary>use in creating gismu</secondary></indexterm> The gismu were created through the following process:</para>
     <orderedlist>
       <listitem>
@@ -2763,7 +2610,7 @@ This section contains examples of making and scoring lujvo. First, we will start
     <valsi valid="false">brudi</valsi>) are all existing gismu.</para>
   </section>
   <section xml:id="section-cultural-gismu">
-    <title><anchor xml:id="c4s15"/>Cultural and other non-algorithmic gismu</title>
+    <title>Cultural and other non-algorithmic gismu</title>
     <para>The following gismu were not made by the gismu creation algorithm. They are, in effect, coined words similar to fu'ivla. They are exceptions to the otherwise mandatory gismu creation algorithm where there was sufficient justification for such exceptions. Except for the small metric prefixes and the assignable predicates beginning with
     <rafsi>brod-</rafsi>, they all end in the letter
     <letteral>o</letteral>, which is otherwise a rare letter in Lojban gismu.</para>
@@ -3086,7 +2933,7 @@ This section contains examples of making and scoring lujvo. First, we will start
     </informaltable>
   </section>
   <section xml:id="section-rafsi-fuhivla">
-    <title><anchor xml:id="c4s16"/>rafsi fu'ivla: a proposal</title>
+    <title>rafsi fu'ivla: a proposal</title>
     <para>The list of cultures represented by gismu, given in
     <xref linkend="section-cultural-gismu"/>, is unavoidably controversial. Much time has been spent debating whether this or that culture
     <quote>deserves a gismu</quote> or
@@ -3097,11 +2944,7 @@ This section contains examples of making and scoring lujvo. First, we will start
     <example role="interlinear-gloss-example" xml:id="example-random-id-PMb2">
       <title>
 
-
 <indexterm type="general"><primary>Chilean desert</primary><secondary>example</secondary></indexterm>
-
-
-        <anchor xml:id="c4e16d1"/>
       </title>
       <interlinear-gloss>
         <jbo valid="false">tci'ile</jbo>
@@ -3112,7 +2955,6 @@ This section contains examples of making and scoring lujvo. First, we will start
     <para>The second, and fully experimental, part of the proposal is to allow rafsi to be formed from these cultural fu'ivla by removing the final vowel and treating the result as a 4-letter rafsi (although it would contain five letters, not four). These rafsi could then be used on a par with all other rafsi in forming lujvo. The tanru</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-hcR6">
       <title>
-        <anchor xml:id="c4e16d2"/>
       </title>
       <interlinear-gloss>
         <jbo valid="false">tci'ile ke canre tutra</jbo>
@@ -3124,7 +2966,6 @@ This section contains examples of making and scoring lujvo. First, we will start
     <para role="noindent">could be represented by the lujvo</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-0rzn">
       <title>
-        <anchor xml:id="c4e16d3"/>
       </title>
       <jbophrase valid="false">tci'ilykemcantutra</jbophrase>
     </example>

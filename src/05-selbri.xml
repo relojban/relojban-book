@@ -6,14 +6,13 @@
 ]>
 
 <chapter xml:id="chapter-selbri">
-  <title><anchor xml:id="c5"/><quote>Pretty Little Girls' School</quote>: The Structure Of Lojban selbri</title>
+  <title><quote>Pretty Little Girls' School</quote>: The Structure Of Lojban selbri</title>
 
   <section xml:id="section-content-words-brivla">
-    <title><anchor xml:id="c5s1"/>Lojban content words: brivla</title>
+    <title>Lojban content words: brivla</title>
     <para> <indexterm type="general"><primary>bridi</primary><secondary>relation to selbri</secondary></indexterm>  <indexterm type="general"><primary>selbri</primary><secondary>relation to bridi</secondary></indexterm>  <indexterm type="general"><primary>selbri</primary><secondary>definition</secondary></indexterm>  <indexterm type="general"><primary>bridi</primary><secondary>definition</secondary></indexterm> At the center, logically and often physically, of every Lojban bridi is one or more words which constitute the selbri. A bridi expresses a relationship between things: the selbri specifies which relationship is referred to. The difference between:</para>
     <example role="interlinear-gloss-example" xml:id="example-do-mamta-mi">
       <title>
-        <anchor xml:id="c5e1d1"/>
       </title>
       <interlinear-gloss>
         <jbo>do mamta mi</jbo>
@@ -24,7 +23,6 @@
     <para role="noindent">and</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-B0aR">
       <title>
-        <anchor xml:id="c5e1d2"/>
       </title>
       <interlinear-gloss>
         <jbo>do patfu mi</jbo>
@@ -39,7 +37,6 @@
     <para>For the purposes of this chapter, however, all brivla are alike. For example,</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-483c">
       <title>
-        <anchor xml:id="c5e1d3"/>
       </title>
       <interlinear-gloss>
         <jbo>ta bloti</jbo>
@@ -49,7 +46,6 @@
     </example>
     <example role="interlinear-gloss-example" xml:id="example-random-id-mdxB">
       <title>
-        <anchor xml:id="c5e1d4"/>
       </title>
       <interlinear-gloss>
         <jbo>ta brablo</jbo>
@@ -60,11 +56,7 @@
     <example role="interlinear-gloss-example" xml:id="example-random-id-UMjE">
       <title>
 
-
 <indexterm type="example"><primary>schooner</primary></indexterm>
-
-
-        <anchor xml:id="c5e1d5"/>
       </title>
 
       <interlinear-gloss>
@@ -78,7 +70,7 @@
   </section>
 
   <section xml:id="section-simple-tanru">
-    <title><anchor xml:id="c5s2"/>Simple tanru</title>
+    <title>Simple tanru</title>
 
 
 
@@ -101,11 +93,7 @@
     <example role="interlinear-gloss-example" xml:id="example-lemon-tree">
       <title>
 
-
 <indexterm type="example"><primary>lemon tree</primary></indexterm>
-
-
-        <anchor xml:id="c5e2d1"/>
       </title>
 
       <interlinear-gloss>
@@ -116,7 +104,6 @@
     </example>
     <example role="interlinear-gloss-example" xml:id="example-random-id-qHNA">
       <title>
-        <anchor xml:id="c5e2d2"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djan. cu barda nanla</jbo>
@@ -127,11 +114,7 @@
     <example role="interlinear-gloss-example" xml:id="example-random-id-eD63">
       <title>
 
-
 <indexterm type="example"><primary>quick runner</primary></indexterm>
-
-
-        <anchor xml:id="c5e2d3"/>
       </title>
       <interlinear-gloss>
         <jbo>mi sutra bajra</jbo>
@@ -149,7 +132,6 @@
     <quote>quickly</quote> depending on its use:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-cjhN">
       <title>
-        <anchor xml:id="c5e2d4"/>
       </title>
       <interlinear-gloss>
         <jbo>mi sutra</jbo>
@@ -170,7 +152,6 @@
     <xref linkend="example-lemon-tree"/> would be:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-hP9j">
       <title>
-        <anchor xml:id="c5e2d5"/>
       </title>
       <para>That is a lemon type of tree.</para>
     </example>
@@ -179,7 +160,6 @@
     <para> <indexterm type="general"><primary>modifier</primary><secondary>seltau as</secondary></indexterm>  <indexterm type="general"><primary>seltau</primary><secondary>effect on meaning of tanru</secondary></indexterm> We may also say that the seltau modifies the meaning of the tertau:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-4fvn">
       <title>
-        <anchor xml:id="c5e2d6"/>
       </title>
       <para>That is a tree which is lemon-ish (in the way appropriate to trees)</para>
     </example>
@@ -188,7 +168,6 @@
     <xref linkend="example-random-id-qHNA"/> might be:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-asRA">
       <title>
-        <anchor xml:id="c5e2d7"/>
       </title>
       <para>John is a boy who is big in the way that boys are big.</para>
     </example>
@@ -198,11 +177,7 @@
     <example role="interlinear-gloss-example" xml:id="example-random-id-aIfM">
       <title>
 
-
 <indexterm type="example"><primary>goer table</primary></indexterm>
-
-
-        <anchor xml:id="c5e2d8"/>
       </title>
       <interlinear-gloss>
         <jbo>ta klama jubme</jbo>
@@ -230,7 +205,6 @@
     <para> <indexterm type="general"><primary>tanru</primary><secondary>meaning of</secondary></indexterm> No general theory covering the meaning of all possible tanru exists; probably no such theory can exist. However, some regularities obviously do exist:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Lczh">
       <title>
-        <anchor xml:id="c5e2d9"/>
       </title>
       <interlinear-gloss>
         <jbo>do barda prenu</jbo>
@@ -239,7 +213,6 @@
     </example>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Ldb1">
       <title>
-        <anchor xml:id="c5e2d10"/>
       </title>
       <interlinear-gloss>
         <jbo>do cmalu prenu</jbo>
@@ -256,7 +229,7 @@
   </section>
 
   <section xml:id="section-three-part-tanru">
-    <title><anchor xml:id="c5s3"/>Three-part tanru grouping with <valsi>bo</valsi></title>
+    <title>Three-part tanru grouping with <valsi>bo</valsi></title>
 
     <para>The following cmavo is discussed in this section:</para>
     <cmavo-list>
@@ -270,7 +243,6 @@
     <example role="interlinear-gloss-example" xml:id="example-random-id-gCLr">
       <title>
         <indexterm type="example"><primary>girls' school</primary><secondary>little</secondary></indexterm>
-        <anchor xml:id="c5e3d1"/>
       </title>
       <para>That's a little girls' school.</para>
     </example>
@@ -278,14 +250,12 @@
     <example role="interlinear-gloss-example" xml:id="example-random-id-5UBW">
       <title>
         <indexterm type="example"><primary>girls' school</primary><secondary>little</secondary></indexterm>
-        <anchor xml:id="c5e3d2"/>
       </title>
       <para>That's a little school for girls.</para>
     </example>
     <example role="interlinear-gloss-example" xml:id="example-random-id-5UBJ">
       <title>
         <indexterm type="example"><primary>girls' school</primary><secondary>little</secondary></indexterm>
-        <anchor xml:id="c5e3d3"/>
       </title>
       <para>That's a school for little girls.</para>
     </example>
@@ -307,7 +277,6 @@
     <xref linkend="example-random-id-5UBW"/> would be:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-nwuU">
       <title>
-        <anchor xml:id="c5e3d4"/>
       </title>
       <interlinear-gloss>
         <jbo>ta cmalu nixli bo ckule</jbo>
@@ -317,7 +286,6 @@
     <para role="indent"><xref linkend="example-random-id-5UBJ"/> might be translated:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-jquh">
       <title>
-        <anchor xml:id="c5e3d5"/>
       </title>
       <interlinear-gloss>
         <jbo>ta cmalu bo nixli ckule</jbo>
@@ -344,7 +312,6 @@
     <xref linkend="example-random-id-9FPm"/>? What does it mean?</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-9FPm">
       <title>
-        <anchor xml:id="c5e3d6"/>
       </title>
       <interlinear-gloss>
         <jbo>ta cmalu nixli ckule</jbo>
@@ -361,7 +328,6 @@
     <xref linkend="example-random-id-jquh"/>, using parentheses to mark grouping, is:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-ERBx">
       <title>
-        <anchor xml:id="c5e3d7"/>
       </title>
       <interlinear-gloss>
         <jbo>ta cmalu - nixli bo ckule</jbo>
@@ -370,7 +336,6 @@
     </example>
     <example role="interlinear-gloss-example" xml:id="example-random-id-ERBQ">
       <title>
-        <anchor xml:id="c5e3d8"/>
       </title>
       <interlinear-gloss>
         <jbo>ta cmalu bo nixli - ckule</jbo>
@@ -383,7 +348,6 @@
     <valsi>bo</valsi> into a simple tanru:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-q6br">
       <title>
-        <anchor xml:id="c5e3d9"/>
       </title>
       <interlinear-gloss>
         <jbo>ta klama bo jubme</jbo>
@@ -396,12 +360,11 @@
   </section>
 
   <section xml:id="section-complex-grouping">
-    <title><anchor xml:id="c5s4"/>Complex tanru grouping</title>
+    <title>Complex tanru grouping</title>
 
     <para> <indexterm type="general"><primary>tanru grouping</primary><secondary>complex</secondary></indexterm> If one element of a tanru can be another tanru, why not both elements?</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-m5SD">
       <title>
-        <anchor xml:id="c5e4d1"/>
       </title>
       <interlinear-gloss>
         <jbo>do mutce bo barda gerku bo kavbu</jbo>
@@ -428,7 +391,6 @@
     <para>Here are four ways to group this phrase:</para>
     <example xml:id="example-random-id-qjmr" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e4d2"/>
       </title>
       <interlinear-gloss>
         <jbo>ta melbi - cmalu - nixli - ckule</jbo>
@@ -438,7 +400,6 @@
     </example>
     <example xml:id="example-random-id-qjNi" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e4d3"/>
       </title>
       <interlinear-gloss>
         <jbo>ta melbi - cmalu nixli bo ckule</jbo>
@@ -448,7 +409,6 @@
     </example>
     <example xml:id="example-random-id-qjog" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e4d4"/>
       </title>
       <interlinear-gloss>
         <jbo>ta melbi - cmalu bo nixli - ckule</jbo>
@@ -458,7 +418,6 @@
     </example>
     <example xml:id="example-random-id-qjop" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e4d5"/>
       </title>
       <interlinear-gloss>
         <jbo>ta melbi - cmalu bo nixli bo ckule</jbo>
@@ -477,7 +436,6 @@
     <valsi>bo</valsi> in the language. Therefore,</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-snKn">
       <title>
-        <anchor xml:id="c5e4d6"/>
       </title>
       <interlinear-gloss>
         <jbo>ta cmalu bo nixli bo ckule</jbo>
@@ -496,7 +454,7 @@
   </section>
 
   <section xml:id="section-ke-grouping">
-    <title><anchor xml:id="c5s5"/>Complex tanru with <valsi>ke</valsi> and <valsi>ke'e</valsi></title>
+    <title>Complex tanru with <valsi>ke</valsi> and <valsi>ke'e</valsi></title>
 
     <para>The following cmavo are discussed in this section:</para>
     <cmavo-list>
@@ -520,7 +478,6 @@
     <xref linkend="example-random-id-qjmr"/> can be rewritten in any of the following ways:</para>
     <example xml:id="example-random-id-qjqu" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e5d1"/>
       </title>
       <interlinear-gloss>
         <jbo>ta ke melbi cmalu ke'e nixli ckule</jbo>
@@ -529,7 +486,6 @@
     </example>
     <example xml:id="example-random-id-qJQz" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e5d2"/>
       </title>
       <interlinear-gloss>
         <jbo>ta ke ke melbi cmalu ke'e nixli ke'e ckule</jbo>
@@ -538,7 +494,6 @@
     </example>
     <example xml:id="example-random-id-qjSA" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e5d3"/>
       </title>
       <interlinear-gloss>
         <jbo>ta ke ke ke melbi cmalu ke'e nixli ke'e ckule ke'e</jbo>
@@ -551,7 +506,6 @@
     <xref linkend="example-random-id-qjog"/> and may be easier to understand:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-zV26">
       <title>
-        <anchor xml:id="c5e5d4"/>
       </title>
       <interlinear-gloss>
         <jbo>ta - melbi - ke cmalu - nixli ke'e - - ckule</jbo>
@@ -564,7 +518,6 @@
     <xref linkend="example-random-id-qjNi"/> would be:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-AUdM">
       <title>
-        <anchor xml:id="c5e5d5"/>
       </title>
       <interlinear-gloss>
         <jbo>ta melbi - cmalu ke nixli - ckule [ke'e]</jbo>
@@ -580,7 +533,6 @@
     <para>Now how about that fifth grouping? It is</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-tz0L">
       <title>
-        <anchor xml:id="c5e5d6"/>
       </title>
       <interlinear-gloss>
         <jbo>ta melbi - ke - cmalu - nixli - - ckule [ke'e]</jbo>
@@ -600,7 +552,6 @@
     <valsi>ke</valsi>&hellip;<valsi>ke'e</valsi> form is</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-uBS4">
       <title>
-        <anchor xml:id="c5e5d7"/>
       </title>
       <interlinear-gloss>
         <jbo>ta melbi - ke cmalu</jbo>
@@ -614,7 +565,6 @@
     <para role="noindent">can equivalently be expressed as:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Ei5U">
       <title>
-        <anchor xml:id="c5e5d8"/>
       </title>
       <interlinear-gloss>
         <jbo>ta melbi - ke cmalu - nixli bo ckule [ke'e]</jbo>
@@ -625,7 +575,7 @@
   </section>
 
   <section xml:id="section-logical-connection">
-    <title><anchor xml:id="c5s6"/>Logical connection within tanru</title>
+    <title>Logical connection within tanru</title>
     <para>The following cmavo are discussed in this section:</para>
     <cmavo-list>
       <cmavo-entry>
@@ -660,11 +610,7 @@
     <example role="interlinear-gloss-example" xml:id="example-random-id-riAq">
       <title>
 
-
 <indexterm type="example"><primary>big red dog</primary></indexterm>
-
-
-        <anchor xml:id="c5e6d1"/>
       </title>
       <interlinear-gloss>
         <jbo valid="iffy">barda - xunre - gerku</jbo>
@@ -675,7 +621,6 @@
     <quote>big</quote>. Nor is</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-6MqF">
       <title>
-        <anchor xml:id="c5e6d2"/>
       </title>
       <interlinear-gloss>
         <jbo valid="iffy">barda - xunre bo gerku</jbo>
@@ -691,7 +636,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-0UrF">
       <title>
-        <anchor xml:id="c5e6d3"/>
       </title>
       <interlinear-gloss>
         <jbo>barda je xunre - gerku</jbo>
@@ -701,7 +645,6 @@
     <para role="indent">Of course,</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-DzeP">
       <title>
-        <anchor xml:id="c5e6d4"/>
       </title>
       <interlinear-gloss>
         <jbo>xunre je barda - gerku</jbo>
@@ -715,7 +658,6 @@
     <valsi>je</valsi> does:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-LES9">
       <title>
-        <anchor xml:id="c5e6d5"/>
       </title>
       <interlinear-gloss>
         <jbo>barda je pelxu bo xunre gerku</jbo>
@@ -730,7 +672,6 @@
     <para role="indent">With no grouping indicators, we get:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-fuhg">
       <title>
-        <anchor xml:id="c5e6d6"/>
       </title>
       <interlinear-gloss>
         <jbo valid="iffy">barda je pelxu - xunre - gerku</jbo>
@@ -747,7 +688,6 @@
     <valsi>je</valsi> is useful as well as merely legal within simple tanru. It may be used to partly resolve the ambiguity of simple tanru:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-W56H">
       <title>
-        <anchor xml:id="c5e6d7"/>
       </title>
       <interlinear-gloss>
         <jbo>ta blanu je zdani</jbo>
@@ -768,7 +708,6 @@
     <xref linkend="example-random-id-0UrF"/> needs special elucidation. There are at least two possible interpretations of:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-N5Bt">
       <title>
-        <anchor xml:id="c5e6d8"/>
       </title>
       <interlinear-gloss>
         <jbo>ta melbi je nixli - ckule</jbo>
@@ -778,14 +717,12 @@
     <para role="indent">It can be understood as:</para>
     <example xml:id="example-random-id-FCDa">
       <title>
-        <anchor xml:id="c5e6d9"/>
       </title>
       <para>That is a girls' school and a beautiful school.</para>
     </example>
     <para role="noindent">or as:</para>
     <example xml:id="example-random-id-aFxm">
       <title>
-        <anchor xml:id="c5e6d10"/>
       </title>
       <para>That is a school for things which are both girls and beautiful.</para>
     </example>
@@ -793,7 +730,6 @@
     <xref linkend="example-random-id-FCDa"/> treats the tanru as a sort of abbreviation for:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-pHHw">
       <title>
-        <anchor xml:id="c5e6d11"/>
       </title>
       <interlinear-gloss>
         <jbo>ta ke melbi - ckule ke'e je ke nixli - ckule [ke'e]</jbo>
@@ -805,7 +741,6 @@
     <quote>beautiful and girl</quote> may entail that it is separately a beautiful school and a girls' school; but the alternative interpretation, that the members of the school are beautiful and girls, is also possible. Still another interpretation is:</para>
     <example xml:id="example-random-id-2cjH">
       <title>
-        <anchor xml:id="c5e6d12"/>
       </title>
       <para>That is a school for beautiful things and also for girls.</para>
     </example>
@@ -816,7 +751,6 @@
     <valsi>je</valsi> is only one of the fourteen logical connectives that Lojban provides. Here are a few examples of some of the others:</para>
     <example xml:id="example-random-id-qJse" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e6d13"/>
       </title>
       <interlinear-gloss>
         <jbo>le bajra cu jinga ja te jinga</jbo>
@@ -825,7 +759,6 @@
     </example>
     <example xml:id="example-random-id-qJsg" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e6d14"/>
       </title>
       <interlinear-gloss>
         <jbo>blanu naja lenku skapi</jbo>
@@ -835,7 +768,6 @@
     </example>
     <example xml:id="example-random-id-qjsy" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e6d15"/>
       </title>
       <interlinear-gloss>
         <jbo>xamgu jo tordu nuntavla</jbo>
@@ -845,7 +777,6 @@
     </example>
     <example xml:id="example-random-id-qjtD" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e6d16"/>
       </title>
       <interlinear-gloss>
         <jbo>vajni ju pluka nuntavla</jbo>
@@ -871,7 +802,6 @@
     <para> <indexterm type="general"><primary>multiple logical connectives</primary><secondary>within tanru</secondary></indexterm> Now consider the following example:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-NuWM">
       <title>
-        <anchor xml:id="c5e6d17"/>
       </title>
       <interlinear-gloss>
         <jbo>ricfu je blanu jabo crino</jbo>
@@ -892,7 +822,6 @@
     <valsi>bo</valsi> does:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-KxqX">
       <title>
-        <anchor xml:id="c5e6d18"/>
       </title>
       <interlinear-gloss>
         <jbo>ricfu je blanu jabo crino bo blanu</jbo>
@@ -904,7 +833,6 @@
     <xref linkend="example-random-id-NuWM"/> is:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-2WtT">
       <title>
-        <anchor xml:id="c5e6d19"/>
       </title>
       <interlinear-gloss>
         <jbo>ricfu je ke blanu ja crino [ke'e]</jbo>
@@ -916,7 +844,6 @@
     <quote>and</quote> that denotes a mixture:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Hr1L">
       <title>
-        <anchor xml:id="c5e6d20"/>
       </title>
       <interlinear-gloss>
         <jbo>ti blanu joi xunre bolci</jbo>
@@ -928,7 +855,6 @@
     <xref linkend="example-random-id-Hr1L"/> is distinct from:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-NAhT">
       <title>
-        <anchor xml:id="c5e6d21"/>
       </title>
       <interlinear-gloss>
         <jbo>ti blanu xunre bolci</jbo>
@@ -939,7 +865,6 @@
     <valsi>xunre</valsi> is the more important of the two components. On the other hand,</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-78C3">
       <title>
-        <anchor xml:id="c5e6d22"/>
       </title>
       <interlinear-gloss>
         <jbo>ti blanu je xunre bolci</jbo>
@@ -958,7 +883,6 @@
     <valsi>gi</valsi> between them:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-gLbh">
       <title>
-        <anchor xml:id="c5e6d23"/>
       </title>
       <interlinear-gloss>
         <jbo>gu'e barda gi xunre - gerku</jbo>
@@ -978,7 +902,6 @@
     <valsi>bo</valsi>:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-ETVe">
       <title>
-        <anchor xml:id="c5e6d24"/>
       </title>
       <interlinear-gloss>
         <jbo>gu'e barda je xunre gi gerku ja mlatu</jbo>
@@ -995,7 +918,7 @@
   </section>
 
   <section xml:id="section-be-sumti">
-    <title><anchor xml:id="c5s7"/>Linked sumti: <valsi>be</valsi>-<valsi>bei</valsi>-<valsi>be'o</valsi></title>
+    <title>Linked sumti: <valsi>be</valsi>-<valsi>bei</valsi>-<valsi>be'o</valsi></title>
     <para>The following cmavo are discussed in this section:</para>
     <cmavo-list>
       <cmavo-entry>
@@ -1033,11 +956,7 @@
     <example role="interlinear-gloss-example" xml:id="example-random-id-tffW">
       <title>
 
-
 <indexterm type="example"><primary>good house</primary></indexterm>
-
-
-        <anchor xml:id="c5e7d1"/>
       </title>
       <interlinear-gloss>
         <jbo>ti xamgu zdani</jbo>
@@ -1051,7 +970,6 @@
     <xref linkend="example-random-id-tffW"/> necessarily omits information about the last two: there is no room for them. Room can be made, however!</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Uuio">
       <title>
-        <anchor xml:id="c5e7d2"/>
       </title>
       <interlinear-gloss>
         <jbo>ti xamgu be do bei mi [be'o] zdani</jbo>
@@ -1069,11 +987,7 @@
     <example role="interlinear-gloss-example" xml:id="example-random-id-7vxB">
       <title>
 
-
 <indexterm type="example"><primary>Brooklyn</primary></indexterm>
-
-
-        <anchor xml:id="c5e7d3"/>
       </title>
       <interlinear-gloss>
         <jbo>ti cmalu be le ka canlu</jbo>
@@ -1117,7 +1031,6 @@
     <valsi>ckule</valsi>. It would have been legal to do so, however:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-YIty">
       <title>
-        <anchor xml:id="c5e7d4"/>
       </title>
       <interlinear-gloss>
         <jbo>mi klama be le zarci bei le zdani [be'o]</jbo>
@@ -1127,7 +1040,6 @@
     <para role="noindent">means the same as</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-UtBR">
       <title>
-        <anchor xml:id="c5e7d5"/>
       </title>
       <interlinear-gloss>
         <jbo>mi klama le zarci le zdani</jbo>
@@ -1137,7 +1049,6 @@
     <para role="indent"> <indexterm type="general"><primary>tanru</primary><secondary>place structures of</secondary></indexterm> No matter how complex a tanru gets, the last brivla always dictates the place structure: the place structure of</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Twmx">
       <title>
-        <anchor xml:id="c5e7d6"/>
       </title>
       <interlinear-gloss>
         <jbo>- melbi je cmalu nixli bo ckule</jbo>
@@ -1158,7 +1069,6 @@
     <valsi>be</valsi> is the x2 place and the other places follow in order. If it seems convenient to change the order, however, it can be accomplished as follows:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-mhS7">
       <title>
-        <anchor xml:id="c5e7d7"/>
       </title>
       <interlinear-gloss>
         <jbo>ti xamgu be fi mi bei fe do [be'o] zdani</jbo>
@@ -1177,7 +1087,6 @@
     <para>Of course, using FA cmavo makes it easy to specify one place while omitting a previous place:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-9b37">
       <title>
-        <anchor xml:id="c5e7d8"/>
       </title>
       <interlinear-gloss>
         <jbo>ti xamgu be fi mi [be'o] zdani</jbo>
@@ -1190,7 +1099,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-GstI">
       <title>
-        <anchor xml:id="c5e7d9"/>
       </title>
       <interlinear-gloss>
         <jbo>ta blanu be ga'a mi [be'o] zdani</jbo>
@@ -1202,7 +1110,6 @@
     <xref linkend="example-random-id-GstI"/> is slightly different from:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-63c5">
       <title>
-        <anchor xml:id="c5e7d10"/>
       </title>
       <interlinear-gloss>
         <jbo>ta blanu zdani ga'a mi</jbo>
@@ -1219,7 +1126,6 @@
     <valsi>be'o</valsi> is used, in which case it will attach to the outer description:</para>
     <example xml:id="example-random-id-qJTI" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e7d11"/>
       </title>
       <interlinear-gloss>
         <jbo>le xamgu be do noi barda cu zdani</jbo>
@@ -1228,7 +1134,6 @@
     </example>
     <example xml:id="example-random-id-qjTj" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e7d12"/>
       </title>
       <interlinear-gloss>
         <jbo>le xamgu be do be'o noi barda cu zdani</jbo>
@@ -1242,7 +1147,6 @@
     <valsi>ku</valsi> has also been elided:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-zb4A">
       <title>
-        <anchor xml:id="c5e7d13"/>
       </title>
       <interlinear-gloss>
         <jbo>le xamgu be le ctuca [ku] be'o zdani</jbo>
@@ -1259,7 +1163,7 @@
   </section>
 
   <section xml:id="section-co-inversion">
-    <title><anchor xml:id="c5s8"/>Inversion of tanru: <valsi>co</valsi></title>
+    <title>Inversion of tanru: <valsi>co</valsi></title>
     <para>The following cmavo is discussed in this section:</para>
     <cmavo-list>
       <cmavo-entry>
@@ -1277,7 +1181,6 @@
     <xref linkend="example-random-id-qjty"/> mean exactly the same thing:</para>
     <example xml:id="example-random-id-qjtV" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e8d1"/>
       </title>
       <interlinear-gloss>
         <jbo>ta blanu zdani</jbo>
@@ -1287,7 +1190,6 @@
     </example>
     <example xml:id="example-random-id-qjty" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e8d2"/>
       </title>
       <interlinear-gloss>
         <jbo>ta zdani co blanu</jbo>
@@ -1311,7 +1213,6 @@
     <xref linkend="example-random-id-qjVx"/> have the same meaning:</para>
     <example xml:id="example-random-id-qjuc" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e8d3"/>
       </title>
       <interlinear-gloss>
         <jbo>mi klama be le zarci bei le zdani be'o troci</jbo>
@@ -1323,11 +1224,7 @@
     <example xml:id="example-random-id-qjVx" role="interlinear-gloss-example">
       <title>
 
-
 <indexterm type="example"><primary>try to go</primary></indexterm>
-
-
-        <anchor xml:id="c5e8d4"/>
       </title>
       <interlinear-gloss>
         <jbo>mi troci co klama le zarci le zdani</jbo>
@@ -1360,7 +1257,6 @@
     <xref linkend="example-random-id-nwuU"/>, for instance, is:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-7uS2">
       <title>
-        <anchor xml:id="c5e8d5"/>
       </title>
       <interlinear-gloss>
         <jbo>ta nixli [bo] ckule co cmalu</jbo>
@@ -1378,7 +1274,6 @@
     <valsi>co</valsi>:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-y501">
       <title>
-        <anchor xml:id="c5e8d6"/>
       </title>
       <interlinear-gloss>
         <jbo>ta cmalu - ke nixli - ckule [ke'e] co melbi</jbo>
@@ -1396,7 +1291,6 @@
     <valsi>be</valsi>&hellip;<valsi>bei</valsi>&hellip;<valsi>be'o</valsi> form and attached following B.) Therefore,</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-4c0A">
       <title>
-        <anchor xml:id="c5e8d7"/>
       </title>
       <interlinear-gloss>
         <jbo>ckule co melbi nixli</jbo>
@@ -1407,7 +1301,6 @@
     <para role="noindent">means the same as:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-w5cI">
       <title>
-        <anchor xml:id="c5e8d8"/>
       </title>
       <interlinear-gloss>
         <jbo>ke melbi nixli ke'e ckule</jbo>
@@ -1421,7 +1314,6 @@
     <valsi>co</valsi> cmavo must be removed simultaneously:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-yLn5">
       <title>
-        <anchor xml:id="c5e8d9"/>
       </title>
       <interlinear-gloss>
         <jbo>ckule co nixli co cmalu</jbo>
@@ -1431,7 +1323,6 @@
     <para role="noindent">becomes formally</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-mM3Q">
       <title>
-        <anchor xml:id="c5e8d10"/>
       </title>
       <interlinear-gloss>
         <jbo>ke ke cmalu ke'e nixli ke'e ckule</jbo>
@@ -1441,7 +1332,6 @@
     <para role="noindent">which by the left-grouping rule is simply</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-LGRz">
       <title>
-        <anchor xml:id="c5e8d11"/>
       </title>
       <interlinear-gloss>
         <jbo>cmalu nixli ckule</jbo>
@@ -1452,7 +1342,6 @@
     <para role="indent">As stated above, the selbri places, other than the first, of</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Qcwd">
       <title>
-        <anchor xml:id="c5e8d12"/>
       </title>
       <interlinear-gloss>
         <jbo>mi klama co sutra</jbo>
@@ -1465,7 +1354,6 @@
     <valsi>be</valsi>:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-PDAh">
       <title>
-        <anchor xml:id="c5e8d13"/>
       </title>
       <interlinear-gloss>
         <jbo>mi klama be le zarci be'o co sutra</jbo>
@@ -1476,7 +1364,7 @@
   </section>
 
   <section xml:id="section-cmavo-selbri">
-    <title><anchor xml:id="c5s9"/>Other kinds of simple selbri</title>
+    <title>Other kinds of simple selbri</title>
     <para>The following cmavo are discussed in this section:</para>
     <cmavo-list>
       <cmavo-entry>
@@ -1526,7 +1414,6 @@
     <valsi>go'i</valsi>, which amounts to a repetition of the previous bridi, or part of it. If I say:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-2UvG">
       <title>
-        <anchor xml:id="c5e9d1"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djan. cu klama le zarci</jbo>
@@ -1536,7 +1423,6 @@
     <para role="noindent"> you may retort:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-EvoD">
       <title>
-        <anchor xml:id="c5e9d2"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djan. cu go'i troci</jbo>
@@ -1548,7 +1434,6 @@
     <xref linkend="example-random-id-EvoD"/> is short for:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-nKQ3">
       <title>
-        <anchor xml:id="c5e9d3"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djan. cu klama be le zarci be'o - troci</jbo>
@@ -1573,7 +1458,6 @@
     <para>for as many arguments as are required. (The result goes in the x1 place because the number of following places may be indefinite.) For example:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-pp6j">
       <title>
-        <anchor xml:id="c5e9d4"/>
       </title>
       <interlinear-gloss>
         <jbo>li vo nu'a--su'i li re li re</jbo>
@@ -1584,11 +1468,7 @@
     <example role="interlinear-gloss-example" xml:id="example-random-id-K7yz">
       <title>
 
-
 <indexterm type="example"><primary>addition problems</primary></indexterm>
-
-
-        <anchor xml:id="c5e9d5"/>
       </title>
       <interlinear-gloss>
         <jbo>mi jimpe tu'a loi nu'a--su'i nabmi</jbo>
@@ -1603,11 +1483,7 @@
     <example xml:id="example-random-id-qjWh" role="interlinear-gloss-example">
       <title>
 
-
 <indexterm type="example"><primary>Preem Palver</primary></indexterm>
-
-
-        <anchor xml:id="c5e9d6"/>
       </title>
       <interlinear-gloss>
         <jbo>la .prim. palvr. cu pamoi cusku</jbo>
@@ -1620,11 +1496,7 @@
     <example xml:id="example-random-id-qJwU" role="interlinear-gloss-example">
       <title>
 
-
 <indexterm type="example"><primary>two brothers</primary></indexterm>
-
-
-        <anchor xml:id="c5e9d7"/>
       </title>
       <interlinear-gloss>
         <jbo>la .anis. joi la .asun.</jbo>
@@ -1641,7 +1513,6 @@
     <xref linkend="chapter-abstractions"/>. A few examples:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-5szz">
       <title>
-        <anchor xml:id="c5e9d8"/>
       </title>
       <interlinear-gloss>
         <jbo>ti nu zdile kei kumfa</jbo>
@@ -1653,7 +1524,6 @@
     <xref linkend="example-random-id-5szz"/> is quite distinct in meaning from:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-yNSI">
       <title>
-        <anchor xml:id="c5e9d9"/>
       </title>
       <interlinear-gloss>
         <jbo>ti zdile kumfa</jbo>
@@ -1665,7 +1535,7 @@
   </section>
 
   <section xml:id="section-me-selbri">
-    <title><anchor xml:id="c5s10"/>selbri based on sumti: <valsi>me</valsi></title>
+    <title>selbri based on sumti: <valsi>me</valsi></title>
     <para>The following cmavo are discussed in this section:</para>
     <cmavo-list>
       <cmavo-entry>
@@ -1687,11 +1557,7 @@
     <example role="interlinear-gloss-example" xml:id="example-random-id-v6QW">
       <title>
 
-
 <indexterm type="example"><primary>Three Kings</primary></indexterm>
-
-
-        <anchor xml:id="c5e10d1"/>
       </title>
       <interlinear-gloss>
         <jbo>le ci nolraitru</jbo>
@@ -1703,7 +1569,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-99r3">
       <title>
-        <anchor xml:id="c5e10d2"/>
       </title>
       <interlinear-gloss>
         <jbo>la .BALtazar. cu me le--ci--nolraitru</jbo>
@@ -1715,7 +1580,6 @@
     <para role="noindent">and likewise</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-gPnL">
       <title>
-        <anchor xml:id="c5e10d3"/>
       </title>
       <interlinear-gloss>
         <jbo>la .kaspar. cu me le ci nolraitru</jbo>
@@ -1725,7 +1589,6 @@
     <para role="noindent">and</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-4827">
       <title>
-        <anchor xml:id="c5e10d4"/>
       </title>
       <interlinear-gloss>
         <jbo>la .melxiior. cu me le ci nolraitru</jbo>
@@ -1737,7 +1600,6 @@
     <valsi>du</valsi>:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-HMHc">
       <title>
-        <anchor xml:id="c5e10d5"/>
       </title>
       <interlinear-gloss>
         <jbo>do du la .djan.</jbo>
@@ -1748,7 +1610,6 @@
     <para role="noindent">means the same as</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-GMCc">
       <title>
-        <anchor xml:id="c5e10d6"/>
       </title>
       <interlinear-gloss>
         <jbo>do me la--.djan.</jbo>
@@ -1763,11 +1624,7 @@
     <example role="interlinear-gloss-example" xml:id="example-random-id-raQG">
       <title>
 
-
 <indexterm type="example"><primary>Chrysler</primary></indexterm>
-
-
-        <anchor xml:id="c5e10d7"/>
       </title>
       <interlinear-gloss>
         <jbo>ta me lai--.kraislr. [me'u] karce</jbo>
@@ -1792,7 +1649,6 @@
     <valsi>me</valsi> expression. Here is a contrasting pair of sentences:</para>
     <example xml:id="example-random-id-qJyi" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e10d8"/>
       </title>
       <interlinear-gloss>
         <jbo>re me le ci nolraitru .e la .djan. [me'u] cu blabi</jbo>
@@ -1802,7 +1658,6 @@
     </example>
     <example xml:id="example-random-id-qJyK" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e10d9"/>
       </title>
       <interlinear-gloss>
         <jbo>re me le ci nolraitru me'u .e la .djan. cu blabi</jbo>
@@ -1820,7 +1675,6 @@
     <valsi>me'u</valsi>:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-ygzq">
       <title>
-        <anchor xml:id="c5e10d10"/>
       </title>
       <interlinear-gloss>
         <jbo>ta me--la'e--le--se--cusku--be--do me'u - cukta</jbo>
@@ -1832,7 +1686,6 @@
     <valsi>me'u</valsi> or some other elidable terminator must be expressed:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-8yDj">
       <title>
-        <anchor xml:id="c5e10d11"/>
       </title>
       <interlinear-gloss>
         <jbo>le me--le--ci--nolraitru [ku] me'u nunsalci</jbo>
@@ -1850,13 +1703,12 @@
   </section>
 
   <section xml:id="section-place-conversion">
-    <title><anchor xml:id="c5s11"/>Conversion of simple selbri</title>
+    <title>Conversion of simple selbri</title>
     <para> <indexterm type="lojban-word"><primary>xe</primary></indexterm>  <indexterm type="lojban-word"><primary>ve</primary></indexterm>  <indexterm type="lojban-word"><primary>te</primary></indexterm>  <indexterm type="lojban-word"><primary>se</primary></indexterm>  <indexterm type="lojban-word"><primary>SE selma'o</primary></indexterm>  <indexterm type="general"><primary>place structure</primary><secondary>re-ordering by conversion</secondary></indexterm>  <indexterm type="general"><primary>conversion</primary><secondary>definition</secondary></indexterm>  <indexterm type="general"><primary>tanru and conversion</primary></indexterm>  <indexterm type="general"><primary>conversion and tanru</primary></indexterm> Conversion is the process of changing a selbri so that its places appear in a different order. This is not the same as labeling the sumti with the cmavo of FA, as mentioned in
     <xref linkend="section-be-sumti"/>, and then rearranging the order in which the sumti are spoken or written. Conversion transforms the selbri into a distinct, though closely related, selbri with renumbered places.</para>
     <para>In Lojban, conversion is accomplished by placing a cmavo of selma'o SE before the selbri:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-29Gu">
       <title>
-        <anchor xml:id="c5e11d1"/>
       </title>
       <interlinear-gloss>
         <jbo>mi prami do</jbo>
@@ -1866,7 +1718,6 @@
     <para role="noindent">is equivalent in meaning to:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-DWcN">
       <title>
-        <anchor xml:id="c5e11d2"/>
       </title>
       <interlinear-gloss>
         <jbo>do se prami mi</jbo>
@@ -1880,11 +1731,7 @@
     <example role="interlinear-gloss-example" xml:id="example-random-id-mPX8">
       <title>
 
-
 <indexterm type="example"><primary>walk to market</primary></indexterm>
-
-
-        <anchor xml:id="c5e11d3"/>
       </title>
       <interlinear-gloss>
         <jbo>la .alis. cu cadzu klama le zarci</jbo>
@@ -1897,7 +1744,6 @@
     <jbophrase>le zarci</jbophrase> is in the x1 place, one correct way is:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-4mbn">
       <title>
-        <anchor xml:id="c5e11d4"/>
       </title>
       <interlinear-gloss>
         <jbo>le zarci cu se</jbo>
@@ -1916,7 +1762,6 @@
     <valsi>cadzu</valsi>, leading to:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-UNt0">
       <title>
-        <anchor xml:id="c5e11d5"/>
       </title>
       <interlinear-gloss>
         <jbo>le zarci cu se cadzu</jbo>
@@ -1934,7 +1779,6 @@
     <valsi>klama</valsi> alone, is to convert only the latter:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-U0fo">
       <title>
-        <anchor xml:id="c5e11d6"/>
       </title>
       <interlinear-gloss>
         <jbo>le zarci cu cadzu se--klama la .alis.</jbo>
@@ -1947,7 +1791,6 @@
     <valsi>cadzu</valsi> is not converted, there is a suggestion that although Alice is the goer, the market is the walker. With a different sumti as x1, this seemingly odd interpretation might make considerable sense:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-XEnd">
       <title>
-        <anchor xml:id="c5e11d7"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djan. cu cadzu se--klama la .alis</jbo>
@@ -1961,13 +1804,12 @@
   </section>
 
   <section xml:id="section-selbri-scalar-negation">
-    <title><anchor xml:id="c5s12"/>Scalar negation of selbri</title>
+    <title>Scalar negation of selbri</title>
     <para> <indexterm type="general"><primary>selbri</primary><secondary>scalar negation of</secondary></indexterm>  <indexterm type="general"><primary>scalar negation</primary><secondary>effect on selbri</secondary></indexterm> Negation is too large and complex a topic to explain fully in this chapter; see
     <xref linkend="chapter-negation"/>. In brief, there are two main types of negation in Lojban. This section is concerned with so-called
     <quote>scalar negation</quote>, which is used to state that a true relation between the sumti is something other than what the selbri specifies. Scalar negation is expressed by cmavo of selma'o NAhE:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-4oxH">
       <title>
-        <anchor xml:id="c5e12d1"/>
       </title>
       <interlinear-gloss>
         <jbo>la .alis. cu na'e ke cadzu klama [ke'e] le zarci</jbo>
@@ -1979,7 +1821,6 @@
     <valsi>ke</valsi> were omitted, the result would be:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-NL2Y">
       <title>
-        <anchor xml:id="c5e12d2"/>
       </title>
       <interlinear-gloss>
         <jbo>la .alis. cu na'e cadzu klama le zarci</jbo>
@@ -1995,7 +1836,6 @@
     <xref linkend="section-cmavo-selbri"/> may be used in place of brivla in any of these examples:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-YB00">
       <title>
-        <anchor xml:id="c5e12d3"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djonz. cu na'e pamoi cusku</jbo>
@@ -2013,7 +1853,6 @@
     <valsi>bei</valsi>:<indexterm type="general"><primary>na'e</primary><secondary>contrasted with na'e ke</secondary></indexterm></para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-I1Rd">
       <title>
-        <anchor xml:id="c5e12d4"/>
       </title>
       <interlinear-gloss>
         <jbo>mi na'e sutra cadzu be fi le birka be'o klama le zarci</jbo>
@@ -2028,7 +1867,6 @@
     <xref linkend="example-random-id-KcK8"/>:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-KcK8">
       <title>
-        <anchor xml:id="c5e12d5"/>
       </title>
       <interlinear-gloss>
         <jbo>mi na'e ke sutra cadzu be fi le birka [be'o]</jbo>
@@ -2047,7 +1885,6 @@
     <valsi>ke</valsi> grouping respectively:</para>
     <example xml:id="example-random-id-qjyW" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e12d6"/>
       </title>
       <interlinear-gloss>
         <jbo>mi sutra bo cadzu be fi le birka be'o</jbo>
@@ -2061,7 +1898,6 @@
     </example>
     <example xml:id="example-random-id-qjyy" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e12d7"/>
       </title>
       <interlinear-gloss>
         <jbo>mi ke sutra cadzu be fi le birka [be'o] ke'e</jbo>
@@ -2078,7 +1914,6 @@
     <xref linkend="example-random-id-qjyy"/>, we get different results:</para>
     <example xml:id="example-random-id-qjyz" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e12d8"/>
       </title>
       <interlinear-gloss>
         <jbo>mi na'e sutra cadzu be fi le birka be'o</jbo>
@@ -2092,7 +1927,6 @@
     </example>
     <example xml:id="example-random-id-qJzr" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e12d9"/>
       </title>
       <interlinear-gloss>
         <jbo>mi na'e ke sutra cadzu be fi le birka [be'o] ke'e</jbo>
@@ -2117,7 +1951,6 @@
     <xref linkend="example-random-id-qJzr"/>, it is transformed into:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Y53U">
       <title>
-        <anchor xml:id="c5e12d10"/>
       </title>
       <interlinear-gloss>
         <jbo>mi na'e ke sutra cadzu be fi le birka be'o</jbo>
@@ -2134,7 +1967,6 @@
     <valsi>be'o</valsi> are omitted, the results are even sillier:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-0WLq">
       <title>
-        <anchor xml:id="c5e12d11"/>
       </title>
       <interlinear-gloss>
         <jbo>mi na'e ke sutra cadzu be fi le birka je masno</jbo>
@@ -2161,11 +1993,10 @@
   </section>
 
   <section xml:id="section-bridi-negation-tenses">
-    <title><anchor xml:id="c5s13"/>Tenses and bridi negation</title>
+    <title>Tenses and bridi negation</title>
     <para>A bridi can have cmavo associated with it which specify the time, place, or mode of action. For example, in</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-uz13">
       <title>
-        <anchor xml:id="c5e13d1"/>
       </title>
       <interlinear-gloss>
         <jbo>mi pu klama le zarci</jbo>
@@ -2183,7 +2014,6 @@
     <xref linkend="section-selbri-scalar-negation"/>. For example:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-PYSP">
       <title>
-        <anchor xml:id="c5e13d2"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djonz. na pamoi cusku</jbo>
@@ -2199,7 +2029,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-RV4C">
       <title>
-        <anchor xml:id="c5e13d3"/>
       </title>
       <interlinear-gloss>
         <jbo>mi na pu klama le zarci</jbo>
@@ -2212,7 +2041,6 @@
     <valsi>na</valsi> cmavo cancel out:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-TuP7">
       <title>
-        <anchor xml:id="c5e13d4"/>
       </title>
       <interlinear-gloss>
         <jbo>mi na na klama le zarci</jbo>
@@ -2228,7 +2056,6 @@
     <xref linkend="chapter-tenses"/>.</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-hw6g">
       <title>
-        <anchor xml:id="c5e13d5"/>
       </title>
       <interlinear-gloss>
         <jbo>mi na pu na ca klama le zarci</jbo>
@@ -2243,7 +2070,7 @@
   </section>
 
   <section xml:id="section-asymmetric-tanru">
-    <title><anchor xml:id="c5s14"/>Some types of asymmetrical tanru</title>
+    <title>Some types of asymmetrical tanru</title>
 
     <para> <indexterm type="general"><primary>tanru</primary><secondary>asymmetrical</secondary></indexterm>  <indexterm type="general"><primary>asymmetrical tanru</primary></indexterm> This section and
     <xref linkend="section-symmetric-tanru"/> contain some example tanru classified into groups based on the type of relationship between the modifying seltau and the modified tertau. All the examples are paralleled by compounds actually observed in various natural languages. In the tables which follow, each group is preceded by a brief explanation of the relationship. The tables themselves contain a tanru, a literal gloss, an indication of the languages which exhibit a compound analogous to this tanru, and (for those tanru with no English parallel) a translation.</para>
@@ -3421,7 +3248,7 @@
     <jbophrase>kanla denci</jbophrase>, the relationship is not only not present on the surface, it is hardly possible to formulate it at all.</para>
   </section>
   <section xml:id="section-symmetric-tanru">
-    <title><anchor xml:id="c5s15"/>Some types of symmetrical tanru</title>
+    <title>Some types of symmetrical tanru</title>
 
     <para> <indexterm type="general"><primary>symmetrical tanru</primary></indexterm> This section deals with symmetrical tanru, where order is not important. Many of these tanru can be expressed with a logical or non-logical connective between the components.</para>
 
@@ -3671,7 +3498,7 @@
     </table>
   </section>
   <section xml:id="section-pretty-school-groupings">
-    <title><anchor xml:id="c5s16"/><quote>Pretty little girls' school</quote>: forty ways to say it</title>
+    <title><quote>Pretty little girls' school</quote>: forty ways to say it</title>
     <para> <indexterm type="general"><primary>pretty little girls' school</primary><secondary>forty ways</secondary></indexterm> The following examples show every possible grouping arrangement of
     <jbophrase>melbi cmalu nixli ckule</jbophrase> using
     <valsi>bo</valsi> or
@@ -3694,7 +3521,6 @@
     <para>It must be emphasized that, because of the ambiguity of all tanru, the English translations are by no means definitive &ndash; they represent only one possible interpretation of the corresponding Lojban sentence.</para>
     <example xml:id="example-random-id-qjzw" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d1"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi - cmalu - nixli - ckule</jbo>
@@ -3704,7 +3530,6 @@
     </example>
     <example xml:id="example-random-id-qK2W" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d2"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi je cmalu - nixli - ckule</jbo>
@@ -3714,7 +3539,6 @@
     </example>
     <example xml:id="example-random-id-qK2x" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d3"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi bo cmalu je nixli - ckule</jbo>
@@ -3724,7 +3548,6 @@
     </example>
     <example xml:id="example-random-id-qK5r" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d4"/>
       </title>
       <interlinear-gloss>
         <jbo>ke melbi - cmalu - nixli ke'e je ckule</jbo>
@@ -3734,7 +3557,6 @@
     </example>
     <example xml:id="example-random-id-qK5Y" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d5"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi je cmalu je nixli - ckule</jbo>
@@ -3745,7 +3567,6 @@
     </example>
     <example xml:id="example-random-id-qK7I" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d6"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi bo cmalu je nixli je ckule</jbo>
@@ -3756,7 +3577,6 @@
     </example>
     <example xml:id="example-random-id-qK90" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d7"/>
       </title>
       <interlinear-gloss>
         <jbo>ke melbi je cmalu - nixli ke'e je ckule</jbo>
@@ -3766,7 +3586,6 @@
     </example>
     <example xml:id="example-random-id-qKAG" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d8"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi je cmalu je nixli je ckule</jbo>
@@ -3776,7 +3595,6 @@
     </example>
     <example xml:id="example-random-id-qKaM" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d9"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi - cmalu - nixli bo ckule</jbo>
@@ -3786,7 +3604,6 @@
     </example>
     <example xml:id="example-random-id-qKat" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d10"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi je cmalu - nixli bo ckule</jbo>
@@ -3796,7 +3613,6 @@
     </example>
     <example xml:id="example-random-id-qKBQ" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d11"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi - cmalu - nixli je ckule</jbo>
@@ -3806,7 +3622,6 @@
     </example>
     <example xml:id="example-random-id-qKBy" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d12"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi bo cmalu je nixli bo ckule</jbo>
@@ -3816,7 +3631,6 @@
     </example>
     <example xml:id="example-random-id-qKcH" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d13"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi je cmalu - nixli je ckule</jbo>
@@ -3826,7 +3640,6 @@
     </example>
     <example xml:id="example-random-id-qKdY" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d14"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi bo cmalu je nixli jebo ckule</jbo>
@@ -3837,7 +3650,6 @@
     <para role="indent">Note: same as <xref linkend="example-random-id-qK7I"/></para>
     <example xml:id="example-random-id-qKEI" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d15"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi jebo cmalu je nixli bo ckule</jbo>
@@ -3848,7 +3660,6 @@
     <para role="indent">Note: same as <xref linkend="example-random-id-qKpm"/></para>
     <example xml:id="example-random-id-qKFA" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d16"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi jebo cmalu je nixli jebo ckule</jbo>
@@ -3858,7 +3669,6 @@
     </example>
     <example xml:id="example-random-id-qKfX" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d17"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi - cmalu bo nixli - ckule</jbo>
@@ -3868,7 +3678,6 @@
     </example>
     <example xml:id="example-random-id-qKGW" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d18"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi - cmalu je nixli - ckule</jbo>
@@ -3878,7 +3687,6 @@
     </example>
     <example xml:id="example-random-id-qKHA" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d19"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi je cmalu bo nixli - ckule</jbo>
@@ -3888,7 +3696,6 @@
     </example>
     <example xml:id="example-random-id-qKjJ" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d20"/>
       </title>
       <interlinear-gloss>
         <jbo>ke melbi -  cmalu bo nixli ke'e je ckule</jbo>
@@ -3899,7 +3706,6 @@
     </example>
     <example xml:id="example-random-id-qKjr" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d21"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi je cmalu jebo nixli - ckule</jbo>
@@ -3910,7 +3716,6 @@
     <para role="indent">Note: same as <xref linkend="example-random-id-qK5Y"/></para>
     <example xml:id="example-random-id-qKKM" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d22"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi je cmalu bo nixli je ckule</jbo>
@@ -3921,7 +3726,6 @@
     <para role="indent">Note: same as <xref linkend="example-random-id-qKsA"/></para>
     <example xml:id="example-random-id-qKLi" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d23"/>
       </title>
       <interlinear-gloss>
         <jbo>ke melbi - cmalu je nixli ke'e je ckule</jbo>
@@ -3931,7 +3735,6 @@
     </example>
     <example xml:id="example-random-id-qKLN" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d24"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi je cmalu jebo nixli je ckule</jbo>
@@ -3941,7 +3744,6 @@
     </example>
     <example xml:id="example-random-id-qKmg" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d25"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi -  cmalu bo nixli bo ckule - -</jbo>
@@ -3952,7 +3754,6 @@
     </example>
     <example xml:id="example-random-id-qKn8" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d26"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi ke cmalu - nixli je ckule [ke'e]</jbo>
@@ -3962,7 +3763,6 @@
     </example>
     <example xml:id="example-random-id-qKNY" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d27"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi - cmalu je nixli bo ckule</jbo>
@@ -3972,7 +3772,6 @@
     </example>
     <example xml:id="example-random-id-qKp6" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d28"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi je -  cmalu bo nixli bo ckule - -</jbo>
@@ -3984,7 +3783,6 @@
     </example>
     <example xml:id="example-random-id-qKp9" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d29"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi - cmalu je -  nixli jebo ckule -</jbo>
@@ -3996,7 +3794,6 @@
     <para role="indent">Note: same as <xref linkend="example-random-id-qKR5"/></para>
     <example xml:id="example-random-id-qKpm" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d30"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi je -  cmalu jebo nixli bo ckule -</jbo>
@@ -4008,7 +3805,6 @@
     <para role="indent">Note: same as <xref linkend="example-random-id-qKEI"/></para>
     <example xml:id="example-random-id-qKPn" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d31"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi je ke cmalu - nixli je ckule [ke'e]</jbo>
@@ -4018,7 +3814,6 @@
     </example>
     <example xml:id="example-random-id-qKpo" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d32"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi jebo cmalu jebo nixli jebo ckule</jbo>
@@ -4028,7 +3823,6 @@
     </example>
     <example xml:id="example-random-id-qKPQ" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d33"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi ke cmalu - nixli - ckule [ke'e]</jbo>
@@ -4038,7 +3832,6 @@
     </example>
     <example xml:id="example-random-id-qKpX" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d34"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi ke cmalu je nixli - ckule [ke'e]</jbo>
@@ -4048,7 +3841,6 @@
     </example>
     <example xml:id="example-random-id-qKPz" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d35"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi ke cmalu bo nixli je ckule [ke'e]</jbo>
@@ -4058,7 +3850,6 @@
     </example>
     <example xml:id="example-random-id-qKQ3" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d36"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi je ke cmalu - nixli ckule [ke'e]</jbo>
@@ -4068,7 +3859,6 @@
     </example>
     <example xml:id="example-random-id-qKR5" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d37"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi - cmalu je nixli je ckule</jbo>
@@ -4079,7 +3869,6 @@
     <para role="indent">Note: same as <xref linkend="example-random-id-qKp9"/></para>
     <example xml:id="example-random-id-qKsA" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d38"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi je ke cmalu bo nixli je ckule [ke'e]</jbo>
@@ -4090,7 +3879,6 @@
     <para role="indent">Note: same as <xref linkend="example-random-id-qKKM"/></para>
     <example xml:id="example-random-id-qKSK" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d39"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi je ke cmalu je nixli - ckule [ke'e]</jbo>
@@ -4100,7 +3888,6 @@
     </example>
     <example xml:id="example-random-id-qKU6" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c5e16d40"/>
       </title>
       <interlinear-gloss>
         <jbo>melbi je ke cmalu je nixli je ckule [ke'e]</jbo>

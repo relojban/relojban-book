@@ -5,11 +5,11 @@
   <!ENTITY hellip "&#x02026;" ><!--HORIZONTAL ELLIPSIS -->
 ]>
 <chapter xml:id="chapter-grammars">
-  <title><anchor xml:id="c21"/>Formal Grammars</title>
+  <title>Formal Grammars</title>
 
   <!--
   <section xml:id="section-YACC">
-    <title><anchor xml:id="c21s1"/>YACC Grammar of Lojban</title>
+    <title>YACC Grammar of Lojban</title>
     <para>The following two listings constitute the formal grammar of Lojban. The first version is written in the YACC language, which is used to describe parsers, and has been used to create a parser for Lojban texts. This parser is available from the Logical Language Group. The second listing is in Extended Backus-Naur Form (EBNF) and represents the same grammar in a more human-readable form. (In case of discrepancies, the YACC version is official.) There is a cross-reference listing for each format that shows, for each selma'o and rule, which rules refer to it.</para>
 
     <para>/* /*Lojban Machine Grammar, Final Baseline The Lojban Machine Grammardocument is explicitly dedicated to the public domain by its author,The Logical Language Group, Inc.</para>
@@ -118,412 +118,412 @@
     <para>*/</para>
     <programlisting xml:space="preserve">
 %token
-<anchor xml:id="y501"/>
+
 <anchor xreflabel="YACC rule #501" xml:id="cll_yacc-501"/> A_501            /* eks; basic afterthought logical connectives */
 %token
-<anchor xml:id="y502"/>
+
 <anchor xreflabel="YACC rule #502" xml:id="cll_yacc-502"/> BAI_502          /* modal operators */
 %token
-<anchor xml:id="y503"/>
+
 <anchor xreflabel="YACC rule #503" xml:id="cll_yacc-503"/> BAhE_503         /* next word intensifier */
 %token
-<anchor xml:id="y504"/>
+
 <anchor xreflabel="YACC rule #504" xml:id="cll_yacc-504"/> BE_504           /* sumti link to attach sumti to a selbri */
 %token
-<anchor xml:id="y505"/>
+
 <anchor xreflabel="YACC rule #505" xml:id="cll_yacc-505"/> BEI_505          /* multiple sumti separator between BE, BEI */
 %token
-<anchor xml:id="y506"/>
+
 <anchor xreflabel="YACC rule #506" xml:id="cll_yacc-506"/> BEhO_506         /* terminates BE/BEI specified descriptors */
 %token
-<anchor xml:id="y507"/>
+
 <anchor xreflabel="YACC rule #507" xml:id="cll_yacc-507"/> BIhI_507         /* interval component of JOI */
 %token
-<anchor xml:id="y508"/>
+
 <anchor xreflabel="YACC rule #508" xml:id="cll_yacc-508"/> BO_508           /* joins two units with shortest scope */
 %token
-<anchor xml:id="y509"/>
+
 <anchor xreflabel="YACC rule #509" xml:id="cll_yacc-509"/> BRIVLA_509       /* any brivla */
 %token
-<anchor xml:id="y511"/>
+
 <anchor xreflabel="YACC rule #511" xml:id="cll_yacc-511"/> BU_511           /* turns any word into a BY lerfu word */
 %token
-<anchor xml:id="y513"/>
+
 <anchor xreflabel="YACC rule #513" xml:id="cll_yacc-513"/> BY_513           /* individual lerfu words */
 %token
-<anchor xml:id="y514"/>
+
 <anchor xreflabel="YACC rule #514" xml:id="cll_yacc-514"/> CAhA_514         /* specifies actuality/potentiality of tense */
 
 %token
-<anchor xml:id="y515"/>
+
 <anchor xreflabel="YACC rule #515" xml:id="cll_yacc-515"/> CAI_515          /* afterthought intensity marker */
 %token
-<anchor xml:id="y516"/>
+
 <anchor xreflabel="YACC rule #516" xml:id="cll_yacc-516"/> CEI_516          /* pro-bridi assignment operator */
 %token
-<anchor xml:id="y517"/>
+
 <anchor xreflabel="YACC rule #517" xml:id="cll_yacc-517"/> CEhE_517         /* afterthought term list connective */
 %token
-<anchor xml:id="y518"/>
+
 <anchor xreflabel="YACC rule #518" xml:id="cll_yacc-518"/> CMEVLA_518        /* names; require consonant end, then pause no
                                    LA or DOI selma'o embedded, pause before if
 
                                    vowel initial and preceded by a vowel */
 %token
-<anchor xml:id="y519"/>
+
 <anchor xreflabel="YACC rule #519" xml:id="cll_yacc-519"/> CO_519           /* tanru inversion  */
 
 %token
-<anchor xml:id="y520"/>
+
 <anchor xreflabel="YACC rule #520" xml:id="cll_yacc-520"/> COI_520          /* vocative marker permitted inside names; must
                                    always be followed by pause or DOI */
 %token
-<anchor xml:id="y521"/>
+
 <anchor xreflabel="YACC rule #521" xml:id="cll_yacc-521"/> CU_521           /* separator between head sumti and selbri */
 %token
-<anchor xml:id="y522"/>
+
 <anchor xreflabel="YACC rule #522" xml:id="cll_yacc-522"/> CUhE_522         /* tense/modal question */
 %token
-<anchor xml:id="y524"/>
+
 <anchor xreflabel="YACC rule #524" xml:id="cll_yacc-524"/> DAhO_524         /* cancel anaphora/cataphora assignments */
 
 %token
-<anchor xml:id="y525"/>
+
 <anchor xreflabel="YACC rule #525" xml:id="cll_yacc-525"/> DOI_525          /* vocative marker */
 %token
-<anchor xml:id="y526"/>
+
 <anchor xreflabel="YACC rule #526" xml:id="cll_yacc-526"/> DOhU_526         /* terminator for DOI-marked vocatives */
 %token
-<anchor xml:id="y527"/>
+
 <anchor xreflabel="YACC rule #527" xml:id="cll_yacc-527"/> FA_527           /* modifier head generic case tag */
 %token
-<anchor xml:id="y528"/>
+
 <anchor xreflabel="YACC rule #528" xml:id="cll_yacc-528"/> FAhA_528         /* superdirections in space */
 %token
-<anchor xml:id="y529"/>
+
 <anchor xreflabel="YACC rule #529" xml:id="cll_yacc-529"/> FAhO_529         /* normally elided <quote>done pause</quote> to indicate end
                                    of utterance string */
 %token
-<anchor xml:id="y530"/>
+
 <anchor xreflabel="YACC rule #530" xml:id="cll_yacc-530"/> FEhE_530         /* space interval mod flag */
 %token
-<anchor xml:id="y531"/>
+
 <anchor xreflabel="YACC rule #531" xml:id="cll_yacc-531"/> FEhU_531         /* ends bridi to modal conversion */
 
 %token
-<anchor xml:id="y532"/>
+
 <anchor xreflabel="YACC rule #532" xml:id="cll_yacc-532"/> FIhO_532         /* marks bridi to modal conversion */
 
 %token
-<anchor xml:id="y533"/>
+
 <anchor xreflabel="YACC rule #533" xml:id="cll_yacc-533"/> FOI_533          /* end compound lerfu */
 %token
-<anchor xml:id="y535"/>
+
 <anchor xreflabel="YACC rule #535" xml:id="cll_yacc-535"/> FUhE_535         /* open long scope for indicator */
 %token
-<anchor xml:id="y536"/>
+
 <anchor xreflabel="YACC rule #536" xml:id="cll_yacc-536"/> FUhO_536         /* close long scope for indicator */
 %token
-<anchor xml:id="y537"/>
+
 <anchor xreflabel="YACC rule #537" xml:id="cll_yacc-537"/> GA_537           /* geks; forethought logical connectives */
 
 %token
-<anchor xml:id="y538"/>
+
 <anchor xreflabel="YACC rule #538" xml:id="cll_yacc-538"/> GEhU_538         /* marker ending GOI relative clauses */
 %token
-<anchor xml:id="y539"/>
+
 <anchor xreflabel="YACC rule #539" xml:id="cll_yacc-539"/> GI_539           /* forethought medial marker */
 %token
-<anchor xml:id="y541"/>
+
 <anchor xreflabel="YACC rule #541" xml:id="cll_yacc-541"/> GIhA_541         /* logical connectives for bridi-tails */
 %token
-<anchor xml:id="y542"/>
+
 <anchor xreflabel="YACC rule #542" xml:id="cll_yacc-542"/> GOI_542          /* attaches a sumti modifier to a sumti */
 %token
-<anchor xml:id="y543"/>
+
 <anchor xreflabel="YACC rule #543" xml:id="cll_yacc-543"/> GOhA_543         /* pro-bridi */
 %token
-<anchor xml:id="y544"/>
+
 <anchor xreflabel="YACC rule #544" xml:id="cll_yacc-544"/> GUhA_544         /* GEK for tanru units, corresponds to JEKs */
 %token
-<anchor xml:id="y545"/>
+
 <anchor xreflabel="YACC rule #545" xml:id="cll_yacc-545"/> I_545            /* sentence link */
 %token
-<anchor xml:id="y546"/>
+
 <anchor xreflabel="YACC rule #546" xml:id="cll_yacc-546"/> JA_546           /* jeks; logical connectives within tanru */
 %token
-<anchor xml:id="y547"/>
+
 <anchor xreflabel="YACC rule #547" xml:id="cll_yacc-547"/> JAI_547          /* modal conversion flag */
 
 %token
-<anchor xml:id="y548"/>
+
 <anchor xreflabel="YACC rule #548" xml:id="cll_yacc-548"/> JOI_548          /* non-logical connectives */
 %token
-<anchor xml:id="y550"/>
+
 <anchor xreflabel="YACC rule #550" xml:id="cll_yacc-550"/> KEhE_550         /* right terminator for KE groups */
 %token
-<anchor xml:id="y551"/>
+
 <anchor xreflabel="YACC rule #551" xml:id="cll_yacc-551"/> KE_551           /* left long scope marker */
 %token
-<anchor xml:id="y552"/>
+
 <anchor xreflabel="YACC rule #552" xml:id="cll_yacc-552"/> KEI_552          /* right terminator, NU abstractions */
 %token
-<anchor xml:id="y554"/>
+
 <anchor xreflabel="YACC rule #554" xml:id="cll_yacc-554"/> KI_554           /* multiple utterance scope for tenses */
 %token
-<anchor xml:id="y555"/>
+
 <anchor xreflabel="YACC rule #555" xml:id="cll_yacc-555"/> KOhA_555         /* sumti anaphora */
 
 %token
-<anchor xml:id="y556"/>
+
 <anchor xreflabel="YACC rule #556" xml:id="cll_yacc-556"/> KU_556           /* right terminator for descriptions, etc. */
 %token
-<anchor xml:id="y557"/>
+
 <anchor xreflabel="YACC rule #557" xml:id="cll_yacc-557"/> KUhO_557         /* right terminator, NOI relative clauses */
 %token
-<anchor xml:id="y558"/>
+
 <anchor xreflabel="YACC rule #558" xml:id="cll_yacc-558"/> LA_558           /* name descriptors */
 %token
-<anchor xml:id="y559"/>
+
 <anchor xreflabel="YACC rule #559" xml:id="cll_yacc-559"/> LAU_559          /* lerfu prefixes */
 %token
-<anchor xml:id="y561"/>
+
 <anchor xreflabel="YACC rule #561" xml:id="cll_yacc-561"/> LAhE_561         /* sumti qualifiers */
 %token
-<anchor xml:id="y562"/>
+
 <anchor xreflabel="YACC rule #562" xml:id="cll_yacc-562"/> LE_562           /* sumti descriptors */
 %token
-<anchor xml:id="y565"/>
+
 <anchor xreflabel="YACC rule #565" xml:id="cll_yacc-565"/> LEhU_565         /* possibly ungrammatical text right quote */
 %token
-<anchor xml:id="y566"/>
+
 <anchor xreflabel="YACC rule #566" xml:id="cll_yacc-566"/> LI_566           /* convert number to sumti */
 %token
-<anchor xml:id="y567"/>
+
 <anchor xreflabel="YACC rule #567" xml:id="cll_yacc-567"/> LIhU_567         /* grammatical text right quote */
 %token
-<anchor xml:id="y568"/>
+
 <anchor xreflabel="YACC rule #568" xml:id="cll_yacc-568"/> LOhO_568         /* elidable terminator for LI */
 %token
-<anchor xml:id="y569"/>
+
 <anchor xreflabel="YACC rule #569" xml:id="cll_yacc-569"/> LOhU_569         /* possibly ungrammatical text left quote */
 %token
-<anchor xml:id="y571"/>
+
 <anchor xreflabel="YACC rule #571" xml:id="cll_yacc-571"/> LU_571           /* grammatical text left quote */
 %token
-<anchor xml:id="y573"/>
+
 <anchor xreflabel="YACC rule #573" xml:id="cll_yacc-573"/> LUhU_573         /* LAhE close delimiter */
 %token
-<anchor xml:id="y574"/>
+
 <anchor xreflabel="YACC rule #574" xml:id="cll_yacc-574"/> ME_574           /* converts a sumti into a tanru_unit */
 %token
-<anchor xml:id="y575"/>
+
 <anchor xreflabel="YACC rule #575" xml:id="cll_yacc-575"/> MEhU_575         /* terminator for ME */
 %token
-<anchor xml:id="y577"/>
+
 <anchor xreflabel="YACC rule #577" xml:id="cll_yacc-577"/> MOhI_577         /* motion tense marker */
 %token
-<anchor xml:id="y578"/>
+
 <anchor xreflabel="YACC rule #578" xml:id="cll_yacc-578"/> NA_578           /* bridi negation  */
 %token
-<anchor xml:id="y581"/>
+
 <anchor xreflabel="YACC rule #581" xml:id="cll_yacc-581"/> NAI_581          /* attached to words to negate them */
 %token
-<anchor xml:id="y583"/>
+
 <anchor xreflabel="YACC rule #583" xml:id="cll_yacc-583"/> NAhE_583         /* scalar negation  */
 %token
-<anchor xml:id="y584"/>
+
 <anchor xreflabel="YACC rule #584" xml:id="cll_yacc-584"/> NIhO_584         /* new paragraph; change of subject */
 %token
-<anchor xml:id="y585"/>
+
 <anchor xreflabel="YACC rule #585" xml:id="cll_yacc-585"/> NOI_585          /* attaches a subordinate clause to a sumti */
 %token
-<anchor xml:id="y586"/>
+
 <anchor xreflabel="YACC rule #586" xml:id="cll_yacc-586"/> NU_586           /* abstraction  */
 %token
-<anchor xml:id="y587"/>
+
 <anchor xreflabel="YACC rule #587" xml:id="cll_yacc-587"/> NUhI_587         /* marks the start of a termset */
 %token
-<anchor xml:id="y588"/>
+
 <anchor xreflabel="YACC rule #588" xml:id="cll_yacc-588"/> NUhU_588         /* marks the middle and end of a termset */
 %token
-<anchor xml:id="y591"/>
+
 <anchor xreflabel="YACC rule #591" xml:id="cll_yacc-591"/> PEhE_591         /* afterthought termset connective prefix */
 %token
-<anchor xml:id="y592"/>
+
 <anchor xreflabel="YACC rule #592" xml:id="cll_yacc-592"/> PU_592           /* directions in time */
 %token
-<anchor xml:id="y593"/>
+
 <anchor xreflabel="YACC rule #593" xml:id="cll_yacc-593"/> RAhO_593         /* flag for modified interpretation of GOhI */
 %token
-<anchor xml:id="y594"/>
+
 <anchor xreflabel="YACC rule #594" xml:id="cll_yacc-594"/> ROI_594          /* converts number to extensional tense */
 %token
-<anchor xml:id="y595"/>
+
 <anchor xreflabel="YACC rule #595" xml:id="cll_yacc-595"/> SA_595           /* metalinguistic eraser to the beginning of
                                    the current utterance */
 %token
-<anchor xml:id="y596"/>
+
 <anchor xreflabel="YACC rule #596" xml:id="cll_yacc-596"/> SE_596           /* conversions */
 %token
-<anchor xml:id="y597"/>
+
 <anchor xreflabel="YACC rule #597" xml:id="cll_yacc-597"/> SEI_597          /* metalinguistic bridi insert marker */
 %token
-<anchor xml:id="y598"/>
+
 <anchor xreflabel="YACC rule #598" xml:id="cll_yacc-598"/> SEhU_598         /* metalinguistic bridi end marker */
 %token
-<anchor xml:id="y601"/>
+
 <anchor xreflabel="YACC rule #601" xml:id="cll_yacc-601"/> SI_601           /* metalinguistic single word eraser */
 %token
-<anchor xml:id="y602"/>
+
 <anchor xreflabel="YACC rule #602" xml:id="cll_yacc-602"/> SOI_602          /* reciprocal sumti marker */
 
 %token
-<anchor xml:id="y603"/>
+
 <anchor xreflabel="YACC rule #603" xml:id="cll_yacc-603"/> SU_603           /* metalinguistic eraser of the entire text */
 %token
-<anchor xml:id="y604"/>
+
 <anchor xreflabel="YACC rule #604" xml:id="cll_yacc-604"/> TAhE_604         /* tense interval properties */
 
 %token
-<anchor xml:id="y605"/>
+
 <anchor xreflabel="YACC rule #605" xml:id="cll_yacc-605"/> TEI_605          /* start compound lerfu */
 %token
-<anchor xml:id="y606"/>
+
 <anchor xreflabel="YACC rule #606" xml:id="cll_yacc-606"/> TO_606           /* left discursive parenthesis */
 %token
-<anchor xml:id="y607"/>
+
 <anchor xreflabel="YACC rule #607" xml:id="cll_yacc-607"/> TOI_607          /* right discursive parenthesis */
 %token
-<anchor xml:id="y610"/>
+
 <anchor xreflabel="YACC rule #610" xml:id="cll_yacc-610"/> TUhE_610         /* multiple utterance scope mark */
 %token
-<anchor xml:id="y611"/>
+
 <anchor xreflabel="YACC rule #611" xml:id="cll_yacc-611"/> TUhU_611         /* multiple utterance end scope mark */
 %token
-<anchor xml:id="y612"/>
+
 <anchor xreflabel="YACC rule #612" xml:id="cll_yacc-612"/> UI_612           /* attitudinals, observationals, discursives */
 %token
-<anchor xml:id="y613"/>
+
 <anchor xreflabel="YACC rule #613" xml:id="cll_yacc-613"/> VA_613           /* distance in space-time */
 %token
-<anchor xml:id="y614"/>
+
 <anchor xreflabel="YACC rule #614" xml:id="cll_yacc-614"/> VAU_614          /* end simple bridi or bridi-tail */
 
 %token
-<anchor xml:id="y615"/>
+
 <anchor xreflabel="YACC rule #615" xml:id="cll_yacc-615"/> VEhA_615         /* space-time interval size */
 
 %token
-<anchor xml:id="y616"/>
+
 <anchor xreflabel="YACC rule #616" xml:id="cll_yacc-616"/> VIhA_616         /* space-time dimensionality marker */
 
 %token
-<anchor xml:id="y617"/>
+
 <anchor xreflabel="YACC rule #617" xml:id="cll_yacc-617"/> VUhO_617         /* glue between logically connected sumti
                                     and relative clauses */
 %token
-<anchor xml:id="y618"/>
+
 <anchor xreflabel="YACC rule #618" xml:id="cll_yacc-618"/> XI_618           /* subscripting operator */
 %token
-<anchor xml:id="y619"/>
+
 <anchor xreflabel="YACC rule #619" xml:id="cll_yacc-619"/> Y_619            /* hesitation */
 
 %token
-<anchor xml:id="y621"/>
+
 <anchor xreflabel="YACC rule #621" xml:id="cll_yacc-621"/> ZAhO_621         /* event properties &ndash; inchoative, etc. */
 %token
-<anchor xml:id="y622"/>
+
 <anchor xreflabel="YACC rule #622" xml:id="cll_yacc-622"/> ZEhA_622         /* time interval size tense */
 
 %token
-<anchor xml:id="y623"/>
+
 <anchor xreflabel="YACC rule #623" xml:id="cll_yacc-623"/> ZEI_623          /* lujvo glue */
 %token
-<anchor xml:id="y624"/>
+
 <anchor xreflabel="YACC rule #624" xml:id="cll_yacc-624"/> ZI_624           /* time distance tense */
 %token
-<anchor xml:id="y625"/>
+
 <anchor xreflabel="YACC rule #625" xml:id="cll_yacc-625"/> ZIhE_625         /* conjoins relative clauses */
 %token
-<anchor xml:id="y626"/>
+
 <anchor xreflabel="YACC rule #626" xml:id="cll_yacc-626"/> ZO_626           /* single word metalinguistic quote marker */
 %token
-<anchor xml:id="y627"/>
+
 <anchor xreflabel="YACC rule #627" xml:id="cll_yacc-627"/> ZOI_627          /* delimited quote marker */
 %token
-<anchor xml:id="y628"/>
+
 <anchor xreflabel="YACC rule #628" xml:id="cll_yacc-628"/> ZOhU_628         /* prenex terminator (not elidable) */
 
 %token
-<anchor xml:id="y650"/>
+
 <anchor xreflabel="YACC rule #650" xml:id="cll_yacc-650"/> BIhE_650         /* prefix for high-priority MEX operator */
 %token
-<anchor xml:id="y651"/>
+
 <anchor xreflabel="YACC rule #651" xml:id="cll_yacc-651"/> BOI_651          /* number or lerfu-string terminator */
 %token
-<anchor xml:id="y655"/>
+
 <anchor xreflabel="YACC rule #655" xml:id="cll_yacc-655"/> FUhA_655         /* reverse Polish flag */
 %token
-<anchor xml:id="y656"/>
+
 <anchor xreflabel="YACC rule #656" xml:id="cll_yacc-656"/> GAhO_656         /* open/closed interval markers for BIhI */
 
 
 %token
-<anchor xml:id="y657"/>
+
 <anchor xreflabel="YACC rule #657" xml:id="cll_yacc-657"/> JOhI_657         /* flags an array operand */
 %token
-<anchor xml:id="y658"/>
+
 <anchor xreflabel="YACC rule #658" xml:id="cll_yacc-658"/> KUhE_658         /* MEX forethought delimiter */
 %token
-<anchor xml:id="y661"/>
+
 <anchor xreflabel="YACC rule #661" xml:id="cll_yacc-661"/> MAI_661          /* change numbers to utterance ordinals */
 
 %token
-<anchor xml:id="y662"/>
+
 <anchor xreflabel="YACC rule #662" xml:id="cll_yacc-662"/> MAhO_662         /* change MEX expressions to MEX operators */
 %token
-<anchor xml:id="y663"/>
+
 <anchor xreflabel="YACC rule #663" xml:id="cll_yacc-663"/> MOI_663          /* change number to selbri */
 %token
-<anchor xml:id="y664"/>
+
 <anchor xreflabel="YACC rule #664" xml:id="cll_yacc-664"/> MOhE_664         /* change sumti to operand, inverse of LI */
 %token
-<anchor xml:id="y665"/>
+
 <anchor xreflabel="YACC rule #665" xml:id="cll_yacc-665"/> NAhU_665         /* change a selbri into an operator */
 %token
-<anchor xml:id="y666"/>
+
 <anchor xreflabel="YACC rule #666" xml:id="cll_yacc-666"/> NIhE_666         /* change selbri to operand; inverse of MOI */
 %token
-<anchor xml:id="y667"/>
+
 <anchor xreflabel="YACC rule #667" xml:id="cll_yacc-667"/> NUhA_667         /* change operator to selbri; inverse of MOhE */
 %token
-<anchor xml:id="y672"/>
+
 <anchor xreflabel="YACC rule #672" xml:id="cll_yacc-672"/> PA_672           /* numbers and numeric punctuation */
 %token
-<anchor xml:id="y673"/>
+
 <anchor xreflabel="YACC rule #673" xml:id="cll_yacc-673"/> PEhO_673         /* forethought (Polish) flag */
 %token
-<anchor xml:id="y675"/>
+
 <anchor xreflabel="YACC rule #675" xml:id="cll_yacc-675"/> TEhU_675         /* closing gap for MEX constructs */
 %token
-<anchor xml:id="y677"/>
+
 <anchor xreflabel="YACC rule #677" xml:id="cll_yacc-677"/> VEI_677          /* left MEX bracket */
 %token
-<anchor xml:id="y678"/>
+
 <anchor xreflabel="YACC rule #678" xml:id="cll_yacc-678"/> VEhO_678         /* right MEX bracket */
 %token
-<anchor xml:id="y679"/>
+
 <anchor xreflabel="YACC rule #679" xml:id="cll_yacc-679"/> VUhU_679         /* MEX operator */
 
 %token
-<anchor xml:id="y697"/>
+
 <anchor xreflabel="YACC rule #697" xml:id="cll_yacc-697"/> any_words_697    /* a string of lexable Lojban words */
 %token
-<anchor xml:id="y698"/>
+
 <anchor xreflabel="YACC rule #698" xml:id="cll_yacc-698"/> any_word_698     /* any single lexable Lojban words */
 %token
-<anchor xml:id="y699"/>
+
 <anchor xreflabel="YACC rule #699" xml:id="cll_yacc-699"/> anything_699     /* a possibly unlexable phoneme string */
 
 
@@ -533,80 +533,80 @@ context of the total grammar.  They are used in the actual parser, where
 the 900 series rules are found in the lexer.  */
 
 %token lexer_
-<anchor xml:id="y701"/>
+
 <anchor xreflabel="YACC rule #701" xml:id="cll_yacc-701"/> A_701      /* flags a MAI utterance ordinal */
 
 %token lexer_
-<anchor xml:id="y702"/>
+
 <anchor xreflabel="YACC rule #702" xml:id="cll_yacc-702"/> B_702      /* flags an EK unless EK_BO, EK_KE */
 %token lexer_
-<anchor xml:id="y703"/>
+
 <anchor xreflabel="YACC rule #703" xml:id="cll_yacc-703"/> C_703      /* flags an EK_BO */
 %token lexer_
-<anchor xml:id="y704"/>
+
 <anchor xreflabel="YACC rule #704" xml:id="cll_yacc-704"/> D_704      /* flags an EK_KE */
 %token lexer_
-<anchor xml:id="y705"/>
+
 <anchor xreflabel="YACC rule #705" xml:id="cll_yacc-705"/> E_705      /* flags a JEK */
 %token lexer_
-<anchor xml:id="y706"/>
+
 <anchor xreflabel="YACC rule #706" xml:id="cll_yacc-706"/> F_706      /* flags a JOIK */
 %token lexer_
-<anchor xml:id="y707"/>
+
 <anchor xreflabel="YACC rule #707" xml:id="cll_yacc-707"/> G_707      /* flags a GEK */
 %token lexer_
-<anchor xml:id="y708"/>
+
 <anchor xreflabel="YACC rule #708" xml:id="cll_yacc-708"/> H_708      /* flags a GUhEK */
 %token lexer_
-<anchor xml:id="y709"/>
+
 <anchor xreflabel="YACC rule #709" xml:id="cll_yacc-709"/> I_709      /* flags a NAhE_BO */
 %token lexer_
-<anchor xml:id="y710"/>
+
 <anchor xreflabel="YACC rule #710" xml:id="cll_yacc-710"/> J_710      /* flags a NA_KU */
 %token lexer_
-<anchor xml:id="y711"/>
+
 <anchor xreflabel="YACC rule #711" xml:id="cll_yacc-711"/> K_711      /* flags an I_BO (option. JOIK/JEK lexer tags)*/
 %token lexer_
-<anchor xml:id="y712"/>
+
 <anchor xreflabel="YACC rule #712" xml:id="cll_yacc-712"/> L_712      /* flags a PA, unless MAI (then lexer A) */
 %token lexer_
-<anchor xml:id="y713"/>
+
 <anchor xreflabel="YACC rule #713" xml:id="cll_yacc-713"/> M_713      /* flags a GIhEK_BO */
 %token lexer_
-<anchor xml:id="y714"/>
+
 <anchor xreflabel="YACC rule #714" xml:id="cll_yacc-714"/> N_714      /* flags a GIhEK_KE */
 %token lexer_
-<anchor xml:id="y715"/>
+
 <anchor xreflabel="YACC rule #715" xml:id="cll_yacc-715"/> O_715      /* flags a modal operator BAI or compound */
 %token lexer_
-<anchor xml:id="y716"/>
+
 <anchor xreflabel="YACC rule #716" xml:id="cll_yacc-716"/> P_716      /* flags a GIK */
 %token lexer_
-<anchor xml:id="y717"/>
+
 <anchor xreflabel="YACC rule #717" xml:id="cll_yacc-717"/> Q_717      /* flags a lerfu_string unless MAI (then lexer_A)*/
 %token lexer_
-<anchor xml:id="y718"/>
+
 <anchor xreflabel="YACC rule #718" xml:id="cll_yacc-718"/> R_718      /* flags a GIhEK, not BO or KE */
 %token lexer_
-<anchor xml:id="y719"/>
+
 <anchor xreflabel="YACC rule #719" xml:id="cll_yacc-719"/> S_719      /* flags simple I */
 %token lexer_
-<anchor xml:id="y720"/>
+
 <anchor xreflabel="YACC rule #720" xml:id="cll_yacc-720"/> T_720      /* flags I_JEK */
 %token lexer_
-<anchor xml:id="y721"/>
+
 <anchor xreflabel="YACC rule #721" xml:id="cll_yacc-721"/> U_721      /* flags a JEK_BO */
 %token lexer_
-<anchor xml:id="y722"/>
+
 <anchor xreflabel="YACC rule #722" xml:id="cll_yacc-722"/> V_722      /* flags a JOIK_BO */
 %token lexer_
-<anchor xml:id="y723"/>
+
 <anchor xreflabel="YACC rule #723" xml:id="cll_yacc-723"/> W_723      /* flags a JOIK_KE */
 /* %token lexer_
-<anchor xml:id="y724"/>
+
 <anchor xreflabel="YACC rule #724" xml:id="cll_yacc-724"/> X_724   /* null */
 %token lexer_
-<anchor xml:id="y725"/>
+
 <anchor xreflabel="YACC rule #725" xml:id="cll_yacc-725"/> Y_725      /* flags a PA_MOI */
 
 
@@ -642,7 +642,7 @@ the 900 series rules are found in the lexer.  */
 
 %%
 
-<anchor xml:id="y0"/>
+
 <anchor xreflabel="YACC rule #0" xml:id="cll_yacc-0"/> text_0                  :
 <xref linkend="cll_yacc-1"/>
                         |
@@ -663,7 +663,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-0"/>
                         ;
 
-<anchor xml:id="y1"/>
+
 <anchor xreflabel="YACC rule #1" xml:id="cll_yacc-1"/> text_A_1                :
 <xref linkend="cll_yacc-422"/>
 <xref linkend="cll_yacc-2"/>
@@ -674,7 +674,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-2"/>
                         ;
 
-<anchor xml:id="y2"/>
+
 <anchor xreflabel="YACC rule #2" xml:id="cll_yacc-2"/> text_B_2                :
 <xref linkend="cll_yacc-819"/>
 <xref linkend="cll_yacc-2"/>
@@ -691,7 +691,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-3"/>
                         ;
 
-<anchor xml:id="y3"/>
+
 <anchor xreflabel="YACC rule #3" xml:id="cll_yacc-3"/> text_C_3                :
 <xref linkend="cll_yacc-4"/>
    /* Only indicators which follow certain selma'o:
@@ -709,7 +709,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y4"/>
+
 <anchor xreflabel="YACC rule #4" xml:id="cll_yacc-4"/> paragraphs_4            :
 <xref linkend="cll_yacc-10"/>
                         |
@@ -718,7 +718,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-4"/>
                         ;
 
-<anchor xml:id="y10"/>
+
 <anchor xreflabel="YACC rule #10" xml:id="cll_yacc-10"/> paragraph_10            :
 <xref linkend="cll_yacc-11"/>
                         |
@@ -739,7 +739,7 @@ the 900 series rules are found in the lexer.  */
                            in answer to questions on those connectives  */
                         ;
 
-<anchor xml:id="y11"/>
+
 <anchor xreflabel="YACC rule #11" xml:id="cll_yacc-11"/> statement_11            :
 <xref linkend="cll_yacc-12"/>
                         |
@@ -747,7 +747,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-11"/>
                         ;
 
-<anchor xml:id="y12"/>
+
 <anchor xreflabel="YACC rule #12" xml:id="cll_yacc-12"/> statement_A_12          :
 <xref linkend="cll_yacc-13"/>
                         |
@@ -759,7 +759,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-820"/>
                         ;
 
-<anchor xml:id="y13"/>
+
 <anchor xreflabel="YACC rule #13" xml:id="cll_yacc-13"/> statement_B_13          :
 <xref linkend="cll_yacc-14"/>
                         |
@@ -771,7 +771,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-811"/>
                         ;
 
-<anchor xml:id="y14"/>
+
 <anchor xreflabel="YACC rule #14" xml:id="cll_yacc-14"/> statement_C_14          :
 <xref linkend="cll_yacc-40"/>
                         |
@@ -786,7 +786,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y20"/>
+
 <anchor xreflabel="YACC rule #20" xml:id="cll_yacc-20"/> fragment_20             :
 <xref linkend="cll_yacc-802"/>
                         |
@@ -814,13 +814,13 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y30"/>
+
 <anchor xreflabel="YACC rule #30" xml:id="cll_yacc-30"/> prenex_30               :
 <xref linkend="cll_yacc-80"/>
 <xref linkend="cll_yacc-492"/>
                         ;
 
-<anchor xml:id="y32"/>
+
 <anchor xreflabel="YACC rule #32" xml:id="cll_yacc-32"/> free_modifier_32        :
 <xref linkend="cll_yacc-33"/>
                         |
@@ -828,7 +828,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y33"/>
+
 <anchor xreflabel="YACC rule #33" xml:id="cll_yacc-33"/> free_modifier_A_33      :
 <xref linkend="cll_yacc-35"/>
                         |
@@ -841,7 +841,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-801"/>
                         ;
 
-<anchor xml:id="y34"/>
+
 <anchor xreflabel="YACC rule #34" xml:id="cll_yacc-34"/> discursive_bridi_34     :
 <xref linkend="cll_yacc-440"/>
 <xref linkend="cll_yacc-130"/>
@@ -868,7 +868,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-459"/>
                         ;
 
-<anchor xml:id="y35"/>
+
 <anchor xreflabel="YACC rule #35" xml:id="cll_yacc-35"/> vocative_35             :
 <xref linkend="cll_yacc-415"/>
 <xref linkend="cll_yacc-130"/>
@@ -918,7 +918,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-457"/>
                         ;
 
-<anchor xml:id="y36"/>
+
 <anchor xreflabel="YACC rule #36" xml:id="cll_yacc-36"/> parenthetical_36        :
 <xref linkend="cll_yacc-606"/>
 <xref linkend="cll_yacc-0"/>
@@ -926,7 +926,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y40"/>
+
 <anchor xreflabel="YACC rule #40" xml:id="cll_yacc-40"/> sentence_40             :
 <xref linkend="cll_yacc-50"/>  /* bare bridi with x1 elided or mo answer */
 
@@ -939,7 +939,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-50"/>
                         ;
 
-<anchor xml:id="y41"/>
+
 <anchor xreflabel="YACC rule #41" xml:id="cll_yacc-41"/> subsentence_41          :
 <xref linkend="cll_yacc-40"/>
                         |
@@ -948,7 +948,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y50"/>
+
 <anchor xreflabel="YACC rule #50" xml:id="cll_yacc-50"/> bridi_tail_50           :
 <xref linkend="cll_yacc-51"/>
                         |
@@ -959,7 +959,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-71"/>
                         ;
 
-<anchor xml:id="y51"/>
+
 <anchor xreflabel="YACC rule #51" xml:id="cll_yacc-51"/> bridi_tail_A_51         :
 <xref linkend="cll_yacc-52"/>
                         |
@@ -969,7 +969,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-71"/>
                         ;
 
-<anchor xml:id="y52"/>
+
 <anchor xreflabel="YACC rule #52" xml:id="cll_yacc-52"/> bridi_tail_B_52         :
 <xref linkend="cll_yacc-53"/>
                         |
@@ -979,7 +979,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-71"/>
                         ;
 
-<anchor xml:id="y53"/>
+
 <anchor xreflabel="YACC rule #53" xml:id="cll_yacc-53"/> bridi_tail_C_53         :
 <xref linkend="cll_yacc-54"/>
                         |
@@ -987,7 +987,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-71"/>
                         ;
 
-<anchor xml:id="y54"/>
+
 <anchor xreflabel="YACC rule #54" xml:id="cll_yacc-54"/> gek_sentence_54         :
 <xref linkend="cll_yacc-807"/>
 <xref linkend="cll_yacc-41"/>
@@ -1004,7 +1004,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-54"/>
                         ;
 
-<anchor xml:id="y71"/>
+
 <anchor xreflabel="YACC rule #71" xml:id="cll_yacc-71"/> tail_terms_71           :
 <xref linkend="cll_yacc-80"/>
 <xref linkend="cll_yacc-456"/>
@@ -1013,7 +1013,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y80"/>
+
 <anchor xreflabel="YACC rule #80" xml:id="cll_yacc-80"/> terms_80                :
 <xref linkend="cll_yacc-81"/>
                         |
@@ -1021,7 +1021,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-81"/>
                         ;
 
-<anchor xml:id="y81"/>
+
 <anchor xreflabel="YACC rule #81" xml:id="cll_yacc-81"/> terms_A_81              :
 <xref linkend="cll_yacc-82"/>
                         |
@@ -1031,7 +1031,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-82"/>
                         ;
 
-<anchor xml:id="y82"/>
+
 <anchor xreflabel="YACC rule #82" xml:id="cll_yacc-82"/> terms_B_82              :
 <xref linkend="cll_yacc-83"/>
                         |
@@ -1040,7 +1040,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-83"/>
                         ;
 
-<anchor xml:id="y83"/>
+
 <anchor xreflabel="YACC rule #83" xml:id="cll_yacc-83"/> term_83                 :
 <xref linkend="cll_yacc-90"/>
                         |
@@ -1051,7 +1051,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-810"/>
                         ;
 
-<anchor xml:id="y84"/>
+
 <anchor xreflabel="YACC rule #84" xml:id="cll_yacc-84"/> modifier_84             :
 <xref linkend="cll_yacc-490"/>
 <xref linkend="cll_yacc-450"/>
@@ -1060,7 +1060,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-90"/>
                         ;
 
-<anchor xml:id="y85"/>
+
 <anchor xreflabel="YACC rule #85" xml:id="cll_yacc-85"/> term_set_85             :
 <xref linkend="cll_yacc-496"/>
 <xref linkend="cll_yacc-80"/>
@@ -1076,7 +1076,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y90"/>
+
 <anchor xreflabel="YACC rule #90" xml:id="cll_yacc-90"/> sumti_90                :
 <xref linkend="cll_yacc-91"/>
                         |
@@ -1085,7 +1085,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-121"/>
                         ;
 
-<anchor xml:id="y91"/>
+
 <anchor xreflabel="YACC rule #91" xml:id="cll_yacc-91"/> sumti_A_91              :
 <xref linkend="cll_yacc-92"/>
                         |
@@ -1100,7 +1100,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-466"/>
                         ;
 
-<anchor xml:id="y92"/>
+
 <anchor xreflabel="YACC rule #92" xml:id="cll_yacc-92"/> sumti_B_92              :
 <xref linkend="cll_yacc-93"/>
                         |
@@ -1109,7 +1109,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-93"/>
                         ;
 
-<anchor xml:id="y93"/>
+
 <anchor xreflabel="YACC rule #93" xml:id="cll_yacc-93"/> sumti_C_93              :
 <xref linkend="cll_yacc-94"/>
                         |
@@ -1122,7 +1122,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-93"/>
                         ;
 
-<anchor xml:id="y94"/>
+
 <anchor xreflabel="YACC rule #94" xml:id="cll_yacc-94"/> sumti_D_94              :
 <xref linkend="cll_yacc-95"/>
                         |
@@ -1132,7 +1132,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-94"/>
                         ;
 
-<anchor xml:id="y95"/>
+
 <anchor xreflabel="YACC rule #95" xml:id="cll_yacc-95"/> sumti_E_95              :
 <xref linkend="cll_yacc-96"/>
                         |
@@ -1152,7 +1152,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-121"/>
                         ;
 
-<anchor xml:id="y96"/>
+
 <anchor xreflabel="YACC rule #96" xml:id="cll_yacc-96"/> sumti_F_96              :
 <xref linkend="cll_yacc-97"/>
                            /* outer-quantified sumti */
@@ -1164,7 +1164,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-97"/>
                         ;
 
-<anchor xml:id="y97"/>
+
 <anchor xreflabel="YACC rule #97" xml:id="cll_yacc-97"/> sumti_G_97              :
 <xref linkend="cll_yacc-483"/>
 <xref linkend="cll_yacc-90"/>
@@ -1196,7 +1196,7 @@ the 900 series rules are found in the lexer.  */
 
 
 
-<anchor xml:id="y110"/>
+
 <anchor xreflabel="YACC rule #110" xml:id="cll_yacc-110"/> description_110         :
 <xref linkend="cll_yacc-499"/>
 <xref linkend="cll_yacc-111"/>
@@ -1207,7 +1207,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-450"/>
                         ;
 
-<anchor xml:id="y111"/>
+
 <anchor xreflabel="YACC rule #111" xml:id="cll_yacc-111"/> sumti_tail_111          :
 <xref linkend="cll_yacc-112"/>
                            /* inner-quantified sumti relative clause */
@@ -1230,7 +1230,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-112"/>
                         ;
 
-<anchor xml:id="y112"/>
+
 <anchor xreflabel="YACC rule #112" xml:id="cll_yacc-112"/> sumti_tail_A_112        :
 <xref linkend="cll_yacc-130"/>
                         |
@@ -1251,7 +1251,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-90"/>
                         ;
 
-<anchor xml:id="y121"/>
+
 <anchor xreflabel="YACC rule #121" xml:id="cll_yacc-121"/> relative_clauses_121    :
 <xref linkend="cll_yacc-122"/>
                         |
@@ -1260,7 +1260,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-122"/>
                         ;
 
-<anchor xml:id="y122"/>
+
 <anchor xreflabel="YACC rule #122" xml:id="cll_yacc-122"/> relative_clause_122     :
 <xref linkend="cll_yacc-485"/>
 <xref linkend="cll_yacc-83"/>
@@ -1272,7 +1272,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y130"/>
+
 <anchor xreflabel="YACC rule #130" xml:id="cll_yacc-130"/> selbri_130              :
 <xref linkend="cll_yacc-491"/>
 <xref linkend="cll_yacc-131"/>
@@ -1280,7 +1280,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-131"/>
                         ;
 
-<anchor xml:id="y131"/>
+
 <anchor xreflabel="YACC rule #131" xml:id="cll_yacc-131"/> selbri_A_131            :
 <xref linkend="cll_yacc-132"/>
                         |
@@ -1288,7 +1288,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-130"/>
                         ;
 
-<anchor xml:id="y132"/>
+
 <anchor xreflabel="YACC rule #132" xml:id="cll_yacc-132"/> selbri_B_132            :
 <xref linkend="cll_yacc-133"/>
                         |
@@ -1297,7 +1297,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-132"/>
                         ;
 
-<anchor xml:id="y133"/>
+
 <anchor xreflabel="YACC rule #133" xml:id="cll_yacc-133"/> selbri_C_133            :
 <xref linkend="cll_yacc-134"/>
                         |
@@ -1305,7 +1305,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-134"/>
                         ;
 
-<anchor xml:id="y134"/>
+
 <anchor xreflabel="YACC rule #134" xml:id="cll_yacc-134"/> selbri_D_134            :
 <xref linkend="cll_yacc-135"/>
                         |
@@ -1319,7 +1319,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-466"/>
                         ;
 
-<anchor xml:id="y135"/>
+
 <anchor xreflabel="YACC rule #135" xml:id="cll_yacc-135"/> selbri_E_135            :
 <xref linkend="cll_yacc-136"/>
                         |
@@ -1332,7 +1332,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-135"/>
                         ;
 
-<anchor xml:id="y136"/>
+
 <anchor xreflabel="YACC rule #136" xml:id="cll_yacc-136"/> selbri_F_136            :
 <xref linkend="cll_yacc-150"/>
                         |
@@ -1346,7 +1346,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-137"/>
                         ;
 
-<anchor xml:id="y137"/>
+
 <anchor xreflabel="YACC rule #137" xml:id="cll_yacc-137"/> GUhEK_selbri_137        :
 <xref linkend="cll_yacc-808"/>
 <xref linkend="cll_yacc-130"/>
@@ -1355,7 +1355,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y150"/>
+
 <anchor xreflabel="YACC rule #150" xml:id="cll_yacc-150"/> tanru_unit_150          :
 <xref linkend="cll_yacc-151"/>
                         |
@@ -1365,7 +1365,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y151"/>
+
 <anchor xreflabel="YACC rule #151" xml:id="cll_yacc-151"/> tanru_unit_A_151        :
 <xref linkend="cll_yacc-152"/>
                         |
@@ -1373,7 +1373,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-160"/>
                         ;
 
-<anchor xml:id="y152"/>
+
 <anchor xreflabel="YACC rule #152" xml:id="cll_yacc-152"/> tanru_unit_B_152        :
 <xref linkend="cll_yacc-407"/>
                         |
@@ -1412,7 +1412,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y160"/>
+
 <anchor xreflabel="YACC rule #160" xml:id="cll_yacc-160"/> linkargs_160            :
 <xref linkend="cll_yacc-446"/>
 <xref linkend="cll_yacc-83"/>
@@ -1424,7 +1424,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-467"/>
                         ;
 
-<anchor xml:id="y161"/>
+
 <anchor xreflabel="YACC rule #161" xml:id="cll_yacc-161"/> links_161               :
 <xref linkend="cll_yacc-442"/>
 <xref linkend="cll_yacc-83"/>
@@ -1437,7 +1437,7 @@ the 900 series rules are found in the lexer.  */
 
 /*  Main entry point for MEX; everything but a number must be in parens.   */
 
-<anchor xml:id="y300"/>
+
 <anchor xreflabel="YACC rule #300" xml:id="cll_yacc-300"/> quantifier_300          :
 <xref linkend="cll_yacc-812"/>
 <xref linkend="cll_yacc-461"/>
@@ -1460,7 +1460,7 @@ the 900 series rules are found in the lexer.  */
     infix with more than two operands (whatever that means) use an extra
     operator or an array operand.   */
 
-<anchor xml:id="y310"/>
+
 <anchor xreflabel="YACC rule #310" xml:id="cll_yacc-310"/> MEX_310                 :
 <xref linkend="cll_yacc-311"/>
                         |
@@ -1475,7 +1475,7 @@ the 900 series rules are found in the lexer.  */
 /*  Support for right-grouping (short scope) infix expressions with BIhE.  */
 
 
-<anchor xml:id="y311"/>
+
 <anchor xreflabel="YACC rule #311" xml:id="cll_yacc-311"/> MEX_A_311               :
 <xref linkend="cll_yacc-312"/>
                         |
@@ -1488,7 +1488,7 @@ the 900 series rules are found in the lexer.  */
 /*  Support for forethought (Polish) expressions. These begin with a
     forethought flag, then the operator and then the argument(s).  */
 
-<anchor xml:id="y312"/>
+
 <anchor xreflabel="YACC rule #312" xml:id="cll_yacc-312"/> MEX_B_312               :
 <xref linkend="cll_yacc-381"/>
                         |
@@ -1502,7 +1502,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-452"/>
                         ;
 
-<anchor xml:id="y313"/>
+
 <anchor xreflabel="YACC rule #313" xml:id="cll_yacc-313"/> MEX_C_313               :
 <xref linkend="cll_yacc-312"/>
                         |
@@ -1517,7 +1517,7 @@ the 900 series rules are found in the lexer.  */
     to handle more than two operands, use a null operator.  */
 
 
-<anchor xml:id="y330"/>
+
 <anchor xreflabel="YACC rule #330" xml:id="cll_yacc-330"/> rp_expression_330       :
 <xref linkend="cll_yacc-332"/>
 <xref linkend="cll_yacc-332"/>
@@ -1525,7 +1525,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y332"/>
+
 <anchor xreflabel="YACC rule #332" xml:id="cll_yacc-332"/> rp_operand_332          :
 <xref linkend="cll_yacc-381"/>
                         |
@@ -1535,7 +1535,7 @@ the 900 series rules are found in the lexer.  */
 
 /*  Operators may be joined by logical connectives. */
 
-<anchor xml:id="y370"/>
+
 <anchor xreflabel="YACC rule #370" xml:id="cll_yacc-370"/> operator_370            :
 <xref linkend="cll_yacc-371"/>
                         |
@@ -1549,7 +1549,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-466"/>
                         ;
 
-<anchor xml:id="y371"/>
+
 <anchor xreflabel="YACC rule #371" xml:id="cll_yacc-371"/> operator_A_371          :
 <xref linkend="cll_yacc-372"/>
                         |
@@ -1567,7 +1567,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-371"/>
                         ;
 
-<anchor xml:id="y372"/>
+
 <anchor xreflabel="YACC rule #372" xml:id="cll_yacc-372"/> operator_B_372          :
 <xref linkend="cll_yacc-374"/>
                         |
@@ -1576,7 +1576,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-466"/>
                         ;
 
-<anchor xml:id="y374"/>
+
 <anchor xreflabel="YACC rule #374" xml:id="cll_yacc-374"/> MEX_operator_374        :
 <xref linkend="cll_yacc-679"/>
                         |
@@ -1601,7 +1601,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y381"/>
+
 <anchor xreflabel="YACC rule #381" xml:id="cll_yacc-381"/> operand_381             :
 <xref linkend="cll_yacc-382"/>
                         |
@@ -1616,7 +1616,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-466"/>
                         ;
 
-<anchor xml:id="y382"/>
+
 <anchor xreflabel="YACC rule #382" xml:id="cll_yacc-382"/> operand_A_382           :
 <xref linkend="cll_yacc-383"/>
                         |
@@ -1625,7 +1625,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-383"/>
                         ;
 
-<anchor xml:id="y383"/>
+
 <anchor xreflabel="YACC rule #383" xml:id="cll_yacc-383"/> operand_B_383           :
 <xref linkend="cll_yacc-385"/>
                         |
@@ -1638,7 +1638,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-383"/>
                         ;
 
-<anchor xml:id="y385"/>
+
 <anchor xreflabel="YACC rule #385" xml:id="cll_yacc-385"/> operand_C_385           :
 <xref linkend="cll_yacc-300"/>
                         |
@@ -1680,7 +1680,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>.  */
 
 
-<anchor xml:id="y400"/>
+
 <anchor xreflabel="YACC rule #400" xml:id="cll_yacc-400"/> anaphora_400            :
 <xref linkend="cll_yacc-555"/>
                         |
@@ -1692,7 +1692,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y404"/>
+
 <anchor xreflabel="YACC rule #404" xml:id="cll_yacc-404"/> cmevla_404               :
 <xref linkend="cll_yacc-405"/>
                         |
@@ -1700,7 +1700,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y405"/>
+
 <anchor xreflabel="YACC rule #405" xml:id="cll_yacc-405"/> cmevla_A_405             :
 <xref linkend="cll_yacc-518"/>  /* pause */
                         |
@@ -1711,7 +1711,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y407"/>
+
 <anchor xreflabel="YACC rule #407" xml:id="cll_yacc-407"/> bridi_valsi_407         :
 <xref linkend="cll_yacc-408"/>
                         |
@@ -1719,7 +1719,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y408"/>
+
 <anchor xreflabel="YACC rule #408" xml:id="cll_yacc-408"/> bridi_valsi_A_408       :
 <xref linkend="cll_yacc-509"/>
                         |
@@ -1731,7 +1731,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-593"/>
                         ;
 
-<anchor xml:id="y410"/>
+
 <anchor xreflabel="YACC rule #410" xml:id="cll_yacc-410"/> para_mark_410           :
 <xref linkend="cll_yacc-584"/>
                         |
@@ -1743,7 +1743,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y411"/>
+
 <anchor xreflabel="YACC rule #411" xml:id="cll_yacc-411"/> indicators_411          :
 <xref linkend="cll_yacc-412"/>
                         |
@@ -1751,7 +1751,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-412"/>
                         ;
 
-<anchor xml:id="y412"/>
+
 <anchor xreflabel="YACC rule #412" xml:id="cll_yacc-412"/> indicators_A_412        :
 <xref linkend="cll_yacc-413"/>
                         |
@@ -1759,7 +1759,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-413"/>
                         ;
 
-<anchor xml:id="y413"/>
+
 <anchor xreflabel="YACC rule #413" xml:id="cll_yacc-413"/> indicator_413           :
 <xref linkend="cll_yacc-612"/>
                         |
@@ -1778,7 +1778,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-536"/>
                         ;
 
-<anchor xml:id="y415"/>
+
 <anchor xreflabel="YACC rule #415" xml:id="cll_yacc-415"/> DOI_415                 :
 <xref linkend="cll_yacc-525"/>
                         |
@@ -1788,7 +1788,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-525"/>
                         ;
 
-<anchor xml:id="y416"/>
+
 <anchor xreflabel="YACC rule #416" xml:id="cll_yacc-416"/> COI_416                 :
 <xref linkend="cll_yacc-417"/>
                         |
@@ -1796,7 +1796,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-417"/>
                         ;
 
-<anchor xml:id="y417"/>
+
 <anchor xreflabel="YACC rule #417" xml:id="cll_yacc-417"/> COI_A_417               :
 <xref linkend="cll_yacc-520"/>
                         |
@@ -1805,7 +1805,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y421"/>
+
 <anchor xreflabel="YACC rule #421" xml:id="cll_yacc-421"/> JOIK_EK_421             :
 <xref linkend="cll_yacc-802"/>
                         |
@@ -1815,7 +1815,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y422"/>
+
 <anchor xreflabel="YACC rule #422" xml:id="cll_yacc-422"/> JOIK_JEK_422            :
 <xref linkend="cll_yacc-806"/>
                         |
@@ -1829,7 +1829,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y424"/>
+
 <anchor xreflabel="YACC rule #424" xml:id="cll_yacc-424"/> XI_424                  :
 <xref linkend="cll_yacc-618"/>
                         |
@@ -1837,7 +1837,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y425"/>
+
 <anchor xreflabel="YACC rule #425" xml:id="cll_yacc-425"/> NU_425                  :
 <xref linkend="cll_yacc-426"/>
                         |
@@ -1846,7 +1846,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-426"/>
                         ;
 
-<anchor xml:id="y426"/>
+
 <anchor xreflabel="YACC rule #426" xml:id="cll_yacc-426"/> NU_A_426                :
 <xref linkend="cll_yacc-586"/>
                         |
@@ -1861,7 +1861,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y427"/>
+
 <anchor xreflabel="YACC rule #427" xml:id="cll_yacc-427"/> MOhE_427                :
 <xref linkend="cll_yacc-664"/>
                         |
@@ -1869,7 +1869,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y428"/>
+
 <anchor xreflabel="YACC rule #428" xml:id="cll_yacc-428"/> NIhE_428                :
 <xref linkend="cll_yacc-666"/>
                         |
@@ -1877,7 +1877,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y429"/>
+
 <anchor xreflabel="YACC rule #429" xml:id="cll_yacc-429"/> NAhU_429                :
 <xref linkend="cll_yacc-665"/>
                         |
@@ -1885,7 +1885,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y430"/>
+
 <anchor xreflabel="YACC rule #430" xml:id="cll_yacc-430"/> MAhO_430                :
 <xref linkend="cll_yacc-662"/>
                         |
@@ -1893,7 +1893,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y431"/>
+
 <anchor xreflabel="YACC rule #431" xml:id="cll_yacc-431"/> JOhI_431                :
 <xref linkend="cll_yacc-657"/>
                         |
@@ -1901,7 +1901,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y432"/>
+
 <anchor xreflabel="YACC rule #432" xml:id="cll_yacc-432"/> quote_arg_432           :
 <xref linkend="cll_yacc-433"/>
                         |
@@ -1909,7 +1909,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y433"/>
+
 <anchor xreflabel="YACC rule #433" xml:id="cll_yacc-433"/> quote_arg_A_433         :
 <xref linkend="cll_yacc-434"/>
                         |
@@ -1925,7 +1925,7 @@ the 900 series rules are found in the lexer.  */
 /* The quoted material in the following three terminals must be identified by
    the lexer, but no additional lexer processing is needed. */
 
-<anchor xml:id="y434"/>
+
 <anchor xreflabel="YACC rule #434" xml:id="cll_yacc-434"/> ZOI_quote_434           :
 <xref linkend="cll_yacc-627"/>
 <xref linkend="cll_yacc-698"/>
@@ -1937,7 +1937,7 @@ the 900 series rules are found in the lexer.  */
 /* <quote>pause</quote> is morphemic, represented by <letteral>.</letteral> The lexer assembles
 <xref linkend="cll_yacc-699"/> */
 
-<anchor xml:id="y435"/>
+
 <anchor xreflabel="YACC rule #435" xml:id="cll_yacc-435"/> ZO_quote_435            :
 <xref linkend="cll_yacc-626"/>
 <xref linkend="cll_yacc-698"/>
@@ -1947,7 +1947,7 @@ the 900 series rules are found in the lexer.  */
    including ZO, ZOI, SI, SA, SU. The preparser will not lex the word per its
    normal selma'o. */
 
-<anchor xml:id="y436"/>
+
 <anchor xreflabel="YACC rule #436" xml:id="cll_yacc-436"/> LOhU_quote_436          :
 <xref linkend="cll_yacc-569"/>
 <xref linkend="cll_yacc-697"/>
@@ -1987,7 +1987,7 @@ the 900 series rules are found in the lexer.  */
    implemented through use of the YACC <quote>error</quote> token, which effectively
    recovers from an elision.  */
 
-<anchor xml:id="y437"/>
+
 <anchor xreflabel="YACC rule #437" xml:id="cll_yacc-437"/> FIhO_437                :
 <xref linkend="cll_yacc-532"/>
                         |
@@ -1995,7 +1995,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y438"/>
+
 <anchor xreflabel="YACC rule #438" xml:id="cll_yacc-438"/> PEhO_438                :
 <xref linkend="cll_yacc-673"/>
                         |
@@ -2003,7 +2003,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y439"/>
+
 <anchor xreflabel="YACC rule #439" xml:id="cll_yacc-439"/> BIhE_439                :
 <xref linkend="cll_yacc-650"/>
                         |
@@ -2011,7 +2011,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y440"/>
+
 <anchor xreflabel="YACC rule #440" xml:id="cll_yacc-440"/> SEI_440                 :
 <xref linkend="cll_yacc-597"/>
                         |
@@ -2019,7 +2019,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y441"/>
+
 <anchor xreflabel="YACC rule #441" xml:id="cll_yacc-441"/> FUhA_441                :
 <xref linkend="cll_yacc-655"/>
                         |
@@ -2027,7 +2027,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y442"/>
+
 <anchor xreflabel="YACC rule #442" xml:id="cll_yacc-442"/> BEI_442                 :
 <xref linkend="cll_yacc-505"/>
                         |
@@ -2035,7 +2035,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y443"/>
+
 <anchor xreflabel="YACC rule #443" xml:id="cll_yacc-443"/> CO_443                  :
 <xref linkend="cll_yacc-519"/>
                         |
@@ -2043,7 +2043,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y444"/>
+
 <anchor xreflabel="YACC rule #444" xml:id="cll_yacc-444"/> CEI_444                 :
 <xref linkend="cll_yacc-516"/>
                         |
@@ -2051,7 +2051,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y445"/>
+
 <anchor xreflabel="YACC rule #445" xml:id="cll_yacc-445"/> NA_445                  :
 <xref linkend="cll_yacc-578"/>
                         |
@@ -2059,7 +2059,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y446"/>
+
 <anchor xreflabel="YACC rule #446" xml:id="cll_yacc-446"/> BE_446                  :
 <xref linkend="cll_yacc-504"/>
                         |
@@ -2067,7 +2067,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y447"/>
+
 <anchor xreflabel="YACC rule #447" xml:id="cll_yacc-447"/> TUhE_447                :
 <xref linkend="cll_yacc-610"/>
                         |
@@ -2076,14 +2076,14 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y448"/>
+
 <anchor xreflabel="YACC rule #448" xml:id="cll_yacc-448"/> LIhU_gap_448            :
 <xref linkend="cll_yacc-567"/>
                         |  error
                         ;
 
 
-<anchor xml:id="y450"/>
+
 <anchor xreflabel="YACC rule #450" xml:id="cll_yacc-450"/> gap_450                 :
 <xref linkend="cll_yacc-556"/>
                         |
@@ -2092,7 +2092,7 @@ the 900 series rules are found in the lexer.  */
                         |  error
                         ;
 
-<anchor xml:id="y451"/>
+
 <anchor xreflabel="YACC rule #451" xml:id="cll_yacc-451"/> front_gap_451           :
 <xref linkend="cll_yacc-521"/>
                         |
@@ -2100,7 +2100,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y452"/>
+
 <anchor xreflabel="YACC rule #452" xml:id="cll_yacc-452"/> MEX_gap_452             :
 <xref linkend="cll_yacc-658"/>
                         |
@@ -2109,7 +2109,7 @@ the 900 series rules are found in the lexer.  */
                         |  error
                         ;
 
-<anchor xml:id="y453"/>
+
 <anchor xreflabel="YACC rule #453" xml:id="cll_yacc-453"/> KEI_gap_453             :
 <xref linkend="cll_yacc-552"/>
                         |
@@ -2118,7 +2118,7 @@ the 900 series rules are found in the lexer.  */
                         |  error
                         ;
 
-<anchor xml:id="y454"/>
+
 <anchor xreflabel="YACC rule #454" xml:id="cll_yacc-454"/> TUhU_gap_454            :
 <xref linkend="cll_yacc-611"/>
                         |
@@ -2127,7 +2127,7 @@ the 900 series rules are found in the lexer.  */
                         |  error
                         ;
 
-<anchor xml:id="y456"/>
+
 <anchor xreflabel="YACC rule #456" xml:id="cll_yacc-456"/> VAU_gap_456             :
 <xref linkend="cll_yacc-614"/>
                         |
@@ -2138,13 +2138,13 @@ the 900 series rules are found in the lexer.  */
 
 /* redundant to attach a free modifier on the following */
 
-<anchor xml:id="y457"/>
+
 <anchor xreflabel="YACC rule #457" xml:id="cll_yacc-457"/> DOhU_gap_457            :
 <xref linkend="cll_yacc-526"/>
                         |  error
                         ;
 
-<anchor xml:id="y458"/>
+
 <anchor xreflabel="YACC rule #458" xml:id="cll_yacc-458"/> FEhU_gap_458            :
 <xref linkend="cll_yacc-531"/>
                         |
@@ -2153,7 +2153,7 @@ the 900 series rules are found in the lexer.  */
                         |  error
                         ;
 
-<anchor xml:id="y459"/>
+
 <anchor xreflabel="YACC rule #459" xml:id="cll_yacc-459"/> SEhU_gap_459            :
 <xref linkend="cll_yacc-598"/>
                         |  error
@@ -2162,7 +2162,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-440"/> */
                         ;
 
-<anchor xml:id="y460"/>
+
 <anchor xreflabel="YACC rule #460" xml:id="cll_yacc-460"/> NUhU_gap_460            :
 <xref linkend="cll_yacc-588"/>
                         |
@@ -2172,7 +2172,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y461"/>
+
 <anchor xreflabel="YACC rule #461" xml:id="cll_yacc-461"/> BOI_gap_461             :
 <xref linkend="cll_yacc-651"/>
                         |
@@ -2181,14 +2181,14 @@ the 900 series rules are found in the lexer.  */
                         |  error
                         ;
 
-<anchor xml:id="y462"/>
+
 <anchor xreflabel="YACC rule #462" xml:id="cll_yacc-462"/> sub_gap_462             :
 <xref linkend="cll_yacc-651"/>
                         |  error
                         ;
 
 
-<anchor xml:id="y463"/>
+
 <anchor xreflabel="YACC rule #463" xml:id="cll_yacc-463"/> LUhU_gap_463            :
 <xref linkend="cll_yacc-573"/>
                         |
@@ -2198,7 +2198,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y464"/>
+
 <anchor xreflabel="YACC rule #464" xml:id="cll_yacc-464"/> GEhU_gap_464            :
 <xref linkend="cll_yacc-538"/>
                         |
@@ -2208,7 +2208,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y465"/>
+
 <anchor xreflabel="YACC rule #465" xml:id="cll_yacc-465"/> MEhU_gap_465            :
 <xref linkend="cll_yacc-575"/>
                         |
@@ -2218,7 +2218,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y466"/>
+
 <anchor xreflabel="YACC rule #466" xml:id="cll_yacc-466"/> KEhE_gap_466            :
 <xref linkend="cll_yacc-550"/>
                         |
@@ -2228,7 +2228,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y467"/>
+
 <anchor xreflabel="YACC rule #467" xml:id="cll_yacc-467"/> BEhO_gap_467            :
 <xref linkend="cll_yacc-506"/>
                         |
@@ -2238,14 +2238,14 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y468"/>
+
 <anchor xreflabel="YACC rule #468" xml:id="cll_yacc-468"/> TOI_gap_468             :
 <xref linkend="cll_yacc-607"/>
                         |  error
                         ;
 
 
-<anchor xml:id="y469"/>
+
 <anchor xreflabel="YACC rule #469" xml:id="cll_yacc-469"/> KUhO_gap_469            :
 <xref linkend="cll_yacc-557"/>
                         |
@@ -2255,7 +2255,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y470"/>
+
 <anchor xreflabel="YACC rule #470" xml:id="cll_yacc-470"/> left_bracket_470        :
 <xref linkend="cll_yacc-677"/>
                         |
@@ -2263,7 +2263,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y471"/>
+
 <anchor xreflabel="YACC rule #471" xml:id="cll_yacc-471"/> right_bracket_gap_471   :
 <xref linkend="cll_yacc-678"/>
                         |
@@ -2272,7 +2272,7 @@ the 900 series rules are found in the lexer.  */
                         |  error
                         ;
 
-<anchor xml:id="y472"/>
+
 <anchor xreflabel="YACC rule #472" xml:id="cll_yacc-472"/> LOhO_gap_472            :
 <xref linkend="cll_yacc-568"/>
                         |
@@ -2281,7 +2281,7 @@ the 900 series rules are found in the lexer.  */
                         |  error
                         ;
 
-<anchor xml:id="y473"/>
+
 <anchor xreflabel="YACC rule #473" xml:id="cll_yacc-473"/> TEhU_gap_473            :
 <xref linkend="cll_yacc-675"/>
                         |
@@ -2290,7 +2290,7 @@ the 900 series rules are found in the lexer.  */
                         |  error
                         ;
 
-<anchor xml:id="y474"/>
+
 <anchor xreflabel="YACC rule #474" xml:id="cll_yacc-474"/> right_br_no_free_474    :
 <xref linkend="cll_yacc-678"/>
                         |  error
@@ -2298,7 +2298,7 @@ the 900 series rules are found in the lexer.  */
 
 
 
-<anchor xml:id="y475"/>
+
 <anchor xreflabel="YACC rule #475" xml:id="cll_yacc-475"/> NUhA_475                :
 <xref linkend="cll_yacc-667"/>
                         |
@@ -2306,7 +2306,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y476"/>
+
 <anchor xreflabel="YACC rule #476" xml:id="cll_yacc-476"/> MOI_476                 :
 <xref linkend="cll_yacc-663"/>
                         |
@@ -2314,7 +2314,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y477"/>
+
 <anchor xreflabel="YACC rule #477" xml:id="cll_yacc-477"/> ME_477                  :
 <xref linkend="cll_yacc-574"/>
                         |
@@ -2322,7 +2322,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y478"/>
+
 <anchor xreflabel="YACC rule #478" xml:id="cll_yacc-478"/> JAI_478                 :
 <xref linkend="cll_yacc-547"/>
                         |
@@ -2330,7 +2330,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y479"/>
+
 <anchor xreflabel="YACC rule #479" xml:id="cll_yacc-479"/> BO_479                  :
 <xref linkend="cll_yacc-508"/>
                         |
@@ -2338,7 +2338,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y480"/>
+
 <anchor xreflabel="YACC rule #480" xml:id="cll_yacc-480"/> SE_480                  :
 <xref linkend="cll_yacc-596"/>
                         |
@@ -2347,7 +2347,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y481"/>
+
 <anchor xreflabel="YACC rule #481" xml:id="cll_yacc-481"/> FA_481                  :
 <xref linkend="cll_yacc-527"/>
                         |
@@ -2355,7 +2355,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y482"/>
+
 <anchor xreflabel="YACC rule #482" xml:id="cll_yacc-482"/> NAhE_482                :
 <xref linkend="cll_yacc-583"/>
                         |
@@ -2363,7 +2363,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y483"/>
+
 <anchor xreflabel="YACC rule #483" xml:id="cll_yacc-483"/> qualifier_483           :
 <xref linkend="cll_yacc-561"/>
                         |
@@ -2373,7 +2373,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-809"/>
                         ;
 
-<anchor xml:id="y484"/>
+
 <anchor xreflabel="YACC rule #484" xml:id="cll_yacc-484"/> NOI_484                 :
 <xref linkend="cll_yacc-585"/>
                         |
@@ -2381,7 +2381,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y485"/>
+
 <anchor xreflabel="YACC rule #485" xml:id="cll_yacc-485"/> GOI_485                 :
 <xref linkend="cll_yacc-542"/>
                         |
@@ -2389,7 +2389,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y486"/>
+
 <anchor xreflabel="YACC rule #486" xml:id="cll_yacc-486"/> subscript_486           :
 <xref linkend="cll_yacc-424"/>
 <xref linkend="cll_yacc-812"/>
@@ -2405,7 +2405,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-462"/>
                         ;
 
-<anchor xml:id="y487"/>
+
 <anchor xreflabel="YACC rule #487" xml:id="cll_yacc-487"/> ZIhE_487                :
 <xref linkend="cll_yacc-625"/>
                         |
@@ -2413,7 +2413,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y488"/>
+
 <anchor xreflabel="YACC rule #488" xml:id="cll_yacc-488"/> LE_488                  :
 <xref linkend="cll_yacc-562"/>
                         |
@@ -2421,7 +2421,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y489"/>
+
 <anchor xreflabel="YACC rule #489" xml:id="cll_yacc-489"/> LI_489                  :
 <xref linkend="cll_yacc-566"/>
                         |
@@ -2429,7 +2429,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y490"/>
+
 <anchor xreflabel="YACC rule #490" xml:id="cll_yacc-490"/> mod_head_490            :
 <xref linkend="cll_yacc-491"/>
                         |
@@ -2437,7 +2437,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y491"/>
+
 <anchor xreflabel="YACC rule #491" xml:id="cll_yacc-491"/> tag_491                 :
 <xref linkend="cll_yacc-815"/>
                         |
@@ -2446,7 +2446,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-815"/>
                         ;
 
-<anchor xml:id="y492"/>
+
 <anchor xreflabel="YACC rule #492" xml:id="cll_yacc-492"/> ZOhU_492                :
 <xref linkend="cll_yacc-628"/>
                         |
@@ -2454,7 +2454,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y493"/>
+
 <anchor xreflabel="YACC rule #493" xml:id="cll_yacc-493"/> KE_493                  :
 <xref linkend="cll_yacc-551"/>
                         |
@@ -2462,7 +2462,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y494"/>
+
 <anchor xreflabel="YACC rule #494" xml:id="cll_yacc-494"/> PEhE_494                :
 <xref linkend="cll_yacc-591"/>
                         |
@@ -2470,7 +2470,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y495"/>
+
 <anchor xreflabel="YACC rule #495" xml:id="cll_yacc-495"/> CEhE_495                :
 <xref linkend="cll_yacc-517"/>
                         |
@@ -2478,7 +2478,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y496"/>
+
 <anchor xreflabel="YACC rule #496" xml:id="cll_yacc-496"/> NUhI_496                :
 <xref linkend="cll_yacc-587"/>
                         |
@@ -2486,7 +2486,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y497"/>
+
 <anchor xreflabel="YACC rule #497" xml:id="cll_yacc-497"/> VUhO_497                :
 <xref linkend="cll_yacc-617"/>
                         |
@@ -2494,7 +2494,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y498"/>
+
 <anchor xreflabel="YACC rule #498" xml:id="cll_yacc-498"/> SOI_498                 :
 <xref linkend="cll_yacc-602"/>
                         |
@@ -2502,7 +2502,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y499"/>
+
 <anchor xreflabel="YACC rule #499" xml:id="cll_yacc-499"/> LA_499                  :
 <xref linkend="cll_yacc-558"/>
                         |
@@ -2511,12 +2511,12 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y801"/>
+
 <anchor xreflabel="YACC rule #801" xml:id="cll_yacc-801"/> utterance_ordinal_801   :
 <xref linkend="cll_yacc-905"/>
                         ;
 
-<anchor xml:id="y802"/>
+
 <anchor xreflabel="YACC rule #802" xml:id="cll_yacc-802"/> EK_802                  :
 <xref linkend="cll_yacc-910"/>
                         |
@@ -2524,7 +2524,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y803"/>
+
 <anchor xreflabel="YACC rule #803" xml:id="cll_yacc-803"/> EK_BO_803               :
 <xref linkend="cll_yacc-915"/>
                         |
@@ -2532,7 +2532,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y804"/>
+
 <anchor xreflabel="YACC rule #804" xml:id="cll_yacc-804"/> EK_KE_804               :
 <xref linkend="cll_yacc-916"/>
                         |
@@ -2540,17 +2540,17 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y805"/>
+
 <anchor xreflabel="YACC rule #805" xml:id="cll_yacc-805"/> JEK_805                 :
 <xref linkend="cll_yacc-925"/>
                         ;
 
-<anchor xml:id="y806"/>
+
 <anchor xreflabel="YACC rule #806" xml:id="cll_yacc-806"/> JOIK_806                :
 <xref linkend="cll_yacc-930"/>
                         ;
 
-<anchor xml:id="y807"/>
+
 <anchor xreflabel="YACC rule #807" xml:id="cll_yacc-807"/> GEK_807                 :
 <xref linkend="cll_yacc-935"/>
                         |
@@ -2558,7 +2558,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y808"/>
+
 <anchor xreflabel="YACC rule #808" xml:id="cll_yacc-808"/> GUhEK_808               :
 <xref linkend="cll_yacc-940"/>
                         |
@@ -2566,7 +2566,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y809"/>
+
 <anchor xreflabel="YACC rule #809" xml:id="cll_yacc-809"/> NAhE_BO_809             :
 <xref linkend="cll_yacc-945"/>
                         |
@@ -2574,7 +2574,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y810"/>
+
 <anchor xreflabel="YACC rule #810" xml:id="cll_yacc-810"/> NA_KU_810               :
 <xref linkend="cll_yacc-950"/>
                         |
@@ -2582,7 +2582,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y811"/>
+
 <anchor xreflabel="YACC rule #811" xml:id="cll_yacc-811"/> I_BO_811                :
 <xref linkend="cll_yacc-955"/>
                         |
@@ -2590,12 +2590,12 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y812"/>
+
 <anchor xreflabel="YACC rule #812" xml:id="cll_yacc-812"/> number_812              :
 <xref linkend="cll_yacc-960"/>
                         ;
 
-<anchor xml:id="y813"/>
+
 <anchor xreflabel="YACC rule #813" xml:id="cll_yacc-813"/> GIhEK_BO_813            :
 <xref linkend="cll_yacc-965"/>
                         |
@@ -2603,7 +2603,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y814"/>
+
 <anchor xreflabel="YACC rule #814" xml:id="cll_yacc-814"/> GIhEK_KE_814            :
 <xref linkend="cll_yacc-966"/>
                         |
@@ -2611,7 +2611,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y815"/>
+
 <anchor xreflabel="YACC rule #815" xml:id="cll_yacc-815"/> tense_modal_815         :
 <xref linkend="cll_yacc-970"/>
                         |
@@ -2623,7 +2623,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-458"/>
                         ;
 
-<anchor xml:id="y816"/>
+
 <anchor xreflabel="YACC rule #816" xml:id="cll_yacc-816"/> GIK_816                 :
 <xref linkend="cll_yacc-980"/>
                         |
@@ -2632,12 +2632,12 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y817"/>
+
 <anchor xreflabel="YACC rule #817" xml:id="cll_yacc-817"/> lerfu_string_817        :
 <xref linkend="cll_yacc-985"/>
                         ;
 
-<anchor xml:id="y818"/>
+
 <anchor xreflabel="YACC rule #818" xml:id="cll_yacc-818"/> GIhEK_818               :
 <xref linkend="cll_yacc-990"/>
                         |
@@ -2645,7 +2645,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y819"/>
+
 <anchor xreflabel="YACC rule #819" xml:id="cll_yacc-819"/> I_819                   :
 <xref linkend="cll_yacc-995"/>
                         |
@@ -2653,7 +2653,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y820"/>
+
 <anchor xreflabel="YACC rule #820" xml:id="cll_yacc-820"/> I_JEK_820               :
 <xref linkend="cll_yacc-1000"/>
                         |
@@ -2661,7 +2661,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y821"/>
+
 <anchor xreflabel="YACC rule #821" xml:id="cll_yacc-821"/> JEK_BO_821              :
 <xref linkend="cll_yacc-1005"/>
                         |
@@ -2669,7 +2669,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y822"/>
+
 <anchor xreflabel="YACC rule #822" xml:id="cll_yacc-822"/> JOIK_BO_822             :
 <xref linkend="cll_yacc-1010"/>
                         |
@@ -2677,7 +2677,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y823"/>
+
 <anchor xreflabel="YACC rule #823" xml:id="cll_yacc-823"/> JOIK_KE_823             :
 <xref linkend="cll_yacc-1015"/>
                         |
@@ -2685,7 +2685,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-32"/>
                         ;
 
-<anchor xml:id="y824"/>
+
 <anchor xreflabel="YACC rule #824" xml:id="cll_yacc-824"/> PA_MOI_824              :
 <xref linkend="cll_yacc-1025"/>
                         ;
@@ -2698,13 +2698,13 @@ the 900 series rules are found in the lexer.  */
    the lexer tokens before the processed strings, but leaves the original
    tokens.  */
 
-<anchor xml:id="y905"/>
+
 <anchor xreflabel="YACC rule #905" xml:id="cll_yacc-905"/> lexer_A_905             :
 <xref linkend="cll_yacc-701"/>
 <xref linkend="cll_yacc-906"/>
                         ;
 
-<anchor xml:id="y906"/>
+
 <anchor xreflabel="YACC rule #906" xml:id="cll_yacc-906"/> utt_ordinal_root_906    :
 <xref linkend="cll_yacc-986"/>
 <xref linkend="cll_yacc-661"/>
@@ -2714,13 +2714,13 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y910"/>
+
 <anchor xreflabel="YACC rule #910" xml:id="cll_yacc-910"/> lexer_B_910             :
 <xref linkend="cll_yacc-702"/>
 <xref linkend="cll_yacc-911"/>
                         ;
 
-<anchor xml:id="y911"/>
+
 <anchor xreflabel="YACC rule #911" xml:id="cll_yacc-911"/> EK_root_911             :
 <xref linkend="cll_yacc-501"/>
                         |
@@ -2752,7 +2752,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y915"/>
+
 <anchor xreflabel="YACC rule #915" xml:id="cll_yacc-915"/> lexer_C_915             :
 <xref linkend="cll_yacc-703"/>
 <xref linkend="cll_yacc-911"/>
@@ -2765,7 +2765,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y916"/>
+
 <anchor xreflabel="YACC rule #916" xml:id="cll_yacc-916"/> lexer_D_916             :
 <xref linkend="cll_yacc-704"/>
 <xref linkend="cll_yacc-911"/>
@@ -2778,13 +2778,13 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y925"/>
+
 <anchor xreflabel="YACC rule #925" xml:id="cll_yacc-925"/> lexer_E_925             :
 <xref linkend="cll_yacc-705"/>
 <xref linkend="cll_yacc-926"/>
                         ;
 
-<anchor xml:id="y926"/>
+
 <anchor xreflabel="YACC rule #926" xml:id="cll_yacc-926"/> JEK_root_926            :
 <xref linkend="cll_yacc-546"/>
                         |
@@ -2816,13 +2816,13 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y930"/>
+
 <anchor xreflabel="YACC rule #930" xml:id="cll_yacc-930"/> lexer_F_930             :
 <xref linkend="cll_yacc-706"/>
 <xref linkend="cll_yacc-931"/>
                         ;
 
-<anchor xml:id="y931"/>
+
 <anchor xreflabel="YACC rule #931" xml:id="cll_yacc-931"/> JOIK_root_931           :
 <xref linkend="cll_yacc-548"/>
                         |
@@ -2843,7 +2843,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-656"/>
                         ;
 
-<anchor xml:id="y932"/>
+
 <anchor xreflabel="YACC rule #932" xml:id="cll_yacc-932"/> interval_932            :
 <xref linkend="cll_yacc-507"/>
                         |
@@ -2861,7 +2861,7 @@ the 900 series rules are found in the lexer.  */
 
 
 
-<anchor xml:id="y935"/>
+
 <anchor xreflabel="YACC rule #935" xml:id="cll_yacc-935"/> lexer_G_935             :
 <xref linkend="cll_yacc-707"/>
 <xref linkend="cll_yacc-537"/>
@@ -2889,7 +2889,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y940"/>
+
 <anchor xreflabel="YACC rule #940" xml:id="cll_yacc-940"/> lexer_H_940             :
 <xref linkend="cll_yacc-708"/>
 <xref linkend="cll_yacc-544"/>
@@ -2909,7 +2909,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y945"/>
+
 <anchor xreflabel="YACC rule #945" xml:id="cll_yacc-945"/> lexer_I_945             :
 <xref linkend="cll_yacc-709"/>
 <xref linkend="cll_yacc-583"/>
@@ -2917,7 +2917,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y950"/>
+
 <anchor xreflabel="YACC rule #950" xml:id="cll_yacc-950"/> lexer_J_950             :
 <xref linkend="cll_yacc-710"/>
 <xref linkend="cll_yacc-578"/>
@@ -2925,7 +2925,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y955"/>
+
 <anchor xreflabel="YACC rule #955" xml:id="cll_yacc-955"/> lexer_K_955             :
 <xref linkend="cll_yacc-711"/>
 <xref linkend="cll_yacc-956"/>
@@ -2937,7 +2937,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-508"/>
                         ;
 
-<anchor xml:id="y956"/>
+
 <anchor xreflabel="YACC rule #956" xml:id="cll_yacc-956"/> I_root_956              :
 <xref linkend="cll_yacc-545"/>
                         |
@@ -2946,7 +2946,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y957"/>
+
 <anchor xreflabel="YACC rule #957" xml:id="cll_yacc-957"/> simple_JOIK_JEK_957     :
 <xref linkend="cll_yacc-806"/>
                         |
@@ -2963,14 +2963,14 @@ the 900 series rules are found in the lexer.  */
 
 
 
-<anchor xml:id="y960"/>
+
 <anchor xreflabel="YACC rule #960" xml:id="cll_yacc-960"/> lexer_L_960             :
 <xref linkend="cll_yacc-712"/>
 <xref linkend="cll_yacc-961"/>
                         ;
 
 
-<anchor xml:id="y961"/>
+
 <anchor xreflabel="YACC rule #961" xml:id="cll_yacc-961"/> number_root_961         :
 <xref linkend="cll_yacc-672"/>
                         |
@@ -2981,7 +2981,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-987"/>
                         ;
 
-<anchor xml:id="y965"/>
+
 <anchor xreflabel="YACC rule #965" xml:id="cll_yacc-965"/> lexer_M_965             :
 <xref linkend="cll_yacc-713"/>
 <xref linkend="cll_yacc-991"/>
@@ -2994,7 +2994,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y966"/>
+
 <anchor xreflabel="YACC rule #966" xml:id="cll_yacc-966"/> lexer_N_966             :
 <xref linkend="cll_yacc-714"/>
 <xref linkend="cll_yacc-991"/>
@@ -3007,7 +3007,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y970"/>
+
 <anchor xreflabel="YACC rule #970" xml:id="cll_yacc-970"/> lexer_O_970             :
 <xref linkend="cll_yacc-715"/>
 <xref linkend="cll_yacc-972"/>
@@ -3016,7 +3016,7 @@ the 900 series rules are found in the lexer.  */
    PU/modals; it disallows the lexer picking out FIhO clauses, which would
    require it to have knowledge of the main parser grammar */
 
-<anchor xml:id="y971"/>
+
 <anchor xreflabel="YACC rule #971" xml:id="cll_yacc-971"/> simple_tag_971          :
 <xref linkend="cll_yacc-972"/>
                         |
@@ -3026,7 +3026,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y972"/>
+
 <anchor xreflabel="YACC rule #972" xml:id="cll_yacc-972"/> simple_tense_modal_972  :
 <xref linkend="cll_yacc-973"/>
                         |
@@ -3038,7 +3038,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-522"/>
                         ;
 
-<anchor xml:id="y973"/>
+
 <anchor xreflabel="YACC rule #973" xml:id="cll_yacc-973"/> simple_tense_modal_A_973:
 <xref linkend="cll_yacc-974"/>
                         |
@@ -3048,7 +3048,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-977"/>
                         ;
 
-<anchor xml:id="y974"/>
+
 <anchor xreflabel="YACC rule #974" xml:id="cll_yacc-974"/> modal_974               :
 <xref linkend="cll_yacc-975"/>
                         |
@@ -3056,7 +3056,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-581"/>
                         ;
 
-<anchor xml:id="y975"/>
+
 <anchor xreflabel="YACC rule #975" xml:id="cll_yacc-975"/> modal_A_975             :
 <xref linkend="cll_yacc-502"/>
                         |
@@ -3064,7 +3064,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-502"/>
                         ;
 
-<anchor xml:id="y977"/>
+
 <anchor xreflabel="YACC rule #977" xml:id="cll_yacc-977"/> tense_A_977             :
 <xref linkend="cll_yacc-978"/>
                         |
@@ -3072,7 +3072,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-554"/>
                         ;
 
-<anchor xml:id="y978"/>
+
 <anchor xreflabel="YACC rule #978" xml:id="cll_yacc-978"/> tense_B_978             :
 <xref linkend="cll_yacc-979"/>
                         |
@@ -3090,7 +3090,7 @@ the 900 series rules are found in the lexer.  */
 /* banu'o = can, but won't have yet */
 /* canu'ojebapu'i = can, hasn't yet, but will */
 
-<anchor xml:id="y979"/>
+
 <anchor xreflabel="YACC rule #979" xml:id="cll_yacc-979"/> tense_C_979             :
 <xref linkend="cll_yacc-1030"/>
    /* time-only */
@@ -3113,13 +3113,13 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-1030"/>
                         ;
 
-<anchor xml:id="y980"/>
+
 <anchor xreflabel="YACC rule #980" xml:id="cll_yacc-980"/> lexer_P_980             :
 <xref linkend="cll_yacc-716"/>
 <xref linkend="cll_yacc-981"/>
                         ;
 
-<anchor xml:id="y981"/>
+
 <anchor xreflabel="YACC rule #981" xml:id="cll_yacc-981"/> GIK_root_981            :
 <xref linkend="cll_yacc-539"/>
                         |
@@ -3127,13 +3127,13 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-581"/>
                         ;
 
-<anchor xml:id="y985"/>
+
 <anchor xreflabel="YACC rule #985" xml:id="cll_yacc-985"/> lexer_Q_985             :
 <xref linkend="cll_yacc-717"/>
 <xref linkend="cll_yacc-986"/>
                         ;
 
-<anchor xml:id="y986"/>
+
 <anchor xreflabel="YACC rule #986" xml:id="cll_yacc-986"/> lerfu_string_root_986   :
 <xref linkend="cll_yacc-987"/>
                         |
@@ -3144,7 +3144,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-672"/>
                         ;
 
-<anchor xml:id="y987"/>
+
 <anchor xreflabel="YACC rule #987" xml:id="cll_yacc-987"/> lerfu_word_987          :
 <xref linkend="cll_yacc-513"/>
                         |
@@ -3157,14 +3157,14 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y990"/>
+
 <anchor xreflabel="YACC rule #990" xml:id="cll_yacc-990"/> lexer_R_990             :
 <xref linkend="cll_yacc-718"/>
 <xref linkend="cll_yacc-991"/>
                         ;
 
 
-<anchor xml:id="y991"/>
+
 <anchor xreflabel="YACC rule #991" xml:id="cll_yacc-991"/> GIhEK_root_991          :
 <xref linkend="cll_yacc-541"/>
                         |
@@ -3196,13 +3196,13 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y995"/>
+
 <anchor xreflabel="YACC rule #995" xml:id="cll_yacc-995"/> lexer_S_995             :
 <xref linkend="cll_yacc-719"/>
 <xref linkend="cll_yacc-545"/>
                         ;
 
-<anchor xml:id="y1000"/>
+
 <anchor xreflabel="YACC rule #1000" xml:id="cll_yacc-1000"/> lexer_T_1000            :
 <xref linkend="cll_yacc-720"/>
 <xref linkend="cll_yacc-545"/>
@@ -3210,7 +3210,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y1005"/>
+
 <anchor xreflabel="YACC rule #1005" xml:id="cll_yacc-1005"/> lexer_U_1005            :
 <xref linkend="cll_yacc-721"/>
 <xref linkend="cll_yacc-926"/>
@@ -3222,7 +3222,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-508"/>
                         ;
 
-<anchor xml:id="y1010"/>
+
 <anchor xreflabel="YACC rule #1010" xml:id="cll_yacc-1010"/> lexer_V_1010            :
 <xref linkend="cll_yacc-722"/>
 <xref linkend="cll_yacc-931"/>
@@ -3234,7 +3234,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-508"/>
                         ;
 
-<anchor xml:id="y1015"/>
+
 <anchor xreflabel="YACC rule #1015" xml:id="cll_yacc-1015"/> lexer_W_1015            :
 <xref linkend="cll_yacc-723"/>
 <xref linkend="cll_yacc-931"/>
@@ -3246,7 +3246,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-551"/>
                         ;
 
-<anchor xml:id="y1025"/>
+
 <anchor xreflabel="YACC rule #1025" xml:id="cll_yacc-1025"/> lexer_Y_1025            :
 <xref linkend="cll_yacc-725"/>
 <xref linkend="cll_yacc-961"/>
@@ -3259,7 +3259,7 @@ the 900 series rules are found in the lexer.  */
 
 
 
-<anchor xml:id="y1030"/>
+
 <anchor xreflabel="YACC rule #1030" xml:id="cll_yacc-1030"/> time_1030               :
 <xref linkend="cll_yacc-624"/>
                         |
@@ -3269,7 +3269,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-1031"/>
                         ;
 
-<anchor xml:id="y1031"/>
+
 <anchor xreflabel="YACC rule #1031" xml:id="cll_yacc-1031"/> time_A_1031             :
 <xref linkend="cll_yacc-1032"/>
                         |
@@ -3279,7 +3279,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-1034"/>
                         ;
 
-<anchor xml:id="y1032"/>
+
 <anchor xreflabel="YACC rule #1032" xml:id="cll_yacc-1032"/> time_B_1032             :
 <xref linkend="cll_yacc-1033"/>
                         |
@@ -3288,7 +3288,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y1033"/>
+
 <anchor xreflabel="YACC rule #1033" xml:id="cll_yacc-1033"/> time_offset_1033        :
 <xref linkend="cll_yacc-1035"/>
                         |
@@ -3297,7 +3297,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y1034"/>
+
 <anchor xreflabel="YACC rule #1034" xml:id="cll_yacc-1034"/> time_interval_1034      :
 <xref linkend="cll_yacc-622"/>
                         |
@@ -3314,7 +3314,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-1036"/>
                         ;
 
-<anchor xml:id="y1035"/>
+
 <anchor xreflabel="YACC rule #1035" xml:id="cll_yacc-1035"/> time_direction_1035     :
 <xref linkend="cll_yacc-592"/>
                         |
@@ -3322,7 +3322,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-581"/>
                         ;
 
-<anchor xml:id="y1036"/>
+
 <anchor xreflabel="YACC rule #1036" xml:id="cll_yacc-1036"/> time_int_props_1036     :
 <xref linkend="cll_yacc-1051"/>
                         |
@@ -3331,7 +3331,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y1040"/>
+
 <anchor xreflabel="YACC rule #1040" xml:id="cll_yacc-1040"/> space_1040              :
 <xref linkend="cll_yacc-1042"/>
                         |
@@ -3342,13 +3342,13 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y1041"/>
+
 <anchor xreflabel="YACC rule #1041" xml:id="cll_yacc-1041"/> space_motion_1041       :
 <xref linkend="cll_yacc-577"/>
 <xref linkend="cll_yacc-1045"/>
                         ;
 
-<anchor xml:id="y1042"/>
+
 <anchor xreflabel="YACC rule #1042" xml:id="cll_yacc-1042"/> space_A_1042            :
 <xref linkend="cll_yacc-613"/>
                         |
@@ -3358,7 +3358,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-1043"/>
                         ;
 
-<anchor xml:id="y1043"/>
+
 <anchor xreflabel="YACC rule #1043" xml:id="cll_yacc-1043"/> space_B_1043            :
 <xref linkend="cll_yacc-1044"/>
                         |
@@ -3368,7 +3368,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-1046"/>
                         ;
 
-<anchor xml:id="y1044"/>
+
 <anchor xreflabel="YACC rule #1044" xml:id="cll_yacc-1044"/> space_C_1044            :
 <xref linkend="cll_yacc-1045"/>
                         |
@@ -3377,7 +3377,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y1045"/>
+
 <anchor xreflabel="YACC rule #1045" xml:id="cll_yacc-1045"/> space_offset_1045       :
 <xref linkend="cll_yacc-1048"/>
                         |
@@ -3386,7 +3386,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y1046"/>
+
 <anchor xreflabel="YACC rule #1046" xml:id="cll_yacc-1046"/> space_intval_1046       :
 <xref linkend="cll_yacc-1047"/>
                         |
@@ -3404,7 +3404,7 @@ the 900 series rules are found in the lexer.  */
                         ;
 
 
-<anchor xml:id="y1047"/>
+
 <anchor xreflabel="YACC rule #1047" xml:id="cll_yacc-1047"/> space_intval_A_1047     :
 <xref linkend="cll_yacc-615"/>
                         |
@@ -3414,7 +3414,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-616"/>
                         ;
 
-<anchor xml:id="y1048"/>
+
 <anchor xreflabel="YACC rule #1048" xml:id="cll_yacc-1048"/> space_direction_1048    :
 <xref linkend="cll_yacc-528"/>
                         |
@@ -3422,7 +3422,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-581"/>
                         ;
 
-<anchor xml:id="y1049"/>
+
 <anchor xreflabel="YACC rule #1049" xml:id="cll_yacc-1049"/> space_int_props_1049    :
 <xref linkend="cll_yacc-1050"/>
                         |
@@ -3430,7 +3430,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-1050"/>
                         ;
 
-<anchor xml:id="y1050"/>
+
 <anchor xreflabel="YACC rule #1050" xml:id="cll_yacc-1050"/> space_int_props_A_1050  :
 <xref linkend="cll_yacc-530"/>
 <xref linkend="cll_yacc-1051"/>
@@ -3449,7 +3449,7 @@ the 900 series rules are found in the lexer.  */
 
 
 
-<anchor xml:id="y1051"/>
+
 <anchor xreflabel="YACC rule #1051" xml:id="cll_yacc-1051"/> interval_property_1051  :
 <xref linkend="cll_yacc-961"/>
 <xref linkend="cll_yacc-594"/>
@@ -3506,7 +3506,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-603"/> are metalinguistic erasers.
 
 
-<anchor xml:id="y1100"/>
+
 <anchor xreflabel="YACC rule #1100" xml:id="cll_yacc-1100"/> token_1100              :
 <xref linkend="cll_yacc-698"/>
                         |
@@ -3551,7 +3551,7 @@ the 900 series rules are found in the lexer.  */
 <xref linkend="cll_yacc-581"/>
                         ;
 
-<anchor xml:id="y1101"/>
+
 <anchor xreflabel="YACC rule #1101" xml:id="cll_yacc-1101"/> null_1101               :
 <xref linkend="cll_yacc-698"/>
 <xref linkend="cll_yacc-601"/>
@@ -7022,7 +7022,7 @@ the 900 series rules are found in the lexer.  */
   </section>
   -->
   <section xml:id="section-EBNF">
-    <title><anchor xml:id="c21s2"/>EBNF Grammar of Lojban</title>
+    <title>EBNF Grammar of Lojban</title>
     <para>Lojban Machine Grammar, EBNF Version, Final Baseline</para>
     <para>This EBNF document is explicitly dedicated to the public domain by its author, The Logical Language Group, Inc. Contact that organization at: 2904 Beau Lane, Fairfax VA 22031 USA 703-385-0273 (intl: +1 703 385 0273)</para>
     <para>Explanation of notation: All rules have the form:</para>
@@ -7065,13 +7065,13 @@ the 900 series rules are found in the lexer.  */
     <variablelist>
       <varlistentry>
         <term>
-        <anchor xml:id="b0"/>
+
         <anchor xreflabel="BNF rule #0" xml:id="cll_bnf-0"/>
         <!-- <xref linkend="cll_yacc-0"/> --> text
         <subscript>0</subscript>=</term>
         <listitem>
           <para>[NAI ...] [CMEVLA ... # | (indicators &amp; free ...)] [joik-jek] text-1
-          <anchor xml:id="b2"/>
+
           <anchor xreflabel="BNF rule #2" xml:id="cll_bnf-2"/>
           <!-- <xref linkend="cll_yacc-2"/> --></para>
         </listitem>
@@ -7081,7 +7081,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>2</subscript>=</term>
         <listitem>
           <para>[(I [jek | joik] [[stag] BO] #) ... | NIhO ... #] [paragraphs]
-          <anchor xml:id="b4"/>
+
           <anchor xreflabel="BNF rule #4" xml:id="cll_bnf-4"/>
           <!-- <xref linkend="cll_yacc-4"/> --></para>
         </listitem>
@@ -7091,7 +7091,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>4</subscript>=</term>
         <listitem>
           <para>paragraph [NIhO ... # paragraphs]
-          <anchor xml:id="b10"/>
+
           <anchor xreflabel="BNF rule #10" xml:id="cll_bnf-10"/>
           <!-- <xref linkend="cll_yacc-10"/> --></para>
         </listitem>
@@ -7101,7 +7101,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>10</subscript>=</term>
         <listitem>
           <para>(statement | fragment) [I # [statement | fragment]] ...
-          <anchor xml:id="b11"/>
+
           <anchor xreflabel="BNF rule #11" xml:id="cll_bnf-11"/>
           <!-- <xref linkend="cll_yacc-11"/> --></para>
         </listitem>
@@ -7111,7 +7111,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>11</subscript>=</term>
         <listitem>
           <para>statement-1 | prenex statement
-          <anchor xml:id="b12"/>
+
           <anchor xreflabel="BNF rule #12" xml:id="cll_bnf-12"/>
           <!-- <xref linkend="cll_yacc-12"/> --></para>
         </listitem>
@@ -7121,7 +7121,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>12</subscript>=</term>
         <listitem>
           <para>statement-2 [I joik-jek [statement-2]] ...
-          <anchor xml:id="b13"/>
+
           <anchor xreflabel="BNF rule #13" xml:id="cll_bnf-13"/>
           <!-- <xref linkend="cll_yacc-13"/> --></para>
         </listitem>
@@ -7131,7 +7131,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>13</subscript>=</term>
         <listitem>
           <para>statement-3 [I [jek | joik] [stag] BO # [statement-2]]
-          <anchor xml:id="b14"/>
+
           <anchor xreflabel="BNF rule #14" xml:id="cll_bnf-14"/>
           <!-- <xref linkend="cll_yacc-14"/> --></para>
         </listitem>
@@ -7141,7 +7141,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>14</subscript>=</term>
         <listitem>
           <para>sentence | [tag] TUhE # text-1 /TUhU#/
-          <anchor xml:id="b20"/>
+
           <anchor xreflabel="BNF rule #20" xml:id="cll_bnf-20"/>
           <!-- <xref linkend="cll_yacc-20"/> --></para>
         </listitem>
@@ -7151,7 +7151,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>20</subscript>=</term>
         <listitem>
           <para>ek # | gihek # | quantifier | NA # | terms /VAU#/ | prenex | relative-clauses | links | linkargs
-          <anchor xml:id="b30"/>
+
           <anchor xreflabel="BNF rule #30" xml:id="cll_bnf-30"/>
           <!-- <xref linkend="cll_yacc-30"/> --></para>
         </listitem>
@@ -7161,7 +7161,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>30</subscript>=</term>
         <listitem>
           <para>terms ZOhU #
-          <anchor xml:id="b40"/>
+
           <anchor xreflabel="BNF rule #40" xml:id="cll_bnf-40"/>
           <!-- <xref linkend="cll_yacc-40"/> --></para>
         </listitem>
@@ -7171,7 +7171,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>40</subscript>=</term>
         <listitem>
           <para>[terms [CU #]] bridi-tail
-          <anchor xml:id="b41"/>
+
           <anchor xreflabel="BNF rule #41" xml:id="cll_bnf-41"/>
           <!-- <xref linkend="cll_yacc-41"/> --></para>
         </listitem>
@@ -7181,7 +7181,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>41</subscript>=</term>
         <listitem>
           <para>sentence | prenex subsentence
-          <anchor xml:id="b50"/>
+
           <anchor xreflabel="BNF rule #50" xml:id="cll_bnf-50"/>
           <!-- <xref linkend="cll_yacc-50"/> --></para>
         </listitem>
@@ -7191,7 +7191,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>50</subscript>=</term>
         <listitem>
           <para>bridi-tail-1 [gihek [stag] KE # bridi-tail /KEhE#/ tail-terms]
-          <anchor xml:id="b51"/>
+
           <anchor xreflabel="BNF rule #51" xml:id="cll_bnf-51"/>
           <!-- <xref linkend="cll_yacc-51"/> --></para>
         </listitem>
@@ -7201,7 +7201,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>51</subscript>=</term>
         <listitem>
           <para>bridi-tail-2 [gihek # bridi-tail-2 tail-terms] ...
-          <anchor xml:id="b52"/>
+
           <anchor xreflabel="BNF rule #52" xml:id="cll_bnf-52"/>
           <!-- <xref linkend="cll_yacc-52"/> --></para>
         </listitem>
@@ -7211,7 +7211,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>52</subscript>=</term>
         <listitem>
           <para>bridi-tail-3 [gihek [stag] BO # bridi-tail-2 tail-terms]
-          <anchor xml:id="b53"/>
+
           <anchor xreflabel="BNF rule #53" xml:id="cll_bnf-53"/>
           <!-- <xref linkend="cll_yacc-53"/> --></para>
         </listitem>
@@ -7221,7 +7221,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>53</subscript>=</term>
         <listitem>
           <para>selbri tail-terms | gek-sentence
-          <anchor xml:id="b54"/>
+
           <anchor xreflabel="BNF rule #54" xml:id="cll_bnf-54"/>
           <!-- <xref linkend="cll_yacc-54"/> --></para>
         </listitem>
@@ -7231,7 +7231,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>54</subscript>=</term>
         <listitem>
           <para>gek subsentence gik subsentence tail-terms | [tag] KE # gek-sentence /KEhE#/ | NA # gek-sentence
-          <anchor xml:id="b71"/>
+
           <anchor xreflabel="BNF rule #71" xml:id="cll_bnf-71"/>
           <!-- <xref linkend="cll_yacc-71"/> --></para>
         </listitem>
@@ -7241,7 +7241,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>71</subscript>=</term>
         <listitem>
           <para>[terms] /VAU#/
-          <anchor xml:id="b80"/>
+
           <anchor xreflabel="BNF rule #80" xml:id="cll_bnf-80"/>
           <!-- <xref linkend="cll_yacc-80"/> --></para>
         </listitem>
@@ -7251,7 +7251,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>80</subscript>=</term>
         <listitem>
           <para>terms-1 ...
-          <anchor xml:id="b81"/>
+
           <anchor xreflabel="BNF rule #81" xml:id="cll_bnf-81"/>
           <!-- <xref linkend="cll_yacc-81"/> --></para>
         </listitem>
@@ -7261,7 +7261,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>81</subscript>=</term>
         <listitem>
           <para>terms-2 [PEhE # joik-jek terms-2] ...
-          <anchor xml:id="b82"/>
+
           <anchor xreflabel="BNF rule #82" xml:id="cll_bnf-82"/>
           <!-- <xref linkend="cll_yacc-82"/> --></para>
         </listitem>
@@ -7271,7 +7271,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>82</subscript>=</term>
         <listitem>
           <para>term [CEhE # term] ...
-          <anchor xml:id="b83"/>
+
           <anchor xreflabel="BNF rule #83" xml:id="cll_bnf-83"/>
           <!-- <xref linkend="cll_yacc-83"/> --></para>
         </listitem>
@@ -7281,7 +7281,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>83</subscript>=</term>
         <listitem>
           <para>sumti | (tag | FA #) (sumti | /KU#/) | termset | NA KU #
-          <anchor xml:id="b85"/>
+
           <anchor xreflabel="BNF rule #85" xml:id="cll_bnf-85"/>
           <!-- <xref linkend="cll_yacc-85"/> --></para>
         </listitem>
@@ -7291,7 +7291,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>85</subscript>=</term>
         <listitem>
           <para>NUhI # gek terms /NUhU#/ gik terms /NUhU#/ | NUhI # terms /NUhU#/
-          <anchor xml:id="b90"/>
+
           <anchor xreflabel="BNF rule #90" xml:id="cll_bnf-90"/>
           <!-- <xref linkend="cll_yacc-90"/> --></para>
         </listitem>
@@ -7301,7 +7301,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>90</subscript>=</term>
         <listitem>
           <para>sumti-1 [VUhO # relative-clauses]
-          <anchor xml:id="b91"/>
+
           <anchor xreflabel="BNF rule #91" xml:id="cll_bnf-91"/>
           <!-- <xref linkend="cll_yacc-91"/> --></para>
         </listitem>
@@ -7311,7 +7311,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>91</subscript>=</term>
         <listitem>
           <para>sumti-2 [(ek | joik) [stag] KE # sumti /KEhE#/]
-          <anchor xml:id="b92"/>
+
           <anchor xreflabel="BNF rule #92" xml:id="cll_bnf-92"/>
           <!-- <xref linkend="cll_yacc-92"/> --></para>
         </listitem>
@@ -7321,7 +7321,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>92</subscript>=</term>
         <listitem>
           <para>sumti-3 [joik-ek sumti-3] ...
-          <anchor xml:id="b93"/>
+
           <anchor xreflabel="BNF rule #93" xml:id="cll_bnf-93"/>
           <!-- <xref linkend="cll_yacc-93"/> --></para>
         </listitem>
@@ -7331,7 +7331,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>93</subscript>=</term>
         <listitem>
           <para>sumti-4 [(ek | joik) [stag] BO # sumti-3]
-          <anchor xml:id="b94"/>
+
           <anchor xreflabel="BNF rule #94" xml:id="cll_bnf-94"/>
           <!-- <xref linkend="cll_yacc-94"/> --></para>
         </listitem>
@@ -7341,7 +7341,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>94</subscript>=</term>
         <listitem>
           <para>sumti-5 | gek sumti gik sumti-4
-          <anchor xml:id="b95"/>
+
           <anchor xreflabel="BNF rule #95" xml:id="cll_bnf-95"/>
           <!-- <xref linkend="cll_yacc-95"/> --></para>
         </listitem>
@@ -7351,7 +7351,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>95</subscript>=</term>
         <listitem>
           <para>[quantifier] sumti-6 [relative-clauses] | quantifier selbri /KU#/ [relative-clauses]
-          <anchor xml:id="b97"/>
+
           <anchor xreflabel="BNF rule #97" xml:id="cll_bnf-97"/>
           <!-- <xref linkend="cll_yacc-97"/> --></para>
         </listitem>
@@ -7361,7 +7361,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>97</subscript>=</term>
         <listitem>
           <para>(LAhE # | NAhE BO #) [relative-clauses] sumti /LUhU#/ | KOhA # | lerfu-string /BOI#/ | LA # [relative-clauses] CMEVLA ... # | (LA | LE) # sumti-tail /KU#/ | LI # mex /LOhO#/ | ZO any-word # | LU text /LIhU#/ | LOhU any-word ... LEhU # | ZOI any-word anything any-word #
-          <anchor xml:id="b111"/>
+
           <anchor xreflabel="BNF rule #111" xml:id="cll_bnf-111"/>
           <!-- <xref linkend="cll_yacc-111"/> --></para>
         </listitem>
@@ -7371,7 +7371,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>111</subscript>=</term>
         <listitem>
           <para>[sumti-6 [relative-clauses]] sumti-tail-1 | relative-clauses sumti-tail-1
-          <anchor xml:id="b112"/>
+
           <anchor xreflabel="BNF rule #112" xml:id="cll_bnf-112"/>
           <!-- <xref linkend="cll_yacc-112"/> --></para>
         </listitem>
@@ -7381,7 +7381,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>112</subscript>=</term>
         <listitem>
           <para>[quantifier] selbri [relative-clauses] | quantifier sumti
-          <anchor xml:id="b121"/>
+
           <anchor xreflabel="BNF rule #121" xml:id="cll_bnf-121"/>
           <!-- <xref linkend="cll_yacc-121"/> --></para>
         </listitem>
@@ -7391,7 +7391,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>121</subscript>=</term>
         <listitem>
           <para>relative-clause [ZIhE # relative-clause] ...
-          <anchor xml:id="b122"/>
+
           <anchor xreflabel="BNF rule #122" xml:id="cll_bnf-122"/>
           <!-- <xref linkend="cll_yacc-122"/> --></para>
         </listitem>
@@ -7401,7 +7401,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>122</subscript>=</term>
         <listitem>
           <para>GOI # term /GEhU#/ | NOI # subsentence /KUhO#/
-          <anchor xml:id="b130"/>
+
           <anchor xreflabel="BNF rule #130" xml:id="cll_bnf-130"/>
           <!-- <xref linkend="cll_yacc-130"/> --></para>
         </listitem>
@@ -7411,7 +7411,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>130</subscript>=</term>
         <listitem>
           <para>[tag] selbri-1
-          <anchor xml:id="b131"/>
+
           <anchor xreflabel="BNF rule #131" xml:id="cll_bnf-131"/>
           <!-- <xref linkend="cll_yacc-131"/> --></para>
         </listitem>
@@ -7421,7 +7421,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>131</subscript>=</term>
         <listitem>
           <para>selbri-2 | NA # selbri
-          <anchor xml:id="b132"/>
+
           <anchor xreflabel="BNF rule #132" xml:id="cll_bnf-132"/>
           <!-- <xref linkend="cll_yacc-132"/> --></para>
         </listitem>
@@ -7431,7 +7431,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>132</subscript>=</term>
         <listitem>
           <para>selbri-3 [CO # selbri-2]
-          <anchor xml:id="b133"/>
+
           <anchor xreflabel="BNF rule #133" xml:id="cll_bnf-133"/>
           <!-- <xref linkend="cll_yacc-133"/> --></para>
         </listitem>
@@ -7441,7 +7441,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>133</subscript>=</term>
         <listitem>
           <para>selbri-4 ...
-          <anchor xml:id="b134"/>
+
           <anchor xreflabel="BNF rule #134" xml:id="cll_bnf-134"/>
           <!-- <xref linkend="cll_yacc-134"/> --></para>
         </listitem>
@@ -7451,7 +7451,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>134</subscript>=</term>
         <listitem>
           <para>selbri-5 [joik-jek selbri-5 | joik [stag] KE # selbri-3 /KEhE#/] ...
-          <anchor xml:id="b135"/>
+
           <anchor xreflabel="BNF rule #135" xml:id="cll_bnf-135"/>
           <!-- <xref linkend="cll_yacc-135"/> --></para>
         </listitem>
@@ -7461,7 +7461,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>135</subscript>=</term>
         <listitem>
           <para>selbri-6 [(jek | joik) [stag] BO # selbri-5]
-          <anchor xml:id="b136"/>
+
           <anchor xreflabel="BNF rule #136" xml:id="cll_bnf-136"/>
           <!-- <xref linkend="cll_yacc-136"/> --></para>
         </listitem>
@@ -7472,7 +7472,7 @@ the 900 series rules are found in the lexer.  */
         <listitem>
           <para>tanru-unit [BO # selbri-6] | [NAhE #] guhek selbri gik selbri-6
 
-          <anchor xml:id="b150"/>
+
           <anchor xreflabel="BNF rule #150" xml:id="cll_bnf-150"/>
           <!-- <xref linkend="cll_yacc-150"/> --></para>
         </listitem>
@@ -7482,7 +7482,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>150</subscript>=</term>
         <listitem>
           <para>tanru-unit-1 [CEI # tanru-unit-1] ...
-          <anchor xml:id="b151"/>
+
           <anchor xreflabel="BNF rule #151" xml:id="cll_bnf-151"/>
           <!-- <xref linkend="cll_yacc-151"/> --></para>
         </listitem>
@@ -7492,7 +7492,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>151</subscript>=</term>
         <listitem>
           <para>tanru-unit-2 [linkargs]
-          <anchor xml:id="b152"/>
+
           <anchor xreflabel="BNF rule #152" xml:id="cll_bnf-152"/>
           <!-- <xref linkend="cll_yacc-152"/> --></para>
         </listitem>
@@ -7502,7 +7502,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>152</subscript>=</term>
         <listitem>
           <para>BRIVLA # | GOhA [RAhO] # | KE # selbri-3 /KEhE#/ | ME # sumti /MEhU#/ [MOI #] | (number | lerfu-string) MOI # | NUhA # mex-operator | SE # tanru-unit-2 | JAI # [tag] tanru-unit-2 | any-word (ZEI any-word) ... | NAhE # tanru-unit-2 | NU [NAI] # [joik-jek NU [NAI] #] ... subsentence /KEI#/
-          <anchor xml:id="b160"/>
+
           <anchor xreflabel="BNF rule #160" xml:id="cll_bnf-160"/>
           <!-- <xref linkend="cll_yacc-160"/> --></para>
         </listitem>
@@ -7512,7 +7512,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>160</subscript>=</term>
         <listitem>
           <para>BE # term [links] /BEhO#/
-          <anchor xml:id="b161"/>
+
           <anchor xreflabel="BNF rule #161" xml:id="cll_bnf-161"/>
           <!-- <xref linkend="cll_yacc-161"/> --></para>
         </listitem>
@@ -7522,7 +7522,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>161</subscript>=</term>
         <listitem>
           <para>BEI # term [links]
-          <anchor xml:id="b300"/>
+
           <anchor xreflabel="BNF rule #300" xml:id="cll_bnf-300"/>
           <!-- <xref linkend="cll_yacc-300"/> --></para>
         </listitem>
@@ -7532,7 +7532,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>300</subscript>=</term>
         <listitem>
           <para>number /BOI#/ | VEI # mex /VEhO#/
-          <anchor xml:id="b310"/>
+
           <anchor xreflabel="BNF rule #310" xml:id="cll_bnf-310"/>
           <!-- <xref linkend="cll_yacc-310"/> --></para>
         </listitem>
@@ -7542,7 +7542,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>310</subscript>=</term>
         <listitem>
           <para>mex-1 [operator mex-1] ... | FUhA # rp-expression
-          <anchor xml:id="b311"/>
+
           <anchor xreflabel="BNF rule #311" xml:id="cll_bnf-311"/>
           <!-- <xref linkend="cll_yacc-311"/> --></para>
         </listitem>
@@ -7552,7 +7552,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>311</subscript>=</term>
         <listitem>
           <para>mex-2 [BIhE # operator mex-1]
-          <anchor xml:id="b312"/>
+
           <anchor xreflabel="BNF rule #312" xml:id="cll_bnf-312"/>
           <!-- <xref linkend="cll_yacc-312"/> --></para>
         </listitem>
@@ -7562,7 +7562,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>312</subscript>=</term>
         <listitem>
           <para>operand | [PEhO #] operator mex-2 ... /KUhE#/
-          <anchor xml:id="b330"/>
+
           <anchor xreflabel="BNF rule #330" xml:id="cll_bnf-330"/>
           <!-- <xref linkend="cll_yacc-330"/> --></para>
         </listitem>
@@ -7572,7 +7572,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>330</subscript>=</term>
         <listitem>
           <para>rp-operand rp-operand operator
-          <anchor xml:id="b332"/>
+
           <anchor xreflabel="BNF rule #332" xml:id="cll_bnf-332"/>
           <!-- <xref linkend="cll_yacc-332"/> --></para>
         </listitem>
@@ -7582,7 +7582,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>332</subscript>=</term>
         <listitem>
           <para>operand | rp-expression
-          <anchor xml:id="b370"/>
+
           <anchor xreflabel="BNF rule #370" xml:id="cll_bnf-370"/>
           <!-- <xref linkend="cll_yacc-370"/> --></para>
         </listitem>
@@ -7592,7 +7592,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>370</subscript>=</term>
         <listitem>
           <para>operator-1 [joik-jek operator-1 | joik [stag] KE # operator /KEhE#/] ...
-          <anchor xml:id="b371"/>
+
           <anchor xreflabel="BNF rule #371" xml:id="cll_bnf-371"/>
           <!-- <xref linkend="cll_yacc-371"/> --></para>
         </listitem>
@@ -7603,7 +7603,7 @@ the 900 series rules are found in the lexer.  */
         <listitem>
           <para>operator-2 | guhek operator-1 gik operator-2 | operator-2 (jek | joik) [stag] BO # operator-1
 
-          <anchor xml:id="b372"/>
+
           <anchor xreflabel="BNF rule #372" xml:id="cll_bnf-372"/>
           <!-- <xref linkend="cll_yacc-372"/> --></para>
         </listitem>
@@ -7613,7 +7613,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>372</subscript>=</term>
         <listitem>
           <para>mex-operator | KE # operator /KEhE#/
-          <anchor xml:id="b374"/>
+
           <anchor xreflabel="BNF rule #374" xml:id="cll_bnf-374"/>
           <!-- <xref linkend="cll_yacc-374"/> --></para>
         </listitem>
@@ -7623,7 +7623,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>374</subscript>=</term>
         <listitem>
           <para>SE # mex-operator | NAhE # mex-operator | MAhO # mex /TEhU#/ | NAhU # selbri /TEhU#/ | VUhU #
-          <anchor xml:id="b381"/>
+
           <anchor xreflabel="BNF rule #381" xml:id="cll_bnf-381"/>
           <!-- <xref linkend="cll_yacc-381"/> --></para>
         </listitem>
@@ -7633,7 +7633,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>381</subscript>=</term>
         <listitem>
           <para>operand-1 [(ek | joik) [stag] KE # operand /KEhE#/]
-          <anchor xml:id="b382"/>
+
           <anchor xreflabel="BNF rule #382" xml:id="cll_bnf-382"/>
           <!-- <xref linkend="cll_yacc-382"/> --></para>
         </listitem>
@@ -7643,7 +7643,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>382</subscript>=</term>
         <listitem>
           <para>operand-2 [joik-ek operand-2] ...
-          <anchor xml:id="b383"/>
+
           <anchor xreflabel="BNF rule #383" xml:id="cll_bnf-383"/>
           <!-- <xref linkend="cll_yacc-383"/> --></para>
         </listitem>
@@ -7653,7 +7653,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>383</subscript>=</term>
         <listitem>
           <para>operand-3 [(ek | joik) [stag] BO # operand-2]
-          <anchor xml:id="b385"/>
+
           <anchor xreflabel="BNF rule #385" xml:id="cll_bnf-385"/>
           <!-- <xref linkend="cll_yacc-385"/> --></para>
         </listitem>
@@ -7663,7 +7663,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>385</subscript>=</term>
         <listitem>
           <para>quantifier | lerfu-string /BOI#/ | NIhE # selbri /TEhU#/ | MOhE # sumti /TEhU#/ | JOhI # mex-2 ... /TEhU#/ | gek operand gik operand-3 | (LAhE # | NAhE BO #) operand /LUhU#/
-          <anchor xml:id="b812"/>
+
           <anchor xreflabel="BNF rule #812" xml:id="cll_bnf-812"/>
           <!-- <xref linkend="cll_yacc-812"/> --></para>
         </listitem>
@@ -7673,7 +7673,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>812</subscript>=</term>
         <listitem>
           <para>PA [PA | lerfu-word] ...
-          <anchor xml:id="b817"/>
+
           <anchor xreflabel="BNF rule #817" xml:id="cll_bnf-817"/>
           <!-- <xref linkend="cll_yacc-817"/> --></para>
         </listitem>
@@ -7683,7 +7683,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>817</subscript>=</term>
         <listitem>
           <para>lerfu-word [PA | lerfu-word] ...
-          <anchor xml:id="b987"/>
+
           <anchor xreflabel="BNF rule #987" xml:id="cll_bnf-987"/>
           <!-- <xref linkend="cll_yacc-987"/> --></para>
         </listitem>
@@ -7693,7 +7693,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>987</subscript>=</term>
         <listitem>
           <para>BY | any-word BU | LAU lerfu-word | TEI lerfu-string FOI
-          <anchor xml:id="b802"/>
+
           <anchor xreflabel="BNF rule #802" xml:id="cll_bnf-802"/>
           <!-- <xref linkend="cll_yacc-802"/> --></para>
         </listitem>
@@ -7703,7 +7703,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>802</subscript>=</term>
         <listitem>
           <para>[NA] [SE] A [NAI]
-          <anchor xml:id="b818"/>
+
           <anchor xreflabel="BNF rule #818" xml:id="cll_bnf-818"/>
           <!-- <xref linkend="cll_yacc-818"/> --></para>
         </listitem>
@@ -7713,7 +7713,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>818</subscript>=</term>
         <listitem>
           <para>[NA] [SE] GIhA [NAI]
-          <anchor xml:id="b805"/>
+
           <anchor xreflabel="BNF rule #805" xml:id="cll_bnf-805"/>
           <!-- <xref linkend="cll_yacc-805"/> --></para>
         </listitem>
@@ -7723,7 +7723,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>805</subscript>=</term>
         <listitem>
           <para>[NA] [SE] JA [NAI]
-          <anchor xml:id="b806"/>
+
           <anchor xreflabel="BNF rule #806" xml:id="cll_bnf-806"/>
           <!-- <xref linkend="cll_yacc-806"/> --></para>
         </listitem>
@@ -7733,7 +7733,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>806</subscript>=</term>
         <listitem>
           <para>[SE] JOI [NAI] | interval | GAhO interval GAhO
-          <anchor xml:id="b932"/>
+
           <anchor xreflabel="BNF rule #932" xml:id="cll_bnf-932"/>
           <!-- <xref linkend="cll_yacc-932"/> --></para>
         </listitem>
@@ -7743,7 +7743,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>932</subscript>=</term>
         <listitem>
           <para>[SE] BIhI [NAI]
-          <anchor xml:id="b421"/>
+
           <anchor xreflabel="BNF rule #421" xml:id="cll_bnf-421"/>
           <!-- <xref linkend="cll_yacc-421"/> --></para>
         </listitem>
@@ -7753,7 +7753,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>421</subscript>=</term>
         <listitem>
           <para>joik # | ek #
-          <anchor xml:id="b422"/>
+
           <anchor xreflabel="BNF rule #422" xml:id="cll_bnf-422"/>
           <!-- <xref linkend="cll_yacc-422"/> --></para>
         </listitem>
@@ -7763,7 +7763,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>422</subscript>=</term>
         <listitem>
           <para>joik # | jek #
-          <anchor xml:id="b807"/>
+
           <anchor xreflabel="BNF rule #807" xml:id="cll_bnf-807"/>
           <!-- <xref linkend="cll_yacc-807"/> --></para>
         </listitem>
@@ -7773,7 +7773,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>807</subscript>=</term>
         <listitem>
           <para>[SE] GA [NAI] # | joik GI # | stag gik
-          <anchor xml:id="b808"/>
+
           <anchor xreflabel="BNF rule #808" xml:id="cll_bnf-808"/>
           <!-- <xref linkend="cll_yacc-808"/> --></para>
         </listitem>
@@ -7784,7 +7784,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>808</subscript>=</term>
         <listitem>
           <para>[SE] GUhA [NAI] #
-          <anchor xml:id="b816"/>
+
           <anchor xreflabel="BNF rule #816" xml:id="cll_bnf-816"/>
           <!-- <xref linkend="cll_yacc-816"/> --></para>
         </listitem>
@@ -7794,7 +7794,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>816</subscript>=</term>
         <listitem>
           <para>GI [NAI] #
-          <anchor xml:id="b491"/>
+
           <anchor xreflabel="BNF rule #491" xml:id="cll_bnf-491"/>
           <!-- <xref linkend="cll_yacc-491"/> --></para>
         </listitem>
@@ -7804,7 +7804,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>491</subscript>=</term>
         <listitem>
           <para>tense-modal [joik-jek tense-modal] ...
-          <anchor xml:id="b971"/>
+
           <anchor xreflabel="BNF rule #971" xml:id="cll_bnf-971"/>
           <!-- <xref linkend="cll_yacc-971"/> --></para>
         </listitem>
@@ -7814,7 +7814,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>971</subscript>=</term>
         <listitem>
           <para>simple-tense-modal [(jek | joik) simple-tense-modal] ...
-          <anchor xml:id="b815"/>
+
           <anchor xreflabel="BNF rule #815" xml:id="cll_bnf-815"/>
           <!-- <xref linkend="cll_yacc-815"/> --></para>
         </listitem>
@@ -7824,7 +7824,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>815</subscript>=</term>
         <listitem>
           <para>simple-tense-modal # | FIhO # selbri /FEhU#/
-          <anchor xml:id="b972"/>
+
           <anchor xreflabel="BNF rule #972" xml:id="cll_bnf-972"/>
           <!-- <xref linkend="cll_yacc-972"/> --></para>
         </listitem>
@@ -7834,7 +7834,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>972</subscript>=</term>
         <listitem>
           <para>[NAhE] [SE] BAI [NAI] [KI] | [NAhE] (time [space] | space [time]) &amp; CAhA [KI] | KI | CUhE
-          <anchor xml:id="b1030"/>
+
           <anchor xreflabel="BNF rule #1030" xml:id="cll_bnf-1030"/>
           <!-- <xref linkend="cll_yacc-1030"/> --></para>
         </listitem>
@@ -7844,7 +7844,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>1030</subscript>=</term>
         <listitem>
           <para>ZI &amp; time-offset ... &amp; ZEhA [PU [NAI]] &amp; interval-property ...
-          <anchor xml:id="b1033"/>
+
           <anchor xreflabel="BNF rule #1033" xml:id="cll_bnf-1033"/>
           <!-- <xref linkend="cll_yacc-1033"/> --></para>
         </listitem>
@@ -7854,7 +7854,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>1033</subscript>=</term>
         <listitem>
           <para>PU [NAI] [ZI]
-          <anchor xml:id="b1040"/>
+
           <anchor xreflabel="BNF rule #1040" xml:id="cll_bnf-1040"/>
           <!-- <xref linkend="cll_yacc-1040"/> --></para>
         </listitem>
@@ -7864,7 +7864,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>1040</subscript>=</term>
         <listitem>
           <para>VA &amp; space-offset ... &amp; space-interval &amp; (MOhI space-offset)
-          <anchor xml:id="b1045"/>
+
           <anchor xreflabel="BNF rule #1045" xml:id="cll_bnf-1045"/>
           <!-- <xref linkend="cll_yacc-1045"/> --></para>
         </listitem>
@@ -7874,7 +7874,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>1045</subscript>=</term>
         <listitem>
           <para>FAhA [NAI] [VA]
-          <anchor xml:id="b1046"/>
+
           <anchor xreflabel="BNF rule #1046" xml:id="cll_bnf-1046"/>
           <!-- <xref linkend="cll_yacc-1046"/> --></para>
         </listitem>
@@ -7884,7 +7884,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>1046</subscript>=</term>
         <listitem>
           <para>((VEhA &amp; VIhA) [FAhA [NAI]]) &amp; space-int-props
-          <anchor xml:id="b1049"/>
+
           <anchor xreflabel="BNF rule #1049" xml:id="cll_bnf-1049"/>
           <!-- <xref linkend="cll_yacc-1049"/> --></para>
         </listitem>
@@ -7894,7 +7894,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>1049</subscript>=</term>
         <listitem>
           <para>(FEhE interval-property) ...
-          <anchor xml:id="b1051"/>
+
           <anchor xreflabel="BNF rule #1051" xml:id="cll_bnf-1051"/>
           <!-- <xref linkend="cll_yacc-1051"/> --></para>
         </listitem>
@@ -7904,7 +7904,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>1051</subscript>=</term>
         <listitem>
           <para>number ROI [NAI] | TAhE [NAI] | ZAhO [NAI]
-          <anchor xml:id="b32"/>
+
           <anchor xreflabel="BNF rule #32" xml:id="cll_bnf-32"/>
           <!-- <xref linkend="cll_yacc-32"/> --></para>
         </listitem>
@@ -7914,7 +7914,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>32</subscript>=</term>
         <listitem>
           <para>SEI # [terms [CU #]] selbri /SEhU/ | SOI # sumti [sumti] /SEhU/ | vocative [relative-clauses] selbri [relative-clauses] /DOhU/ | vocative [relative-clauses] CMEVLA ... # [relative-clauses] /DOhU/ | vocative [sumti] /DOhU/ | (number | lerfu-string) MAI | TO text /TOI/ | XI # (number | lerfu-string) /BOI/ | XI # VEI # mex /VEhO/
-          <anchor xml:id="b415"/>
+
           <anchor xreflabel="BNF rule #415" xml:id="cll_bnf-415"/>
           <!-- <xref linkend="cll_yacc-415"/> --></para>
         </listitem>
@@ -7924,7 +7924,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>415</subscript>=</term>
         <listitem>
           <para>(COI [NAI]) ... &amp; DOI
-          <anchor xml:id="b411"/>
+
           <anchor xreflabel="BNF rule #411" xml:id="cll_bnf-411"/>
           <!-- <xref linkend="cll_yacc-411"/> --></para>
         </listitem>
@@ -7934,7 +7934,7 @@ the 900 series rules are found in the lexer.  */
         <subscript>411</subscript>=</term>
         <listitem>
           <para>[FUhE] indicator ...
-          <anchor xml:id="b413"/>
+
           <anchor xreflabel="BNF rule #413" xml:id="cll_bnf-413"/>
           <!-- <xref linkend="cll_yacc-413"/> --></para>
         </listitem>
@@ -7951,7 +7951,7 @@ the 900 series rules are found in the lexer.  */
     <variablelist>
       <varlistentry>
         <term>
-        <anchor xml:id="b1100"/>
+
         <anchor xreflabel="BNF rule #1100" xml:id="cll_bnf-1100"/>
         <!-- <xref linkend="cll_yacc-1100"/> --> word
         <subscript>1100</subscript>=</term>
@@ -7969,7 +7969,7 @@ the 900 series rules are found in the lexer.  */
         <term>anything =</term>
         <listitem>
           <para><quote>any text at all, whether Lojban or not</quote>
-          <anchor xml:id="b1101"/>
+
           <anchor xreflabel="BNF rule #1101" xml:id="cll_bnf-1101"/>
           <!-- <xref linkend="cll_yacc-1101"/> --></para>
         </listitem>
@@ -7985,7 +7985,7 @@ the 900 series rules are found in the lexer.  */
     <para>FAhO is a universal terminator and signals the end of parsable input.</para>
   </section>
   <section xml:id="section-cross-reference">
-    <title><anchor xml:id="c21s3"/>EBNF Cross-Reference</title>
+    <title>EBNF Cross-Reference</title>
     <variablelist>
       <varlistentry>
         <term>A</term>

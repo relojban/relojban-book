@@ -5,10 +5,10 @@
   <!ENTITY hellip "&#x02026;" ><!--HORIZONTAL ELLIPSIS -->
 ]>
 <chapter xml:id="chapter-abstractions">
-  <title><anchor xml:id="c11"/>Events, Qualities, Quantities, And Other Vague Words: On Lojban Abstraction</title>
+  <title>Events, Qualities, Quantities, And Other Vague Words: On Lojban Abstraction</title>
 
   <section xml:id="section-syntax">
-    <title><anchor xml:id="c11s1"/>The syntax of abstraction</title>
+    <title>The syntax of abstraction</title>
     <para>The purpose of the feature of Lojban known as
     <quote>abstraction</quote> is to provide a means for taking whole bridi and packaging them up, as it were, into simple selbri. Syntactically, abstractions are very simple and uniform; semantically, they are rich and complex, with few features in common between one variety of abstraction and another. We will begin by discussing syntax without regard to semantics; as a result, the notion of abstraction may seem unmotivated at first. Bear with this difficulty until
     <xref linkend="section-events"/>.</para>
@@ -17,7 +17,6 @@
     <valsi>kei</valsi>, of selma'o KEI. Thus, to change the bridi</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-6EI1">
       <title>
-        <anchor xml:id="c11e1d1"/>
       </title>
       <interlinear-gloss>
         <jbo>mi klama le zarci</jbo>
@@ -28,7 +27,6 @@
     <valsi>nu</valsi>, one of the members of selma'o NU, we change it into</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Via0">
       <title>
-        <anchor xml:id="c11e1d2"/>
       </title>
       <interlinear-gloss>
         <jbo>nu mi klama le zarci [kei]</jbo>
@@ -47,7 +45,6 @@
     <xref linkend="example-random-id-Via0"/>, or used in tanru:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-0Ff4">
       <title>
-        <anchor xml:id="c11e1d3"/>
         <indexterm type="example"><primary>want to be a soldier</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -61,7 +58,6 @@
     <valsi>le</valsi> (or any other member of selma'o LE):</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-sQ33">
       <title>
-        <anchor xml:id="c11e1d4"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djan. cu djica le nu sonci [kei]</jbo>
@@ -82,7 +78,7 @@
     <quote>is-a-soldier</quote>. This procedure reflects the desire for more understandable glosses, and does not indicate any change in the Lojban form. A bridi is a bridi, and undergoes no change when it is used as part of an abstraction selbri.</para>
   </section>
   <section xml:id="section-events">
-    <title><anchor xml:id="c11s2"/>Event abstraction</title>
+    <title>Event abstraction</title>
     <para> <indexterm type="general"><primary>abstractions</primary><secondary>event</secondary></indexterm>  <indexterm type="general"><primary>event abstractions</primary></indexterm> The following cmavo is discussed in this section:</para>
     <cmavo-list>
       <cmavo-entry>
@@ -100,7 +96,6 @@
     <valsi>le</valsi> alone. The following sumti are quite distinct:</para>
     <example xml:id="example-random-id-qF0u" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c11e2d1"/>
       </title>
       <interlinear-gloss>
         <jbo>le klama</jbo>
@@ -109,7 +104,6 @@
     </example>
     <example xml:id="example-random-id-qF0U" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c11e2d2"/>
       </title>
       <interlinear-gloss>
         <jbo>le se klama</jbo>
@@ -119,7 +113,6 @@
     </example>
     <example xml:id="example-random-id-qf11" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c11e2d3"/>
       </title>
       <interlinear-gloss>
         <jbo>le te klama</jbo>
@@ -128,7 +121,6 @@
     </example>
     <example xml:id="example-random-id-qf22" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c11e2d4"/>
       </title>
       <interlinear-gloss>
         <jbo>le ve klama</jbo>
@@ -138,7 +130,6 @@
     </example>
     <example xml:id="example-random-id-qf4x" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c11e2d5"/>
       </title>
       <interlinear-gloss>
         <jbo>le xe klama</jbo>
@@ -147,7 +138,6 @@
     </example>
     <example xml:id="example-random-id-qf97" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c11e2d6"/>
       </title>
       <interlinear-gloss>
         <jbo>le nu klama</jbo>
@@ -163,7 +153,6 @@
     <quote>event</quote> is divorced from its ordinary English sense of something that happens over a short period of time. The description:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-mxAt">
       <title>
-        <anchor xml:id="c11e2d7"/>
       </title>
       <interlinear-gloss>
         <jbo>le nu mi vasxu</jbo>
@@ -174,7 +163,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-BPcI">
       <title>
-        <anchor xml:id="c11e2d8"/>
         <indexterm type="example"><primary>kissing Jane</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -191,7 +179,6 @@
     <valsi>nu</valsi> abstractions in descriptions to have the x1 place ellipsized:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-FRoP">
       <title>
-        <anchor xml:id="c11e2d9"/>
       </title>
       <interlinear-gloss>
         <jbo>mi nelci le nu limna</jbo>
@@ -202,7 +189,6 @@
     <para role="noindent">is elliptical, and most probably means:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Ys8w">
       <title>
-        <anchor xml:id="c11e2d10"/>
       </title>
       <interlinear-gloss>
         <jbo>mi nelci le nu mi limna</jbo>
@@ -218,7 +204,6 @@
     <jbophrase>le se nelci</jbophrase> (<quote>that which is liked</quote>) is in effect an abstraction:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-sMsx">
       <title>
-        <anchor xml:id="c11e2d11"/>
       </title>
       <interlinear-gloss>
         <jbo>le se--nelci cu cafne</jbo>
@@ -235,7 +220,6 @@
     <quote>under conditions...</quote> places, among others, of gismu and lujvo place structures:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Ia6f">
       <title>
-        <anchor xml:id="c11e2d12"/>
         <indexterm type="example"><primary>under conditions</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -255,7 +239,7 @@
     <definition><content>x1 is an event of (the bridi)</content></definition>
   </section>
   <section xml:id="section-event-types">
-    <title><anchor xml:id="c11s3"/>Types of event abstractions</title>
+    <title>Types of event abstractions</title>
 
     <para> <indexterm type="general"><primary>event abstractions</primary><secondary>types</secondary></indexterm> The following cmavo are discussed in this section:</para>
     <cmavo-list>
@@ -299,7 +283,6 @@
     <quote>point-event-of</quote>:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-nFR1">
       <title>
-        <anchor xml:id="c11e3d1"/>
         <indexterm type="example"><primary>killing Jim</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -316,7 +299,6 @@
     <quote>process-of</quote>:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-WaxD">
       <title>
-        <anchor xml:id="c11e3d2"/>
         <indexterm type="example"><primary>Roman Empire</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -337,7 +319,6 @@
     <quote>activity-of</quote>:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-89nw">
       <title>
-        <anchor xml:id="c11e3d3"/>
       </title>
       <interlinear-gloss>
         <jbo>mi tatpi ri'a le zu'o mi plipe</jbo>
@@ -353,7 +334,6 @@
     <quote>state-of</quote>:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-WztQ">
       <title>
-        <anchor xml:id="c11e3d4"/>
         <indexterm type="example"><primary>being alive</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -419,7 +399,7 @@
     </definition>
   </section>
   <section xml:id="section-properties">
-    <title><anchor xml:id="c11s4"/>Property abstractions</title>
+    <title>Property abstractions</title>
     <para>The following cmavo are discussed in this section:</para>
     <cmavo-list>
       <cmavo-entry>
@@ -445,7 +425,6 @@
     <quote>the property of having a heart</quote> is an abstract object which, when applied to John, is true. In fact,</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-YSUx">
       <title>
-        <anchor xml:id="c11e4d1"/>
         <indexterm type="example"><primary>has a heart</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -458,7 +437,6 @@
     <para role="noindent"> has the same truth conditions as</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-1PPS">
       <title>
-        <anchor xml:id="c11e4d2"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djan. cu ckaji</jbo>
@@ -478,7 +456,6 @@
     <para>Property descriptions, like event descriptions, are often wanted to fill places in brivla place structures:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-v3Ba">
       <title>
-        <anchor xml:id="c11e4d3"/>
       </title>
       <interlinear-gloss>
         <jbo>do cnino mi le ka xunre [kei]</jbo>
@@ -494,7 +471,6 @@
     <para> <indexterm type="general"><primary>property description</primary></indexterm> Information from the property in an "aspect" place can often be raised to another place, leaving a dummy, often omitted, property behind:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-proQ">
       <title>
-        <anchor xml:id="c11e4d4"/>
       </title>
       <interlinear-gloss>
         <jbo>le nu do xunre [kei] cu cnino mi [le--ka--se--sanji--mi]</jbo>
@@ -511,7 +487,6 @@
     <quote>understood</quote> as being specified externally. Thus:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-H71J">
       <title>
-        <anchor xml:id="c11e4d5"/>
         <indexterm type="example"><primary>property of loving</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -522,7 +497,6 @@
     <para role="noindent"> is quite different from</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-wcxY">
       <title>
-        <anchor xml:id="c11e4d6"/>
       </title>
       <interlinear-gloss>
         <jbo>ka [zo'e] prami mi [kei]</jbo>
@@ -534,7 +508,6 @@
     <xref linkend="example-random-id-qfav"/> are quite different in meaning:</para>
     <example xml:id="example-random-id-qfAM" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c11e4d7"/>
         <indexterm type="example"><primary>love more</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -549,7 +522,6 @@
     </example>
     <example xml:id="example-random-id-qfav" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c11e4d8"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djan. cu zmadu la .djordj.</jbo>
@@ -575,7 +547,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-8DD8">
       <title>
-        <anchor xml:id="c11e4d9"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djan. cu zmadu la .djordj.</jbo>
@@ -590,7 +561,6 @@
     <xref linkend="example-random-id-qfav"/> is:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-JKBQ">
       <title>
-        <anchor xml:id="c11e4d10"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djan. cu zmadu la .djordj.</jbo>
@@ -604,7 +574,6 @@
     <para role="indent">This convention allows disambiguation of cases like:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-GiJp">
       <title>
-        <anchor xml:id="c11e4d11"/>
         <indexterm type="example"><primary>giving the horse</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -615,7 +584,6 @@
     <para role="noindent"> into</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-1vc4">
       <title>
-        <anchor xml:id="c11e4d12"/>
       </title>
       <interlinear-gloss>
         <jbo>le ka ce'u dunda le xirma -- [zo'e] [kei]</jbo>
@@ -627,7 +595,6 @@
     <xref linkend="example-random-id-GiJp"/>, versus</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-rDtg">
       <title>
-        <anchor xml:id="c11e4d13"/>
       </title>
       <interlinear-gloss>
         <jbo>le ka [zo'e] dunda le xirma -- ce'u [kei]</jbo>
@@ -655,7 +622,7 @@
     </definition>
   </section>
   <section xml:id="section-amounts">
-    <title><anchor xml:id="c11s5"/>Amount abstractions</title>
+    <title>Amount abstractions</title>
     <para>The following cmavo is discussed in this section:</para>
     <cmavo-list>
       <cmavo-entry>
@@ -671,7 +638,6 @@
     <para role="indent">Amount abstractions are far more limited than event or property abstractions. They really make sense only if the selbri of the abstracted bridi is subject to measurement of some sort. Thus we can speak of:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-QW2C">
       <title>
-        <anchor xml:id="c11e5d1"/>
       </title>
       <interlinear-gloss>
         <jbo>le ni le pixra cu blanu [kei]</jbo>
@@ -684,7 +650,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-FyL4">
       <title>
-        <anchor xml:id="c11e5d2"/>
       </title>
       <interlinear-gloss>
         <jbo>le ni la .djein. cu mamta [kei]</jbo>
@@ -701,7 +666,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-SaTi">
       <title>
-        <anchor xml:id="c11e5d3"/>
       </title>
       <interlinear-gloss>
         <jbo>li pa vu'u mo'e le ni --</jbo>
@@ -719,7 +683,6 @@
     <valsi>ce'u</valsi> just like property abstractors. Thus,</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-1LtX">
       <title>
-        <anchor xml:id="c11e5d4"/>
       </title>
       <interlinear-gloss>
         <jbo>le pixra cu cenba le ka ce'u blanu [kei]</jbo>
@@ -731,7 +694,6 @@
     <para role="noindent">is not the same as</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-QKpo">
       <title>
-        <anchor xml:id="c11e5d5"/>
       </title>
       <interlinear-gloss>
         <jbo>le pixra cu cenba le ni ce'u blanu [kei]</jbo>
@@ -753,7 +715,7 @@
     <xref linkend="example-random-id-zvfX"/> for the use of this construction.</para>
   </section>
   <section xml:id="section-truth-values">
-    <title><anchor xml:id="c11s6"/>Truth-value abstraction: <valsi>jei</valsi></title>
+    <title>Truth-value abstraction: <valsi>jei</valsi></title>
     <para>The
     <quote>blueness of the picture</quote> discussed in
     <xref linkend="section-amounts"/> refers to the measurable amount of blue pigment (or other source of blueness), not to the degree of truth of the claim that blueness is present. That abstraction is expressed in Lojban using
@@ -762,7 +724,6 @@
     <jbophrase>le jei</jbophrase> produces not a number but a truth value:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-KuTE">
       <title>
-        <anchor xml:id="c11e6d1"/>
         <indexterm type="example"><primary>2 + 2</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -775,7 +736,6 @@
     <quote>truth</quote>, and</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-nYY2">
       <title>
-        <anchor xml:id="c11e6d2"/>
       </title>
       <interlinear-gloss>
         <jbo>le jei li re su'i re du li mu [kei]</jbo>
@@ -789,7 +749,6 @@
     <valsi>jei</valsi> is Lojban's mechanism for indicating the shade of grey intended:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-MRD8">
       <title>
-        <anchor xml:id="c11e6d3"/>
         <indexterm type="example"><primary>whether criminal</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -818,7 +777,7 @@
     <valsi>jei</valsi> in fuzzy-logic contexts have not yet been established.</para>
   </section>
   <section xml:id="section-predications">
-    <title><anchor xml:id="c11s7"/>Predication/sentence abstraction</title>
+    <title>Predication/sentence abstraction</title>
 
     <para>The following cmavo is discussed in this section:</para>
     <cmavo-list>
@@ -834,7 +793,6 @@
 
     <example xml:id="example-random-id-7N2q">
       <title>
-        <anchor xml:id="c11e7d1"/>
         <indexterm type="example"><primary>Frank is a fool</primary></indexterm>
         <indexterm type="example"><primary>know</primary></indexterm>
       </title>
@@ -844,7 +802,6 @@
     <para role="indent">How's that in Lojban? Let us try:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-brpf">
       <title>
-        <anchor xml:id="c11e7d2"/>
       </title>
       <interlinear-gloss>
         <jbo valid="iffy">mi djuno le nu la .frank. cu bebna [kei]</jbo>
@@ -861,7 +818,6 @@
     <para>Try again:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-oCgP">
       <title>
-        <anchor xml:id="c11e7d3"/>
       </title>
       <interlinear-gloss>
         <jbo>mi djuno le jei la .frank. cu bebna [kei]</jbo>
@@ -874,7 +830,6 @@
     <xref linkend="example-random-id-7N2q"/> does. To catch that nuance, we must say:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-6p1K">
       <title>
-        <anchor xml:id="c11e7d4"/>
       </title>
       <interlinear-gloss>
         <jbo>mi djuno le du'u la .frank. cu bebna [kei]</jbo>
@@ -892,7 +847,6 @@
     <xref linkend="example-random-id-eYiD"/> has no such implied assertion:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-eYiD">
       <title>
-        <anchor xml:id="c11e7d5"/>
       </title>
       <interlinear-gloss>
         <jbo>mi kucli le du'u la .frank. cu bebna [kei]</jbo>
@@ -906,7 +860,6 @@
     <valsi>jei</valsi> without much change in meaning:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-h4De">
       <title>
-        <anchor xml:id="c11e7d6"/>
         <indexterm type="example"><primary>Frank is a fool</primary></indexterm>
         <indexterm type="example"><primary>curious</primary></indexterm>
       </title>
@@ -925,7 +878,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-hzd8">
       <title>
-        <anchor xml:id="c11e7d7"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djan. cu cusku le se--du'u</jbo>
@@ -941,7 +893,6 @@
     <xref linkend="example-random-id-hzd8"/> differs from</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-AX2I">
       <title>
-        <anchor xml:id="c11e7d8"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djan. cu cusku lu</jbo>
@@ -966,7 +917,7 @@
     <valsi>lu'e</valsi>.)</para>
   </section>
   <section xml:id="section-indirect-questions">
-    <title><anchor xml:id="c11s8"/>Indirect questions</title>
+    <title>Indirect questions</title>
     <para>The following cmavo is discussed in this section:</para>
     <cmavo-list>
       <cmavo-entry>
@@ -981,14 +932,12 @@
     <valsi>du'u</valsi> and a selbri expressing a propositional attitude. In addition to sentences like</para>
     <example xml:id="example-random-id-Fpid">
       <title>
-        <anchor xml:id="c11e8d1"/>
       </title>
       <para>I know that John went to the store.</para>
     </example>
     <para role="noindent">we can also say things like</para>
     <example xml:id="example-random-id-N4Ja">
       <title>
-        <anchor xml:id="c11e8d2"/>
         <indexterm type="example"><primary>know who</primary></indexterm>
       </title>
       <para>I know who went to the store.</para>
@@ -1011,7 +960,6 @@
     <xref linkend="example-random-id-N4Ja"/> is therefore:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-QUxG">
       <title>
-        <anchor xml:id="c11e8d3"/>
       </title>
       <interlinear-gloss>
         <jbo>mi djuno le du'u</jbo>
@@ -1033,7 +981,6 @@
     <jbophrase>la .djan.</jbophrase> would suggest that it was John who I knew had gone to the store, however:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-hmDo">
       <title>
-        <anchor xml:id="c11e8d4"/>
       </title>
       <interlinear-gloss>
         <jbo>mi djuno le du'u</jbo>
@@ -1059,7 +1006,6 @@
     <valsi>ma</valsi> always signals a direct question, and so</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-5WU4">
       <title>
-        <anchor xml:id="c11e8d5"/>
       </title>
       <interlinear-gloss>
         <jbo>mi djuno le du'u ma pu klama le zarci</jbo>
@@ -1069,7 +1015,6 @@
     <para role="noindent">means</para>
     <example xml:id="example-random-id-LDrc">
       <title>
-        <anchor xml:id="c11e8d6"/>
       </title>
       <para>Who is it that I know goes to the store?</para>
     </example>
@@ -1080,7 +1025,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-b6VT">
       <title>
-        <anchor xml:id="c11e8d7"/>
       </title>
       <interlinear-gloss>
         <jbo>mi djuno fi le pu klama be le zarci</jbo>
@@ -1094,7 +1038,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-2nIX">
       <title>
-        <anchor xml:id="c11e8d8"/>
       </title>
       <interlinear-gloss>
         <jbo>mi ba zgana le du'u la .djan.</jbo>
@@ -1111,7 +1054,7 @@
     <xref linkend="example-random-id-QUxG"/>, because it is left to the listener's insight to realize that what is known about the goer-to-the-store is his identity rather than some other of his attributes.</para>
   </section>
   <section xml:id="section-minor-abstractions">
-    <title><anchor xml:id="c11s9"/>Minor abstraction types</title>
+    <title>Minor abstraction types</title>
     <para>The following cmavo are discussed in this section:</para>
     <cmavo-list>
       <cmavo-entry>
@@ -1138,7 +1081,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-FS6r">
       <title>
-        <anchor xml:id="c11e9d1"/>
       </title>
       <interlinear-gloss>
         <jbo>mi morji le li'i mi verba</jbo>
@@ -1150,7 +1092,6 @@
     <valsi>si'o</valsi> expresses a mental image, a concept, an idea:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Yh42">
       <title>
-        <anchor xml:id="c11e9d2"/>
       </title>
       <interlinear-gloss>
         <jbo>mi nelci le si'o la .lojban. cu mulno</jbo>
@@ -1162,7 +1103,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-ycKt">
       <title>
-        <anchor xml:id="c11e9d3"/>
         <indexterm type="example"><primary>mice</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -1193,7 +1133,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-FnNR">
       <title>
-        <anchor xml:id="c11e9d4"/>
       </title>
       <interlinear-gloss>
         <jbo>le nu mi klama</jbo>
@@ -1203,7 +1142,6 @@
     <para role="noindent">can be paraphrased as</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-zvfX">
       <title>
-        <anchor xml:id="c11e9d5"/>
       </title>
       <interlinear-gloss>
         <jbo>le su'u mi klama kei be lo fasnu</jbo>
@@ -1213,7 +1151,6 @@
     <para role="noindent">and there is a book whose title might be rendered in Lojban as:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-5Kw7">
       <title>
-        <anchor xml:id="c11e9d6"/>
         <indexterm type="example"><primary>bicycle race</primary></indexterm>
         <indexterm type="example"><primary>Jesus</primary></indexterm>
         <indexterm type="general"><primary>intersect</primary></indexterm>
@@ -1245,7 +1182,7 @@
 
   </section>
   <section xml:id="section-sumti-raising">
-    <title><anchor xml:id="c11s10"/>Lojban sumti raising</title>
+    <title>Lojban sumti raising</title>
 
     <para> <indexterm type="general"><primary>abstraction conversion</primary></indexterm> The following cmavo are discussed in this section:</para>
     <cmavo-list>
@@ -1267,14 +1204,12 @@
 
     <example xml:id="example-random-id-BYp8">
       <title>
-        <anchor xml:id="c11e10d1"/>
       </title>
       <para>I try to open the door.</para>
     </example>
     <para role="noindent">which in Lojban is:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-1WER">
       <title>
-        <anchor xml:id="c11e10d2"/>
       </title>
       <interlinear-gloss>
         <jbo>mi troci le nu [mi] gasnu</jbo>
@@ -1289,7 +1224,6 @@
 
     <example xml:id="example-random-id-K14X">
       <title>
-        <anchor xml:id="c11e10d3"/>
         <indexterm type="example"><primary>try the door</primary></indexterm>
       </title>
       <para>I try the door.</para>
@@ -1300,7 +1234,6 @@
     <xref linkend="example-random-id-K14X"/> is:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-gabC">
       <title>
-        <anchor xml:id="c11e10d4"/>
       </title>
       <interlinear-gloss>
         <jbo>mi troci tu'a le vorme</jbo>
@@ -1317,7 +1250,6 @@
     <valsi>tu'a</valsi> is a kind of laziness: it makes speaking easier at the possible expense of clarity for the listener. The speaker must be prepared for the listener to respond something like:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-mKBy">
       <title>
-        <anchor xml:id="c11e10d5"/>
       </title>
       <interlinear-gloss>
         <jbo>tu'a le vorme lu'u ki'a</jbo>
@@ -1334,7 +1266,6 @@
     <valsi>vorme</valsi> as such.) An example of a confusing raised sumti might be:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-9S5B">
       <title>
-        <anchor xml:id="c11e10d6"/>
       </title>
       <interlinear-gloss>
         <jbo>tu'a la .djan. cu cafne</jbo>
@@ -1353,7 +1284,6 @@
     <xref linkend="section-jai"/>; for the purposes of this chapter, it operates as a conversion of selbri, similarly to the cmavo of selma'o SE. This conversion changes</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-jAdY">
       <title>
-        <anchor xml:id="c11e10d7"/>
         <indexterm type="example"><primary>cause death</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -1365,7 +1295,6 @@
     <para role="noindent">into</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-R8SN">
       <title>
-        <anchor xml:id="c11e10d8"/>
       </title>
       <interlinear-gloss>
         <jbo>mi jai rinka le nu do morsi</jbo>
@@ -1381,7 +1310,6 @@
     <xref linkend="example-random-id-R8SN"/> can be altered to:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Jt1n">
       <title>
-        <anchor xml:id="c11e10d9"/>
       </title>
       <interlinear-gloss>
         <jbo>le jai rinka be le nu do morsi</jbo>
@@ -1398,7 +1326,6 @@
     <xref linkend="section-modal-jai"/>:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-LPbo">
       <title>
-        <anchor xml:id="c11e10d10"/>
       </title>
       <interlinear-gloss>
         <jbo>le jai--gau rinka be le nu do morsi</jbo>
@@ -1407,7 +1334,7 @@
     </example>
   </section>
   <section xml:id="section-events-and-contours">
-    <title><anchor xml:id="c11s11"/>Event-type abstractors and event contour tenses</title>
+    <title>Event-type abstractors and event contour tenses</title>
     <para>This section is a logical continuation of
     <xref linkend="section-event-types"/>.</para>
     <para> <indexterm type="lojban-word"><primary>NU selma'o</primary></indexterm> There exists a relationship between the four types of events explained in
@@ -1494,14 +1421,13 @@
 
   </section>
   <section xml:id="section-abstractor-connection">
-    <title><anchor xml:id="c11s12"/>Abstractor connection</title>
+    <title>Abstractor connection</title>
     <para>An abstractor may be replaced by two or more abstractors joined by logical or non-logical connectives. Connectives are explained in detail in
     <xref linkend="chapter-connectives"/>. The connection can be expanded to one between two bridi which differ only in abstraction marker.
     <xref linkend="example-random-id-qFBV"/> and
     <xref linkend="example-random-id-qFdz"/> are equivalent in meaning:</para>
     <example xml:id="example-random-id-qFBV" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c11e12d1"/>
       </title>
       <interlinear-gloss>
         <jbo>le ka la .frank. cu ciska cu xlali</jbo>
@@ -1514,7 +1440,6 @@
     </example>
     <example xml:id="example-random-id-qFdz" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c11e12d2"/>
       </title>
       <interlinear-gloss>
         <jbo>le ka je ni la .frank. cu ciska cu xlali</jbo>
@@ -1525,7 +1450,7 @@
     <para role="indent">This feature of Lojban has hardly ever been used, and nobody knows what uses it may eventually have.</para>
   </section>
   <section xml:id="section-summary">
-    <title><anchor xml:id="c11s13"/>Table of abstractors</title>
+    <title>Table of abstractors</title>
     <para>The following table gives each abstractor, an English gloss for it, a Lojban gismu which is connected with it (more or less remotely: the associations between abstractors and gismu are meant more as memory hooks than for any kind of inference), the rafsi associated with it, and (on the following line) its place structure.</para>
     <cmavo-list>
       <cmavo-entry>

@@ -5,10 +5,10 @@
   <!ENTITY hellip "&#x02026;" ><!--HORIZONTAL ELLIPSIS -->
 ]>
 <chapter xml:id="chapter-phonology">
-  <title><anchor xml:id="c3"/>The Hills Are Alive With The Sounds Of Lojban</title>
+  <title>The Hills Are Alive With The Sounds Of Lojban</title>
 
   <section xml:id="section-orthography">
-    <title><anchor xml:id="c3s1"/>Orthography</title>
+    <title>Orthography</title>
     <para> <indexterm type="general"><primary>orthography</primary><secondary>relation to pronunciation</secondary></indexterm>  <indexterm type="general"><primary>pronunciation</primary><secondary>relation to orthography</secondary></indexterm>  <indexterm type="general"><primary>audio-visual isomorphism</primary></indexterm>  <indexterm type="general"><primary>isomorphism</primary><secondary>audio-visual</secondary></indexterm> Lojban is designed so that any properly spoken Lojban utterance can be uniquely transcribed in writing, and any properly written Lojban can be spoken so as to be uniquely reproduced by another person. As a consequence, the standard Lojban orthography must assign to each distinct sound, or phoneme, a unique letter or symbol. Each letter or symbol has only one sound or, more accurately, a limited range of sounds that are permitted pronunciations for that phoneme. Some symbols indicate stress (speech emphasis) and pause, which are also essential to Lojban word recognition. In addition, everything that is represented in other languages by punctuation (when written) or by tone of voice (when spoken) is represented in Lojban by words. These two properties together are known technically as <quote>audio-visual isomorphism</quote>.</para>
 
     <para> <indexterm type="general"><primary>alphabet</primary><secondary>Lojban</secondary></indexterm>  <indexterm type="general"><primary>Lojban alphabet</primary></indexterm>  <indexterm type="general"><primary>Latin alphabet</primary></indexterm> Lojban uses a variant of the Latin (Roman) alphabet, consisting of the following letters and symbols:
@@ -59,7 +59,7 @@
     <valsi>se</valsi> syllable to be stressed. Cmevla are meant to represent the pronunciation of names from other languages with as little distortion as may be; as such, they are exempt from many of the regular rules of Lojban phonology, as will appear in the rest of this chapter.</para>
   </section>
   <section xml:id="section-basic-phonetics">
-    <title><anchor xml:id="c3s2"/>Basic Phonetics</title>
+    <title>Basic Phonetics</title>
     <para> <indexterm type="general"><primary>brackets</primary><secondary>use in IPA notation</secondary></indexterm>  <indexterm type="general"><primary>phonetic alphabet</primary></indexterm>  <indexterm type="general"><primary>IPA</primary></indexterm>  <indexterm type="general"><primary>International Phonetic Alphabet (see also IPA)</primary></indexterm> Lojban pronunciations are defined using the International Phonetic Alphabet, or IPA, a standard method of transcribing pronunciations. By convention, IPA transcriptions are always within square brackets: for example, the word
 
     <quote>cat</quote> is pronounced (in General American pronunciation)
@@ -311,7 +311,7 @@
     <quote>ts</quote> as a single sound, whereas English, French, and Lojban consider it to be a consonant cluster.</para>
   </section>
   <section xml:id="section-lojban-characters">
-    <title><anchor xml:id="c3s3"/>The Special Lojban Characters</title>
+    <title>The Special Lojban Characters</title>
     <para> <indexterm type="general"><primary>characters</primary><secondary>special</secondary></indexterm> The apostrophe, period, and comma need special attention. They are all used as indicators of a division between syllables, but each has a different pronunciation, and each is used for different reasons:</para>
     <para> <indexterm type="general"><primary>apostrophe</primary><secondary>type of letter in word-formation</secondary></indexterm>  <indexterm type="general"><primary>' symbol</primary><secondary>definition (see also apostrophe)</secondary></indexterm>  <indexterm type="general"><primary>apostrophe</primary><secondary>definition of</secondary></indexterm> The apostrophe represents a phoneme similar to a short, breathy English
     <quote>h</quote>, (IPA
@@ -336,11 +336,7 @@
     <example role="pronunciation-example" xml:id="example-random-id-k2B4">
       <title>
 
-
 <indexterm type="example"><primary>Old McDonald</primary></indexterm>
-
-
-        <anchor xml:id="c3e3d1"/>
       </title>
       <pronunciation>
         <jbo>.i.ai.i.ai.o</jbo>
@@ -353,7 +349,6 @@
     <para> <indexterm type="general"><primary>comma</primary><secondary>example of</secondary></indexterm> If glides were used instead of glottal stops, we could represent the English string as a cmevla, ending in a consonant:</para>
     <example role="pronunciation-example" xml:id="example-random-id-k2b9">
       <title>
-        <anchor xml:id="c3e3d2"/>
       </title>
       <pronunciation>
         <jbo>.i,ia,ii,ia,ion.</jbo>
@@ -365,7 +360,6 @@
     <xref linkend="example-random-id-k2b9"/>, it would appear as:</para>
     <example role="pronunciation-example" xml:id="example-random-id-k2bc">
       <title>
-        <anchor xml:id="c3e3d4"/>
       </title>
       <pronunciation>
         <jbo>.i'ai'i'ai'on.</jbo>
@@ -375,7 +369,7 @@
     <para role="noindent"> <indexterm type="general"><primary>apostrophe</primary><secondary>example of</secondary></indexterm> which preserves the rhythm and length, if not the exact sounds, of the original English.</para>
   </section>
   <section xml:id="section-diphthongs">
-    <title><anchor xml:id="c3s4"/>Diphthongs and Syllabic Consonants</title>
+    <title>Diphthongs and Syllabic Consonants</title>
     <para> <indexterm type="general"><primary>diphthongs</primary><secondary>definition of</secondary></indexterm> There exist 16 diphthongs in the Lojban language. A diphthong is a vowel sound that consists of two elements, a short vowel sound and a glide, either a labial (IPA
     <phrase role="IPA">[w]</phrase>) or palatal (IPA
     <phrase role="IPA">[j]</phrase>) glide, that either precedes (an on-glide) or follows (an off-glide) the main vowel. Diphthongs always constitute a single syllable.</para>
@@ -518,7 +512,7 @@
     <xref linkend="section-stress"/>).</para>
   </section>
   <section xml:id="section-vowel-pairs">
-    <title><anchor xml:id="c3s5"/>Vowel Pairs</title>
+    <title>Vowel Pairs</title>
     <para> <indexterm type="general"><primary>vowel pairs</primary><secondary>use of apostrophe in</secondary></indexterm>  <indexterm type="general"><primary>apostrophe</primary><secondary>use in vowel pairs</secondary></indexterm>  <indexterm type="general"><primary>vowel pairs</primary><secondary>definition of</secondary></indexterm> Lojban vowels also occur in pairs, where each vowel sound is in a separate syllable. These two vowel sounds are connected (and separated) by an apostrophe. Lojban vowel pairs should be pronounced continuously with the
 
     <phrase role="IPA">[h]</phrase> sound between (and not by a glottal stop or pause, which would split the two vowels into separate words).</para>
@@ -577,7 +571,6 @@
     <para> <indexterm type="general"><primary>vowel pairs</primary><secondary>grouping of</secondary></indexterm> When more than two vowels occur together in Lojban, they are grouped into syllables so that every syllable has an onset, as in the cmevla:</para>
     <example role="pronunciation-example" xml:id="example-random-id-RxtI">
       <title>
-        <anchor xml:id="c3e5d1"/>
       </title>
       <pronunciation>
         <jbo>.meiin.</jbo>
@@ -586,7 +579,7 @@
     </example>
   </section>
   <section xml:id="section-clusters">
-    <title><anchor xml:id="c3s6"/>Consonant Clusters</title>
+    <title>Consonant Clusters</title>
     <para> <indexterm type="general"><primary>consonant</primary><secondary>effect on syllable count</secondary></indexterm>  <indexterm type="general"><primary>consonant</primary><secondary>definition</secondary></indexterm> A consonant sound is a relatively brief speech-sound that precedes or follows a vowel sound in a syllable; its presence either preceding or following does not add to the count of syllables. Each syllable that does not start a word begins with one or more consonants (or an on-glide) and may end with up to one consonant. Lojban has seventeen consonants: for the purposes of this section, the apostrophe is not counted as a consonant.</para>
     <para> <indexterm type="general"><primary>consonants</primary><secondary>voicing of</secondary></indexterm>  <indexterm type="general"><primary>consonants</primary><secondary>voiced/unvoiced equivalents</secondary></indexterm> An important distinction dividing Lojban consonants is that of voicing. The following table shows the unvoiced consonants and the corresponding voiced ones:</para>
 
@@ -688,11 +681,7 @@
     <example role="pronunciation-example" xml:id="example-random-id-k2cK">
       <title>
 
-
 <indexterm type="example"><primary>James</primary></indexterm>
-
-
-        <anchor xml:id="c3e6d1"/>
       </title>
       <pronunciation>
         <jbo>.djeimyz.</jbo>
@@ -706,7 +695,7 @@
     <cmevla valid="false">.djeimz.</cmevla>, which contains a forbidden consonant pair.</para>
   </section>
   <section xml:id="section-initial-pairs">
-    <title><anchor xml:id="c3s7"/>Initial Consonant Pairs</title>
+    <title>Initial Consonant Pairs</title>
     <para> <indexterm type="general"><primary>consonant pairs</primary><secondary>initial</secondary></indexterm> The set of consonant pairs that may appear at the beginning of a syllable (excluding cmevla) is far more restricted than the fairly large group of permissible consonant pairs described in
 
     <xref linkend="section-clusters"/>. Even so, it is more than English allows, although hopefully not more than English-speakers (and others) can learn to pronounce.</para>
@@ -1009,7 +998,7 @@
 
   </section>
   <section xml:id="section-buffer-vowels">
-    <title><anchor xml:id="c3s8"/>Buffering Of Consonant Clusters</title>
+    <title>Buffering Of Consonant Clusters</title>
     <para> <indexterm type="general"><primary>vowel</primary><secondary>buffer</secondary></indexterm>  <indexterm type="general"><primary>buffer vowel</primary></indexterm>  <indexterm type="general"><primary>consonant clusters</primary><secondary>buffering of</secondary></indexterm> Many languages do not have consonant clusters at all, and even those languages that do have them often allow only a subset of the full Lojban set. As a result, the Lojban design allows the use of a buffer sound between consonant combinations which a speaker finds unpronounceable. This sound may be any non-Lojbanic vowel which is clearly separable by the listener from the Lojban vowels. Some possibilities are IPA
     <phrase role="IPA">[ɪ]</phrase>,
     <phrase role="IPA">[ɨ]</phrase>,
@@ -1018,7 +1007,6 @@
     <phrase role="IPA">[ɪ]</phrase> in this chapter) are:</para>
     <example role="pronunciation-example" xml:id="example-random-id-k2dg">
       <title>
-        <anchor xml:id="c3e8d1"/>
       </title>
       <pronunciation>
         <jbo>vrusi</jbo>
@@ -1029,12 +1017,9 @@
     </example>
     <example role="pronunciation-example" xml:id="example-random-id-k2dI">
       <title>
-        <anchor xml:id="c3e8d2"/>
 
 
 <indexterm type="example"><primary>Amsterdam</primary></indexterm>
-
-
       </title>
       <pronunciation>
         <jbo role="pronunciation">.AMsterdam.</jbo>
@@ -1048,7 +1033,6 @@
     <para>Here are more examples of unbuffered and buffered pronunciations:</para>
     <example role="pronunciation-example" xml:id="example-random-id-k2DT">
       <title>
-        <anchor xml:id="c3e8d3"/>
       </title>
       <pronunciation>
         <jbo>klama</jbo>
@@ -1058,7 +1042,6 @@
     </example>
     <example role="pronunciation-example" xml:id="example-random-id-k2Gg">
       <title>
-        <anchor xml:id="c3e8d4"/>
       </title>
       <pronunciation>
         <jbo>xapcke</jbo>
@@ -1073,7 +1056,6 @@
     <morphology>ck</morphology>. The third pronunciation buffers both.</para>
     <example role="pronunciation-example" xml:id="example-random-id-k2hN">
       <title>
-        <anchor xml:id="c3e8d5"/>
       </title>
       <pronunciation>
         <jbo>ponyni'u</jbo>
@@ -1087,11 +1069,7 @@
     <example role="pronunciation-example" xml:id="example-random-id-k2jU">
       <title>
 
-
 <indexterm type="example"><primary>soy milk</primary></indexterm>
-
-
-        <anchor xml:id="c3e8d6"/>
       </title>
       <pronunciation>
         <jbo>sobyladru</jbo>
@@ -1102,7 +1080,6 @@
     <quote>soy milk</quote> and</para>
     <example role="pronunciation-example" xml:id="example-random-id-k2jv">
       <title>
-        <anchor xml:id="c3e8d7"/>
       </title>
       <pronunciation>
         <jbo>so bladru</jbo>
@@ -1115,7 +1092,6 @@
     <xref linkend="example-random-id-k2jv"/> were pronounced with buffering, as</para>
     <example role="pronunciation-example" xml:id="example-random-id-k2Kb">
       <title>
-        <anchor xml:id="c3e8d8"/>
       </title>
       <pronunciation>
         <ipa>[so.bɪ.ˈla.dru]</ipa>
@@ -1129,7 +1105,6 @@
     <xref linkend="example-random-id-k2Kb"/> would be pronounced</para>
     <example role="pronunciation-example" xml:id="example-random-id-k2oF">
       <title>
-        <anchor xml:id="c3e8d9"/>
       </title>
       <pronunciation>
         <ipa>[soː.bɪˈlaː.druː]</ipa>
@@ -1138,7 +1113,7 @@
     <para role="noindent">with lengthened vowels.</para>
   </section>
   <section xml:id="section-stress">
-    <title><anchor xml:id="c3s9"/>Syllabication and Stress</title>
+    <title>Syllabication and Stress</title>
     <para> <indexterm type="general"><primary>syllabication</primary><secondary>definition of</secondary></indexterm> A Lojban word has one syllable for each of its vowels, diphthongs, and syllabic consonants (referred to simply as
 
     <quote>vowels</quote> for the purposes of this section.) Syllabication rules determine which of the consonants separating two vowels belong to the preceding vowel and which to the following vowel. These rules are conventional only; the phonetic facts of the matter about how utterances are syllabified in any language are always very complex.</para>
@@ -1151,7 +1126,6 @@
 
     <example role="pronunciation-example" xml:id="example-random-id-C9tX">
       <title>
-        <anchor xml:id="c3e9d1"/>
       </title>
       <pronunciation>
         <jbo>pujenaicajeba</jbo>
@@ -1162,7 +1136,6 @@
 
     <example role="pronunciation-example" xml:id="example-random-id-WfXq">
       <title>
-        <anchor xml:id="c3e9d2"/>
       </title>
       <pronunciation>
         <jbo>ninmu</jbo>
@@ -1172,7 +1145,6 @@
     <para role="indent">This word is split at a consonant pair.</para>
     <example role="pronunciation-example" xml:id="example-random-id-cwtY-a">
       <title>
-        <anchor xml:id="c3e9d3-a"/>
       </title>
       <pronunciation>
         <jbo>gastro</jbo>
@@ -1182,7 +1154,6 @@
     <para role="indent">This word is canonically split before an initial consonant triple; another acceptable pronunciation is <jbophrase>gas,tro</jbophrase>.</para>
     <example role="pronunciation-example" xml:id="example-random-id-cwtY">
       <title>
-        <anchor xml:id="c3e9d3"/>
       </title>
       <pronunciation>
         <jbo>fitpri</jbo>
@@ -1192,7 +1163,6 @@
     <para role="indent">This word is split at a medial consonant triple, between the first two consonants of the triple.</para>
     <example role="pronunciation-example" xml:id="example-random-id-WHAV">
       <title>
-        <anchor xml:id="c3e9d4"/>
       </title>
       <pronunciation>
         <jbo>sairgoi</jbo>
@@ -1205,7 +1175,6 @@
     <letteral>r</letteral> may be pronounced syllabically or not. The non-syllabic version is canonical.</para>
     <example role="pronunciation-example" xml:id="example-random-id-nK5r">
       <title>
-        <anchor xml:id="c3e9d5"/>
       </title>
       <pronunciation>
         <jbo>klezba</jbo>
@@ -1236,7 +1205,6 @@
     <para>  The following are Lojban words with stress explicitly shown:</para>
     <example role="pronunciation-example" xml:id="example-random-id-cxzt">
       <title>
-        <anchor xml:id="c3e9d6"/>
       </title>
       <pronunciation>
         <jbo>dikyjvo</jbo>
@@ -1250,11 +1218,7 @@
     <example role="pronunciation-example" xml:id="example-random-id-Sz52">
       <title>
 
-
 <indexterm type="example"><primary>Armstrong</primary></indexterm>
-
-
-        <anchor xml:id="c3e9d7"/>
       </title>
       <pronunciation>
         <jbo>.armstrong.</jbo>
@@ -1267,7 +1231,6 @@
     <letteral>g</letteral> must be explicitly pronounced. With full buffering, the name would be pronounced:</para>
     <example role="pronunciation-example" xml:id="example-random-id-k2PA">
       <title>
-        <anchor xml:id="c3e9d8"/>
       </title>
       <pronunciation>
         <ipa>[ˈʔa.rɪ.mɪ.sɪ.tɪ.ro.nɪ.gɪʔ]</ipa>
@@ -1285,7 +1248,6 @@
     <phrase role="IPA">[ŋg]</phrase> is acceptable. English speakers are likely to have to pronounce the ending with a buffer, as one of the following:</para>
     <example role="pronunciation-example" xml:id="example-random-id-k2T5">
       <title>
-        <anchor xml:id="c3e9d9"/>
       </title>
       <pronunciation>
         <ipa>[ˈʔa.rm.stron.gɪʔ]</ipa>
@@ -1300,7 +1262,6 @@
 
     <example role="pronunciation-example" xml:id="example-random-id-vY2y">
       <title>
-        <anchor xml:id="c3e9d10"/>
       </title>
       <pronunciation>
         <jbo role="pronunciation">.armstron.</jbo>
@@ -1313,7 +1274,6 @@
     <letteral>y</letteral>:</para>
     <example role="pronunciation-example" xml:id="example-random-id-hNb7">
       <title>
-        <anchor xml:id="c3e9d11"/>
       </title>
       <pronunciation>
         <jbo>bisydja</jbo>
@@ -1329,7 +1289,6 @@
     <letteral>y</letteral> is not counted as a syllable for purposes of stress determination.</para>
     <example role="pronunciation-example" xml:id="example-random-id-5g4j">
       <title>
-        <anchor xml:id="c3e9d12"/>
       </title>
       <pronunciation>
         <jbo>da'udja</jbo>
@@ -1340,7 +1299,6 @@
     <example role="pronunciation-example" xml:id="example-random-id-Ki4a">
       <title>
         <indexterm type="example"><primary>syllabication</primary><secondary>variants of</secondary></indexterm>
-        <anchor xml:id="c3e9d13"/>
       </title>
       <pronunciation>
         <jbo>e'u bridi</jbo>
@@ -1356,7 +1314,6 @@
     <valsi>e'u</valsi>, or primary stress on the first syllable. The third pronunciation, which places primary stress on the second syllable of the cmavo, requires that &ndash; since the following word is a brivla &ndash; the two words must be separated by a pause. Consider the following two cases:</para>
     <example xml:id="example-random-id-qIXo" role="pronunciation-example">
       <title>
-        <anchor xml:id="c3e9d14"/>
       </title>
       <pronunciation>
         <jbo>le re nobli prenu</jbo>
@@ -1365,7 +1322,6 @@
     </example>
     <example xml:id="example-random-id-qiXR" role="pronunciation-example">
       <title>
-        <anchor xml:id="c3e9d15"/>
       </title>
       <pronunciation>
         <jbo>le re no bliprenu</jbo>
@@ -1378,7 +1334,7 @@
     <xref linkend="example-random-id-qIXo"/>, which is unacceptable in Lojban: a single pronunciation cannot represent both.</para>
   </section>
   <section xml:id="section-anglophone-phonetics">
-    <title><anchor xml:id="c3s10"/>IPA For English Speakers</title>
+    <title>IPA For English Speakers</title>
     <para> <indexterm type="general"><primary>IPA pronunciation</primary><secondary>description</secondary></indexterm>  <indexterm type="general"><primary>television</primary></indexterm>  <indexterm type="general"><primary>Received Pronunciation</primary></indexterm>  <indexterm type="general"><primary>General American</primary></indexterm> There are many dialects of English, thus making it difficult to define the standardized symbols of the IPA in terms useful to every reader. All the symbols used in this chapter are repeated here, in more or less alphabetical order, with examples drawn from General American. In addition, some attention is given to the Received Pronunciation of (British) English. These two dialects are referred to as GA and RP respectively. Speakers of other dialects should consult a book on phonetics or their local television sets.</para>
 
 
@@ -1795,7 +1751,7 @@
   </informaltable>
   </section>
   <section xml:id="section-anglophone-diphthongs">
-    <title><anchor xml:id="c3s11"/>English Analogues For Lojban Diphthongs</title>
+    <title>English Analogues For Lojban Diphthongs</title>
     <para> <indexterm type="general"><primary>diphthongs</primary><secondary>English analogues of</secondary></indexterm> Here is a list of English words that contain diphthongs that are similar to the Lojban diphthongs. This list does not constitute an official pronunciation guide; it is intended as a help to English-speakers.</para>
     <informaltable class="vertsep">
         <thead>
@@ -1871,7 +1827,7 @@
     </informaltable>
   </section>
   <section xml:id="section-oddball-orthographies">
-    <title><anchor xml:id="c3s12"/>Oddball Orthographies</title>
+    <title>Oddball Orthographies</title>
     <para> <indexterm type="general"><primary>orthography</primary><secondary>non-standard</secondary></indexterm> The following notes describe ways in which Lojban has been written or could be written that differ from the standard orthography explained in the rest of this chapter. Nobody needs to read this section except people with an interest in the obscure. Technicalities are used without explanation or further apology.</para>
 
     <para>There exists an alternative orthography for Lojban, which is designed to be as compatible as possible (but no more so) with the orthography used in pre-Lojban versions of Loglan. The consonants undergo no change, except that

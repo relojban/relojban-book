@@ -5,10 +5,10 @@
   <!ENTITY hellip "&#x02026;" ><!--HORIZONTAL ELLIPSIS -->
 ]>
 <chapter xml:id="chapter-tenses">
-  <title><anchor xml:id="c10"/>Imaginary Journeys: The Lojban Space/Time Tense System</title>
+  <title>Imaginary Journeys: The Lojban Space/Time Tense System</title>
 
   <section xml:id="section-tenses-introduction">
-    <title><anchor xml:id="c10s1"/>Introductory</title>
+    <title>Introductory</title>
     <para> <indexterm type="general"><primary>tense</primary><secondary>explanation of presentation method</secondary></indexterm> This chapter attempts to document and explain the space/time tense system of Lojban. It does not attempt to answer all questions of the form
 
     <quote>How do I say such-and-such (an English tense) in Lojban?</quote> Instead, it explores the Lojban tense system from the inside, attempting to educate the reader into a Lojbanic viewpoint. Once the overall system is understood and the resources that it makes available are familiar, the reader should have some hope of using appropriate tense constructs and being correctly understood.</para>
@@ -38,7 +38,6 @@
       <para> <indexterm type="general"><primary>elided tense</primary><secondary>meaning of</secondary></indexterm>  <indexterm type="general"><primary>space location</primary><secondary>as part of tense system (see also tense</secondary><tertiary>spatial tense)</tertiary></indexterm>  <indexterm type="general"><primary>time</primary><secondary>as part of tense system (see also tense</secondary><tertiary>temporal tense)</tertiary></indexterm>  <indexterm type="general"><primary>tense system</primary><secondary>and space location</secondary></indexterm>  <indexterm type="general"><primary>tense system</primary><secondary>and space location</secondary></indexterm>  <indexterm type="general"><primary>tense</primary><secondary>selbri types applicable to</secondary></indexterm> In Lojban, the concept of tense extends to every selbri, not merely the verb-like ones. In addition, tense structures provide information about location in space as well as in time. All tense information is optional in Lojban: a sentence like:</para>
       <example role="interlinear-gloss-example" xml:id="example-random-id-cKSK">
         <title>
-          <anchor xml:id="c10e1d1"/>
           <indexterm type="example"><primary>go to market</primary></indexterm>
         </title>
         <interlinear-gloss>
@@ -72,7 +71,6 @@
       <quote>past time</quote>:</para>
       <example role="interlinear-gloss-example" xml:id="example-random-id-nFgv">
         <title>
-          <anchor xml:id="c10e1d2"/>
         </title>
         <interlinear-gloss>
           <jbo>mi cu pu klama le zarci</jbo>
@@ -86,7 +84,6 @@
       <valsi>ku</valsi> is an elidable terminator, but it's almost never possible to actually elide it except at the end of the bridi:</para>
       <example role="interlinear-gloss-example" xml:id="example-random-id-5V3Y">
         <title>
-          <anchor xml:id="c10e1d3"/>
         </title>
         <interlinear-gloss>
           <jbo>puku mi klama le zarci</jbo>
@@ -96,7 +93,6 @@
       </example>
       <example role="interlinear-gloss-example" xml:id="example-random-id-DpEI">
         <title>
-          <anchor xml:id="c10e1d4"/>
         </title>
         <interlinear-gloss>
           <jbo>mi klama puku le zarci</jbo>
@@ -106,7 +102,6 @@
       </example>
       <example role="interlinear-gloss-example" xml:id="example-random-id-0f11">
         <title>
-          <anchor xml:id="c10e1d5"/>
         </title>
         <interlinear-gloss>
           <jbo>mi klama le zarci pu [ku]</jbo>
@@ -122,7 +117,7 @@
       <valsi>pu</valsi>. Words at either end of the sentence tend to be more noticeable.</para>
     </section>
     <section xml:id="section-spatial-tenses">
-      <title><anchor xml:id="c10s2"/>Spatial tenses: FAhA and VA</title>
+      <title>Spatial tenses: FAhA and VA</title>
       <para>The following cmavo are discussed in this section:</para>
       <cmavo-list>
         <cmavo-entry>
@@ -190,7 +185,6 @@
       <para> <indexterm type="general"><primary>spatial tense</primary><secondary>distance</secondary></indexterm>  <indexterm type="general"><primary>distance</primary><secondary>specification with VA</secondary></indexterm>  <indexterm type="general"><primary>VA selma'o</primary><secondary>and distance</secondary></indexterm>  <indexterm type="general"><primary>spatial tense</primary><secondary>as an imaginary journey</secondary></indexterm>  <indexterm type="general"><primary>imaginary journey</primary><secondary>and spatial tense</secondary></indexterm>  <indexterm type="general"><primary>spatial tense</primary><secondary>definition</secondary></indexterm> Lojban specifies the spatial tense of a bridi (the place at which it occurs) by using words from selma'o FAhA and VA to describe an imaginary journey from the speaker to the place referred to. FAhA cmavo specify the direction taken in the journey, whereas VA cmavo specify the distance gone. For example:</para>
       <example role="interlinear-gloss-example" xml:id="example-random-id-hNAJ">
         <title>
-          <anchor xml:id="c10e2d1"/>
         </title>
         <interlinear-gloss>
           <jbo>le nanmu va batci le gerku</jbo>
@@ -206,7 +200,6 @@
       <para> <indexterm type="general"><primary>direction</primary><secondary>specification with FAhA</secondary></indexterm>  <indexterm type="general"><primary>FAhA selma'o</primary><secondary>and direction</secondary></indexterm>  <indexterm type="general"><primary>spatial tense</primary><secondary>direction</secondary></indexterm> Suppose you specify a direction with a FAhA cmavo, rather than a distance with a VA cmavo:</para>
       <example role="interlinear-gloss-example" xml:id="example-random-id-5Qxr">
         <title>
-          <anchor xml:id="c10e2d2"/>
         </title>
         <interlinear-gloss>
           <jbo>le nanmu zu'a batci le gerku</jbo>
@@ -237,7 +230,6 @@
       <para> <indexterm type="general"><primary>distance</primary><secondary>order of relative to direction in spatial tenses</secondary></indexterm>  <indexterm type="general"><primary>direction</primary><secondary>order of relative to distance in spatial tenses</secondary></indexterm>  <indexterm type="general"><primary>spatial tenses</primary><secondary>order of direction and distance specifications</secondary></indexterm>  <indexterm type="general"><primary>tense</primary><secondary>order of distance specification in</secondary></indexterm>  <indexterm type="general"><primary>tense</primary><secondary>order of direction specification in</secondary></indexterm> What about specifying both a direction and a distance? The rule here is that the direction must come before the distance:</para>
       <example role="interlinear-gloss-example" xml:id="example-random-id-LEIm">
         <title>
-          <anchor xml:id="c10e2d3"/>
         </title>
         <interlinear-gloss>
           <jbo>le nanmu zu'avi batci le gerku</jbo>
@@ -250,7 +242,6 @@
       <valsi>ku</valsi> to move this tense to the beginning or the end of the sentence to emphasize it:</para>
       <example role="interlinear-gloss-example" xml:id="example-random-id-uCGa">
         <title>
-          <anchor xml:id="c10e2d4"/>
         </title>
         <interlinear-gloss>
           <jbo>zu'aviku le nanmu cu batci le gerku</jbo>
@@ -260,7 +251,7 @@
       </example>
     </section>
     <section xml:id="section-compound-spatial-tenses">
-      <title><anchor xml:id="c10s3"/>Compound spatial tenses</title>
+      <title>Compound spatial tenses</title>
       <para> <indexterm type="general"><primary>compound tense</primary><secondary>definition</secondary></indexterm> Humph, says the reader: this talk of
       <quote>imaginary journeys</quote> is all very well, but what's the point of it? &ndash;
       <valsi>zu'a</valsi> means
@@ -272,7 +263,6 @@
 
       <example role="interlinear-gloss-example" xml:id="example-random-id-rWtP">
         <title>
-          <anchor xml:id="c10e3d1"/>
           <indexterm type="example"><primary>manhole</primary></indexterm>
         </title>
         <interlinear-gloss>
@@ -294,7 +284,6 @@
       <para>The opposite order also makes sense:</para>
       <example role="interlinear-gloss-example" xml:id="example-random-id-d1gU">
         <title>
-          <anchor xml:id="c10e3d2"/>
         </title>
         <interlinear-gloss>
           <jbo>le nanmu zu'a ga'u batci le gerku</jbo>
@@ -306,7 +295,6 @@
       <para> <indexterm type="general"><primary>compound spatial tense</primary><secondary>with direction and distance</secondary></indexterm> Each direction can have a distance following:</para>
       <example role="interlinear-gloss-example" xml:id="example-random-id-G9at">
         <title>
-          <anchor xml:id="c10e3d3"/>
         </title>
         <interlinear-gloss>
           <jbo>le nanmu zu'avi ga'u vu batci le gerku</jbo>
@@ -317,7 +305,6 @@
       <para role="indent"> <indexterm type="general"><primary>compound spatial tense</primary><secondary>beginning with distance only</secondary></indexterm> A distance can also come at the beginning of the tense construct, without any specified direction. (<xref linkend="example-random-id-hNAJ"/>, with VA alone, is really a special case of this rule when no directions at all follow.)</para>
       <example role="interlinear-gloss-example" xml:id="example-random-id-9Tpz">
         <title>
-          <anchor xml:id="c10e3d4"/>
         </title>
         <interlinear-gloss>
           <jbo>le nanmu vi zu'a batci le gerku</jbo>
@@ -331,7 +318,6 @@
 
       <example role="interlinear-gloss-example" xml:id="example-random-id-mqTU">
         <title>
-          <anchor xml:id="c10e3d5"/>
         </title>
         <interlinear-gloss>
           <jbo>le nanmu ca'u vi ni'a va ri'u vu</jbo>
@@ -345,7 +331,7 @@
       <xref linkend="example-random-id-mqTU"/> is than the English version.</para>
     </section>
     <section xml:id="section-temporal-tenses">
-      <title><anchor xml:id="c10s4"/>Temporal tenses: PU and ZI</title>
+      <title>Temporal tenses: PU and ZI</title>
       <para>The following cmavo are discussed in this section:</para>
       <cmavo-list>
         <cmavo-entry>
@@ -384,7 +370,6 @@
 
       <example role="interlinear-gloss-example" xml:id="example-random-id-ameb">
         <title>
-          <anchor xml:id="c10e4d1"/>
         </title>
         <interlinear-gloss>
           <jbo>le nanmu pu batci le gerku</jbo>
@@ -423,7 +408,6 @@
 
       <example xml:id="example-random-id-qDsX" role="interlinear-gloss-example">
         <title>
-          <anchor xml:id="c10e4d2"/>
         </title>
         <interlinear-gloss>
           <jbo>le nanmu puzi batci le gerku</jbo>
@@ -433,7 +417,6 @@
       </example>
       <example xml:id="example-random-id-qDt1" role="interlinear-gloss-example">
         <title>
-          <anchor xml:id="c10e4d3"/>
         </title>
         <interlinear-gloss>
           <jbo>le nanmu pu pu batci le gerku</jbo>
@@ -445,7 +428,6 @@
       </example>
       <example xml:id="example-random-id-qDtg" role="interlinear-gloss-example">
         <title>
-          <anchor xml:id="c10e4d4"/>
         </title>
         <interlinear-gloss>
           <jbo>le nanmu ba puzi batci le gerku</jbo>
@@ -459,7 +441,6 @@
       <para role="indent"> <indexterm type="general"><primary>compound temporal tense</primary><secondary>beginning with distance only</secondary></indexterm> What about the analogue of an initial VA without a direction? Lojban does allow an initial ZI with or without following PUs:</para>
       <example xml:id="example-random-id-qDu0" role="interlinear-gloss-example">
         <title>
-          <anchor xml:id="c10e4d5"/>
           <indexterm type="example"><primary>nearby in time</primary></indexterm>
         </title>
         <interlinear-gloss>
@@ -470,7 +451,6 @@
       </example>
       <example xml:id="example-random-id-qDw0" role="interlinear-gloss-example">
         <title>
-          <anchor xml:id="c10e4d6"/>
         </title>
         <interlinear-gloss>
           <jbo>le nanmu zu batci le gerku</jbo>
@@ -491,7 +471,6 @@
       <para> <indexterm type="general"><primary>tense</primary><secondary>with both temporal and spatial</secondary></indexterm> Finally, here are examples which combine temporal and spatial tense:</para>
       <example role="interlinear-gloss-example" xml:id="example-random-id-vtUw">
         <title>
-          <anchor xml:id="c10e4d7"/>
           <indexterm type="example"><primary>long ago and far away</primary></indexterm>
         </title>
         <interlinear-gloss>
@@ -503,7 +482,6 @@
       <para role="indent">Alternatively,</para>
       <example role="interlinear-gloss-example" xml:id="example-random-id-Jsw5">
         <title>
-          <anchor xml:id="c10e4d8"/>
         </title>
         <interlinear-gloss>
           <jbo>le nanmu cu batci le gerku puzuvuku</jbo>
@@ -514,7 +492,7 @@
       </example>
     </section>
     <section xml:id="section-interval-sizes">
-      <title><anchor xml:id="c10s5"/>Interval sizes: VEhA and ZEhA</title>
+      <title>Interval sizes: VEhA and ZEhA</title>
       <para>The following cmavo are discussed in this section:</para>
       <cmavo-list>
         <cmavo-entry>
@@ -554,7 +532,6 @@
 
       <example role="interlinear-gloss-example" xml:id="example-random-id-Pgzz">
         <title>
-          <anchor xml:id="c10e5d1"/>
           <indexterm type="example"><primary>child on ice</primary></indexterm>
         </title>
         <interlinear-gloss>
@@ -569,7 +546,6 @@
       <para>Here is an example using a time interval:</para>
       <example role="interlinear-gloss-example" xml:id="example-random-id-ap7g">
         <title>
-          <anchor xml:id="c10e5d2"/>
         </title>
         <interlinear-gloss>
           <jbo>le verba ze'a cadzu le bisli</jbo>
@@ -581,7 +557,6 @@
       <xref linkend="example-random-id-ap7g"/> does not say when the walking happened: that would be determined by context. It is possible to specify both directions or distances and an interval, in which case the interval always comes afterward:</para>
       <example role="interlinear-gloss-example" xml:id="example-random-id-gHPI">
         <title>
-          <anchor xml:id="c10e5d3"/>
         </title>
         <interlinear-gloss>
           <jbo>le verba pu ze'a cadzu le bisli</jbo>
@@ -594,7 +569,6 @@
       <xref linkend="example-random-id-gHPI"/>, the relationship of the interval to the specified point in time or space is indeterminate. Does the interval start at the point, end at the point, or is it centered on the point? By adding an additional direction cmavo after the interval, this question can be conclusively answered:</para>
       <example role="interlinear-gloss-example" xml:id="example-random-id-q4Aw">
         <title>
-          <anchor xml:id="c10e5d4"/>
         </title>
         <interlinear-gloss>
           <jbo>mi ca ze'ica cusku dei</jbo>
@@ -610,7 +584,6 @@
       <para>By contrast,</para>
       <example role="interlinear-gloss-example" xml:id="example-random-id-imdX">
         <title>
-          <anchor xml:id="c10e5d5"/>
         </title>
         <interlinear-gloss>
           <jbo>mi ca ze'ipu cusku dei</jbo>
@@ -622,7 +595,6 @@
       <xref linkend="example-random-id-imdX"/>. Here the imaginary journey starts at the present, lays down one end point of the interval, moves into the past, and lays down the other endpoint. Another example:</para>
       <example role="interlinear-gloss-example" xml:id="example-random-id-AqvW">
         <title>
-          <anchor xml:id="c10e5d6"/>
         </title>
         <interlinear-gloss>
           <jbo>mi pu ze'aba citka le mi sanmi</jbo>
@@ -638,7 +610,6 @@
       <xref linkend="example-random-id-a5dp"/>,</para>
       <example role="interlinear-gloss-example" xml:id="example-random-id-a5dp">
         <title>
-          <anchor xml:id="c10e5d7"/>
         </title>
         <interlinear-gloss>
           <jbo>mi pu ze'aca citka le mi sanmi</jbo>
@@ -651,7 +622,6 @@
       <para>Here are some examples of the use of space intervals with and without specified directions:</para>
       <example role="interlinear-gloss-example" xml:id="example-random-id-Mrzt">
         <title>
-          <anchor xml:id="c10e5d8"/>
           <indexterm type="example"><primary>fish on right</primary></indexterm>
         </title>
         <interlinear-gloss>
@@ -666,7 +636,6 @@
       <xref linkend="example-random-id-AVU3"/>:</para>
       <example role="interlinear-gloss-example" xml:id="example-random-id-AVU3">
         <title>
-          <anchor xml:id="c10e5d9"/>
         </title>
         <interlinear-gloss>
           <jbo>ta ri'u ve'ica'u finpe</jbo>
@@ -677,14 +646,13 @@
       <para role="indent">Here the space interval occupied by the fish extends from a point on my right to another point in front of the first point.</para>
     </section>
     <section xml:id="section-vagueness">
-      <title><anchor xml:id="c10s6"/>Vague intervals and non-specific tenses</title>
+      <title>Vague intervals and non-specific tenses</title>
       <para> <indexterm type="general"><primary>interval size</primary><secondary>vague</secondary></indexterm>  <indexterm type="general"><primary>interval size</primary><secondary>unspecified</secondary></indexterm> What is the significance of failing to specify an interval size of the type discussed in
 
       <xref linkend="section-interval-sizes"/>? The Lojban rule is that if no interval size is given, the size of the space or time interval is left vague by the speaker. For example:</para>
 
       <example role="interlinear-gloss-example" xml:id="example-random-id-naft">
         <title>
-          <anchor xml:id="c10e6d1"/>
         </title>
         <interlinear-gloss>
           <jbo>mi pu klama le zarci</jbo>
@@ -706,7 +674,6 @@
 
       <example role="interlinear-gloss-example" xml:id="example-random-id-xQ0w">
         <title>
-          <anchor xml:id="c10e6d3"/>
         </title>
         <interlinear-gloss>
           <jbo>le tricu ba crino</jbo>
@@ -722,7 +689,7 @@
       <xref linkend="section-connected-tenses"/> (logical connection between tenses).</para>
     </section>
     <section xml:id="section-dimensionality">
-      <title><anchor xml:id="c10s7"/>Dimensionality: VIhA</title>
+      <title>Dimensionality: VIhA</title>
       <para>The following cmavo are discussed in this section:</para>
       <cmavo-list>
         <cmavo-entry>
@@ -758,7 +725,6 @@
       <xref linkend="example-random-id-gHPI"/>? Given the nature of ice, probably the area interpretation is most sensible. I can make this assumption explicit with the appropriate member of selma'o VIhA:</para>
       <example role="interlinear-gloss-example" xml:id="example-random-id-vKp6">
         <title>
-          <anchor xml:id="c10e7d1"/>
         </title>
         <interlinear-gloss>
           <jbo>le verba ve'a vi'a cadzu le bisli</jbo>
@@ -790,7 +756,7 @@
 
     </section>
     <section xml:id="section-movement">
-      <title><anchor xml:id="c10s8"/>Movement in space: MOhI</title>
+      <title>Movement in space: MOhI</title>
       <para>The following cmavo is discussed in this section:</para>
       <cmavo-list>
         <cmavo-entry>
@@ -806,7 +772,7 @@
         <title>
           <indexterm type="example"><primary>toward my right</primary></indexterm>
       <indexterm type="general"><primary>on right</primary><secondary>contrasted with toward right</secondary></indexterm>  <indexterm type="general"><primary>toward right</primary><secondary>contrasted with on right</secondary></indexterm>
-          <anchor xml:id="c10e8d1"/>
+
         </title>
         <interlinear-gloss>
           <jbo>le verba mo'i ri'u cadzu le bisli</jbo>
@@ -818,7 +784,6 @@
       <para role="indent">This is quite different from:</para>
       <example role="interlinear-gloss-example" xml:id="example-random-id-abBF">
         <title>
-          <anchor xml:id="c10e8d2"/>
         </title>
         <interlinear-gloss>
           <jbo>le verba ri'u cadzu le bisli</jbo>
@@ -832,7 +797,6 @@
       <quote>left</quote> is the speaker's, not the child's. This can be changed thus:</para>
       <example role="interlinear-gloss-example" xml:id="example-random-id-mfgA">
         <title>
-          <anchor xml:id="c10e8d3"/>
           <indexterm type="example"><primary>toward her right</primary></indexterm>
         </title>
         <interlinear-gloss>
@@ -857,7 +821,6 @@
       <valsi>mo'i</valsi> construct coming last:</para>
       <example role="interlinear-gloss-example" xml:id="example-random-id-fusc">
         <title>
-          <anchor xml:id="c10e8d4"/>
         </title>
         <interlinear-gloss>
           <jbo>le verba zu'avu mo'i ri'uvi cadzu le bisli</jbo>
@@ -873,7 +836,6 @@
       <para>Here is an example of a movement tense on a bridi not inherently involving movement:</para>
       <example role="interlinear-gloss-example" xml:id="example-random-id-Avnq">
         <title>
-          <anchor xml:id="c10e8d5"/>
           <indexterm type="example"><primary>eat in airplane</primary></indexterm>
         </title>
         <interlinear-gloss>
@@ -888,7 +850,7 @@
 
     </section>
     <section xml:id="section-interval-properties">
-      <title><anchor xml:id="c10s9"/>Interval properties: TAhE and <valsi>roi</valsi></title>
+      <title>Interval properties: TAhE and <valsi>roi</valsi></title>
 
       <para>The following cmavo are discussed in this section:</para>
       <cmavo-list>
@@ -968,7 +930,6 @@
 
       <example role="interlinear-gloss-example" xml:id="example-random-id-GCXM">
         <title>
-          <anchor xml:id="c10e9d1"/>
           <indexterm type="example"><primary>attend school</primary></indexterm>
         </title>
         <interlinear-gloss>
@@ -981,7 +942,6 @@
         probably does not mean that I attended school continuously throughout the whole of that long-ago interval. Actually, I attended school every day, except for school holidays. More explicitly,</para>
       <example role="interlinear-gloss-example" xml:id="example-random-id-JM1W">
         <title>
-          <anchor xml:id="c10e9d2"/>
           <indexterm type="example"><primary>regularly</primary></indexterm>
         </title>
         <interlinear-gloss>
@@ -1004,7 +964,6 @@
       <para> <indexterm type="general"><primary>interval spread</primary><secondary>with unspecified interval</secondary></indexterm> Using TAhE does not require being so specific. Either the time direction or the time interval or both may be omitted (in which case they are vague). For example:</para>
       <example role="interlinear-gloss-example" xml:id="example-random-id-eb2h">
         <title>
-          <anchor xml:id="c10e9d3"/>
         </title>
         <interlinear-gloss>
           <jbo>mi ba ta'e klama le zarci</jbo>
@@ -1017,7 +976,6 @@
       <para role="noindent">specifies the future, but the duration of the interval is indefinite. Similarly,</para>
       <example role="interlinear-gloss-example" xml:id="example-random-id-RQTF">
         <title>
-          <anchor xml:id="c10e9d4"/>
         </title>
         <interlinear-gloss>
           <jbo>mi na'o klama le zarci</jbo>
@@ -1036,7 +994,6 @@
 
       <example role="interlinear-gloss-example" xml:id="example-random-id-mvdN">
         <title>
-          <anchor xml:id="c10e9d5"/>
           <indexterm type="example"><primary>intermittently</primary></indexterm>
         </title>
         <interlinear-gloss>
@@ -1067,7 +1024,6 @@
 
     <example xml:id="example-random-id-qdW2" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e9d6"/>
         <indexterm type="example"><primary>once</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -1078,7 +1034,6 @@
     </example>
     <example xml:id="example-random-id-qdwP" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e9d7"/>
       </title>
       <interlinear-gloss>
         <jbo>mi du'eroi klama le zarci</jbo>
@@ -1089,7 +1044,6 @@
     <para role="indent"> <indexterm type="general"><primary>temporal tense</primary><secondary>quantified with direction</secondary></indexterm> With the quantified tense alone, we don't know whether the past, the present, or the future is intended, but of course the quantified tense need not stand alone:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-TYve">
       <title>
-        <anchor xml:id="c10e9d8"/>
       </title>
       <interlinear-gloss>
         <jbo>mi pu reroi klama le zarci</jbo>
@@ -1105,7 +1059,6 @@
     <quote>other than (the number specified)</quote>:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-rXXf">
       <title>
-        <anchor xml:id="c10e9d9"/>
         <indexterm type="example"><primary>rat eats cheese</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -1127,7 +1080,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-8WJS">
       <title>
-        <anchor xml:id="c10e9d10"/>
         <indexterm type="example"><primary>only once</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -1154,7 +1106,6 @@
     <quote>whole of time</quote> interpretation just given. These compound forms make it possible to assert that something has never happened without asserting that it never will.</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-gA7X">
       <title>
-        <anchor xml:id="c10e9d11"/>
         <indexterm type="example"><primary>have never</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -1175,7 +1126,7 @@
     <xref linkend="section-fehe"/> for an explanation of space interval modifiers.</para>
   </section>
   <section xml:id="section-event-contours">
-    <title><anchor xml:id="c10s10"/>Event contours: ZAhO and <valsi>re'u</valsi></title>
+    <title>Event contours: ZAhO and <valsi>re'u</valsi></title>
 
     <para>The following cmavo are discussed in this section:</para>
     <cmavo-list>
@@ -1261,7 +1212,6 @@
     <valsi>ba'o</valsi> (etymologically derived from the PU cmavo) refer to an event that has not yet begun, that is in progress, or that has ended, respectively:</para>
   <example xml:id="example-random-id-qdwz" role="interlinear-gloss-example">
     <title>
-      <anchor xml:id="c10e10d1"/>
       <indexterm type="example"><primary>on verge</primary></indexterm>
     </title>
     <interlinear-gloss>
@@ -1272,7 +1222,6 @@
   </example>
   <example xml:id="example-random-id-qdX7" role="interlinear-gloss-example">
     <title>
-      <anchor xml:id="c10e10d2"/>
       <indexterm type="example"><primary>continues</primary></indexterm>
     </title>
     <interlinear-gloss>
@@ -1285,7 +1234,6 @@
   <example xml:id="example-random-id-qdxB" role="interlinear-gloss-example">
     <title>
       <indexterm type="example"><primary>finished</primary></indexterm>
-      <anchor xml:id="c10e10d3"/>
     </title>
     <interlinear-gloss>
       <jbo>le verba ba'o cadzu le bisli</jbo>
@@ -1332,7 +1280,6 @@
     <valsi>ba'o</valsi> parts:</para>
     <example xml:id="example-random-id-qdxH" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e10d4"/>
       </title>
       <interlinear-gloss>
         <jbo>mi ba co'a citka le mi sanmi</jbo>
@@ -1342,7 +1289,6 @@
     </example>
     <example xml:id="example-random-id-qdY5" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e10d5"/>
       </title>
       <interlinear-gloss>
         <jbo>mi pu co'u citka le mi sanmi</jbo>
@@ -1354,7 +1300,6 @@
     <xref linkend="example-random-id-qdxH"/> with:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-ChHI">
       <title>
-        <anchor xml:id="c10e10d6"/>
       </title>
       <interlinear-gloss>
         <jbo>mi ba di'i co'a bajra</jbo>
@@ -1371,7 +1316,6 @@
     <xref linkend="example-random-id-qdY5"/> may be contrasted with:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-3s6c">
       <title>
-        <anchor xml:id="c10e10d7"/>
       </title>
       <interlinear-gloss>
         <jbo>mi pu mo'u citka le mi sanmi</jbo>
@@ -1392,7 +1336,6 @@
 
     <example xml:id="example-random-id-qdyD" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e10d8"/>
       </title>
       <interlinear-gloss>
         <jbo>mi pu de'a citka le mi sanmi</jbo>
@@ -1403,7 +1346,6 @@
     </example>
     <example xml:id="example-random-id-qE08" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e10d9"/>
       </title>
       <interlinear-gloss>
         <jbo>mi ba di'a citka le mi sanmi</jbo>
@@ -1419,7 +1361,6 @@
 
   <example role="interlinear-gloss-example" xml:id="example-random-id-jSQ4">
     <title>
-      <anchor xml:id="c10e10d10"/>
       <indexterm type="example"><primary>too long</primary></indexterm>
       <indexterm type="example"><primary>kept on too long</primary></indexterm>
     </title>
@@ -1439,7 +1380,6 @@
 
   <example role="interlinear-gloss-example" xml:id="example-random-id-odH5">
     <title>
-      <anchor xml:id="c10e10d11"/>
     </title>
     <interlinear-gloss>
       <jbo>la .djan. pu co'i catra la .djim.</jbo>
@@ -1452,7 +1392,6 @@
 
   <example role="interlinear-gloss-example" xml:id="example-random-id-msrS">
     <title>
-      <anchor xml:id="c10e10d12"/>
     </title>
     <interlinear-gloss>
       <jbo>mi pare'u klama le zarci</jbo>
@@ -1463,8 +1402,7 @@
   <para role="indent">Note the difference between:</para>
   <example role="interlinear-gloss-example" xml:id="example-random-id-j3DQ">
     <title>
-        <anchor xml:id="c10e10d13"/>
-      </title>
+    </title>
       <interlinear-gloss>
         <jbo>mi pare'u paroi klama le zarci</jbo>
         <gloss>I [first-time] [one-time] go-to the store.</gloss>
@@ -1474,7 +1412,6 @@
     <para role="noindent">and</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-IBns">
       <title>
-        <anchor xml:id="c10e10d14"/>
       </title>
       <interlinear-gloss>
         <jbo>mi paroi pare'u klama le zarci</jbo>
@@ -1484,7 +1421,7 @@
     </example>
   </section>
   <section xml:id="section-fehe">
-    <title><anchor xml:id="c10s11"/>Space interval modifiers: FEhE</title>
+    <title>Space interval modifiers: FEhE</title>
     <para>The following cmavo is discussed in this section:</para>
     <cmavo-list>
       <cmavo-entry>
@@ -1502,7 +1439,6 @@
 
     <example xml:id="example-random-id-qe09" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e11d1"/>
         <indexterm type="example"><primary>sow grain</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -1514,7 +1450,6 @@
     </example>
     <example xml:id="example-random-id-qe1z" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e11d2"/>
         <indexterm type="example"><primary>salad ingredients</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -1526,7 +1461,6 @@
     </example>
     <example xml:id="example-random-id-qE1z" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e11d3"/>
         <indexterm type="example"><primary>always and everywhere</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -1549,7 +1483,6 @@
       <quote>north of</quote>.)</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-L4un">
       <title>
-        <anchor xml:id="c10e11d4"/>
         <indexterm type="example"><primary>rock face</primary></indexterm>
         <indexterm type="example"><primary>south face</primary></indexterm>
       </title>
@@ -1579,14 +1512,13 @@
     <valsi>fe'e</valsi> flag must be prefixed to each.</para>
   </section>
   <section xml:id="section-tcita">
-    <title><anchor xml:id="c10s12"/>Tenses as sumti tcita</title>
+    <title>Tenses as sumti tcita</title>
     <para> <indexterm type="general"><primary>argument tags</primary><secondary>based on tenses (see also sumti tcita)</secondary></indexterm>  <indexterm type="general"><primary>sumti tcita</primary><secondary>based on tenses</secondary></indexterm>  <indexterm type="general"><primary>temporal information</primary><secondary>adding to a sentence with tense sumti tcita</secondary></indexterm>  <indexterm type="general"><primary>spatial information</primary><secondary>adding to a sentence with tense sumti tcita</secondary></indexterm>  <indexterm type="general"><primary>tenses</primary><secondary>use as sumti tcita</secondary></indexterm> So far, we have seen tenses only just before the selbri, or (equivalently in meaning) floating about the bridi with
     <valsi>ku</valsi>. There is another major use for tenses in Lojban: as sumti tcita, or argument tags. A tense may be used to add spatial or temporal information to a bridi as, in effect, an additional place:</para>
 
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-v761">
       <title>
-        <anchor xml:id="c10e12d1"/>
       </title>
       <interlinear-gloss>
         <jbo>mi klama le zarci ca le nu do klama</jbo>
@@ -1608,7 +1540,6 @@
     <quote>simultaneously-with</quote> when used with a sumti. Consider another example:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-4aPT">
       <title>
-        <anchor xml:id="c10e12d2"/>
 <indexterm type="general"><primary>pu</primary><secondary>meaning as a sumti tcita</secondary></indexterm>
       </title>
       <interlinear-gloss>
@@ -1632,7 +1563,6 @@
     <para> <indexterm type="general"><primary>sumti tcita</primary><secondary>based on tense distance</secondary></indexterm>  <indexterm type="general"><primary>tense distance</primary><secondary>as sumti tcita</secondary></indexterm>  <indexterm type="general"><primary>spatial tenses</primary><secondary>as sumti tcita</secondary></indexterm> (Other translations are possible, depending on the ever-present context.) Spatial direction and distance sumti tcita are exactly analogous:</para>
     <example xml:id="example-random-id-qe2C" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e12d3"/>
         <indexterm type="example"><primary>rat eats cheese</primary></indexterm>
         <indexterm type="example"><primary>near the park</primary></indexterm>
       </title>
@@ -1645,7 +1575,6 @@
     </example>
     <example xml:id="example-random-id-qE2t" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e12d4"/>
         <indexterm type="example"><primary>rat eats cheese</primary></indexterm>
         <indexterm type="example"><primary>near the faraway park</primary></indexterm>
       </title>
@@ -1657,7 +1586,6 @@
     </example>
     <example xml:id="example-random-id-qe3g" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e12d5"/>
         <indexterm type="example"><primary>rat eats cheese</primary></indexterm>
         <indexterm type="example"><primary>far away from the nearby park</primary></indexterm>
       </title>
@@ -1675,7 +1603,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-Y2Kb">
       <title>
-        <anchor xml:id="c10e12d6"/>
         <indexterm type="example"><primary>in the aftermath</primary></indexterm>
         <indexterm type="example"><primary>die after living</primary></indexterm>
       </title>
@@ -1690,7 +1617,6 @@
     <xref linkend="example-random-id-Y2Kb"/> with:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-18dT">
       <title>
-        <anchor xml:id="c10e12d7"/>
       </title>
       <interlinear-gloss>
         <jbo>mi morsi ba le nu mi jmive</jbo>
@@ -1703,7 +1629,6 @@
     <para>Likewise, we might say:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-jJzr">
       <title>
-        <anchor xml:id="c10e12d8"/>
       </title>
       <interlinear-gloss>
         <jbo>mi klama le zarci pu'o le nu mi citka</jbo>
@@ -1713,7 +1638,6 @@
     <para role="noindent">which indicates that before my eating begins, I go to the store, whereas</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-0VJp">
       <title>
-        <anchor xml:id="c10e12d9"/>
       </title>
       <interlinear-gloss>
         <jbo>mi klama le zarci ba'o le nu mi citka</jbo>
@@ -1726,7 +1650,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-PABV">
       <title>
-        <anchor xml:id="c10e12d10"/>
         <indexterm type="example"><primary>too long</primary></indexterm>
         <indexterm type="example"><primary>boat sailed</primary></indexterm>
       </title>
@@ -1750,7 +1673,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-bLaQ">
       <title>
-        <anchor xml:id="c10e12d11"/>
         <indexterm type="example"><primary>twice today</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -1765,7 +1687,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-sTxE">
       <title>
-        <anchor xml:id="c10e12d12"/>
         <indexterm type="example"><primary>snow falls</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -1782,7 +1703,6 @@
     <quote>this winter</quote> is long, as events of snowfall go, whereas</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-MXvK">
       <title>
-        <anchor xml:id="c10e12d13"/>
       </title>
       <interlinear-gloss>
         <jbo>loi snime cu carvi ca le ze'u dunra</jbo>
@@ -1794,7 +1714,7 @@
 
   </section>
   <section xml:id="section-sticky-tenses">
-    <title><anchor xml:id="c10s13"/>Sticky and multiple tenses: KI</title>
+    <title>Sticky and multiple tenses: KI</title>
 
     <para>The following cmavo is discussed in this section:</para>
     <cmavo-list>
@@ -1812,7 +1732,6 @@
     <valsi>ki</valsi> to it:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-rIuI">
       <title>
-        <anchor xml:id="c10e13d1"/>
       </title>
       <interlinear-gloss>
         <jbo>mi puki klama le zarci</jbo>
@@ -1834,7 +1753,6 @@
     <para>What if the second sentence has a tense anyway?</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-L9GA">
       <title>
-        <anchor xml:id="c10e13d2"/>
   <indexterm type="general"><primary>tense</primary><secondary>effect of sticky tense on</secondary></indexterm>
       </title>
       <interlinear-gloss>
@@ -1851,7 +1769,6 @@
     <xref linkend="example-random-id-L9GA"/> is:</para>
     <example xml:id="example-random-id-oJQz">
       <title>
-        <anchor xml:id="c10e13d3"/>
         <indexterm type="example"><primary>had earlier</primary></indexterm>
       </title>
       <para>I went to the market. The man had earlier bitten the dog.</para>
@@ -1859,7 +1776,6 @@
     <para role="noindent"> <indexterm type="general"><primary>compound tense</primary><secondary>compared with tense in scope of sticky tense</secondary></indexterm>  <indexterm type="general"><primary>tense in scope of sticky tense</primary><secondary>compared with compound tense</secondary></indexterm> and it is equivalent in meaning (when considered in isolation from any other sentences) to:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-N5xa">
       <title>
-        <anchor xml:id="c10e13d4"/>
       </title>
       <interlinear-gloss>
         <jbo>mi pu klama le zarci</jbo>
@@ -1873,7 +1789,6 @@
     <para role="indent"> <indexterm type="general"><primary>compound tense</primary><secondary>compared with multiple tenses in sentence</secondary></indexterm>  <indexterm type="general"><primary>tenses</primary><secondary>multiple in sentence compared with compound tense</secondary></indexterm>  <indexterm type="general"><primary>tenses</primary><secondary>multiple in sentence</secondary></indexterm> The point has not been discussed so far, but it is perfectly grammatical to have more than one tense construct in a sentence:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-t7YR">
       <title>
-        <anchor xml:id="c10e13d5"/>
       </title>
       <interlinear-gloss>
         <jbo>puku mi ba klama le zarci</jbo>
@@ -1888,7 +1803,6 @@
     <xref linkend="example-random-id-t7YR"/> is therefore equivalent in meaning, except for emphasis, to:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-mRPV">
       <title>
-        <anchor xml:id="c10e13d6"/>
       </title>
       <interlinear-gloss>
         <jbo>mi puba klama le zarci</jbo>
@@ -1903,7 +1817,6 @@
     <xref linkend="example-random-id-mRPV"/>:</para>
     <example xml:id="example-random-id-qE4G" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e13d7"/>
       </title>
       <interlinear-gloss>
         <jbo>mi ba klama le zarci puku</jbo>
@@ -1913,7 +1826,6 @@
     </example>
     <example xml:id="example-random-id-qE4m" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e13d8"/>
       </title>
       <interlinear-gloss>
         <jbo>mi bapu klama le zarci</jbo>
@@ -1928,7 +1840,6 @@
     <xref linkend="example-random-id-t7YR"/>:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-gg9C">
       <title>
-        <anchor xml:id="c10e13d9"/>
       </title>
       <interlinear-gloss>
         <jbo>pu ki ku mi ba klama le zarci</jbo>
@@ -1950,7 +1861,6 @@
     <para> <indexterm type="general"><primary>sumti with tense</primary><secondary>effect of main bridi tense on</secondary></indexterm>  <indexterm type="general"><primary>embedded bridi tenses</primary><secondary>effect of main bridi tense on</secondary></indexterm>  <indexterm type="general"><primary>tense on main bridi</primary><secondary>effect on embedded sumti with tenses</secondary></indexterm>  <indexterm type="general"><primary>tense on main bridi</primary><secondary>effect on embedded bridi tenses</secondary></indexterm>  <indexterm type="general"><primary>tense</primary><secondary>on embedded bridi</secondary></indexterm> Lojban has several ways of embedding a bridi within another bridi: descriptions, abstractors, relative clauses. (Technically, descriptions contain selbri rather than bridi.) Any of the selbri of these subordinate bridi may have tenses attached. These tenses are interpreted relative to the tense of the main bridi:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-yxFP">
       <title>
-        <anchor xml:id="c10e13d10"/>
         <indexterm type="example"><primary>former market</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -1971,7 +1881,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-NfS1">
       <title>
-        <anchor xml:id="c10e13d11"/>
       </title>
       <interlinear-gloss>
         <jbo>mi ca jinvi le du'u mi ba morsi</jbo>
@@ -1991,7 +1900,7 @@
     <valsi>ki</valsi> tenses could be used to distinguish the two.</para>
   </section>
   <section xml:id="section-story-time">
-    <title><anchor xml:id="c10s14"/>Story time</title>
+    <title>Story time</title>
     <para> <indexterm type="general"><primary>stories</primary><secondary>flow of time in</secondary></indexterm>  <indexterm type="general"><primary>story time</primary><secondary>rationale for</secondary></indexterm>  <indexterm type="general"><primary>story time</primary><secondary>definition</secondary></indexterm> Making strict use of the conventions explained in
     <xref linkend="section-sticky-tenses"/> would be intolerably awkward when a story is being told. The time at which a story is told by the narrator is usually unimportant to the story. What matters is the flow of time within the story itself. The term
     <quote>story</quote> in this section refers to any series of statements related in more-or-less time-sequential order, not just a fictional one.</para>
@@ -2003,7 +1912,6 @@
 
     <example xml:id="example-random-id-qE94" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e14d1"/>
         <indexterm type="example"><primary>cave</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2019,7 +1927,6 @@
     </example>
     <example xml:id="example-random-id-qEa4" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e14d2"/>
       </title>
       <interlinear-gloss>
         <jbo>.i ko'a citka loi kanba rectu</jbo>
@@ -2029,7 +1936,6 @@
     </example>
     <example xml:id="example-random-id-qEa7" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e14d3"/>
         <indexterm type="example"><primary>flashbacks in story time</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2040,7 +1946,6 @@
     </example>
     <example xml:id="example-random-id-qEao" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e14d4"/>
       </title>
       <interlinear-gloss>
         <jbo>.i lei rectu cu zanglare</jbo>
@@ -2050,7 +1955,6 @@
     </example>
     <example xml:id="example-random-id-qebJ" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e14d5"/>
       </title>
       <interlinear-gloss>
         <jbo>.i le labno goi ko'e</jbo>
@@ -2064,7 +1968,6 @@
     </example>
     <example xml:id="example-random-id-qebT" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e14d6"/>
       </title>
       <interlinear-gloss>
         <jbo>.i ko'e lebna lei rectu ko'a</jbo>
@@ -2074,7 +1977,6 @@
     </example>
     <example xml:id="example-random-id-qeBW" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e14d7"/>
       </title>
       <interlinear-gloss>
         <jbo>.i ko'e bartu klama</jbo>
@@ -2126,31 +2028,27 @@
 
   </section>
   <section xml:id="section-sub-bridi-tenses">
-    <title><anchor xml:id="c10s15"/>Tenses in subordinate bridi</title>
+    <title>Tenses in subordinate bridi</title>
     <para> <indexterm type="general"><primary>subordinate clauses</primary><secondary>tense usage rules in English</secondary></indexterm> English has a set of rules, formally known as
     <quote>sequence of tense rules</quote>, for determining what tense should be used in a subordinate clause, depending on the tense used in the main sentence. Here are some examples:</para>
 
     <example xml:id="example-random-id-qECX">
       <title>
-        <anchor xml:id="c10e15d1"/>
       </title>
         <para>John says that George is going to the market.</para>
     </example>
     <example xml:id="example-random-id-qeds">
       <title>
-        <anchor xml:id="c10e15d2"/>
       </title>
         <para>John says that George went to the market.</para>
     </example>
     <example xml:id="example-random-id-qEE5">
       <title>
-        <anchor xml:id="c10e15d3"/>
       </title>
         <para>John said that George went to the market.</para>
     </example>
     <example xml:id="example-random-id-qeFQ">
       <title>
-        <anchor xml:id="c10e15d4"/>
       </title>
         <para>John said that George had gone to the market.</para>
     </example>
@@ -2171,7 +2069,6 @@
     <xref linkend="example-random-id-qeFQ"/> can be expressed in Lojban respectively thus:</para>
     <example xml:id="example-random-id-qega" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e15d5"/>
         <indexterm type="example"><primary>John says that George goes to market</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2185,7 +2082,6 @@
     </example>
     <example xml:id="example-random-id-qeGL" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e15d6"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djan. ca cusku le se du'u</jbo>
@@ -2198,7 +2094,6 @@
     </example>
     <example xml:id="example-random-id-qEGL" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e15d7"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djan. pu cusku le se du'u</jbo>
@@ -2209,7 +2104,6 @@
     </example>
     <example xml:id="example-random-id-qegV" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e15d8"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djan. pu cusku le se du'u</jbo>
@@ -2240,7 +2134,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-Yjop">
       <title>
-        <anchor xml:id="c10e15d9"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djan. pu cusku le se du'u</jbo>
@@ -2265,12 +2158,11 @@
 
   </section>
   <section xml:id="section-tense-connection">
-    <title><anchor xml:id="c10s16"/>Tense relations between sentences</title>
+    <title>Tense relations between sentences</title>
     <para> <indexterm type="general"><primary>tense with sumti tcita</primary><secondary>asymmetry of</secondary></indexterm> The sumti tcita method, explained in
     <xref linkend="section-tcita"/>, of asserting a tense relationship between two events suffers from asymmetry. Specifically,</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-vreo">
       <title>
-        <anchor xml:id="c10e16d1"/>
       </title>
       <interlinear-gloss>
         <jbo>le verba cu cadzu le bisli</jbo>
@@ -2287,7 +2179,6 @@
     <valsi>i</valsi> connecting them:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-9Q0x">
       <title>
-        <anchor xml:id="c10e16d2"/>
       </title>
       <interlinear-gloss>
         <jbo>le nanmu cu batci le gerku</jbo>
@@ -2315,7 +2206,6 @@
     <xref linkend="example-random-id-9Q0x"/> means the same thing as:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Ne2C">
       <title>
-        <anchor xml:id="c10e16d3"/>
       </title>
       <interlinear-gloss>
         <jbo>le nanmu cu batci le gerku .i zu'a la'edi'u</jbo>
@@ -2332,7 +2222,6 @@
     <xref linkend="example-random-id-9Q0x"/>, the meaning changes:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-jThf">
       <title>
-        <anchor xml:id="c10e16d4"/>
       </title>
       <interlinear-gloss>
         <jbo>le nanmu cu batci le gerku</jbo>
@@ -2352,7 +2241,6 @@
     <xref linkend="example-random-id-jThf"/> with the following:<indexterm type="general"><primary>separately tensed sentences</primary><secondary>contrasted with tense connected sentences</secondary></indexterm>  <indexterm type="general"><primary>tense connected sentences</primary><secondary>contrasted with separately tensed sentences</secondary></indexterm></para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-MzxF">
       <title>
-        <anchor xml:id="c10e16d5"/>
       </title>
       <interlinear-gloss>
         <jbo>le nanmu cu batci le gerku</jbo>
@@ -2374,7 +2262,6 @@
     <valsi>gi</valsi> is used to separate the sentences:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-9cXU">
       <title>
-        <anchor xml:id="c10e16d6"/>
       </title>
       <interlinear-gloss>
         <jbo>pugi mi klama le zarci gi mi klama le zdani</jbo>
@@ -2385,7 +2272,6 @@
     <para role="indent">A parallel construction can be used to express a tense relationship between sumti: <indexterm type="general"><primary>sumti</primary><secondary>forethought tense connection of</secondary></indexterm>  <indexterm type="general"><primary>imaginary journey</primary><secondary>origin in tense forethought sumti connection</secondary></indexterm>  <indexterm type="general"><primary>forethought tense connection of sumti</primary><secondary>order of</secondary></indexterm></para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-o3Yg">
       <title>
-        <anchor xml:id="c10e16d7"/>
       </title>
       <interlinear-gloss>
         <jbo>mi klama pugi le zarci gi le zdani</jbo>
@@ -2405,7 +2291,6 @@
     <xref linkend="example-random-id-o3Yg"/>:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-vSCv">
       <title>
-        <anchor xml:id="c10e16d8"/>
       </title>
       <interlinear-gloss>
         <jbo>mi pugi klama le zarci gi klama le zdani</jbo>
@@ -2427,7 +2312,7 @@
     </informaltable>
   </section>
   <section xml:id="section-tense-logical-connection">
-    <title><anchor xml:id="c10s17"/>Tensed logical connectives</title>
+    <title>Tensed logical connectives</title>
     <para> <indexterm type="general"><primary>tensed logical connectives</primary></indexterm>  <indexterm type="general"><primary>logical connectives</primary><secondary>tensed</secondary></indexterm> The Lojban tense system interacts with the Lojban logical connective system. That system is a separate topic, explained in
 
     <xref linkend="chapter-connectives"/> and touched on only in summary here. By the rules of the logical connective system,
@@ -2435,7 +2320,6 @@
     <xref linkend="example-random-id-qEIm"/> are equivalent in meaning:</para>
     <example xml:id="example-random-id-qehB" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e17d1"/>
       </title>
       <interlinear-gloss>
         <jbo>la .teris. cu satre le mlatu .i je la .teris. cu satre le ractu</jbo>
@@ -2444,7 +2328,6 @@
     </example>
     <example xml:id="example-random-id-qEI1" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e17d2"/>
       </title>
       <interlinear-gloss>
         <jbo>la .teris. cu satre le mlatu gi'e satre le ractu</jbo>
@@ -2453,7 +2336,6 @@
     </example>
     <example xml:id="example-random-id-qEIm" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e17d3"/>
       </title>
       <interlinear-gloss>
         <jbo>la .teris. cu satre le mlatu .e le ractu</jbo>
@@ -2466,7 +2348,6 @@
     <valsi>bo</valsi>, thus:</para>
     <example xml:id="example-random-id-qEiY" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e17d4"/>
         <indexterm type="example"><primary>stroke cat then rabbit</primary></indexterm>
         <indexterm type="example"><primary>and then</primary></indexterm>
       </title>
@@ -2477,7 +2358,6 @@
     </example>
     <example xml:id="example-random-id-qEjn" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e17d5"/>
         <indexterm type="example"><primary>stroke cat then rabbit</primary></indexterm>
         <indexterm type="example"><primary>and then</primary></indexterm>
       </title>
@@ -2488,7 +2368,6 @@
     </example>
     <example xml:id="example-random-id-qEKa" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e17d6"/>
         <indexterm type="example"><primary>stroke cat then rabbit</primary></indexterm>
         <indexterm type="example"><primary>and then</primary></indexterm>
       </title>
@@ -2519,7 +2398,6 @@
     <xref linkend="example-random-id-qeLv"/> equivalent in meaning:</para>
     <example xml:id="example-random-id-qeL4" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e17d7"/>
         <indexterm type="example"><primary>carry sack and dog</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2534,7 +2412,6 @@
     </example>
     <example xml:id="example-random-id-qELN" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e17d8"/>
         <indexterm type="example"><primary>carry sack and dog</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2549,7 +2426,6 @@
     </example>
     <example xml:id="example-random-id-qeLv" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e17d9"/>
         <indexterm type="example"><primary>carry sack and dog</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2564,7 +2440,6 @@
     <xref linkend="example-random-id-qEnd"/>:</para>
     <example xml:id="example-random-id-qeLV" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e17d10"/>
       </title>
       <interlinear-gloss>
         <jbo>mi bevri le dakli .ije ba tu'e mi bevri le gerku</jbo>
@@ -2578,7 +2453,6 @@
     </example>
     <example xml:id="example-random-id-qeMo" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e17d11"/>
       </title>
       <interlinear-gloss>
         <jbo>mi bevri le dakli gi'e bake bevri le gerku</jbo>
@@ -2592,7 +2466,6 @@
     </example>
     <example xml:id="example-random-id-qEnd" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e17d12"/>
       </title>
       <interlinear-gloss>
         <jbo>mi bevri le dakli .e bake le gerku</jbo>
@@ -2611,12 +2484,11 @@
     <xref linkend="example-random-id-qeLv"/> respectively.</para>
   </section>
   <section xml:id="section-tense-negation">
-    <title><anchor xml:id="c10s18"/>Tense negation</title>
+    <title>Tense negation</title>
     <para> <indexterm type="general"><primary>ZAhO selma'o</primary><secondary>contradictory negation of</secondary></indexterm>  <indexterm type="general"><primary>FAhA selma'o</primary><secondary>contradictory negation of</secondary></indexterm>  <indexterm type="general"><primary>PU selma'o</primary><secondary>contradictory negation of</secondary></indexterm>  <indexterm type="general"><primary>negation</primary><secondary>of tenses</secondary></indexterm>  <indexterm type="general"><primary>tenses</primary><secondary>negating</secondary></indexterm> Any bridi which involves tenses of selma'o PU, FAhA, or ZAhO can be contradicted by a
     <jbophrase>-nai</jbophrase> suffixed to the tense cmavo. Some examples:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-qXWF">
       <title>
-        <anchor xml:id="c10e18d1"/>
       </title>
       <interlinear-gloss>
         <jbo>mi punai klama le zarci</jbo>
@@ -2629,7 +2501,6 @@
     <jbophrase>-nai</jbophrase> negation indicates that the stated relationship does not hold:</para>
     <example xml:id="example-random-id-qEnq" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e18d2"/>
       </title>
       <interlinear-gloss>
         <jbo>mi klama le zarci ca nai</jbo>
@@ -2643,7 +2514,6 @@
     </example>
     <example xml:id="example-random-id-qeNT" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e18d3"/>
       </title>
       <interlinear-gloss>
         <jbo>le nanmu cu batci le gerku ne'inai le kumfa</jbo>
@@ -2653,7 +2523,6 @@
     </example>
     <example xml:id="example-random-id-qEny" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e18d4"/>
       </title>
       <interlinear-gloss>
         <jbo>mi morsi ca'onai le nu mi jmive</jbo>
@@ -2666,7 +2535,6 @@
     <xref linkend="example-random-id-qeNT"/>:</para>
     <example xml:id="example-random-id-qEo1" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e18d5"/>
       </title>
       <interlinear-gloss>
         <jbo>mi na'e pu klama le zarci</jbo>
@@ -2676,7 +2544,6 @@
     </example>
     <example xml:id="example-random-id-qEoN" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e18d6"/>
       </title>
       <interlinear-gloss>
         <jbo>le nanmu cu batci le gerku to'e ne'i le kumfa</jbo>
@@ -2686,7 +2553,6 @@
     </example>
     <example xml:id="example-random-id-qEqa" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e18d7"/>
       </title>
       <interlinear-gloss>
         <jbo>mi klama le zarci na'e ca le nu</jbo>
@@ -2700,7 +2566,6 @@
     </example>
     <example xml:id="example-random-id-qeQe" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e18d8"/>
       </title>
       <interlinear-gloss>
         <jbo>mi morsi na'e ca'o le nu mi jmive</jbo>
@@ -2714,7 +2579,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-THJJ">
       <title>
-        <anchor xml:id="c10e18d9"/>
       </title>
       <interlinear-gloss>
         <jbo>le verba na'e ri'u cadzu le bisli</jbo>
@@ -2727,7 +2591,7 @@
     <xref linkend="section-interval-properties"/>; this use is also a scalar negation.</para>
   </section>
   <section xml:id="section-caha">
-    <title><anchor xml:id="c10s19"/>Actuality, potentiality, capability: CAhA</title>
+    <title>Actuality, potentiality, capability: CAhA</title>
     <para>The following cmavo are discussed in this section:</para>
     <cmavo-list>
       <cmavo-entry>
@@ -2760,7 +2624,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-HjjN">
       <title>
-        <anchor xml:id="c10e19d1"/>
         <indexterm type="example"><primary>ducks swim</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2775,7 +2638,6 @@
     <xref linkend="example-random-id-HjjN"/>,</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-o9Yu">
       <title>
-        <anchor xml:id="c10e19d2"/>
       </title>
       <interlinear-gloss>
         <jbo>ro datka ca flulimna</jbo>
@@ -2788,7 +2650,6 @@
     <quote>All ducks are now swimming</quote>, we must append a marker from selma'o CAhA to the tense, and say:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-hXpB">
       <title>
-        <anchor xml:id="c10e19d3"/>
       </title>
       <interlinear-gloss>
         <jbo>ro datka ca ca'a flulimna</jbo>
@@ -2808,7 +2669,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-ApiH">
       <title>
-        <anchor xml:id="c10e19d4"/>
       </title>
       <interlinear-gloss>
         <jbo>ro datka ka'e flulimna</jbo>
@@ -2821,7 +2681,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-ebcg">
       <title>
-        <anchor xml:id="c10e19d5"/>
         <indexterm type="example"><primary>can see</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2839,7 +2698,6 @@
   <indexterm type="general"><primary>innate properties</primary><secondary>extension to individuals not actually capable</secondary></indexterm> might be true about a human being named John, even though he has been blind since birth, because the ability to see is innately built into his nature as a human being. It is theoretically possible that conditions might occur that would enable John to see (a great medical discovery, for example). On the other hand,</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-NC6V">
       <title>
-        <anchor xml:id="c10e19d6"/>
       </title>
       <interlinear-gloss>
         <jbo>le cukta ka'e viska</jbo>
@@ -2856,7 +2714,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-sHpR">
       <title>
-        <anchor xml:id="c10e19d7"/>
         <indexterm type="example"><primary>infant ducks</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2872,7 +2729,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-VPfM">
       <title>
-        <anchor xml:id="c10e19d8"/>
       </title>
       <interlinear-gloss>
         <jbo>la .frank. pu'i viska</jbo>
@@ -2899,7 +2755,6 @@
 
     <example xml:id="example-random-id-qER7" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e19d9"/>
       </title>
       <interlinear-gloss>
         <jbo>mi pu ca'a klama le zarci</jbo>
@@ -2910,7 +2765,6 @@
     </example>
     <example xml:id="example-random-id-qera" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e19d10"/>
       </title>
       <interlinear-gloss>
         <jbo>la .frank. ba nu'o klama le zdani</jbo>
@@ -2922,7 +2776,6 @@
     <para role="indent"> <indexterm type="general"><primary>tenses with elided CAhA</primary><secondary>meaning</secondary></indexterm> As always in Lojban tenses, a missing CAhA can have an indeterminate meaning, or the context can be enough to disambiguate it. Saying</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-IKGW">
       <title>
-        <anchor xml:id="c10e19d11"/>
         <indexterm type="example"><primary>inflammable</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -2936,7 +2789,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-5tur">
       <title>
-        <anchor xml:id="c10e19d12"/>
       </title>
       <interlinear-gloss>
         <jbo>ta ca ca'a jelca</jbo>
@@ -2948,7 +2800,6 @@
     <para role="noindent">and</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-PRrR">
       <title>
-        <anchor xml:id="c10e19d13"/>
       </title>
       <interlinear-gloss>
         <jbo>ta ka'e jelca</jbo>
@@ -2963,7 +2814,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-FWoz">
       <title>
-        <anchor xml:id="c10e19d14"/>
       </title>
       <interlinear-gloss>
         <jbo>jelca</jbo>
@@ -2974,13 +2824,12 @@
     <quote>Fire!</quote></para>
   </section>
   <section xml:id="section-connected-tenses">
-    <title><anchor xml:id="c10s20"/>Logical and non-logical connections between tenses</title>
+    <title>Logical and non-logical connections between tenses</title>
     <para>Like many things in Lojban, tenses may be logically connected; logical connection is explained in more detail in
     <xref linkend="chapter-connectives"/>. Some of the terminology in this section will be clear only if you already understand logical connectives.</para>
     <para> <indexterm type="lojban-word"><primary>JA selma'o</primary></indexterm>  <indexterm type="general"><primary>logically connected tenses</primary><secondary>expansion to sentences</secondary></indexterm>  <indexterm type="general"><primary>tenses</primary><secondary>logically connected with JA</secondary></indexterm>  <indexterm type="general"><primary>logically connected tenses</primary><secondary>with JA</secondary></indexterm> The appropriate logical connectives belong to selma'o JA. A logical connective between tenses can always be expanded to one between sentences:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-XAj7">
       <title>
-        <anchor xml:id="c10e20d1"/>
       </title>
       <interlinear-gloss>
         <jbo>mi pu je ba klama le zarci</jbo>
@@ -2991,7 +2840,6 @@
     <para role="noindent">means the same as:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-BWI5">
       <title>
-        <anchor xml:id="c10e20d2"/>
       </title>
       <interlinear-gloss>
         <jbo>mi pu klama le zarci</jbo>
@@ -3006,7 +2854,6 @@
     <para role="indent"> <indexterm type="general"><primary>tenses</primary><secondary>connected</secondary><tertiary>with negation</tertiary></indexterm> Tense connection and tense negation are combined in:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Tuz1">
       <title>
-        <anchor xml:id="c10e20d3"/>
       </title>
       <interlinear-gloss>
         <jbo>mi punai je canai je ba klama le zarci</jbo>
@@ -3018,7 +2865,6 @@
     <xref linkend="example-random-id-Tuz1"/> is far more specific than</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-J5jJ">
       <title>
-        <anchor xml:id="c10e20d4"/>
       </title>
       <interlinear-gloss>
         <jbo>mi ba klama le zarci</jbo>
@@ -3032,7 +2878,6 @@
     <para> <indexterm type="general"><primary>connected tenses</primary><secondary>negation of compared with negation in connective</secondary></indexterm> Tense negation can often be removed in favor of negation in the logical connective itself. The following examples are equivalent in meaning:</para>
     <example xml:id="example-random-id-qErC" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e20d5"/>
       </title>
       <interlinear-gloss>
         <jbo>mi mo'izu'anai je mo'iri'u cadzu</jbo>
@@ -3042,7 +2887,6 @@
     </example>
     <example xml:id="example-random-id-qeRL" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e20d6"/>
       </title>
       <interlinear-gloss>
         <jbo>mi mo'izu'a naje mo'iri'u cadzu</jbo>
@@ -3055,7 +2899,6 @@
     <quote>from ... to</quote>):</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-KQUM">
       <title>
-        <anchor xml:id="c10e20d7"/>
       </title>
       <interlinear-gloss>
         <jbo>mi puza bi'o bazu vasxu</jbo>
@@ -3070,14 +2913,13 @@
     <xref linkend="section-sub-events"/>. Other uses will probably be identified in future.</para>
   </section>
   <section xml:id="section-sub-events">
-    <title><anchor xml:id="c10s21"/>Sub-events</title>
+    <title>Sub-events</title>
     <para>
   <indexterm type="general"><primary>tenses</primary><secondary>non-logical connection of for sub-events</secondary></indexterm> Another application of non-logical tense connection is to talk about sub-events of events. Consider a six-shooter: a gun which can fire six bullets in succession before reloading. If I fire off the entire magazine twice, I can express the fact in Lojban thus:</para>
 
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-9CqG">
       <title>
-        <anchor xml:id="c10e21d1"/>
         <indexterm type="example"><primary>six-shooter</primary></indexterm>
         <indexterm type="example"><primary>on two occasions</primary></indexterm>
       </title>
@@ -3106,7 +2948,6 @@
 
     <example xml:id="example-random-id-qES9" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e21d2"/>
       </title>
       <interlinear-gloss>
         <jbo>la .djordj. ca'o co'a ciska</jbo>
@@ -3117,7 +2958,6 @@
     </example>
     <example xml:id="example-random-id-qetE" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e21d3"/>
       </title>
       <interlinear-gloss>
         <jbo>mi reroi ca'o xaroi darxi le damri</jbo>
@@ -3127,7 +2967,7 @@
     </example>
   </section>
   <section xml:id="section-jai">
-    <title><anchor xml:id="c10s22"/>Conversion of sumti tcita: JAI</title>
+    <title>Conversion of sumti tcita: JAI</title>
     <para>The following cmavo are discussed in this section:</para>
     <cmavo-list>
       <cmavo-entry>
@@ -3145,7 +2985,6 @@
     <para role="indent"> <indexterm type="lojban-word"><primary>SE selma'o</primary></indexterm>  <indexterm type="general"><primary>conversion</primary><secondary>definition</secondary></indexterm> Conversion is the regular Lojban process of moving around the places of a place structure. The cmavo of selma'o SE serve this purpose, exchanging the first place with one of the others:</para>
     <example xml:id="example-random-id-qEu5" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e22d1"/>
       </title>
       <interlinear-gloss>
         <jbo>mi cu klama le zarci</jbo>
@@ -3154,7 +2993,6 @@
     </example>
     <example xml:id="example-random-id-qEu9" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e22d2"/>
       </title>
       <interlinear-gloss>
         <jbo>le zarci cu se--klama mi</jbo>
@@ -3165,7 +3003,6 @@
     <valsi>jai</valsi> plus the tense as the grammatical equivalent of SE:</para>
     <example xml:id="example-random-id-qEvD" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e22d3"/>
         <indexterm type="example"><primary>rat eats cheese in park</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -3176,7 +3013,6 @@
     </example>
     <example xml:id="example-random-id-qEWB" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e22d4"/>
         <indexterm type="example"><primary>rat eats cheese in park</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -3192,21 +3028,18 @@
     <para>(The other members of FA are used to mark the first, second, etc. places of a bridi explicitly:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-YS3i">
       <title>
-        <anchor xml:id="c10e22d5"/>
       </title>
       <jbophrase>fa mi cu klama fe le zarci</jbophrase>
     </example>
     <para role="noindent">means the same as</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-4DGL">
       <title>
-        <anchor xml:id="c10e22d6"/>
       </title>
       <jbophrase>fe le zarci cu klama fa mi</jbophrase>
     </example>
     <para role="noindent">as well as the simple</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Q6J9">
       <title>
-        <anchor xml:id="c10e22d7"/>
       </title>
       <jbophrase>mi cu klama le zarci</jbophrase>
     </example>
@@ -3216,7 +3049,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-esDa">
       <title>
-        <anchor xml:id="c10e22d8"/>
         <indexterm type="example"><primary>place of eating</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -3230,7 +3062,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-nSnh">
       <title>
-        <anchor xml:id="c10e22d9"/>
       </title>
       <interlinear-gloss>
         <jbo>mi djuno fi le jai ca morsi be fai la .djan.</jbo>
@@ -3241,13 +3072,12 @@
     </example>
   </section>
   <section xml:id="section-tenses-vs-modals">
-    <title><anchor xml:id="c10s23"/>Tenses versus modals</title>
+    <title>Tenses versus modals</title>
     <para> <indexterm type="general"><primary>modals</primary><secondary>contrasted with tenses in semantics</secondary></indexterm>  <indexterm type="general"><primary>tenses</primary><secondary>contrasted with modals in semantics</secondary></indexterm>  <indexterm type="general"><primary>modals</primary><secondary>compared with tenses in syntax</secondary></indexterm>  <indexterm type="general"><primary>tenses</primary><secondary>compared with modals in syntax</secondary></indexterm> Grammatically, every use of tenses seen so far is exactly paralleled by some use of modals as explained in
     <xref linkend="chapter-sumti-tcita"/>. Modals and tenses alike can be followed by sumti, can appear before the selbri, can be used in pure and mixed connections, can participate in JAI conversions. The parallelism is perfect. However, there is a deep difference in the semantics of tense constructs and modal constructs, grounded in historical differences between the two forms. Originally, modals and tenses were utterly different things in earlier versions of Loglan; only in Lojban have they become grammatically interchangeable. And even now, differences in semantics continue to be maintained.</para>
     <para> <indexterm type="general"><primary>modals</primary><secondary>importance of 1st sumti place for sumti tcita use</secondary></indexterm> The core distinction is that whereas the modal bridi</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-YLmV">
       <title>
-        <anchor xml:id="c10e23d1"/>
       </title>
       <interlinear-gloss>
         <jbo>mi nelci do mu'i le nu do nelci mi</jbo>
@@ -3263,7 +3093,6 @@
 
     <example role="interlinear-gloss-example" xml:id="example-random-id-zXi8">
       <title>
-        <anchor xml:id="c10e23d2"/>
       </title>
       <interlinear-gloss>
         <jbo>mi nelci do ba le nu do nelci mi</jbo>
@@ -3281,7 +3110,6 @@
     <valsi>balvi</valsi> explicitly, would be:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-JbEU">
       <title>
-        <anchor xml:id="c10e23d3"/>
       </title>
       <interlinear-gloss>
         <jbo>le nu do nelci mi cu mukti le nu</jbo>
@@ -3296,7 +3124,6 @@
     <para role="noindent">and</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-8sjA">
       <title>
-        <anchor xml:id="c10e23d4"/>
       </title>
       <interlinear-gloss>
         <jbo>le nu mi nelci do cu balvi le nu</jbo>
@@ -3316,7 +3143,6 @@
     <xref linkend="example-random-id-zXi8"/> are, respectively:</para>
     <example xml:id="example-random-id-qewe" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e23d5"/>
       </title>
       <interlinear-gloss>
         <jbo>mi nelci do .imu'ibo do nelci mi</jbo>
@@ -3325,7 +3151,6 @@
     </example>
     <example xml:id="example-random-id-qEWp" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e23d6"/>
       </title>
       <interlinear-gloss>
         <jbo>do nelci mi .ibabo mi nelci do</jbo>
@@ -3348,7 +3173,6 @@
     <xref linkend="example-random-id-qEWp"/> are</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-ENKj">
       <title>
-        <anchor xml:id="c10e23d7"/>
       </title>
       <interlinear-gloss>
         <jbo>mu'igi do nelci mi gi mi nelci do</jbo>
@@ -3358,7 +3182,6 @@
     <para role="noindent">and</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-r7KK">
       <title>
-        <anchor xml:id="c10e23d8"/>
       </title>
       <interlinear-gloss>
         <jbo>bagi do nelci mi gi mi nelci do</jbo>
@@ -3393,7 +3216,7 @@
     <para>neglecting the question of what is claimed. In the modal sentence schemata, the modal tag is always followed by Y, the sentence representing the event in the x1 place of the gismu that underlies the BAI. In the tensed sentences, no such simple rule exists.</para>
   </section>
   <section xml:id="section-tense-questions">
-    <title><anchor xml:id="c10s24"/>Tense questions: <valsi>cu'e</valsi></title>
+    <title>Tense questions: <valsi>cu'e</valsi></title>
     <para>The following cmavo is discussed in this section:</para>
     <cmavo-list>
       <cmavo-entry>
@@ -3410,7 +3233,6 @@
     <valsi>ma</valsi>, the Lojban sumti question:</para>
     <example xml:id="example-random-id-qEwW" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e24d1"/>
         <indexterm type="example"><primary>when</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -3422,7 +3244,6 @@
     </example>
     <example xml:id="example-random-id-qEX2" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e24d2"/>
         <indexterm type="example"><primary>where</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -3438,7 +3259,6 @@
     <valsi>cu'e</valsi>, belonging to selma'o CUhE. This can be used wherever a tense or modal construct can be used.</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-4dAJ">
       <title>
-        <anchor xml:id="c10e24d3"/>
         <indexterm type="example"><primary>when/where/how</primary></indexterm>
       </title>
       <interlinear-gloss>
@@ -3454,7 +3274,6 @@
     <xref linkend="example-random-id-4dAJ"/> might be:</para>
     <example xml:id="example-random-id-qeya" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e24d4"/>
       </title>
       <interlinear-gloss>
         <jbo>va</jbo>
@@ -3464,7 +3283,6 @@
     </example>
     <example xml:id="example-random-id-qEYe" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e24d5"/>
       </title>
       <interlinear-gloss>
         <jbo>puzu</jbo>
@@ -3474,7 +3292,6 @@
     </example>
     <example xml:id="example-random-id-qEyQ" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e24d6"/>
       </title>
       <interlinear-gloss>
         <jbo>vi le lunra</jbo>
@@ -3484,7 +3301,6 @@
     </example>
     <example xml:id="example-random-id-qez6" role="interlinear-gloss-example">
       <title>
-        <anchor xml:id="c10e24d7"/>
       </title>
       <interlinear-gloss>
         <jbo>pu'o</jbo>
@@ -3496,7 +3312,6 @@
     <xref linkend="section-BAI"/>):</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Vqgy">
       <title>
-        <anchor xml:id="c10e24d8"/>
       </title>
       <interlinear-gloss>
         <jbo>seka'a le briju</jbo>
@@ -3507,7 +3322,6 @@
     <valsi>cu'e</valsi> with other tense cmavo is through logical connection, which makes a question that pre-specifies some information:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-QTts">
       <title>
-        <anchor xml:id="c10e24d9"/>
         <indexterm type="example"><primary>when else</primary></indexterm>
         <indexterm type="example"><primary>sowed grain</primary></indexterm>
       </title>
@@ -3521,7 +3335,6 @@
     <para role="indent">Additionally, the logical connective itself can be replaced by a question word:<indexterm type="general"><primary>tense questions</primary><secondary>by using logical connective question</secondary></indexterm></para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-I6xI">
       <title>
-        <anchor xml:id="c10e24d10"/>
       </title>
       <interlinear-gloss>
         <jbo>la .artr. pu je'i ba nolraitru</jbo>
@@ -3540,14 +3353,13 @@
     <quote>the former</quote>.</para>
   </section>
   <section xml:id="section-explicit-magnitudes">
-    <title><anchor xml:id="c10s25"/>Explicit magnitudes</title>
+    <title>Explicit magnitudes</title>
     <para>It is a limitation of the VA and ZI system of specifying magnitudes that they can only prescribe vague magnitudes: small, medium, or large. In order to express both an origin point and an exact distance, the Lojban construction called a
     <quote>termset</quote> is employed. (Termsets are explained further in
     <xref linkend="section-termsets"/> and
     <xref linkend="section-quantifier-grouping"/>.) Termsets let multiple series of terms apply to a bridi conjunctively, which allows both the origin of the imaginary journey and its distance to be specified. Here is an example:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-7Lys">
       <title>
-        <anchor xml:id="c10e25d1"/>
       </title>
       <interlinear-gloss>
         <jbo>la .frank. cu sanli zu'a nu'i la .djordj.</jbo>
@@ -3580,7 +3392,6 @@
     <xref linkend="example-random-id-7Lys"/> is:</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-RWEE">
       <title>
-        <anchor xml:id="c10e25d2"/>
       </title>
       <interlinear-gloss>
         <jbo>la .frank. cu sanli zu'a nu'i la'u</jbo>
@@ -3594,16 +3405,15 @@
     </example>
   </section>
   <section xml:id="section-exercise">
-    <title><anchor xml:id="c10s26"/>Finally (an exercise for the much-tried reader)</title>
+    <title>Finally (an exercise for the much-tried reader)</title>
     <example role="interlinear-gloss-example" xml:id="example-random-id-NxGB">
       <title>
-        <anchor xml:id="c10e26d1"/>
       </title>
       <jbophrase>.a'o do pu seju ba roroi ca'o fe'e su'oroi jimpe fi le lojbo temci selsku ciste</jbophrase>
     </example>
   </section>
   <section xml:id="section-tense-selmaho-summary">
-    <title><anchor xml:id="c10s27"/>Summary of tense selma'o<indexterm type="general"><primary>tense selma'o</primary><secondary>summary of</secondary></indexterm></title>
+    <title>Summary of tense selma'o<indexterm type="general"><primary>tense selma'o</primary><secondary>summary of</secondary></indexterm></title>
     <variablelist>
       <varlistentry>
         <term>PU</term>
@@ -3897,7 +3707,7 @@
     </variablelist>
   </section>
   <section xml:id="section-direction-cmavo">
-    <title><anchor xml:id="c10s28"/>List of spatial directions and direction-like relations</title>
+    <title>List of spatial directions and direction-like relations</title>
 
     <para> <indexterm type="general"><primary>spatial directions</primary><secondary>list of</secondary></indexterm> The following list of FAhA cmavo gives rough English glosses for the cmavo, first when used without
     <valsi>mo'i</valsi> to express a direction, and then when used with

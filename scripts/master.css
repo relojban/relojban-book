@@ -370,11 +370,19 @@ dd, li.dd {
   margin-bottom: 0pt;
 }
 
-pre, blockquote {
+pre {
   border-spacing: 0;
   margin: 0;
   border: 0;
   padding: 0;
+  page-break-inside: avoid;
+}
+
+blockquote {
+  border-spacing: 0;
+  margin: 0;
+  border: 4px solid #ccc;
+  padding: 0.5em;
   page-break-inside: avoid;
 }
 

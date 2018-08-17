@@ -7,6 +7,7 @@
   <releaseinfo>Version 0.1-alpha</releaseinfo>
 </info>
 
+<xi:include href="00-foreword.xml"/>
 <xi:include href="01-about.xml"/>
 <xi:include href="02-tour.xml"/>
 <xi:include href="03-phonology.xml"/>

@@ -7,6 +7,8 @@
 <chapter xml:id="chapter-morphology">
   <title>Morphology: The Shape of Relojban Words</title>
 
+  <warning><para>This chapter is a work in progress.</para></warning>
+
   <section xml:id="section-morphology-introduction">
     <title>Introductory</title>
     <para><indexterm type="general"><primary>word forms</primary><secondary>in Lojban (see also morphology)</secondary></indexterm>  <indexterm type="general"><primary>morphology</primary><secondary>definition</secondary></indexterm>  <indexterm type="general"><primary>morphology</primary><secondary>simplicity of</secondary></indexterm> Morphology is the part of grammar that deals with the form of words. Lojban's morphology is fairly simple compared to that of many languages, because Lojban words don't change form depending on how they are used. English has only a small number of such changes compared to languages like Russian, but it does have changes like

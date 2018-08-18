@@ -7,6 +7,8 @@
 <chapter xml:id="chapter-quantifiers">
   <title>Relojban And Logic</title>
 
+  <warning><para>This chapter is a work in progress.</para></warning>
+
   <section xml:id="section-quantifiers-introduction">
     <title>What's wrong with this picture?</title>
     <para> <indexterm type="general"><primary>nobody</primary><secondary>interpretation of</secondary></indexterm> The following brief dialogue is from <citetitle pubwork="chapter">Chapter 7</citetitle> of

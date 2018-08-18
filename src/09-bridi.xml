@@ -4,10 +4,10 @@
   <!ENTITY ndash  "&#x02013;" ><!--EN DASH -->
   <!ENTITY hellip "&#x02026;" ><!--HORIZONTAL ELLIPSIS -->
 ]>
-<chapter xml:id="chapter-sumti-tcita">
-  <title>To Boston Via The Road Go I, With An Excursion Into The Land Of Modals</title>
+<chapter xml:id="chapter-bridi">
+  <title>The Relojban bridi</title>
 
-  <section xml:id="section-sumti-tcita-introduction">
+  <section xml:id="section-bridi-introduction">
     <title>Introductory</title>
     <para> <indexterm type="general"><primary>relationship</primary><secondary>objects of</secondary></indexterm>  <indexterm type="general"><primary>relationship</primary><secondary>as basis of sentence</secondary></indexterm>  <indexterm type="general"><primary>sentence</primary><secondary>basic Lojban</secondary></indexterm>  <indexterm type="general"><primary>selbri</primary><secondary>definition</secondary></indexterm>  <indexterm type="general"><primary>sumti</primary><secondary>definition</secondary></indexterm> The basic type of Lojban sentence is the bridi: a claim by the speaker that certain objects are related in a certain way. The objects are expressed by Lojban grammatical forms called
     <valsi>sumti</valsi>; the relationship is expressed by the Lojban grammatical form called a
@@ -666,7 +666,7 @@
     <para role="indent">The place structure of
     <jbophrase>blanu zdani</jbophrase> (blue house) is the same as that of
     <valsi>zdani</valsi>, by the rule given in
-    <xref linkend="section-sumti-tcita-introduction"/>. The place structure of
+    <xref linkend="section-bridi-introduction"/>. The place structure of
     <valsi>zdani</valsi> is:</para>
     <definition>
       <valsi>zdani</valsi> <content>x1 is a house/nest/lair/den for inhabitant x2</content>

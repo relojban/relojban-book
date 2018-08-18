@@ -5,7 +5,7 @@
   <!ENTITY hellip "&#x02026;" ><!--HORIZONTAL ELLIPSIS -->
 ]>
 <chapter xml:id="chapter-tour">
-  <title>A Quick Tour of Lojban Grammar, With Diagrams</title>
+  <title>A Quick Tour of Relojban Grammar</title>
 
   <section xml:id="section-bridi">
     <title>The concept of the bridi</title>

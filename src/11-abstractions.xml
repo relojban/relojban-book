@@ -5,7 +5,7 @@
   <!ENTITY hellip "&#x02026;" ><!--HORIZONTAL ELLIPSIS -->
 ]>
 <chapter xml:id="chapter-abstractions">
-  <title>Events, Qualities, Quantities, And Other Vague Words: On Lojban Abstraction</title>
+  <title>Abstractions</title>
 
   <section xml:id="section-syntax">
     <title>The syntax of abstraction</title>

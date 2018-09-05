@@ -75,7 +75,7 @@ $(builddir)/pdf.done: $(builddir)/relojban-book-processed.xml xml/docbook2html_c
 	cp scripts/master.css $(builddir)/pdf/final.css
 	ruby scripts/xml_prince_postprocess.rb $(builddir)/pdf/relojban-book-processed.html >$(builddir)/pdf/relojban-book-pdf.html 2>$(builddir)/xml_prince_postprocess.out
 
-	prince -vvv --script=scripts/prince_check_margins.js --script=scripts/prince_shave_index.js $(builddir)/pdf/relojban-book-pdf.html $(builddir)/pdf/relojban-book.pdf
+	prince --verbose --no-network --script=scripts/prince_check_margins.js --script=scripts/prince_shave_index.js $(builddir)/pdf/relojban-book-pdf.html -o $(builddir)/pdf/relojban-book.pdf
 	touch $(builddir)/pdf.done
 ifneq ($(copydir),)
 	mkdir -p $(copydir)

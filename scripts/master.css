@@ -147,9 +147,11 @@ print display
   }}}
   */
 
+  h2.subtitle { font-size: 16pt; }
+
   /* Yes, absolute padding.  If you can think of something better to
    * put this stuff at the bottom of the page... */
-  h3.othercredit { padding-top: 180pt; }
+  h3.othercredit { padding-top: 270pt; }
 }
 /****
 }}}

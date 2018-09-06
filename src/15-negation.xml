@@ -571,12 +571,12 @@
     <para>
       To examine this concept more closely, let us draw a linear scale, showing two examples of how the scale is used:
     </para>
-    <programlisting xml:space="preserve">
+    <literallayout>
       Affirmations (positive)      Negations (negative)
       |-----------|-----------|-----------|-----------|
       All       Most        Some         Few       None
-      Excellent Good        Fair         Poor     Awful
-    </programlisting>
+  Excellent     Good        Fair        Poor      Awful
+    </literallayout>
     <para>
       Some scales are more binary than the examples we diagrammed. Thus we have <quote>not necessary</quote> or <quote>unnecessary</quote> being the polar opposite of necessary. Another scale, especially relevant to Lojban, is interpreted based on situations modified by one's philosophy: <quote>not true</quote> may be equated with <quote>false</quote> in a bi-valued truth-functional logic, while in tri-valued logic an intermediate between <quote>true</quote> and <quote>false</quote> is permitted, and in fuzzy logic a continuous scale exists from true to false. The meaning of <quote>not true</quote> requires a knowledge of which variety of truth scale is being considered.
     </para>
@@ -910,7 +910,7 @@
       We might also have reduced the pragmatic ambiguity by making the two trailing sumti values explicit (the <quote>as perceived by</quote> and <quote>under conditions</quote> places have been added to the place structure of <valsi>xunre</valsi>). But assume we have a really stubborn listener (an artificially semi-intelligent computer?) who will find a way to misinterpret <xref linkend="example-random-id-yWSC"/> even with three specific sumti provided.
     </para>
     <para>
-      In this case, we use a sumti tagged with the sumti tcita <valsi>ci'u</valsi>, which translates roughly as <quote>on a scale of X</quote>, where <varname>X</varname> is the sumti. For maximal clarity, the tagged sumti can be bound into the negated selbri with <valsi>be</valsi>. To clarify <xref linkend="example-random-id-yWSC"/>, we might say:
+      In this case, we use a sumti tagged with the sumti tcita <valsi>ci'u</valsi>, which translates roughly as <quote>on a scale of X</quote>, where <dbinlinemath>X</dbinlinemath> is the sumti. For maximal clarity, the tagged sumti can be bound into the negated selbri with <valsi>be</valsi>. To clarify <xref linkend="example-random-id-yWSC"/>, we might say:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-a8S1">
       <title>

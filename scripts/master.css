@@ -88,6 +88,7 @@ print display
   }
 
   @page {
+    font-family: 'Linux Libertine', Libertine, Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
     margin: 13mm;
     margin-top: 17mm;
     margin-bottom: 17mm;
@@ -159,7 +160,11 @@ special glyphs
 {{{
 *********/
 p[lang="ko"] {
-  font-family: Unifont;
+  font-family: 'Baekmuk Dotum', Unifont;
+}
+
+p[lang="zh"] {
+  font-family: 'AR PL UMing CN', Unifont;
 }
 
 p[lang="math"] {
@@ -567,11 +572,6 @@ p.twocolumn + div {
 
 .logical-vowel {
   font-size: 120%;
-  font-weight: bold;
-}
-
-.varname {
-  font-size: 8pt;
   font-weight: bold;
 }
 

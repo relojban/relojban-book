@@ -2285,22 +2285,22 @@
     <orderedlist>
       <listitem>
         <para>
-          Count the total number of letters, including hyphens and apostrophes; call it <varname>L</varname>.
+          Count the total number of letters, including hyphens and apostrophes; call it <dbinlinemath>L</dbinlinemath>.
         </para>
       </listitem>
       <listitem>
         <para>
-          Count the number of apostrophes; call it <varname>A</varname>.
+          Count the number of apostrophes; call it <dbinlinemath>A</dbinlinemath>.
         </para>
       </listitem>
       <listitem>
         <para>
-          Count the number of <letteral>y-</letteral>, <letteral>r-</letteral>, and n-hyphens; call it <varname>H</varname>.
+          Count the number of <letteral>y-</letteral>, <letteral>r-</letteral>, and n-hyphens; call it <dbinlinemath>H</dbinlinemath>.
         </para>
       </listitem>
       <listitem>
         <para>
-          For each rafsi, find the value in the following table. Sum this value over all rafsi; call it <varname>R</varname>:
+          For each rafsi, find the value in the following table. Sum this value over all rafsi; call it <dbinlinemath>R</dbinlinemath>:
           <informaltable>
             <tr>
               <td>CVC/CV (final)</td>
@@ -2347,7 +2347,7 @@
       </listitem>
       <listitem>
         <para>
-          Count the number of vowels, not including <letteral>y</letteral>; call it <varname>V</varname>.
+          Count the number of vowels, not including <letteral>y</letteral>; call it <dbinlinemath>V</dbinlinemath>.
         </para>
       </listitem>
     </orderedlist>
@@ -2447,7 +2447,7 @@
     </para>
     <para>
       <indexterm type="general"><primary>boat class</primary><secondary>example</secondary></indexterm>
-      The scoring algorithm is heavily weighted in favor of short lujvo, so we might expect that <valsi>gerzda</valsi> would win. Its <varname>L</varname> score is 6, its <varname>A</varname> score is 0, its <varname>H</varname> score is 0, its <varname>R</varname> score is 12, and its <varname>V</varname> score is 3, for a final score of 5878. The other forms have scores of 7917, 6367, 9506, 8008, and 10047 respectively. Consequently, this lujvo would probably appear in the dictionary in the form <valsi>gerzda</valsi>.
+      The scoring algorithm is heavily weighted in favor of short lujvo, so we might expect that <valsi>gerzda</valsi> would win. Its <dbinlinemath>L</dbinlinemath> score is 6, its <dbinlinemath>A</dbinlinemath> score is 0, its <dbinlinemath>H</dbinlinemath> score is 0, its <dbinlinemath>R</dbinlinemath> score is 12, and its <dbinlinemath>V</dbinlinemath> score is 3, for a final score of 5878. The other forms have scores of 7917, 6367, 9506, 8008, and 10047 respectively. Consequently, this lujvo would probably appear in the dictionary in the form <valsi>gerzda</valsi>.
     </para>
     <para>
       For the next example, we will use the tanru <jbophrase>bloti klesi</jbophrase> (<quote>boat class</quote>) presumably referring to the category (rowboat, motorboat, cruise liner) into which a boat falls. We will omit the long rafsi from the process, since lujvo containing long rafsi are almost never preferred by the scoring algorithm when there are short rafsi available.

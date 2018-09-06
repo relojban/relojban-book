@@ -1940,7 +1940,7 @@
       <definition><content>t1 talks to you about subject t3 in language t4</content></definition>
     </example>
     <para role="noindent">
-      since <varname>t2</varname> (the addressee) is already known to be <valsi>do</valsi>.
+      since <dbinlinemath>t2</dbinlinemath> (the addressee) is already known to be <valsi>do</valsi>.
     </para>
     <para>
       <indexterm type="general"><primary>you-cmavo</primary><secondary>example</secondary></indexterm>
@@ -1952,7 +1952,7 @@
       <definition><content>c1 is a second person pronoun in language c4</content></definition>
     </example>
     <para role="noindent">
-      since both the <varname>c2</varname> place (the grammatical class) and the <varname>c3</varname> place (the meaning) are obvious from the context <valsi>do</valsi>.
+      since both the <dbinlinemath>c2</dbinlinemath> place (the grammatical class) and the <dbinlinemath>c3</dbinlinemath> place (the meaning) are obvious from the context <valsi>do</valsi>.
     </para>
     <para>
       <indexterm type="general"><primary>sumka'i rafsi</primary><secondary>anticipated use of for abbreviating inconvenient forms</secondary></indexterm>

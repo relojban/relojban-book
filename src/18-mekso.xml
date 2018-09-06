@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE chapter [
   <!-- Selected XML entity definitions from https://www.w3.org/TR/xml-entity-names/ -->
-  <!ENTITY ndash          "&#x02013;" ><!--EN DASH -->
-  <!ENTITY hellip         "&#x02026;" ><!--HORIZONTAL ELLIPSIS -->
+  <!ENTITY ndash  "&#x02013;" ><!--EN DASH -->
+  <!ENTITY hellip "&#x02026;" ><!--HORIZONTAL ELLIPSIS -->
 ]>
 <chapter xml:id="chapter-mekso">
   <title>Mathematical Expressions</title>
@@ -277,14 +277,7 @@
       <interlinear-gloss>
         <jbo>re fi'u ze</jbo>
         <gloss>two fraction seven</gloss>
-        <para>
-          <mediaobject>
-            <textobject><phrase>\frac{2}{7}</phrase></textobject>
-            <imageobject>
-              <imagedata fileref="media/chapter-18-frac-2-7.png"/>
-            </imageobject>
-          </mediaobject>
-        </para>
+        <dbmath>²⁄₇</dbmath>
       </interlinear-gloss>
     </example>
     <para role="noindent">
@@ -299,14 +292,7 @@
       <interlinear-gloss>
         <jbo>fi'u ze</jbo>
         <gloss>fraction seven</gloss>
-        <para>
-          <mediaobject>
-            <textobject><phrase>\frac{1}{7}</phrase></textobject>
-            <imageobject>
-              <imagedata fileref="media/chapter-18-frac-1-7.png"/>
-            </imageobject>
-          </mediaobject>
-        </para>
+        <dbmath>¹⁄₇</dbmath>
       </interlinear-gloss>
     </example>
     <example xml:id="example-random-id-qhVs" role="interlinear-gloss-example">

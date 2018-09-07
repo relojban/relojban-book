@@ -572,10 +572,11 @@
       To examine this concept more closely, let us draw a linear scale, showing two examples of how the scale is used:
     </para>
     <literallayout>
-      Affirmations (positive)      Negations (negative)
-      |-----------|-----------|-----------|-----------|
-      All       Most        Some         Few       None
-  Excellent     Good        Fair        Poor      Awful
+  Affirmations (positive)------------------Negations (negative)
+
+     All-----------Most--------Some--------Few-------None
+
+  Excellent------Good--------Fair--------Poor-------Awful
     </literallayout>
     <para>
       Some scales are more binary than the examples we diagrammed. Thus we have <quote>not necessary</quote> or <quote>unnecessary</quote> being the polar opposite of necessary. Another scale, especially relevant to Lojban, is interpreted based on situations modified by one's philosophy: <quote>not true</quote> may be equated with <quote>false</quote> in a bi-valued truth-functional logic, while in tri-valued logic an intermediate between <quote>true</quote> and <quote>false</quote> is permitted, and in fuzzy logic a continuous scale exists from true to false. The meaning of <quote>not true</quote> requires a knowledge of which variety of truth scale is being considered.

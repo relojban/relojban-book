@@ -124,7 +124,7 @@
     <para>
       As a derivative work of <citetitle pubwork="book">The Complete Lojban Language</citetitle> by John Woldemar Cowan, this book is subject to the original copyright notice included therein, which is reproduced below in its entirety. Any parts not explicitly covered by this notice are placed in the public domain.
     </para>
-    <blockquote>
+    <blockquote role="copyright">
       <para>
         Copyright © 1997 by The Logical Language Group, Inc. All Rights Reserved.
       </para>

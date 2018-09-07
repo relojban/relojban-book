@@ -43,6 +43,10 @@
     <xsl:value-of select="'bullets'"/>
   </xsl:template>
 
+  <xsl:template match="blockquote[@role='copyright']" mode="class.value">
+    <xsl:value-of select="'copyright'"/>
+  </xsl:template>
+
   <!-- ==================================================================== -->
 
   <!-- Special navigation links -->

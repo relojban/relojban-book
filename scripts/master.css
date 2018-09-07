@@ -377,7 +377,7 @@ dd, li.dd {
   margin-bottom: 0pt;
 }
 
-pre {
+pre, blockquote {
   border-spacing: 0;
   margin: 0;
   border: 0;
@@ -385,7 +385,7 @@ pre {
   page-break-inside: avoid;
 }
 
-blockquote {
+blockquote.copyright {
   border-spacing: 0;
   margin: 0;
   border: 4px solid #ccc;

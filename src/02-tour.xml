@@ -11,7 +11,7 @@
     <title>The concept of the bridi</title>
     <para>
       <indexterm type="general"><primary>bridi</primary><secondary>concept of</secondary></indexterm>
-      This chapter gives diagrammed examples of basic Lojban sentence structures. The most general pattern is covered first, followed by successive variations on the basic components of the Lojban sentence. There are many more capabilities not covered in this chapter, but covered in detail in later chapters, so this chapter is a <quote>quick tour</quote> of the material later covered more slowly throughout the book. It also introduces most of the Lojban words used to discuss Lojban grammar.
+      This chapter gives diagrammed examples of basic Relojban sentence structures. The most general pattern is covered first, followed by successive variations on the basic components of the Relojban sentence. There are many more capabilities not covered in this chapter, but covered in detail in later chapters, so this chapter is a <quote>quick tour</quote> of the material later covered more slowly throughout the book. It also introduces most of the Relojban words used to discuss Relojban grammar.
     </para>
     <para>
       Let us consider John and Sam and three statements about them:
@@ -44,7 +44,7 @@
       <indexterm type="general"><primary>bridi</primary><secondary>compared with predication</secondary></indexterm>
       <indexterm type="general"><primary>predication</primary><secondary>as a relationship</secondary></indexterm>
       <indexterm type="general"><primary>relationship</primary><secondary>active/static/attributive compared</secondary></indexterm>
-      These examples all describe relationships between John and Sam. However, in English, we use the noun <quote>father</quote> to describe a static relationship in <xref linkend="example-random-id-qIuj"/>, the verb <quote>hits</quote> to describe an active relationship in <xref linkend="example-random-id-qiuQ"/>, and the adjective <quote>taller</quote> to describe an attributive relationship in <xref linkend="example-random-id-qIuS"/>. In Lojban we make no such grammatical distinctions; these three sentences, when expressed in Lojban, are structurally identical. The same part of speech is used to represent the relationship. In formal logic this whole structure is called a <quote>predication</quote>; in Lojban it is called a <valsi>bridi</valsi>, and the central part of speech is the <valsi>selbri</valsi>. Logicians refer to the things thus related as <quote>arguments</quote>, while Lojbanists call them <valsi>sumti</valsi>. These Lojban terms will be used for the rest of the book.
+      These examples all describe relationships between John and Sam. However, in English, we use the noun <quote>father</quote> to describe a static relationship in <xref linkend="example-random-id-qIuj"/>, the verb <quote>hits</quote> to describe an active relationship in <xref linkend="example-random-id-qiuQ"/>, and the adjective <quote>taller</quote> to describe an attributive relationship in <xref linkend="example-random-id-qIuS"/>. In Relojban we make no such grammatical distinctions; these three sentences, when expressed in Relojban, are structurally identical. The same part of speech is used to represent the relationship. In formal logic this whole structure is called a <quote>predication</quote>; in Relojban it is called a <valsi>bridi</valsi>, and the central part of speech is the <valsi>selbri</valsi>. Logicians refer to the things thus related as <quote>arguments</quote>, while Relojbanists call them <valsi>sumti</valsi>. These Relojban terms will be used for the rest of the book.
     </para>
     <mediaobject>
       <textobject><phrase>
@@ -92,16 +92,16 @@
     </para>
     <para>
       <indexterm type="general"><primary>place structure</primary><secondary>definition of</secondary></indexterm>
-      In Lojban, each selbri has a specified number and type of arguments, known collectively as its <quote>place structure</quote>. The simplest kind of selbri consists of a single root word, called a <valsi>gismu</valsi>, and the definition in a dictionary gives the place structure explicitly. The primary task of constructing a Lojban sentence, after choosing the relationship itself, is deciding what you will use to fill in the sumti places.
+      In Relojban, each selbri has a specified number and type of arguments, known collectively as its <quote>place structure</quote>. The simplest kind of selbri consists of a single root word, called a <valsi>gismu</valsi>, and the definition in a dictionary gives the place structure explicitly. The primary task of constructing a Relojban sentence, after choosing the relationship itself, is deciding what you will use to fill in the sumti places.
     </para>
     <para>
-      This book uses the Lojban terms <valsi>bridi</valsi>, <valsi>sumti</valsi>, and <valsi>selbri</valsi>, because it is best to come to understand them independently of the English associations of the corresponding words, which are only roughly similar in meaning anyhow.
+      This book uses the Relojban terms <valsi>bridi</valsi>, <valsi>sumti</valsi>, and <valsi>selbri</valsi>, because it is best to come to understand them independently of the English associations of the corresponding words, which are only roughly similar in meaning anyhow.
     </para>
     <para>
       <indexterm type="general"><primary>double underscore notation convention for Quick Tour chapter</primary></indexterm>
       <indexterm type="general"><primary>underscore notation for Quick Tour chapter</primary></indexterm>
       <indexterm type="general"><primary>notation conventions</primary><secondary>for Quick Tour chapter</secondary></indexterm>
-      The Lojban examples in this chapter (but not in the rest of the book) use boldface (as well as the usual italics) for selbri, to help you to tell them apart.
+      The Relojban examples in this chapter (but not in the rest of the book) use boldface (as well as the usual italics) for selbri, to help you to tell them apart.
     </para>
   </section>
   <section xml:id="section-pronunciation">
@@ -112,28 +112,28 @@
     </para>
     <para>
       <indexterm type="general"><primary>vowels</primary><secondary>pronunciation of</secondary><tertiary>quick-tour version</tertiary></indexterm>
-      Lojban has six recognized vowels: <letteral>a</letteral>, <letteral>e</letteral>, <letteral>i</letteral>, <letteral>o</letteral>, <letteral>u</letteral> and <letteral>y</letteral>. The first five are roughly pronounced as <quote>a</quote> as in <quote>father</quote>, <letteral>e</letteral> as in <quote>let</quote>, <letteral>i</letteral> as in <quote>machine</quote>, <letteral>o</letteral> as in <quote>more</quote> and <letteral>u</letteral> as in <quote>rule</quote>. <letteral>y</letteral> is pronounced as the sound called <quote>schwa</quote>, that is, as the unstressed <quote>a</quote> as in <quote>about</quote> or <quote>around</quote>.
+      Relojban has six recognized vowels: <letteral>a</letteral>, <letteral>e</letteral>, <letteral>i</letteral>, <letteral>o</letteral>, <letteral>u</letteral> and <letteral>y</letteral>. The first five are roughly pronounced as <quote>a</quote> as in <quote>father</quote>, <letteral>e</letteral> as in <quote>let</quote>, <letteral>i</letteral> as in <quote>machine</quote>, <letteral>o</letteral> as in <quote>more</quote> and <letteral>u</letteral> as in <quote>rule</quote>. <letteral>y</letteral> is pronounced as the sound called <quote>schwa</quote>, that is, as the unstressed <quote>a</quote> as in <quote>about</quote> or <quote>around</quote>.
     </para>
     <para>
       <indexterm type="general"><primary>consonants</primary><secondary>pronunciation of</secondary><tertiary>quick-tour version</tertiary></indexterm>
-      Twelve consonants in Lojban are pronounced more or less as their counterparts are in English: <letteral>b</letteral>, <letteral>d</letteral>, <letteral>f</letteral>, <letteral>k</letteral>, <letteral>l</letteral>, <letteral>m</letteral>, <letteral>n</letteral>, <letteral>p</letteral>, <letteral>r</letteral>, <letteral>t</letteral>, <letteral>v</letteral> and <letteral>z</letteral>. The letter <letteral>c</letteral>, on the other hand is pronounced as the <quote>sh</quote> in <quote>hush</quote>, while <letteral>j</letteral> is its voiced counterpart, the sound of the <quote>s</quote> in <quote>pleasure</quote>. <letteral>g</letteral> is always pronounced as it is in <quote>gift</quote>, never as in <quote>giant</quote>. <letteral>s</letteral> is as in <quote>sell</quote>, never as in <quote>rose</quote>. The sound of <letteral>x</letteral> is not found in English in normal words. It is found as <quote xml:lang="sco">ch</quote> in Scottish <quote xml:lang="sco">loch</quote>, as <quote xml:lang="es">j</quote> in Spanish <quote xml:lang="es">junta</quote>, and as <quote xml:lang="de">ch</quote> in German <quote xml:lang="de">Bach</quote>; it also appears in the English interjection <quote>yecchh!</quote>. It gets easier to say as you practice it. The letter <letteral>r</letteral> can be trilled, but doesn't have to be.
+      Twelve consonants in Relojban are pronounced more or less as their counterparts are in English: <letteral>b</letteral>, <letteral>d</letteral>, <letteral>f</letteral>, <letteral>k</letteral>, <letteral>l</letteral>, <letteral>m</letteral>, <letteral>n</letteral>, <letteral>p</letteral>, <letteral>r</letteral>, <letteral>t</letteral>, <letteral>v</letteral> and <letteral>z</letteral>. The letter <letteral>c</letteral>, on the other hand is pronounced as the <quote>sh</quote> in <quote>hush</quote>, while <letteral>j</letteral> is its voiced counterpart, the sound of the <quote>s</quote> in <quote>pleasure</quote>. <letteral>g</letteral> is always pronounced as it is in <quote>gift</quote>, never as in <quote>giant</quote>. <letteral>s</letteral> is as in <quote>sell</quote>, never as in <quote>rose</quote>. The sound of <letteral>x</letteral> is not found in English in normal words. It is found as <quote xml:lang="sco">ch</quote> in Scottish <quote xml:lang="sco">loch</quote>, as <quote xml:lang="es">j</quote> in Spanish <quote xml:lang="es">junta</quote>, and as <quote xml:lang="de">ch</quote> in German <quote xml:lang="de">Bach</quote>; it also appears in the English interjection <quote>yecchh!</quote>. It gets easier to say as you practice it. The letter <letteral>r</letteral> can be trilled, but doesn't have to be.
     </para>
     <para>
       <indexterm type="general"><primary>diphthongs</primary><secondary>pronunciation of</secondary><tertiary>quick-tour version</tertiary></indexterm>
-      The Lojban diphthongs <diphthong>ai</diphthong>, <diphthong>ei</diphthong>, <diphthong>oi</diphthong>, and <diphthong>au</diphthong> are pronounced much as in the English words <quote>sigh</quote>, <quote>say</quote>, <quote>boy</quote>, and <quote>how</quote>. Other Lojban diphthongs begin with an <letteral>i</letteral> pronounced like English <quote>y</quote> (for example, <diphthong>io</diphthong> is pronounced <quote>yo</quote>) or else with a <letteral>u</letteral> pronounced like English <quote>w</quote> (for example, <diphthong>ua</diphthong> is pronounced <quote>wa</quote>).
+      The Relojban diphthongs <diphthong>ai</diphthong>, <diphthong>ei</diphthong>, <diphthong>oi</diphthong>, and <diphthong>au</diphthong> are pronounced much as in the English words <quote>sigh</quote>, <quote>say</quote>, <quote>boy</quote>, and <quote>how</quote>. Other Relojban diphthongs begin with an <letteral>i</letteral> pronounced like English <quote>y</quote> (for example, <diphthong>io</diphthong> is pronounced <quote>yo</quote>) or else with a <letteral>u</letteral> pronounced like English <quote>w</quote> (for example, <diphthong>ua</diphthong> is pronounced <quote>wa</quote>).
     </para>
     <para>
       <indexterm type="general"><primary>period</primary><secondary>quick-tour version</secondary></indexterm>
       <indexterm type="general"><primary>comma</primary><secondary>quick-tour version</secondary></indexterm>
       <indexterm type="general"><primary>apostrophe</primary><secondary>quick-tour version</secondary></indexterm>
-      Lojban also has three <quote>semi-letters</quote>: the period, the comma and the apostrophe. The period represents a glottal stop or a pause; it is a required stoppage of the flow of air in the speech stream. The apostrophe sounds just like the English letter <quote>h</quote>. Unlike a regular consonant, it is not found at the beginning or end of a word, nor is it found adjacent to a consonant; it is only found between two vowels. The comma has no sound associated with it, and is used to mark the boundaries of syllables. It is not used in this chapter.
+      Relojban also has three <quote>semi-letters</quote>: the period, the comma and the apostrophe. The period represents a glottal stop or a pause; it is a required stoppage of the flow of air in the speech stream. The apostrophe sounds just like the English letter <quote>h</quote>. Unlike a regular consonant, it is not found at the beginning or end of a word, nor is it found adjacent to a consonant; it is only found between two vowels. The comma has no sound associated with it, and is used to mark the boundaries of syllables. It is not used in this chapter.
     </para>
     <para>
       <indexterm type="general"><primary>stress</primary><secondary>quick-tour version</secondary></indexterm>
       Stress falls on the next to the last syllable of all words, unless that vowel is <letteral>y</letteral>, which is never stressed; in such words the third-to-last syllable is stressed. If a word only has one syllable, then that syllable is not stressed.
     </para>
     <para>
-      All Lojban words are pronounced as they are spelled: there are no silent letters.
+      All Relojban words are pronounced as they are spelled: there are no silent letters.
     </para>
   </section>
   <section xml:id="section-sumti-cmavo">
@@ -169,7 +169,7 @@
       </cmavo-entry>
     </cmavo-list>
     <para role="indent">
-      Lojban sumti are not specific as to number (singular or plural), nor gender (masculine/feminine/neutral). Such distinctions can be optionally added by methods that are beyond the scope of this chapter.
+      Relojban sumti are not specific as to number (singular or plural), nor gender (masculine/feminine/neutral). Such distinctions can be optionally added by methods that are beyond the scope of this chapter.
     </para>
     <para>
       <indexterm type="general"><primary>pointing cmavo</primary><secondary>quick-tour version</secondary></indexterm>
@@ -190,14 +190,14 @@
       </tr>
     </informaltable>
     <para>
-      Other Lojban spelling versions are possible for names from other languages, and there are restrictions on which letters may appear in Lojban names: see <xref linkend="section-names"/> for more information.
+      Other Relojban spelling versions are possible for names from other languages, and there are restrictions on which letters may appear in Relojban names: see <xref linkend="section-names"/> for more information.
     </para>
   </section>
   <section xml:id="section-some-selbri">
     <title>Some words used to indicate selbri relations</title>
     <para>
       <indexterm type="general"><primary>selbri list for quick tour</primary></indexterm>
-      Here is a short table of some words used as Lojban selbri in this chapter:
+      Here is a short table of some words used as Relojban selbri in this chapter:
     </para>
     <para role="allowbreaks"/>
     <informaltable class="vertsep">
@@ -267,14 +267,14 @@
     </para>
     <para>
       <indexterm type="general"><primary>words not in the dictionary</primary></indexterm>
-      Like the table in <xref linkend="section-sumti-cmavo"/>, this table is far from complete: in fact, no complete table can exist, because Lojban allows new words to be created (in specified ways) whenever a speaker or writer finds the existing supply of words inadequate. This notion is a basic difference between Lojban (and some other languages such as German and Chinese) and English; in English, most people are very leery of using words that <quote>aren't in the dictionary</quote>. Lojbanists are encouraged to invent new words; doing so is a major way of participating in the development of the language. <xref linkend="chapter-morphology"/> explains how to make new words, and <xref linkend="chapter-lujvo"/> explains how to give them appropriate meanings.
+      Like the table in <xref linkend="section-sumti-cmavo"/>, this table is far from complete: in fact, no complete table can exist, because Relojban allows new words to be created (in specified ways) whenever a speaker or writer finds the existing supply of words inadequate. This notion is a basic difference between Relojban (and some other languages such as German and Chinese) and English; in English, most people are very leery of using words that <quote>aren't in the dictionary</quote>. Relojbanists are encouraged to invent new words; doing so is a major way of participating in the development of the language. <xref linkend="chapter-morphology"/> explains how to make new words, and <xref linkend="chapter-lujvo"/> explains how to give them appropriate meanings.
     </para>
   </section>
   <section xml:id="section-some-simple-bridi">
-    <title>Some simple Lojban bridi</title>
+    <title>Some simple Relojban bridi</title>
     <para>
       <indexterm type="general"><primary>bridi</primary><secondary>quick-tour version</secondary></indexterm>
-      Let's look at a simple Lojban bridi. The place structure of the gismu <valsi>tavla</valsi> is
+      Let's look at a simple Relojban bridi. The place structure of the gismu <valsi>tavla</valsi> is
     </para>
     <example xml:id="example-random-id-5Lis">
       <title>
@@ -288,18 +288,18 @@
       <title>
         <indexterm type="example"><primary>engineering</primary></indexterm>
       </title>
-      <para>John talks to Sam about engineering in Lojban.</para>
+      <para>John talks to Sam about engineering in Relojban.</para>
     </example>
     <para role="noindent">
-      has <quote>John</quote> in the x1 place, <quote>Sam</quote> in the x2 place, <quote>engineering</quote> in the x3 place, and <quote>Lojban</quote> in the x4 place, and could be paraphrased:
+      has <quote>John</quote> in the x1 place, <quote>Sam</quote> in the x2 place, <quote>engineering</quote> in the x3 place, and <quote>Relojban</quote> in the x4 place, and could be paraphrased:
     </para>
     <example xml:id="example-random-id-pVMH">
       <title>
       </title>
-      <para>Talking is going on, with speaker John and listener Sam and subject matter engineering and language Lojban.</para>
+      <para>Talking is going on, with speaker John and listener Sam and subject matter engineering and language Relojban.</para>
     </example>
     <para role="indent">
-      The Lojban bridi corresponding to <xref linkend="example-random-id-5Lis"/> will have the form
+      The Relojban bridi corresponding to <xref linkend="example-random-id-5Lis"/> will have the form
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k01t">
       <title>
@@ -653,13 +653,13 @@
     </para>
     <para>
       <indexterm type="general"><primary>passive voice</primary></indexterm>
-      The effect is similar to what in English is called the <quote>passive voice</quote>. In Lojban, the converted selbri has a new place structure that is renumbered to reflect the place reversal, thus having effects when such a conversion is used in combination with other constructs such as <jbophrase>lo selbri [ku]</jbophrase> (see <xref linkend="section-description-sumti"/>).
+      The effect is similar to what in English is called the <quote>passive voice</quote>. In Relojban, the converted selbri has a new place structure that is renumbered to reflect the place reversal, thus having effects when such a conversion is used in combination with other constructs such as <jbophrase>lo selbri [ku]</jbophrase> (see <xref linkend="section-description-sumti"/>).
     </para>
   </section>
   <section xml:id="section-structure-of-utterances">
     <title>The basic structure of longer utterances</title>
     <para>
-      People don't always say just one sentence. Lojban has a specific structure for talk or writing that is longer than one sentence. The entirety of a given speech event or written text is called an utterance. The sentences (usually, but not always, bridi) in an utterance are separated by the cmavo <valsi>ni'o</valsi> and <valsi>i</valsi>. These correspond to a brief pause (or nothing at all) in spoken English, and the various punctuation marks like period, question mark, and exclamation mark in written English. These separators prevent the sumti at the beginning of the next sentence from being mistaken for a trailing sumti of the previous sentence.
+      People don't always say just one sentence. Relojban has a specific structure for talk or writing that is longer than one sentence. The entirety of a given speech event or written text is called an utterance. The sentences (usually, but not always, bridi) in an utterance are separated by the cmavo <valsi>ni'o</valsi> and <valsi>i</valsi>. These correspond to a brief pause (or nothing at all) in spoken English, and the various punctuation marks like period, question mark, and exclamation mark in written English. These separators prevent the sumti at the beginning of the next sentence from being mistaken for a trailing sumti of the previous sentence.
     </para>
     <para>
       The cmavo <valsi>ni'o</valsi> separates paragraphs (covering different topics of discussion). In a long text or utterance, the topical structure of the text may be indicated by multiple <valsi>ni'o</valsi> s, with perhaps <jbophrase>ni'o ni'o ni'o</jbophrase> used to indicate a chapter, <jbophrase>ni'o ni'o</jbophrase> to indicate a section, and a single <valsi>ni'o</valsi> to indicate a subtopic corresponding to a single English paragraph.
@@ -908,7 +908,7 @@
     <title>Description sumti</title>
     <para>
       <indexterm type="general"><primary>descriptions</primary><secondary>quick-tour version</secondary></indexterm>
-      Often we wish to talk about things other than the speaker, the listener and things we can point to. Let's say I want to talk about a talker other than <valsi>mi</valsi>. What I want to talk about would naturally fit into the first place of <valsi>tavla</valsi>. Lojban, it turns out, has an operator that pulls this first place out of a selbri and converts it to a sumti called a <quote>description sumti</quote>. The description sumti <jbophrase>lo tavla ku</jbophrase> means <quote>a/the talker</quote>, and may be used wherever any sumti may be used.
+      Often we wish to talk about things other than the speaker, the listener and things we can point to. Let's say I want to talk about a talker other than <valsi>mi</valsi>. What I want to talk about would naturally fit into the first place of <valsi>tavla</valsi>. Relojban, it turns out, has an operator that pulls this first place out of a selbri and converts it to a sumti called a <quote>description sumti</quote>. The description sumti <jbophrase>lo tavla ku</jbophrase> means <quote>a/the talker</quote>, and may be used wherever any sumti may be used.
     </para>
     <para>
       For example,
@@ -966,7 +966,7 @@
     </para>
     <para>
       <indexterm type="general"><primary>cu</primary><secondary>need for</secondary><tertiary>quick-tour version</tertiary></indexterm>
-      There is a problem when we want to say <quote>The fast one is talking.</quote> The <quote>obvious</quote> translation <jbophrase>lo sutra tavla</jbophrase> turns out to mean <quote>the fast talker</quote>, and has no selbri at all. To solve this problem we can use the word <valsi>cu</valsi>, which so far has always been optional, in front of the selbri. Short words like <valsi>lo</valsi> and <valsi>cu</valsi> which serve grammatical functions are called <valsi>cmavo</valsi> in Lojban.
+      There is a problem when we want to say <quote>The fast one is talking.</quote> The <quote>obvious</quote> translation <jbophrase>lo sutra tavla</jbophrase> turns out to mean <quote>the fast talker</quote>, and has no selbri at all. To solve this problem we can use the word <valsi>cu</valsi>, which so far has always been optional, in front of the selbri. Short words like <valsi>lo</valsi> and <valsi>cu</valsi> which serve grammatical functions are called <valsi>cmavo</valsi> in Relojban.
     </para>
     <para>
       The word <valsi>cu</valsi> has no meaning, and exists only to mark the beginning of the selbri within the bridi, separating it from a previous sumti. It comes before any other part of the selbri, including other cmavo like <valsi>se</valsi> or <valsi>te</valsi>. Thus:
@@ -1133,7 +1133,7 @@
     </example>
     <para role="indent">
       <indexterm type="general"><primary>cmavo as selbri</primary><secondary>quick-tour version</secondary></indexterm>
-      Some cmavo may also serve as selbri, acting as variables that stand for another selbri. The most commonly used of these is <valsi>go'i</valsi>, which represents the main bridi of the previous Lojban sentence, with any new sumti or other sentence features being expressed replacing the previously expressed ones. Thus, in this context:
+      Some cmavo may also serve as selbri, acting as variables that stand for another selbri. The most commonly used of these is <valsi>go'i</valsi>, which represents the main bridi of the previous Relojban sentence, with any new sumti or other sentence features being expressed replacing the previously expressed ones. Thus, in this context:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0UC">
       <title>
@@ -1157,7 +1157,7 @@
     <title>The sumti <valsi>di'u</valsi> and <jbophrase>la'e di'u</jbophrase></title>
     <para>
       <indexterm type="general"><primary>reference</primary><secondary>quick-tour version</secondary></indexterm>
-      In English, I might say <quote>The dog is beautiful</quote>, and you might reply <quote>This pleases me.</quote> How do you know what <quote>this</quote> refers to? Lojban uses different expressions to convey the possible meanings of the English:
+      In English, I might say <quote>The dog is beautiful</quote>, and you might reply <quote>This pleases me.</quote> How do you know what <quote>this</quote> refers to? Relojban uses different expressions to convey the possible meanings of the English:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0wB">
       <title>
@@ -1224,7 +1224,7 @@
     <title>Possession</title>
     <para>
       <indexterm type="general"><primary>possession</primary><secondary>quick-tour version</secondary></indexterm>
-      <quote>Possession</quote> refers to the concept of specifying an object by saying who it belongs to (or with). A full explanation of Lojban possession is given in <xref linkend="chapter-relative-clauses"/>. A simple means of expressing possession, however, is to place a sumti representing the possessor of an object within the description sumti that refers to the object: specifically, between the <valsi>lo</valsi> and the selbri of the description:
+      <quote>Possession</quote> refers to the concept of specifying an object by saying who it belongs to (or with). A full explanation of Relojban possession is given in <xref linkend="chapter-relative-clauses"/>. A simple means of expressing possession, however, is to place a sumti representing the possessor of an object within the description sumti that refers to the object: specifically, between the <valsi>lo</valsi> and the selbri of the description:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0zY">
       <title>
@@ -1245,7 +1245,7 @@
     </example>
     <para role="indent">
       <indexterm type="general"><primary>possession not ownership</primary><secondary>quick-tour version</secondary></indexterm>
-      In Lojban, possession doesn't necessarily mean ownership: one may <quote>possess</quote> a chair simply by sitting on it, even though it actually belongs to someone else. English uses possession casually in the same way, but also uses it to refer to actual ownership or even more intimate relationships: <quote>my arm</quote> doesn't mean <quote>some arm I own</quote> but rather <quote>the arm that is part of my body</quote>. Lojban has methods of specifying all these different kinds of possession precisely and easily.
+      In Relojban, possession doesn't necessarily mean ownership: one may <quote>possess</quote> a chair simply by sitting on it, even though it actually belongs to someone else. English uses possession casually in the same way, but also uses it to refer to actual ownership or even more intimate relationships: <quote>my arm</quote> doesn't mean <quote>some arm I own</quote> but rather <quote>the arm that is part of my body</quote>. Relojban has methods of specifying all these different kinds of possession precisely and easily.
     </para>
   </section>
   <section xml:id="section-vocatives-and-commands">
@@ -1260,7 +1260,7 @@
       <jbophrase>doi la .djan.</jbophrase>
     </example>
     <para role="noindent">
-      means <quote>Oh, John, I'm talking to you</quote>. It also has the effect of setting the value of <valsi>do</valsi>; <valsi>do</valsi> now refers to <quote>John</quote> until it is changed in some way in the conversation. Note that <xref linkend="example-random-id-ahVb"/> is not a bridi, but it is a legitimate Lojban sentence nevertheless; it is known as a <quote>vocative phrase</quote>.
+      means <quote>Oh, John, I'm talking to you</quote>. It also has the effect of setting the value of <valsi>do</valsi>; <valsi>do</valsi> now refers to <quote>John</quote> until it is changed in some way in the conversation. Note that <xref linkend="example-random-id-ahVb"/> is not a bridi, but it is a legitimate Relojban sentence nevertheless; it is known as a <quote>vocative phrase</quote>.
     </para>
     <para>
       Other cmavo can be used instead of <valsi>doi</valsi> in a vocative phrase, with a different significance. For example, the cmavo <valsi>coi</valsi> means <quote>hello</quote> and <valsi>co'o</valsi> means <quote>good-bye</quote>. Either word may stand alone, they may follow one another, or either may be followed by a sumti.
@@ -1284,7 +1284,7 @@
     <para role="indent">
       <indexterm type="general"><primary>imperatives</primary><secondary>quick-tour version</secondary></indexterm>
       <indexterm type="general"><primary>commands</primary><secondary>quick-tour version</secondary></indexterm>
-      Commands are expressed in Lojban by a simple variation of the main bridi structure. If you say
+      Commands are expressed in Relojban by a simple variation of the main bridi structure. If you say
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k11I">
       <title>
@@ -1301,7 +1301,7 @@
       </interlinear-gloss-itemized>
     </example>
     <para role="noindent">
-      you are simply making a statement of fact. In order to issue a command in Lojban, substitute the word <valsi>ko</valsi> for <valsi>do</valsi>. The bridi
+      you are simply making a statement of fact. In order to issue a command in Relojban, substitute the word <valsi>ko</valsi> for <valsi>do</valsi>. The bridi
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k11z">
       <title>
@@ -1329,7 +1329,7 @@
       </interlinear-gloss-itemized>
     </example>
     <para role="indent">
-      The <valsi>ko</valsi> need not be in the x1 place, but rather can occur anywhere a sumti is allowed, leading to possible Lojban commands that are very unlike English commands:
+      The <valsi>ko</valsi> need not be in the x1 place, but rather can occur anywhere a sumti is allowed, leading to possible Relojban commands that are very unlike English commands:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k14j">
       <title>
@@ -1383,7 +1383,7 @@
     <title>Questions</title>
     <para>
       <indexterm type="general"><primary>questions</primary><secondary>quick-tour version</secondary></indexterm>
-      There are many kinds of questions in Lojban: full explanations appear in <xref linkend="section-questions-and-answers"/> and in various other chapters throughout the book. In this chapter, we will introduce three kinds: sumti questions, selbri questions, and yes/no questions.
+      There are many kinds of questions in Relojban: full explanations appear in <xref linkend="section-questions-and-answers"/> and in various other chapters throughout the book. In this chapter, we will introduce three kinds: sumti questions, selbri questions, and yes/no questions.
     </para>
     <para>
       <indexterm type="general"><primary>sumti questions</primary><secondary>quick-tour version</secondary></indexterm>
@@ -1542,7 +1542,7 @@
       <para>Is it true that you are talking to me?</para>
     </example>
     <para role="indent">
-      In Lojban we have a word that asks precisely that question in precisely the same way. The cmavo <valsi>xu</valsi>, when placed in front of a bridi, asks whether that bridi is true as stated. So
+      In Relojban we have a word that asks precisely that question in precisely the same way. The cmavo <valsi>xu</valsi>, when placed in front of a bridi, asks whether that bridi is true as stated. So
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k1gp">
       <title>
@@ -1563,12 +1563,12 @@
       </interlinear-gloss-itemized>
     </example>
     <para role="noindent">
-      is the Lojban translation of <xref linkend="example-random-id-fVMN"/>.
+      is the Relojban translation of <xref linkend="example-random-id-fVMN"/>.
     </para>
     <para>
       <indexterm type="general"><primary>affirmative answer</primary><secondary>quick-tour version</secondary></indexterm>
       <indexterm type="general"><primary>go'i with xu</primary><secondary>quick-tour version</secondary></indexterm>
-      The answer <quote>Yes</quote> may be given by simply restating the bridi without the <valsi>xu</valsi> question word. Lojban has a shorthand for doing this with the word <valsi>go'i</valsi>, mentioned in <xref linkend="section-some-brivla"/>. Instead of a negative answer, the bridi may be restated in such a way as to make it true. If this can be done by substituting sumti, it may be done with <valsi>go'i</valsi> as well. For example:
+      The answer <quote>Yes</quote> may be given by simply restating the bridi without the <valsi>xu</valsi> question word. Relojban has a shorthand for doing this with the word <valsi>go'i</valsi>, mentioned in <xref linkend="section-some-brivla"/>. Instead of a negative answer, the bridi may be restated in such a way as to make it true. If this can be done by substituting sumti, it may be done with <valsi>go'i</valsi> as well. For example:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k1gU">
       <title>
@@ -1661,7 +1661,7 @@
       Different cultures express emotions and attitudes with a variety of intonations and gestures that are not usually included in written language. Some of these are available in some languages as interjections (i.e. <quote>Aha!</quote>, <quote>Oh no!</quote>, <quote>Ouch!</quote>, <quote>Aahh!</quote>, etc.), but they vary greatly from culture to culture.
     </para>
     <para>
-      Lojban has a group of cmavo known as <quote>attitudinal indicators</quote> which specifically covers this type of commentary on spoken statements. They are both written and spoken, but require no specific intonation or gestures. Grammatically they are very simple: one or more attitudinals at the beginning of a bridi apply to the entire bridi; anywhere else in the bridi they apply to the word immediately to the left. For example:
+      Relojban has a group of cmavo known as <quote>attitudinal indicators</quote> which specifically covers this type of commentary on spoken statements. They are both written and spoken, but require no specific intonation or gestures. Grammatically they are very simple: one or more attitudinals at the beginning of a bridi apply to the entire bridi; anywhere else in the bridi they apply to the word immediately to the left. For example:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k1LH">
       <title>
@@ -1879,7 +1879,7 @@
     </para>
     <para>
       <indexterm type="general"><primary>sentences</primary><secondary>tenseless</secondary><tertiary>quick-tour version</tertiary></indexterm>
-      The Lojban sentence
+      The Relojban sentence
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k1xz">
       <title>
@@ -1900,7 +1900,7 @@
       </interlinear-gloss-itemized>
     </example>
     <para role="noindent">
-      serves as a translation of either <xref linkend="example-random-id-xIVa"/> or <xref linkend="example-random-id-1Acu"/>, and of many other possible English sentences as well. It is not marked for tense, and can refer to an event in the past, the present or the future. This rule does not mean that Lojban has no way of representing the time of an event. A close translation of <xref linkend="example-random-id-xIVa"/> would be:
+      serves as a translation of either <xref linkend="example-random-id-xIVa"/> or <xref linkend="example-random-id-1Acu"/>, and of many other possible English sentences as well. It is not marked for tense, and can refer to an event in the past, the present or the future. This rule does not mean that Relojban has no way of representing the time of an event. A close translation of <xref linkend="example-random-id-xIVa"/> would be:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k1Y5">
       <title>
@@ -1942,11 +1942,11 @@
       </interlinear-gloss-itemized>
     </example>
     <para role="noindent">
-      necessarily refers to the present, because of the tag <valsi>ca</valsi>. Tags used in this way always appear at the very beginning of the selbri, just after the <valsi>cu</valsi>, and they may make a <valsi>cu</valsi> unnecessary, since tags cannot be absorbed into tanru. Such tags serve as an equivalent to English tenses and adverbs. In Lojban, tense information is completely optional. If unspecified, the appropriate tense is picked up from context.
+      necessarily refers to the present, because of the tag <valsi>ca</valsi>. Tags used in this way always appear at the very beginning of the selbri, just after the <valsi>cu</valsi>, and they may make a <valsi>cu</valsi> unnecessary, since tags cannot be absorbed into tanru. Such tags serve as an equivalent to English tenses and adverbs. In Relojban, tense information is completely optional. If unspecified, the appropriate tense is picked up from context.
     </para>
     <para>
       <indexterm type="general"><primary>space tenses</primary><secondary>quick-tour version</secondary></indexterm>
-      Lojban also extends the notion of <quote>tense</quote> to refer not only to time but to space. The following example uses the tag <valsi>vu</valsi> to specify that the event it describes happens far away from the speaker:
+      Relojban also extends the notion of <quote>tense</quote> to refer not only to time but to space. The following example uses the tag <valsi>vu</valsi> to specify that the event it describes happens far away from the speaker:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k20b">
       <title>
@@ -1986,7 +1986,7 @@
       </interlinear-gloss-itemized>
     </example>
     <para role="noindent">
-      (Since Lojban tense is optional, we don't know when he or she talks.)
+      (Since Relojban tense is optional, we don't know when he or she talks.)
     </para>
     <para>
       Tensed sumti with space tags correspond roughly to the English use of <quote>this</quote> or <quote>that</quote> as adjectives, as in the following example, which uses the tag <valsi>vi</valsi> meaning <quote>nearby</quote>:
@@ -2039,17 +2039,17 @@
     </example>
   </section>
   <section xml:id="section-terms">
-    <title>Lojban grammatical terms</title>
+    <title>Relojban grammatical terms</title>
     <para>
       <indexterm type="general"><primary>grammatical terms</primary><secondary>quick-tour version</secondary></indexterm>
-      Here is a review of the Lojban grammatical terms used in this chapter, plus some others used throughout this book. Only terms that are themselves Lojban words are included: there are of course many expressions like <quote>indicator</quote> in <xref linkend="chapter-quantifiers"/> that are not explained here. See the Index for further help with these.
+      Here is a review of the Relojban grammatical terms used in this chapter, plus some others used throughout this book. Only terms that are themselves Relojban words are included: there are of course many expressions like <quote>indicator</quote> in <xref linkend="chapter-quantifiers"/> that are not explained here. See the Index for further help with these.
     </para>
     <para role="allowbreaks"/>
     <informaltable class="vertsep">
       <colgroup/>
       <tr>
         <td><valsi>bridi</valsi></td>
-        <td><indexterm type="general"><primary>bridi</primary><secondary>definition</secondary><tertiary>quick-tour version</tertiary></indexterm> predication; the basic unit of Lojban expression; the main kind of Lojban sentence; a claim that some objects stand in some relationship, or that some single object has some property. </td>
+        <td><indexterm type="general"><primary>bridi</primary><secondary>definition</secondary><tertiary>quick-tour version</tertiary></indexterm> predication; the basic unit of Relojban expression; the main kind of Relojban sentence; a claim that some objects stand in some relationship, or that some single object has some property. </td>
       </tr>
       <tr>
         <td><valsi>sumti</valsi></td>
@@ -2061,11 +2061,11 @@
       </tr>
       <tr>
         <td><valsi>cmavo</valsi></td>
-        <td><indexterm type="general"><primary>cmavo</primary><secondary>definition</secondary><tertiary>quick-tour version</tertiary></indexterm> one of the Lojban parts of speech; a short word; a structural word; a word used for its grammatical function. </td>
+        <td><indexterm type="general"><primary>cmavo</primary><secondary>definition</secondary><tertiary>quick-tour version</tertiary></indexterm> one of the Relojban parts of speech; a short word; a structural word; a word used for its grammatical function. </td>
       </tr>
       <tr>
         <td><valsi>brivla</valsi></td>
-        <td><indexterm type="general"><primary>brivla</primary><secondary>definition</secondary><tertiary>quick-tour version</tertiary></indexterm> one of the Lojban parts of speech; a content word; a predicate word; can function as a selbri; is a gismu, a lujvo, or a zi'evla. See <xref linkend="chapter-morphology"/>. </td>
+        <td><indexterm type="general"><primary>brivla</primary><secondary>definition</secondary><tertiary>quick-tour version</tertiary></indexterm> one of the Relojban parts of speech; a content word; a predicate word; can function as a selbri; is a gismu, a lujvo, or a zi'evla. See <xref linkend="chapter-morphology"/>. </td>
       </tr>
       <tr>
         <td><valsi>gismu</valsi></td>

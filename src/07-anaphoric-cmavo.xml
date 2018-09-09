@@ -11,13 +11,13 @@
     <title>What are sumka'i and brika'i? What are they for?</title>
     <para>
       <indexterm type="general"><primary>pronouns in English</primary><secondary>as noun abbreviations</secondary></indexterm>
-      Speakers of Lojban, like speakers of other languages, require mechanisms of abbreviation. If every time we referred to something, we had to express a complete description of it, life would be too short to say what we have to say. In English, we have words called <quote>pronouns</quote> which allow us to replace nouns or noun phrases with shorter terms. An English with no pronouns might look something like this:
+      Speakers of Relojban, like speakers of other languages, require mechanisms of abbreviation. If every time we referred to something, we had to express a complete description of it, life would be too short to say what we have to say. In English, we have words called <quote>pronouns</quote> which allow us to replace nouns or noun phrases with shorter terms. An English with no pronouns might look something like this:
     </para>
     <example xml:id="example-random-id-KeL4">
       <title>
       </title>
       <para>
-        Speakers of Lojban, like speakers of other languages, require mechanisms of abbreviation. If every time speakers of Lojban referred to a thing to which speakers of Lojban refer, speakers of Lojban had to express a complete description of what speakers of Lojban referred to, life would be too short to say what speakers of Lojban have to say.
+        Speakers of Relojban, like speakers of other languages, require mechanisms of abbreviation. If every time speakers of Relojban referred to a thing to which speakers of Relojban refer, speakers of Relojban had to express a complete description of what speakers of Relojban referred to, life would be too short to say what speakers of Relojban have to say.
       </para>
     </example>
     <para role="indent">
@@ -55,7 +55,7 @@
       <indexterm type="general"><primary>sumka'i</primary><secondary>definition</secondary></indexterm>
       <indexterm type="general"><primary>sumka'i</primary><secondary>compared to pronouns in usage as abbreviations</secondary></indexterm>
       <indexterm type="general"><primary>pronouns</primary><secondary>compared to sumka'i in usage as abbreviations</secondary></indexterm>
-      In Lojban, we have sumti rather than nouns, so our equivalent of pronouns are called by the hybrid term <quote>sumka'i</quote>. A purely Lojban term would be <jbophrase>sumti cmavo</jbophrase>: all of the sumka'i are cmavo belonging to selma'o KOhA. In exactly the same way, Lojban has a group of cmavo (belonging to selma'o GOhA) which serve as selbri or full bridi. These may be called <quote>brika'i</quote> or <jbophrase>bridi cmavo</jbophrase>. This chapter explains the uses of all the members of selma'o KOhA and GOhA. They fall into a number of groups, known as series: thus, in selma'o KOhA, we have among others the mi-series, the ko'a-series, the da-series, and so on. In each section, a series of sumka'i is explained, and if there is a corresponding series of brika'i, it is explained and contrasted. Many sumka'i series don't have brika'i analogues, however.
+      In Relojban, we have sumti rather than nouns, so our equivalent of pronouns are called by the hybrid term <quote>sumka'i</quote>. A purely Relojban term would be <jbophrase>sumti cmavo</jbophrase>: all of the sumka'i are cmavo belonging to selma'o KOhA. In exactly the same way, Relojban has a group of cmavo (belonging to selma'o GOhA) which serve as selbri or full bridi. These may be called <quote>brika'i</quote> or <jbophrase>bridi cmavo</jbophrase>. This chapter explains the uses of all the members of selma'o KOhA and GOhA. They fall into a number of groups, known as series: thus, in selma'o KOhA, we have among others the mi-series, the ko'a-series, the da-series, and so on. In each section, a series of sumka'i is explained, and if there is a corresponding series of brika'i, it is explained and contrasted. Many sumka'i series don't have brika'i analogues, however.
     </para>
     <para>
       <indexterm type="general"><primary>antecedent of brika'i</primary><secondary>definition</secondary></indexterm>
@@ -131,7 +131,7 @@
       <indexterm type="general"><primary>sumka'i</primary><secondary>for speaker(s)</secondary></indexterm>
       <indexterm type="general"><primary>sumka'i</primary><secondary>mi-series</secondary></indexterm>
       <indexterm type="general"><primary>mi-series</primary><secondary>of sumka'i</secondary></indexterm>
-      The mi-series of sumka'i refer to the speaker, the listener, and others in various combinations. <valsi>mi</valsi> refers to the speaker and perhaps others for whom the speaker speaks; it may be a Lojbanic mass. <valsi>do</valsi> refers to the listener or listeners. Neither <valsi>mi</valsi> nor <valsi>do</valsi> is specific about the number of persons referred to; for example, the foreman of a jury may refer to the members of the jury as <valsi>mi</valsi>, since in speaking officially he represents all of them.
+      The mi-series of sumka'i refer to the speaker, the listener, and others in various combinations. <valsi>mi</valsi> refers to the speaker and perhaps others for whom the speaker speaks; it may be a Relojbanic mass. <valsi>do</valsi> refers to the listener or listeners. Neither <valsi>mi</valsi> nor <valsi>do</valsi> is specific about the number of persons referred to; for example, the foreman of a jury may refer to the members of the jury as <valsi>mi</valsi>, since in speaking officially he represents all of them.
     </para>
     <para>
       <indexterm type="lojban-word"><primary>COI selma'o</primary></indexterm>
@@ -182,7 +182,7 @@
     </para>
     <para>
       <indexterm type="general"><primary>sumka'i for &quot;we&quot;</primary><secondary>contrasted with English &quot;we&quot;</secondary></indexterm>
-      <indexterm type="general"><primary>English &quot;we&quot;</primary><secondary>contrasted with Lojban sumka'i for &quot;we&quot;</secondary></indexterm>
+      <indexterm type="general"><primary>English &quot;we&quot;</primary><secondary>contrasted with Relojban sumka'i for &quot;we&quot;</secondary></indexterm>
       In English, <quote>we</quote> can mean <valsi>mi</valsi> or <valsi>mi'o</valsi> or <valsi>mi'a</valsi> or even <valsi>ma'a</valsi>, and English-speakers often suffer because they cannot easily distinguish <valsi>mi'o</valsi> from <valsi>mi'a</valsi>:
     </para>
     <example xml:id="example-random-id-22dg">
@@ -225,8 +225,8 @@
     </example>
     <para role="indent">
       <indexterm type="general"><primary>ko</primary><secondary>in later selbri place in imperative</secondary></indexterm>
-      <indexterm type="general"><primary>imperatives</primary><secondary>English contrasted with Lojban in presence of subject of command</secondary></indexterm>
-      In English, the subject of a command is omitted, but in Lojban, the word <valsi>ko</valsi> must be used. However, <valsi>ko</valsi> does not have to appear in the x1 place:
+      <indexterm type="general"><primary>imperatives</primary><secondary>English contrasted with Relojban in presence of subject of command</secondary></indexterm>
+      In English, the subject of a command is omitted, but in Relojban, the word <valsi>ko</valsi> must be used. However, <valsi>ko</valsi> does not have to appear in the x1 place:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-5Jbi">
       <title>
@@ -290,7 +290,7 @@
       <indexterm type="general"><primary>ti-series sumka'i</primary><secondary>compared with English this/that</secondary></indexterm>
       <indexterm type="general"><primary>demonstrative sumka'i</primary></indexterm>
       <indexterm type="general"><primary>pointing</primary><secondary>reference by</secondary></indexterm>
-      It is often useful to refer to things by pointing to them or by some related non-linguistic mechanism. In English, the words <quote>this</quote> and <quote>that</quote> serve this function among others: <quote>this</quote> refers to something pointed at that is near the speaker, and <quote>that</quote> refers to something further away. The Lojban sumka'i of the ti-series serve the same functions, but more narrowly. The cmavo <valsi>ti</valsi>, <valsi>ta</valsi>, and <valsi>tu</valsi> provide only the pointing function of <quote>this</quote> and <quote>that</quote>; they are not used to refer to things that cannot be pointed at.
+      It is often useful to refer to things by pointing to them or by some related non-linguistic mechanism. In English, the words <quote>this</quote> and <quote>that</quote> serve this function among others: <quote>this</quote> refers to something pointed at that is near the speaker, and <quote>that</quote> refers to something further away. The Relojban sumka'i of the ti-series serve the same functions, but more narrowly. The cmavo <valsi>ti</valsi>, <valsi>ta</valsi>, and <valsi>tu</valsi> provide only the pointing function of <quote>this</quote> and <quote>that</quote>; they are not used to refer to things that cannot be pointed at.
     </para>
     <para>
       <indexterm type="general"><primary>ti-series sumka'i</primary><secondary>3 degrees of distance with</secondary></indexterm>
@@ -308,7 +308,7 @@
       <indexterm type="general"><primary>ti</primary><secondary>as pronoun expression for English this</secondary></indexterm>
       <indexterm type="general"><primary>this</primary><secondary>adjective usage contrasted with pronoun usage</secondary></indexterm>
       <indexterm type="general"><primary>this</primary><secondary>pronoun usage contrasted with adjective usage</secondary></indexterm>
-      It is important to distinguish between the English pronoun <quote>this</quote> and the English adjective <quote>this</quote> as in <quote>this boat</quote>. The latter is not represented in Lojban by <valsi>ti</valsi>:
+      It is important to distinguish between the English pronoun <quote>this</quote> and the English adjective <quote>this</quote> as in <quote>this boat</quote>. The latter is not represented in Relojban by <valsi>ti</valsi>:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-IWi7">
       <title>
@@ -322,7 +322,7 @@
     <para role="noindent">
       <indexterm type="general"><primary>this</primary><secondary>adjective expression with vi</secondary></indexterm>
       <indexterm type="general"><primary>vi</primary><secondary>as adjective expression for English this</secondary></indexterm>
-      does not mean <quote>this boat</quote> but rather <quote>this one's boat</quote>, <quote>the boat associated with this thing</quote>, as explained in <xref linkend="section-possessive-sumti"/>. A correct Lojban translation of <xref linkend="example-random-id-IWi7"/> is
+      does not mean <quote>this boat</quote> but rather <quote>this one's boat</quote>, <quote>the boat associated with this thing</quote>, as explained in <xref linkend="section-possessive-sumti"/>. A correct Relojban translation of <xref linkend="example-random-id-IWi7"/> is
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-rfUc">
       <title>
@@ -427,7 +427,7 @@
       </para>
     </example>
     <para role="indent">
-      Here <quote>that</quote> does not refer to something that can be pointed to, but to the preceding sentence <quote>You don't like cats</quote>. In Lojban, therefore, <xref linkend="example-random-id-KNih"/> is rendered:
+      Here <quote>that</quote> does not refer to something that can be pointed to, but to the preceding sentence <quote>You don't like cats</quote>. In Relojban, therefore, <xref linkend="example-random-id-KNih"/> is rendered:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-nTou">
       <title>
@@ -636,11 +636,11 @@
       <indexterm type="general"><primary>ko'a-series sumka'i</primary></indexterm>
       <indexterm type="general"><primary>sumka'i</primary><secondary>ko'a-series</secondary></indexterm>
       <indexterm type="general"><primary>personal pronouns</primary><secondary>with ko'a-series for he/she/it/they</secondary></indexterm>
-      The discussion of personal sumka'i in <xref linkend="section-mi-series"/> may have seemed incomplete. In English, the personal pronouns include not only <quote>I</quote> and <quote>you</quote> but also <quote>he</quote>, <quote>she</quote>, <quote>it</quote>, and <quote>they</quote>. Lojban does have equivalents of this latter group: in fact, it has more of them than English does. However, they are organized and used very differently.
+      The discussion of personal sumka'i in <xref linkend="section-mi-series"/> may have seemed incomplete. In English, the personal pronouns include not only <quote>I</quote> and <quote>you</quote> but also <quote>he</quote>, <quote>she</quote>, <quote>it</quote>, and <quote>they</quote>. Relojban does have equivalents of this latter group: in fact, it has more of them than English does. However, they are organized and used very differently.
     </para>
     <para>
       <indexterm type="general"><primary>ko'a-series sumka'i</primary><secondary>as assignable</secondary></indexterm>
-      <indexterm type="general"><primary>personal pronouns for he/she/it/they</primary><secondary>English contrasted with Lojban in organization</secondary></indexterm>
+      <indexterm type="general"><primary>personal pronouns for he/she/it/they</primary><secondary>English contrasted with Relojban in organization</secondary></indexterm>
       There are ten cmavo in the ko'a-series, and they may be assigned freely to any sumti whatsoever. The English word <quote>he</quote> can refer only to males, <quote>she</quote> only to females (and ships and a few other things), <quote>it</quote> only to inanimate things, and <quote>they</quote> only to plurals; the cmavo of the ko'a-series have no restrictions at all. Therefore, it is almost impossible to guess from the context what ko'a-series cmavo might refer to if they are just used freely:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-qdCR">
@@ -652,11 +652,11 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      The English gloss <quote>it-1</quote>, plus knowledge about the real world, would tend to make English-speakers believe that <valsi>ko'a</valsi> refers to the store; in other words, that its antecedent is <jbophrase>le zarci</jbophrase>. To a Lojbanist, however, <jbophrase>la .alis.</jbophrase> is just as likely an antecedent, in which case <xref linkend="example-random-id-qdCR"/> means that Alice, not the store, is blue.
+      The English gloss <quote>it-1</quote>, plus knowledge about the real world, would tend to make English-speakers believe that <valsi>ko'a</valsi> refers to the store; in other words, that its antecedent is <jbophrase>le zarci</jbophrase>. To a Relojbanist, however, <jbophrase>la .alis.</jbophrase> is just as likely an antecedent, in which case <xref linkend="example-random-id-qdCR"/> means that Alice, not the store, is blue.
     </para>
     <para>
       <indexterm type="general"><primary>ko'a-series sumka'i</primary><secondary>assigning with goi</secondary></indexterm>
-      To avoid this pitfall, Lojban employs special syntax, using the cmavo <valsi>goi</valsi>:
+      To avoid this pitfall, Relojban employs special syntax, using the cmavo <valsi>goi</valsi>:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-duGR">
       <title>
@@ -772,7 +772,7 @@
       <indexterm type="general"><primary>lerfu as sumka'i</primary><secondary>contrasted with ko'a-series in explicit assignment of</secondary></indexterm>
       <indexterm type="general"><primary>sumka'i</primary><secondary>lerfu as</secondary></indexterm>
       <indexterm type="general"><primary>lerfu</primary><secondary>as assignable sumka'i</secondary></indexterm>
-      As is explained in <xref linkend="section-lerfu-pro-sumti"/>, the words for Lojban letters, belonging to selma'o BY and certain related selma'o, are also usable as assignable sumka'i. The main difference between letter sumka'i and ko'a-series sumka'i is that, in the absence of an explicit assignment, letters are taken to refer to the most recent name or description sumti beginning with the same letter:
+      As is explained in <xref linkend="section-lerfu-pro-sumti"/>, the words for Relojban letters, belonging to selma'o BY and certain related selma'o, are also usable as assignable sumka'i. The main difference between letter sumka'i and ko'a-series sumka'i is that, in the absence of an explicit assignment, letters are taken to refer to the most recent name or description sumti beginning with the same letter:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-x1gh">
       <title>
@@ -785,7 +785,7 @@
     <para role="indent">
       <indexterm type="general"><primary>goi</primary><secondary>use in assigning lerfu as sumka'i</secondary></indexterm>
       <indexterm type="general"><primary>lerfu as sumka'i</primary><secondary>explicit assignment of antecedent</secondary></indexterm>
-      The Lojban word <valsi>gerku</valsi> begins with <letteral>g</letteral>, so the antecedent of <valsi>gy.</valsi>, the cmavo for the letter <letteral>g</letteral>, must be <jbophrase>le gerku</jbophrase>. In the English translation, we use the same principle to refer to the dog as <quote>D</quote>. Of course, in case of ambiguity, <valsi>goi</valsi> can be used to make an explicit assignment.
+      The Relojban word <valsi>gerku</valsi> begins with <letteral>g</letteral>, so the antecedent of <valsi>gy.</valsi>, the cmavo for the letter <letteral>g</letteral>, must be <jbophrase>le gerku</jbophrase>. In the English translation, we use the same principle to refer to the dog as <quote>D</quote>. Of course, in case of ambiguity, <valsi>goi</valsi> can be used to make an explicit assignment.
     </para>
     <para>
       <indexterm type="general"><primary>names</primary><secondary>assigning with goi</secondary></indexterm>
@@ -879,7 +879,7 @@
       </cmavo-entry>
     </cmavo-list>
     <para role="indent">
-      The term <quote>anaphora</quote> literally means <quote>repetition</quote>, but is used in linguistics to refer to pronouns whose significance is the repetition of earlier words, namely their antecedents. Lojban provides three sumka'i anaphora, <valsi>ri</valsi>, <valsi>ra</valsi>, and <valsi>ru</valsi>; and three corresponding brika'i anaphora, <valsi>go'i</valsi>, <valsi>go'a</valsi>, and <valsi>go'u</valsi>. These cmavo reveal the same vowel pattern as the ti-series, but the <quote>distances</quote> referred to are not physical distances, but distances from the anaphoric cmavo to its antecedent.
+      The term <quote>anaphora</quote> literally means <quote>repetition</quote>, but is used in linguistics to refer to pronouns whose significance is the repetition of earlier words, namely their antecedents. Relojban provides three sumka'i anaphora, <valsi>ri</valsi>, <valsi>ra</valsi>, and <valsi>ru</valsi>; and three corresponding brika'i anaphora, <valsi>go'i</valsi>, <valsi>go'a</valsi>, and <valsi>go'u</valsi>. These cmavo reveal the same vowel pattern as the ti-series, but the <quote>distances</quote> referred to are not physical distances, but distances from the anaphoric cmavo to its antecedent.
     </para>
     <para>
       The cmavo <valsi>ri</valsi> is the simplest of these; it has the same referent as the last complete sumti appearing before the <valsi>ri</valsi>:
@@ -1115,7 +1115,7 @@
       </interlinear-gloss>
     </example>
     <para role="noindent">
-      (Note: The Lojban does not contain an equivalent of the <valsi>my</valsi> in the colloquial English; it leaves the fact that it is the speaker's son and daughter that are referred to implicit. To make the fact explicit, use <jbophrase>le bersa</jbophrase>/<jbophrase>tixnu be mi</jbophrase>.)
+      (Note: The Relojban does not contain an equivalent of the <valsi>my</valsi> in the colloquial English; it leaves the fact that it is the speaker's son and daughter that are referred to implicit. To make the fact explicit, use <jbophrase>le bersa</jbophrase>/<jbophrase>tixnu be mi</jbophrase>.)
     </para>
     <para>
       For good examples of <valsi>nei</valsi> and <valsi>no'a</valsi>, we need nested bridi contexts:
@@ -1361,7 +1361,7 @@
     <para>
       <indexterm type="general"><primary>co'e</primary><secondary>as selbri place-holder</secondary></indexterm>
       <indexterm type="general"><primary>selbri</primary><secondary>omitting with co'e</secondary></indexterm>
-      The brika'i <valsi>co'e</valsi> (which by itself constitutes the co'e-series of selma'o GOhA) represents the elliptical selbri. Lojban grammar does not allow the speaker to merely omit a selbri from a bridi, although any or all sumti may be freely omitted. Being vague about a relationship requires the use of <valsi>co'e</valsi> as a selbri place-holder:
+      The brika'i <valsi>co'e</valsi> (which by itself constitutes the co'e-series of selma'o GOhA) represents the elliptical selbri. Relojban grammar does not allow the speaker to merely omit a selbri from a bridi, although any or all sumti may be freely omitted. Being vague about a relationship requires the use of <valsi>co'e</valsi> as a selbri place-holder:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-uy9R">
       <title>
@@ -1373,7 +1373,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      The English version means, and the Lojban version probably means, that I try to open the door, but the relationship of opening is not actually specified; the Lojbanic listener must guess it from context. Lojban, unlike English, makes it clear that there is an implicit action that is not being expressed.
+      The English version means, and the Relojban version probably means, that I try to open the door, but the relationship of opening is not actually specified; the Relojbanic listener must guess it from context. Relojban, unlike English, makes it clear that there is an implicit action that is not being expressed.
     </para>
     <para>
       <indexterm type="general"><primary>co'e</primary><secondary>rationale for word form</secondary></indexterm>
@@ -1552,7 +1552,7 @@
     <para role="indent">
       <indexterm type="general"><primary>questions</primary><secondary>sumti</secondary></indexterm>
       <indexterm type="general"><primary>ma</primary><secondary>as sumti question</secondary></indexterm>
-      Lojban questions are more fully explained in <xref linkend="section-questions-and-answers"/>, but <valsi>ma</valsi> and <valsi>mo</valsi> are listed in this chapter for completeness. The cmavo <valsi>ma</valsi> asks for a sumti to make the bridi true:
+      Relojban questions are more fully explained in <xref linkend="section-questions-and-answers"/>, but <valsi>ma</valsi> and <valsi>mo</valsi> are listed in this chapter for completeness. The cmavo <valsi>ma</valsi> asks for a sumti to make the bridi true:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Csod">
       <title>
@@ -1791,7 +1791,7 @@
     <para role="indent">
       <indexterm type="general"><primary>bu'a-series sumka'i</primary><secondary>for bound variables</secondary></indexterm>
       <indexterm type="general"><primary>da-series sumka'i</primary><secondary>for bound variables</secondary></indexterm>
-      Bound variables belong to the predicate-logic part of Lojban, and are listed here for completeness only. Their semantics is explained in <xref linkend="chapter-quantifiers"/>. It is worth mentioning that the Lojban translation of <xref linkend="example-random-id-VISf"/> is:
+      Bound variables belong to the predicate-logic part of Relojban, and are listed here for completeness only. Their semantics is explained in <xref linkend="chapter-quantifiers"/>. It is worth mentioning that the Relojban translation of <xref linkend="example-random-id-VISf"/> is:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-6vxz">
       <title>

@@ -10,7 +10,7 @@
   <section xml:id="section-syntax">
     <title>The syntax of abstraction</title>
     <para>
-      The purpose of the feature of Lojban known as <quote>abstraction</quote> is to provide a means for taking whole bridi and packaging them up, as it were, into simple selbri. Syntactically, abstractions are very simple and uniform; semantically, they are rich and complex, with few features in common between one variety of abstraction and another. We will begin by discussing syntax without regard to semantics; as a result, the notion of abstraction may seem unmotivated at first. Bear with this difficulty until <xref linkend="section-events"/>.
+      The purpose of the feature of Relojban known as <quote>abstraction</quote> is to provide a means for taking whole bridi and packaging them up, as it were, into simple selbri. Syntactically, abstractions are very simple and uniform; semantically, they are rich and complex, with few features in common between one variety of abstraction and another. We will begin by discussing syntax without regard to semantics; as a result, the notion of abstraction may seem unmotivated at first. Bear with this difficulty until <xref linkend="section-events"/>.
     </para>
     <para>
       An abstraction selbri is formed by taking a full bridi and preceding it by any cmavo of selma'o NU. There are twelve such cmavo; they are known as <quote>abstractors</quote>. The bridi is closed by the elidable terminator <valsi>kei</valsi>, of selma'o KEI. Thus, to change the bridi
@@ -76,7 +76,7 @@
       The place structure of an abstraction selbri depends on the particular abstractor, and will be explained individually in the following sections.
     </para>
     <para>
-      Note: In glosses of bridi within abstractions, the grammatical form used in the English changes. Thus, in the gloss of <xref linkend="example-random-id-Via0"/> we see <quote>my going-to the store</quote> rather than <quote>I go-to the store</quote>; likewise, in the glosses of <xref linkend="example-random-id-0Ff4"/> and <xref linkend="example-random-id-sQ33"/> we see <quote>being-a-soldier</quote> rather than <quote>is-a-soldier</quote>. This procedure reflects the desire for more understandable glosses, and does not indicate any change in the Lojban form. A bridi is a bridi, and undergoes no change when it is used as part of an abstraction selbri.
+      Note: In glosses of bridi within abstractions, the grammatical form used in the English changes. Thus, in the gloss of <xref linkend="example-random-id-Via0"/> we see <quote>my going-to the store</quote> rather than <quote>I go-to the store</quote>; likewise, in the glosses of <xref linkend="example-random-id-0Ff4"/> and <xref linkend="example-random-id-sQ33"/> we see <quote>being-a-soldier</quote> rather than <quote>is-a-soldier</quote>. This procedure reflects the desire for more understandable glosses, and does not indicate any change in the Relojban form. A bridi is a bridi, and undergoes no change when it is used as part of an abstraction selbri.
     </para>
   </section>
   <section xml:id="section-events">
@@ -97,7 +97,7 @@
       <indexterm type="general"><primary>le nu</primary><secondary>definition</secondary></indexterm>
       <indexterm type="general"><primary>nu</primary><secondary>definition</secondary></indexterm>
       <indexterm type="general"><primary>common abstractor</primary></indexterm>
-      The examples in <xref linkend="section-syntax"/> made use of <valsi>nu</valsi> as the abstractor, and it is certainly the most common abstractor in Lojban text. Its purpose is to capture the event or state of the bridi considered as a whole. Do not confuse the <valsi>le</valsi> description built on a <valsi>nu</valsi> abstraction with ordinary descriptions based on <valsi>le</valsi> alone. The following sumti are quite distinct:
+      The examples in <xref linkend="section-syntax"/> made use of <valsi>nu</valsi> as the abstractor, and it is certainly the most common abstractor in Relojban text. Its purpose is to capture the event or state of the bridi considered as a whole. Do not confuse the <valsi>le</valsi> description built on a <valsi>nu</valsi> abstraction with ordinary descriptions based on <valsi>le</valsi> alone. The following sumti are quite distinct:
     </para>
     <example xml:id="example-random-id-qF0u" role="interlinear-gloss-example">
       <title>
@@ -153,7 +153,7 @@
     </para>
     <para>
       <indexterm type="general"><primary>events</primary><secondary>duration</secondary></indexterm>
-      In Lojban, the term <quote>event</quote> is divorced from its ordinary English sense of something that happens over a short period of time. The description:
+      In Relojban, the term <quote>event</quote> is divorced from its ordinary English sense of something that happens over a short period of time. The description:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-mxAt">
       <title>
@@ -204,7 +204,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      In the proper context, of course, <xref linkend="example-random-id-FRoP"/> could refer to the event of somebody else swimming. Its English equivalent, <quote>I like swimming</quote>, can't be interpreted as <quote>I like Frank's swimming</quote>; this is a fundamental distinction between English and Lojban. In Lojban, an omitted sumti can mean whatever the context indicates that it should mean.
+      In the proper context, of course, <xref linkend="example-random-id-FRoP"/> could refer to the event of somebody else swimming. Its English equivalent, <quote>I like swimming</quote>, can't be interpreted as <quote>I like Frank's swimming</quote>; this is a fundamental distinction between English and Relojban. In Relojban, an omitted sumti can mean whatever the context indicates that it should mean.
     </para>
     <para>
       <indexterm type="general"><primary>abstractions</primary><secondary>implicit in sumti</secondary></indexterm>
@@ -235,17 +235,17 @@
         <indexterm type="example"><primary>under conditions</primary></indexterm>
       </title>
       <interlinear-gloss>
-        <jbo>la .lojban. cu frili -- mi</jbo>
-        <gloss>That-named Lojban -- is-easy for me</gloss>
+        <jbo>la .relojban. cu frili -- mi</jbo>
+        <gloss>That-named Relojban -- is-easy for me</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
         <jbo>-- le nu mi tadni [kei]</jbo>
         <gloss>under-conditions the event-of I study</gloss>
-        <natlang>Lojban is easy for me when I study.</natlang>
+        <natlang>Relojban is easy for me when I study.</natlang>
       </interlinear-gloss>
     </example>
     <para role="noindent">
-      (The <quote>when</quote> of the English would also be appropriate for a construction involving a Lojban tense, but the Lojban sentence says more than that the studying is concurrent with the ease.)
+      (The <quote>when</quote> of the English would also be appropriate for a construction involving a Relojban tense, but the Relojban sentence says more than that the studying is concurrent with the ease.)
     </para>
     <para>
       <indexterm type="general"><primary>nu</primary><secondary>place structure</secondary></indexterm>
@@ -283,7 +283,7 @@
       </cmavo-entry>
     </cmavo-list>
     <para role="indent">
-      Event abstractions with <valsi>nu</valsi> suffice to express all kinds of events, whether long, short, unique, repetitive, or whatever. Lojban also has more finely discriminating machinery for talking about events, however. There are four other abstractors of selma'o NU for talking about four specific types of events, or four ways of looking at the same event.
+      Event abstractions with <valsi>nu</valsi> suffice to express all kinds of events, whether long, short, unique, repetitive, or whatever. Relojban also has more finely discriminating machinery for talking about events, however. There are four other abstractors of selma'o NU for talking about four specific types of events, or four ways of looking at the same event.
     </para>
     <para>
       <indexterm type="general"><primary>achievement abstractions</primary><secondary>definition</secondary></indexterm>
@@ -359,7 +359,7 @@
     </example>
     <para role="indent">
       <indexterm type="general"><primary>event types</primary><secondary>described</secondary></indexterm>
-      The abstractors in <!-- multiple examples --><xref linkend="example-random-id-nFR1"/> through <xref linkend="example-random-id-WztQ"/> could all have been replaced by <valsi>nu</valsi>, with some loss of precision. Note that Lojban allows every sort of event to be viewed in any of these four ways:
+      The abstractors in <!-- multiple examples --><xref linkend="example-random-id-nFR1"/> through <xref linkend="example-random-id-WztQ"/> could all have been replaced by <valsi>nu</valsi>, with some loss of precision. Note that Relojban allows every sort of event to be viewed in any of these four ways:
     </para>
     <itemizedlist>
       <listitem>
@@ -469,7 +469,7 @@
     </example>
     <para role="noindent">
       <indexterm type="general"><primary>having</primary><secondary>of properties</secondary></indexterm>
-      (The English word <quote>have</quote> frequently appears in any discussion of Lojban properties: things are said to <quote>have</quote> properties, but this is not the same sense of <quote>have</quote> as in <quote>I have money</quote>, which is possession.)
+      (The English word <quote>have</quote> frequently appears in any discussion of Relojban properties: things are said to <quote>have</quote> properties, but this is not the same sense of <quote>have</quote> as in <quote>I have money</quote>, which is possession.)
     </para>
     <para>
       Property descriptions, like event descriptions, are often wanted to fill places in brivla place structures:
@@ -563,7 +563,7 @@
     </example>
     <para role="indent">
       <indexterm type="general"><primary>property abstractions</primary><secondary>specifying determining place with ce'u</secondary></indexterm>
-      The <quote>X</quote> used in the glosses of <!-- multiple examples --><xref linkend="example-random-id-qfAM"/> through <xref linkend="example-random-id-qfav"/> as a place-holder cannot be represented only by ellipsis in Lojban, because ellipsis means that there must be a specific value that can fill the ellipsis, as mentioned in <xref linkend="section-events"/>. Instead, the cmavo <valsi>ce'u</valsi> of selma'o KOhA is employed when an explicit sumti is wanted. (The form <quote>X</quote> will be used in literal translations.)
+      The <quote>X</quote> used in the glosses of <!-- multiple examples --><xref linkend="example-random-id-qfAM"/> through <xref linkend="example-random-id-qfav"/> as a place-holder cannot be represented only by ellipsis in Relojban, because ellipsis means that there must be a specific value that can fill the ellipsis, as mentioned in <xref linkend="section-events"/>. Instead, the cmavo <valsi>ce'u</valsi> of selma'o KOhA is employed when an explicit sumti is wanted. (The form <quote>X</quote> will be used in literal translations.)
     </para>
     <para>
       Therefore, an explicit equivalent of <xref linkend="example-random-id-qfAM"/>, with no ellipsis, is:
@@ -689,10 +689,10 @@
       </interlinear-gloss>
     </example>
     <para role="noindent">
-      makes very little sense in either Lojban or English. We simply do not have any sort of measurement scale for being a mother.
+      makes very little sense in either Relojban or English. We simply do not have any sort of measurement scale for being a mother.
     </para>
     <para>
-      Semantically, a sumti with <jbophrase>le ni</jbophrase> is a number; however, it cannot be treated grammatically as a quantifier in Lojban unless prefixed by the mathematical cmavo <valsi>mo'e</valsi>:
+      Semantically, a sumti with <jbophrase>le ni</jbophrase> is a number; however, it cannot be treated grammatically as a quantifier in Relojban unless prefixed by the mathematical cmavo <valsi>mo'e</valsi>:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-SaTi">
       <title>
@@ -708,7 +708,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      Mathematical Lojban is beyond the scope of this chapter, and is explained more fully in <xref linkend="chapter-mekso"/>.
+      Mathematical Relojban is beyond the scope of this chapter, and is explained more fully in <xref linkend="chapter-mekso"/>.
     </para>
     <para>
       There are contexts where either property or amount abstractions make sense, and in such constructions, amount abstractions can make use of <valsi>ce'u</valsi> just like property abstractors. Thus,
@@ -752,7 +752,7 @@
   <section xml:id="section-truth-values">
     <title>Truth-value abstraction: <valsi>jei</valsi></title>
     <para>
-      The <quote>blueness of the picture</quote> discussed in <xref linkend="section-amounts"/> refers to the measurable amount of blue pigment (or other source of blueness), not to the degree of truth of the claim that blueness is present. That abstraction is expressed in Lojban using <valsi>jei</valsi>, which is closely related semantically to <valsi>ni</valsi>. In the simplest cases, <jbophrase>le jei</jbophrase> produces not a number but a truth value:
+      The <quote>blueness of the picture</quote> discussed in <xref linkend="section-amounts"/> refers to the measurable amount of blue pigment (or other source of blueness), not to the degree of truth of the claim that blueness is present. That abstraction is expressed in Relojban using <valsi>jei</valsi>, which is closely related semantically to <valsi>ni</valsi>. In the simplest cases, <jbophrase>le jei</jbophrase> produces not a number but a truth value:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-KuTE">
       <title>
@@ -780,7 +780,7 @@
       is equivalent to <quote>falsehood</quote>.
     </para>
     <para>
-      However, not everything in life (or even in Lojban) is simply true or false. There are shades of gray even in truth value, and <valsi>jei</valsi> is Lojban's mechanism for indicating the shade of grey intended:
+      However, not everything in life (or even in Relojban) is simply true or false. There are shades of gray even in truth value, and <valsi>jei</valsi> is Relojban's mechanism for indicating the shade of grey intended:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-MRD8">
       <title>
@@ -808,7 +808,7 @@
     <para>
       <indexterm type="general"><primary>fuzzy logic and truth-value abstraction</primary></indexterm>
       <indexterm type="general"><primary>abstractions</primary><secondary>truth-value and fuzzy logic</secondary></indexterm>
-      Abstractions using <valsi>jei</valsi> are the mechanism for fuzzy logic in Lojban; the <valsi>jei</valsi> abstraction refers to a number between 0 and 1 inclusive (as distinct from <valsi>ni</valsi> abstractions, which are often on open-ended scales). The detailed conventions for using <valsi>jei</valsi> in fuzzy-logic contexts have not yet been established.
+      Abstractions using <valsi>jei</valsi> are the mechanism for fuzzy logic in Relojban; the <valsi>jei</valsi> abstraction refers to a number between 0 and 1 inclusive (as distinct from <valsi>ni</valsi> abstractions, which are often on open-ended scales). The detailed conventions for using <valsi>jei</valsi> in fuzzy-logic contexts have not yet been established.
     </para>
   </section>
   <section xml:id="section-predications">
@@ -839,7 +839,7 @@
       </para>
     </example>
     <para role="indent">
-      How's that in Lojban? Let us try:
+      How's that in Relojban? Let us try:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-brpf">
       <title>
@@ -990,7 +990,7 @@
       This form is called an <quote>indirect question</quote> in English because the embedded English sentence is a question: <quote>Who went to the store?</quote> A person who says <xref linkend="example-random-id-N4Ja"/> is claiming to know the answer to this question. Indirect questions can occur with many other English verbs as well: I can wonder, or doubt, or see, or hear, as well as know who went to the store.
     </para>
     <para>
-      To express indirect questions in Lojban, we use a <jbophrase>le du'u</jbophrase> abstraction, but rather than using a question word like <quote>who</quote> (<valsi>ma</valsi> in Lojban), we use any word that will fit grammatically and mark it with the suffix particle <valsi>kau</valsi>. This cmavo belongs to selma'o UI, so grammatically it can appear anywhere. The simplest Lojban translation of <xref linkend="example-random-id-N4Ja"/> is therefore:
+      To express indirect questions in Relojban, we use a <jbophrase>le du'u</jbophrase> abstraction, but rather than using a question word like <quote>who</quote> (<valsi>ma</valsi> in Relojban), we use any word that will fit grammatically and mark it with the suffix particle <valsi>kau</valsi>. This cmavo belongs to selma'o UI, so grammatically it can appear anywhere. The simplest Relojban translation of <xref linkend="example-random-id-N4Ja"/> is therefore:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-QUxG">
       <title>
@@ -1028,7 +1028,7 @@
       Using one of the indefinite sumka'i such as <valsi>ma</valsi>, <valsi>zo'e</valsi>, or <valsi>da</valsi> does not suggest any particular value.
     </para>
     <para>
-      Why does Lojban require the <valsi>kau</valsi> marker, rather than using <valsi>ma</valsi> as English and Chinese and many other languages do? Because <valsi>ma</valsi> always signals a direct question, and so
+      Why does Relojban require the <valsi>kau</valsi> marker, rather than using <valsi>ma</valsi> as English and Chinese and many other languages do? Because <valsi>ma</valsi> always signals a direct question, and so
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-5WU4">
       <title>
@@ -1108,7 +1108,7 @@
       <indexterm type="general"><primary>abstractions</primary><secondary>experience</secondary></indexterm>
       <indexterm type="general"><primary>experience abstraction</primary></indexterm>
       <indexterm type="general"><primary>experience abstractor</primary></indexterm>
-      There are three more abstractors in Lojban, all of them little used so far. The abstractor <valsi>li'i</valsi> expresses experience:
+      There are three more abstractors in Relojban, all of them little used so far. The abstractor <valsi>li'i</valsi> expresses experience:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-FS6r">
       <title>
@@ -1130,8 +1130,8 @@
       <title>
       </title>
       <interlinear-gloss>
-        <jbo>mi nelci le si'o la .lojban. cu mulno</jbo>
-        <gloss>I enjoy the concept-of that-named Lojban -- being-complete.</gloss>
+        <jbo>mi nelci le si'o la .relojban. cu mulno</jbo>
+        <gloss>I enjoy the concept-of that-named Relojban -- being-complete.</gloss>
       </interlinear-gloss>
     </example>
     <para role="indent">
@@ -1197,7 +1197,7 @@
       </interlinear-gloss>
     </example>
     <para role="noindent">
-      and there is a book whose title might be rendered in Lojban as:
+      and there is a book whose title might be rendered in Relojban as:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-5Kw7">
       <title>
@@ -1229,7 +1229,7 @@
     </para>
   </section>
   <section xml:id="section-sumti-raising">
-    <title>Lojban sumti raising</title>
+    <title>Relojban sumti raising</title>
     <para>
       <indexterm type="general"><primary>abstraction conversion</primary></indexterm>
       The following cmavo are discussed in this section:
@@ -1258,7 +1258,7 @@
       </para>
     </example>
     <para role="noindent">
-      which in Lojban is:
+      which in Relojban is:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-1WER">
       <title>
@@ -1285,7 +1285,7 @@
     </example>
     <para role="noindent">
       <indexterm type="general"><primary>abstractions</primary><secondary>simplification to sumti with tu'a</secondary></indexterm>
-      where it is understood that what I try is actually not the door itself, but the act of opening it. The same simplification can be done in Lojban, but it must be marked explicitly using a cmavo. The relevant cmavo is <valsi>tu'a</valsi>, which belongs to selma'o LAhE. The Lojban equivalent of <xref linkend="example-random-id-K14X"/> is:
+      where it is understood that what I try is actually not the door itself, but the act of opening it. The same simplification can be done in Relojban, but it must be marked explicitly using a cmavo. The relevant cmavo is <valsi>tu'a</valsi>, which belongs to selma'o LAhE. The Relojban equivalent of <xref linkend="example-random-id-K14X"/> is:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-gabC">
       <title>
@@ -1322,7 +1322,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      This must mean that something which John does, or which happens to John, occurs frequently: but without more context there is no way to figure out what. Note that without the <valsi>tu'a</valsi>, <xref linkend="example-random-id-9S5B"/> would mean that John considered as an event frequently occurs &ndash; in other words, that John has some sort of on-and-off existence! Normally we do not think of people as events in English, but the x1 place of <valsi>cafne</valsi> is an event, and if something that does not seem to be an event is put there, the Lojbanic listener will attempt to construe it as one. (Of course, this analysis assumes that <cmevla>.djan.</cmevla> is the name of a person, and not the name of some event.)
+      This must mean that something which John does, or which happens to John, occurs frequently: but without more context there is no way to figure out what. Note that without the <valsi>tu'a</valsi>, <xref linkend="example-random-id-9S5B"/> would mean that John considered as an event frequently occurs &ndash; in other words, that John has some sort of on-and-off existence! Normally we do not think of people as events in English, but the x1 place of <valsi>cafne</valsi> is an event, and if something that does not seem to be an event is put there, the Relojbanic listener will attempt to construe it as one. (Of course, this analysis assumes that <cmevla>.djan.</cmevla> is the name of a person, and not the name of some event.)
     </para>
     <para>
       <indexterm type="general"><primary>abstractions</primary><secondary>simplification to sumti with jai</secondary></indexterm>
@@ -1352,7 +1352,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      In English, the subject of <quote>cause</quote> can either be the actual cause (an event), or else the agent of the cause (a person, typically); not so in Lojban, where the x1 of <valsi>rinka</valsi> is always an event. <xref linkend="example-random-id-jAdY"/> and <xref linkend="example-random-id-R8SN"/> look equally convenient (or inconvenient), but in making descriptions, <xref linkend="example-random-id-R8SN"/> can be altered to:
+      In English, the subject of <quote>cause</quote> can either be the actual cause (an event), or else the agent of the cause (a person, typically); not so in Relojban, where the x1 of <valsi>rinka</valsi> is always an event. <xref linkend="example-random-id-jAdY"/> and <xref linkend="example-random-id-R8SN"/> look equally convenient (or inconvenient), but in making descriptions, <xref linkend="example-random-id-R8SN"/> can be altered to:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Jt1n">
       <title>
@@ -1430,7 +1430,7 @@
       For events seen as point-events and abstracted with <valsi>mu'e</valsi>, the meaningful event contours are the spans <valsi>pu'o</valsi> and <valsi>ba'o</valsi> but not <valsi>ca'o</valsi> (a point-event has no duration), and the achievement contour <valsi>co'i</valsi>.
     </para>
     <para>
-      Note that the parts of events are themselves events, and may be treated as such. The points in time may be seen as <valsi>mu'e</valsi> point-events; the spans of time may constitute processes or activities. Therefore, Lojban allows us to refer to processes within processes, activities within states, and many other complicated abstract things.
+      Note that the parts of events are themselves events, and may be treated as such. The points in time may be seen as <valsi>mu'e</valsi> point-events; the spans of time may constitute processes or activities. Therefore, Relojban allows us to refer to processes within processes, activities within states, and many other complicated abstract things.
     </para>
   </section>
   <section xml:id="section-abstractor-connection">
@@ -1459,13 +1459,13 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      This feature of Lojban has hardly ever been used, and nobody knows what uses it may eventually have.
+      This feature of Relojban has hardly ever been used, and nobody knows what uses it may eventually have.
     </para>
   </section>
   <section xml:id="section-summary">
     <title>Table of abstractors</title>
     <para>
-      The following table gives each abstractor, an English gloss for it, a Lojban gismu which is connected with it (more or less remotely: the associations between abstractors and gismu are meant more as memory hooks than for any kind of inference), the rafsi associated with it, and (on the following line) its place structure.
+      The following table gives each abstractor, an English gloss for it, a Relojban gismu which is connected with it (more or less remotely: the associations between abstractors and gismu are meant more as memory hooks than for any kind of inference), the rafsi associated with it, and (on the following line) its place structure.
     </para>
     <cmavo-list>
       <cmavo-entry>

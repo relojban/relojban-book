@@ -5,15 +5,15 @@
   <!ENTITY hellip "&#x02026;" ><!--HORIZONTAL ELLIPSIS -->
 ]>
 <chapter xml:id="chapter-structure">
-  <title>Putting It All Together: Notes on the Structure of Lojban Texts</title>
+  <title>Putting It All Together: Notes on the Structure of Relojban Texts</title>
 
   <section xml:id="section-structure-introduction">
     <title>Introductory</title>
     <para>
-      This chapter is incurably miscellaneous. It describes the cmavo that specify the structure of Lojban texts, from the largest scale (paragraphs) to the smallest (single words). There are fewer examples than are found in other chapters of this book, since the linguistic mechanisms described are generally made use of in conversation or else in long documents.
+      This chapter is incurably miscellaneous. It describes the cmavo that specify the structure of Relojban texts, from the largest scale (paragraphs) to the smallest (single words). There are fewer examples than are found in other chapters of this book, since the linguistic mechanisms described are generally made use of in conversation or else in long documents.
     </para>
     <para>
-      This chapter is also not very self-contained. It makes passing reference to a great many concepts which are explained in full only in other chapters. The alternative would be a chapter on text structure which was as complex as all the other chapters put together. Lojban is a unified language, and it is not possible to understand any part of it (in full) before understanding every part of it (to some degree).
+      This chapter is also not very self-contained. It makes passing reference to a great many concepts which are explained in full only in other chapters. The alternative would be a chapter on text structure which was as complex as all the other chapters put together. Relojban is a unified language, and it is not possible to understand any part of it (in full) before understanding every part of it (to some degree).
     </para>
   </section>
   <section xml:id="section-i">
@@ -30,7 +30,7 @@
     </cmavo-list>
     <para role="indent">
       <indexterm type="general"><primary>audio-visually isomorphic</primary></indexterm>
-      Since Lojban is audio-visually isomorphic, there needs to be a spoken and written way of signaling the end of a sentence and the start of the following one. In written English, a period serves this purpose; in spoken English, a tone contour (rising or falling) usually does the job, or sometimes a long pause. Lojban uses a single separator: the cmavo <valsi>i</valsi> (of selma'o I):
+      Since Relojban is audio-visually isomorphic, there needs to be a spoken and written way of signaling the end of a sentence and the start of the following one. In written English, a period serves this purpose; in spoken English, a tone contour (rising or falling) usually does the job, or sometimes a long pause. Relojban uses a single separator: the cmavo <valsi>i</valsi> (of selma'o I):
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-XKAG">
       <title>
@@ -45,7 +45,7 @@
       The word <quote>separator</quote> should be noted. <valsi>i</valsi> is not normally used after the last sentence nor before the first one, although both positions are technically grammatical. <valsi>i</valsi> signals a new sentence on the same topic, not necessarily by the same speaker. The relationship between the sentences is left vague, except in stories, where the relationship usually is temporal, and the following sentence states something that happened after the previous sentence.
     </para>
     <para>
-      Note that although the first letter of an English sentence is capitalized, the cmavo <valsi>i</valsi> is never capitalized. In writing, it is appropriate to place extra space before <valsi>i</valsi> to make it stand out better for the reader. In some styles of Lojban writing, every <valsi>i</valsi> is placed at the beginning of a line, possibly leaving space at the end of the previous line.
+      Note that although the first letter of an English sentence is capitalized, the cmavo <valsi>i</valsi> is never capitalized. In writing, it is appropriate to place extra space before <valsi>i</valsi> to make it stand out better for the reader. In some styles of Relojban writing, every <valsi>i</valsi> is placed at the beginning of a line, possibly leaving space at the end of the previous line.
     </para>
     <para>
       An <valsi>i</valsi> cmavo may or may not be used when the speaker of the following sentence is different from the speaker of the preceding sentence, depending on whether the sentences are felt to be connected or not.
@@ -85,12 +85,12 @@
       </cmavo-entry>
     </cmavo-list>
     <para role="indent">
-      The paragraph is a concept used in writing systems for two purposes: to indicate changes of topic, and to break up the hard-to-read appearance of large blocks of text on the page. The former function is represented in both spoken and written Lojban by the cmavo <valsi>ni'o</valsi> and <valsi>no'i</valsi>, both of selma'o NIhO. Of these two, <valsi>ni'o</valsi> is the more common. By convention, written Lojban is broken into paragraphs just before any <valsi>ni'o</valsi> or <valsi>no'i</valsi>, but a very long passage on a single topic might be paragraphed before an <valsi>i</valsi>. On the other hand, it is conventional in English to start a new paragraph in dialogue when a new speaker starts, but this convention is not commonly observed in Lojban dialogues. Of course, none of these conventions affect meaning in any way.
+      The paragraph is a concept used in writing systems for two purposes: to indicate changes of topic, and to break up the hard-to-read appearance of large blocks of text on the page. The former function is represented in both spoken and written Relojban by the cmavo <valsi>ni'o</valsi> and <valsi>no'i</valsi>, both of selma'o NIhO. Of these two, <valsi>ni'o</valsi> is the more common. By convention, written Relojban is broken into paragraphs just before any <valsi>ni'o</valsi> or <valsi>no'i</valsi>, but a very long passage on a single topic might be paragraphed before an <valsi>i</valsi>. On the other hand, it is conventional in English to start a new paragraph in dialogue when a new speaker starts, but this convention is not commonly observed in Relojban dialogues. Of course, none of these conventions affect meaning in any way.
     </para>
     <para>
       <indexterm type="general"><primary>paragraphs</primary><secondary>separator</secondary></indexterm>
       <indexterm type="general"><primary>old topic</primary></indexterm>
-      A <valsi>ni'o</valsi> can take the place of an <valsi>i</valsi> as a sentence separator, and in addition signals a new topic or paragraph. Grammatically, any number of <valsi>ni'o</valsi> cmavo can appear consecutively and are equivalent to a single one; semantically, a greater number of <valsi>ni'o</valsi> cmavo indicates a larger-scale change of topic. This feature allows complexly structured text, with topics, subtopics, and sub-subtopics, to be represented clearly and unambiguously in both spoken and written Lojban.
+      A <valsi>ni'o</valsi> can take the place of an <valsi>i</valsi> as a sentence separator, and in addition signals a new topic or paragraph. Grammatically, any number of <valsi>ni'o</valsi> cmavo can appear consecutively and are equivalent to a single one; semantically, a greater number of <valsi>ni'o</valsi> cmavo indicates a larger-scale change of topic. This feature allows complexly structured text, with topics, subtopics, and sub-subtopics, to be represented clearly and unambiguously in both spoken and written Relojban.
     </para>
     <para>
       <indexterm type="general"><primary>paragraph separation</primary><secondary>spoken text</secondary></indexterm>
@@ -119,7 +119,7 @@
       </cmavo-entry>
     </cmavo-list>
     <para role="indent">
-      The normal Lojban sentence is just a bridi, parallel to the normal English sentence which has a subject and a predicate:
+      The normal Relojban sentence is just a bridi, parallel to the normal English sentence which has a subject and a predicate:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-4WsN">
       <title>
@@ -147,7 +147,7 @@
       The colon in the first translation of <xref linkend="example-random-id-ovFJ"/> separates the topic (<quote>fruits</quote>) from the comment (<quote>I mostly like bananas</quote>).
     </para>
     <para>
-      Lojban uses the cmavo <valsi>zo'u</valsi> (of selma'o ZOhU) to separate topic (a sumti) from comment (a bridi):
+      Relojban uses the cmavo <valsi>zo'u</valsi> (of selma'o ZOhU) to separate topic (a sumti) from comment (a bridi):
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-p4ww">
       <title>
@@ -159,7 +159,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      <xref linkend="example-random-id-p4ww"/> is the literal Lojban translation of <xref linkend="example-random-id-ovFJ"/>. Of course, the topic-comment structure can be changed to a straightforward bridi structure:
+      <xref linkend="example-random-id-p4ww"/> is the literal Relojban translation of <xref linkend="example-random-id-ovFJ"/>. Of course, the topic-comment structure can be changed to a straightforward bridi structure:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-V2B4">
       <title>
@@ -198,7 +198,7 @@
       which is vague in exactly the same way.
     </para>
     <para>
-      It is possible to have more than one sumti before <valsi>zo'u</valsi>. This is necessary in the other use of <valsi>zo'u</valsi>: to separate a quantifying section from a bridi containing quantified variables. This usage belongs to a discussion of quantifier logic in Lojban (see <xref linkend="section-da-and-zohu"/>), but an example would be:
+      It is possible to have more than one sumti before <valsi>zo'u</valsi>. This is necessary in the other use of <valsi>zo'u</valsi>: to separate a quantifying section from a bridi containing quantified variables. This usage belongs to a discussion of quantifier logic in Relojban (see <xref linkend="section-da-and-zohu"/>), but an example would be:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-6yRx">
       <title>
@@ -243,7 +243,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      Note: In Lojban, you do not <quote>want money</quote>; you <quote>want to have money</quote> or something of the sort, as the x2 place of <valsi>djica</valsi> demands an event. As a result, the straightforward rendering of <xref linkend="example-random-id-ggMy"/> without a topic is not:
+      Note: In Relojban, you do not <quote>want money</quote>; you <quote>want to have money</quote> or something of the sort, as the x2 place of <valsi>djica</valsi> demands an event. As a result, the straightforward rendering of <xref linkend="example-random-id-ggMy"/> without a topic is not:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Mdjd">
       <title>
@@ -268,7 +268,7 @@
       namely, the possession of money. But topic-comment sentences like <xref linkend="example-random-id-mK5Y"/> are inherently vague, and this difference between <valsi>ponse</valsi> (which expects a physical object in x2) and <valsi>djica</valsi> is ignored. See <xref linkend="example-random-id-EXeq"/> for another topic/comment sentence.
     </para>
     <para>
-      The subject of an English sentence is often the topic as well, but in Lojban the sumti in the x1 place is not necessarily the topic. Thus Lojban sentences don't necessarily have a <quote>subject</quote> in the English sense.
+      The subject of an English sentence is often the topic as well, but in Relojban the sumti in the x1 place is not necessarily the topic. Thus Relojban sentences don't necessarily have a <quote>subject</quote> in the English sense.
     </para>
   </section>
   <section xml:id="section-questions-and-answers">
@@ -345,7 +345,7 @@
     </cmavo-list>
     <para role="indent">
       <indexterm type="general"><primary>questions</primary><secondary>truth</secondary></indexterm>
-      Lojban questions are not at all like English questions. There are two basic types: truth questions, of the form <quote>Is it true that ...</quote>, and fill-in-the-blank questions. Truth questions are marked by preceding the bridi, or following any part of it specifically questioned, with the cmavo <valsi>xu</valsi> (of selma'o UI):
+      Relojban questions are not at all like English questions. There are two basic types: truth questions, of the form <quote>Is it true that ...</quote>, and fill-in-the-blank questions. Truth questions are marked by preceding the bridi, or following any part of it specifically questioned, with the cmavo <valsi>xu</valsi> (of selma'o UI):
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-2t28">
       <title>
@@ -357,11 +357,11 @@
       </interlinear-gloss>
     </example>
     <para role="noindent">
-      (Since the Lojban is tenseless, either colloquial translation might be correct.) Truth questions are further discussed in <xref linkend="section-truth-questions"/>.
+      (Since the Relojban is tenseless, either colloquial translation might be correct.) Truth questions are further discussed in <xref linkend="section-truth-questions"/>.
     </para>
     <para>
       <indexterm type="general"><primary>questions</primary><secondary>fill-in-the-blank</secondary></indexterm>
-      Fill-in-the-blank questions have a cmavo representing some Lojban word or phrase which is not known to the questioner, and which the answerer is to supply. There are a variety of cmavo belonging to different selma'o which provide different kinds of blanks.
+      Fill-in-the-blank questions have a cmavo representing some Relojban word or phrase which is not known to the questioner, and which the answerer is to supply. There are a variety of cmavo belonging to different selma'o which provide different kinds of blanks.
     </para>
     <para>
       <indexterm type="general"><primary>questions</primary><secondary>sumti</secondary></indexterm>
@@ -456,14 +456,14 @@
       <title>
       </title>
       <interlinear-gloss>
-        <jbo>la .lojban. cu mo</jbo>
-        <gloss>- Lojban - [what-selbri?]</gloss>
-        <natlang>What is Lojban? / What about Lojban? / What does Lojban do?</natlang>
+        <jbo>la .relojban. cu mo</jbo>
+        <gloss>- Relojban - [what-selbri?]</gloss>
+        <natlang>What is Relojban? / What about Relojban? / What does Relojban do?</natlang>
       </interlinear-gloss>
     </example>
     <para role="indent">
       <indexterm type="general"><primary>predicate answers</primary></indexterm>
-      Here the answerer is to supply some predicate which is true of Lojban. Such questions are extremely open-ended, due to the enormous range of possible predicate answers. The answer might be just a selbri, or might be a full bridi, in which case the sumti in the answer override those provided by the questioner. To limit the range of a <valsi>mo</valsi> question, make it part of a tanru<!-- or add a <valsi>no'oi</valsi> relative clause -->.
+      Here the answerer is to supply some predicate which is true of Relojban. Such questions are extremely open-ended, due to the enormous range of possible predicate answers. The answer might be just a selbri, or might be a full bridi, in which case the sumti in the answer override those provided by the questioner. To limit the range of a <valsi>mo</valsi> question, make it part of a tanru<!-- or add a <valsi>no'oi</valsi> relative clause -->.
     </para>
     <para>
       <indexterm type="general"><primary>questions</primary><secondary>number</secondary></indexterm>
@@ -563,7 +563,7 @@
       The cmavo <valsi>xi</valsi> (of selma'o XI) indicates that a subscript (a number, a lerfu string, or a parenthesized mekso) follows. Subscripts can be attached to almost any construction and are placed following the construction (or its terminator word, which is generally required). They are useful either to extend the finite cmavo list to infinite length, or to make more refined distinctions than the standard cmavo list permits. The remainder of this section mentions some places where subscripts might naturally be used.
     </para>
     <para>
-      Lojban gismu have at most five places:
+      Relojban gismu have at most five places:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-GuYz">
       <title>
@@ -668,7 +668,7 @@
       <indexterm type="general"><primary>ko'a-series</primary><secondary>after tenth</secondary></indexterm>
       <indexterm type="general"><primary>da-series</primary><secondary>after third</secondary></indexterm>
       <indexterm type="general"><primary>subscripts</primary><secondary>and sumka'i</secondary></indexterm>
-      Lojban provides two groups of sumka'i, both belonging to selma'o KOhA. The ko'a-series cmavo are used to refer to explicitly specified sumti to which they have been bound using <valsi>goi</valsi>. The da-series, on the other hand, are existentially or universally quantified variables. (These concepts are explained more fully in <xref linkend="chapter-quantifiers"/>.) There are ten ko'a-series cmavo and 3 da-series cmavo available.
+      Relojban provides two groups of sumka'i, both belonging to selma'o KOhA. The ko'a-series cmavo are used to refer to explicitly specified sumti to which they have been bound using <valsi>goi</valsi>. The da-series, on the other hand, are existentially or universally quantified variables. (These concepts are explained more fully in <xref linkend="chapter-quantifiers"/>.) There are ten ko'a-series cmavo and 3 da-series cmavo available.
     </para>
     <para>
       <indexterm type="lojban-word"><primary>da</primary></indexterm>
@@ -731,7 +731,7 @@
     </para>
     <para>
       <indexterm type="general"><primary>subscripts</primary><secondary>and fuzzy truths</secondary></indexterm>
-      You can place a subscript on the word <valsi>ja'a</valsi>, the bridi affirmative of selma'o NA, to express so-called fuzzy truths. The usual machinery for fuzzy logic (statements whose truth value is not merely <quote>true</quote> or <quote>false</quote>, but is expressed by a number in the range 0 to 1) in Lojban is the abstractor <valsi>jei</valsi>:
+      You can place a subscript on the word <valsi>ja'a</valsi>, the bridi affirmative of selma'o NA, to express so-called fuzzy truths. The usual machinery for fuzzy logic (statements whose truth value is not merely <quote>true</quote> or <quote>false</quote>, but is expressed by a number in the range 0 to 1) in Relojban is the abstractor <valsi>jei</valsi>:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-NGGv">
       <title>
@@ -792,10 +792,10 @@
       This does not imply that I go to the store before I go to the house: that meaning requires a tense. The sumti are simply numbered for convenience of reference. Like other free modifiers, the utterance ordinals can be inserted almost anywhere in a sentence without affecting its grammar or its meaning.
     </para>
     <para>
-      Any of the Lojban numbers can be used with MAI: <valsi>ro mai</valsi>, for example, means <quote>all-thly</quote> or <quote>lastly</quote>. Likewise, if you are enumerating a long list and have forgotten which number is wanted next, you can say <jbophrase>ny.mai</jbophrase>, or <quote>Nthly</quote>.
+      Any of the Relojban numbers can be used with MAI: <valsi>ro mai</valsi>, for example, means <quote>all-thly</quote> or <quote>lastly</quote>. Likewise, if you are enumerating a long list and have forgotten which number is wanted next, you can say <jbophrase>ny.mai</jbophrase>, or <quote>Nthly</quote>.
     </para>
     <para>
-      The difference between <valsi>mai</valsi> and <valsi>mo'o</valsi> is that <valsi>mo'o</valsi> enumerates larger subdivisions of a text; <valsi>mai</valsi> was designed for lists of numbered items, whereas <valsi>mo'o</valsi> was intended to subdivide structured works. If this chapter were translated into Lojban, it might number each section with <valsi>mo'o</valsi>: this section would then be introduced with <jbophrase>ze mo'o</jbophrase>, or <quote>Section 7.</quote>
+      The difference between <valsi>mai</valsi> and <valsi>mo'o</valsi> is that <valsi>mo'o</valsi> enumerates larger subdivisions of a text; <valsi>mai</valsi> was designed for lists of numbered items, whereas <valsi>mo'o</valsi> was intended to subdivide structured works. If this chapter were translated into Relojban, it might number each section with <valsi>mo'o</valsi>: this section would then be introduced with <jbophrase>ze mo'o</jbophrase>, or <quote>Section 7.</quote>
     </para>
   </section>
   <section xml:id="section-attitudinal-scope">
@@ -817,7 +817,7 @@
     </cmavo-list>
     <para role="indent">
       <indexterm type="lojban-word"><primary>UI selma'o</primary></indexterm>
-      Lojban has a complex system of <quote>attitudinals</quote>, words which indicate the speaker's attitude to what is being said. The attitudinals include indicators of emotion, intensity markers, discursives (which show the structure of discourse), and evidentials (which indicate <quote>how the speaker knows</quote>). Most of these words belong to selma'o UI; the intensity markers belong to selma'o CAI for historical reasons, but the two selma'o are grammatically identical. The individual cmavo of UI and CAI are discussed in <xref linkend="chapter-attitudinals"/>; only the rules for applying them in discourse are presented here.
+      Relojban has a complex system of <quote>attitudinals</quote>, words which indicate the speaker's attitude to what is being said. The attitudinals include indicators of emotion, intensity markers, discursives (which show the structure of discourse), and evidentials (which indicate <quote>how the speaker knows</quote>). Most of these words belong to selma'o UI; the intensity markers belong to selma'o CAI for historical reasons, but the two selma'o are grammatically identical. The individual cmavo of UI and CAI are discussed in <xref linkend="chapter-attitudinals"/>; only the rules for applying them in discourse are presented here.
     </para>
     <para>
       Normally, an attitudinal applies to the preceding word only. However, if the preceding word is a structural cmavo which begins or ends a whole construction, then that whole construction is affected by the attitudinal:
@@ -886,7 +886,7 @@
       Likewise, an attitudinal meant to cover a whole paragraph can be attached to <valsi>ni'o</valsi> or <valsi>no'i</valsi>.
     </para>
     <para>
-      However, sometimes it is necessary to be more specific about the range of one or more attitudinals, particularly if the range crosses the boundaries of standard Lojban syntactic constructions. The cmavo <valsi>fu'e</valsi> (of selma'o FUhE) and <valsi>fu'o</valsi> (of selma'o FUhO) provide explicit scope markers. Placing <valsi>fu'e</valsi> in front of an attitudinal disconnects it from what precedes it, and instead says that it applies to all following words until further notice. The notice is given by <valsi>fu'o</valsi>, which can appear anywhere and cancels all attitudinals introduced by the last <valsi>fu'e</valsi>. For example:
+      However, sometimes it is necessary to be more specific about the range of one or more attitudinals, particularly if the range crosses the boundaries of standard Relojban syntactic constructions. The cmavo <valsi>fu'e</valsi> (of selma'o FUhE) and <valsi>fu'o</valsi> (of selma'o FUhO) provide explicit scope markers. Placing <valsi>fu'e</valsi> in front of an attitudinal disconnects it from what precedes it, and instead says that it applies to all following words until further notice. The notice is given by <valsi>fu'o</valsi>, which can appear anywhere and cancels all attitudinals introduced by the last <valsi>fu'e</valsi>. For example:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-0vML">
       <title>
@@ -932,7 +932,7 @@
       </cmavo-entry>
     </cmavo-list>
     <para role="indent">
-      Grammatically, quotations are very simple in Lojban: all of them are sumti, and they all mean something like <quote>the piece of text here quoted</quote>:
+      Grammatically, quotations are very simple in Relojban: all of them are sumti, and they all mean something like <quote>the piece of text here quoted</quote>:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-6SBj">
       <title>
@@ -948,10 +948,10 @@
       But in fact there are four different flavors of quotation in the language, involving six cmavo of six different selma'o. This being the case, quotation deserves some elaboration.
     </para>
     <para>
-      The simplest kind of quotation, exhibited in <xref linkend="example-random-id-6SBj"/>, uses the cmavo <valsi>lu</valsi> (of selma'o LU) as the opening quotation mark, and the cmavo <valsi>li'u</valsi> (of selma'o LIhU) as the closing quotation mark. The text between <valsi>lu</valsi> and <valsi>li'u</valsi> must be a valid, parseable Lojban text. If the quotation is ungrammatical, so is the surrounding expression. The cmavo <valsi>li'u</valsi> is technically an elidable terminator, but it's almost never possible to elide it except at the end of text.
+      The simplest kind of quotation, exhibited in <xref linkend="example-random-id-6SBj"/>, uses the cmavo <valsi>lu</valsi> (of selma'o LU) as the opening quotation mark, and the cmavo <valsi>li'u</valsi> (of selma'o LIhU) as the closing quotation mark. The text between <valsi>lu</valsi> and <valsi>li'u</valsi> must be a valid, parseable Relojban text. If the quotation is ungrammatical, so is the surrounding expression. The cmavo <valsi>li'u</valsi> is technically an elidable terminator, but it's almost never possible to elide it except at the end of text.
     </para>
     <para>
-      The cmavo <valsi>lo'u</valsi> (of selma'o LOhU) and <valsi>le'u</valsi> (of selma'o LEhU) are used to surround a quotation that is not necessarily grammatical Lojban. However, the text must consist of morphologically correct Lojban words (as defined in <xref linkend="chapter-morphology"/>), so that the <valsi>le'u</valsi> can be picked out reliably. The words need not be meaningful, but they must be recognizable as cmavo, brivla, or cmevla. Quotation with <valsi>lo'u</valsi> is essential to quoting ungrammatical Lojban for teaching in the language, the equivalent of the * that is used in English to mark such errors:
+      The cmavo <valsi>lo'u</valsi> (of selma'o LOhU) and <valsi>le'u</valsi> (of selma'o LEhU) are used to surround a quotation that is not necessarily grammatical Relojban. However, the text must consist of morphologically correct Relojban words (as defined in <xref linkend="chapter-morphology"/>), so that the <valsi>le'u</valsi> can be picked out reliably. The words need not be meaningful, but they must be recognizable as cmavo, brivla, or cmevla. Quotation with <valsi>lo'u</valsi> is essential to quoting ungrammatical Relojban for teaching in the language, the equivalent of the * that is used in English to mark such errors:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-IUz8">
       <title>
@@ -961,8 +961,8 @@
         <gloss>[quote] mi--du--do--du--la--.djan. [unquote]</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
-        <jbo>… na te--gerna la--.lojban.</jbo>
-        <gloss>… is-not a-grammatical-structure-in Lojban.</gloss>
+        <jbo>… na te--gerna la--.relojban.</jbo>
+        <gloss>… is-not a-grammatical-structure-in Relojban.</gloss>
       </interlinear-gloss>
     </example>
     <para role="indent">
@@ -986,7 +986,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      Note the topic-comment formulation (<xref linkend="section-topic-comments"/>) and the indicator applying to the selbri only (<xref linkend="section-attitudinal-scope"/>). Neither <jbophrase>viska lo</jbophrase> nor <jbophrase>viska pa</jbophrase> is a valid Lojban utterance, and both require <valsi>lo'u</valsi> quotation.
+      Note the topic-comment formulation (<xref linkend="section-topic-comments"/>) and the indicator applying to the selbri only (<xref linkend="section-attitudinal-scope"/>). Neither <jbophrase>viska lo</jbophrase> nor <jbophrase>viska pa</jbophrase> is a valid Relojban utterance, and both require <valsi>lo'u</valsi> quotation.
     </para>
     <para>
       Additionally, sumka'i or brika'i in the quoting sentence can refer to words appearing in the quoted sentence when <valsi>lu</valsi>&hellip;<valsi>li'u</valsi> is used, but not when <jbophrase>lo'u ... le'u</jbophrase> is used:
@@ -1021,7 +1021,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      In <xref linkend="example-random-id-hvhb"/>, <valsi>ri</valsi> cannot refer to the referent of the alleged sumti <jbophrase>lo ninmu</jbophrase>, because <jbophrase>lo ninmu cu morsi</jbophrase> is a mere uninterpreted sequence of Lojban words. Instead, <valsi>ri</valsi> ends up referring to the quoted text, resulting in nonsense.
+      In <xref linkend="example-random-id-hvhb"/>, <valsi>ri</valsi> cannot refer to the referent of the alleged sumti <jbophrase>lo ninmu</jbophrase>, because <jbophrase>lo ninmu cu morsi</jbophrase> is a mere uninterpreted sequence of Relojban words. Instead, <valsi>ri</valsi> ends up referring to the quoted text, resulting in nonsense.
     </para>
     <para>
       The metalinguistic erasers <valsi>si</valsi>, <valsi>sa</valsi>, and <valsi>su</valsi>, discussed in <xref linkend="section-erasure"/>, do not operate in text between <valsi>lo'u</valsi> and <valsi>le'u</valsi>. A <valsi>lo'u</valsi> quotation may not begin with <valsi>bu</valsi>. Since the first <valsi>le'u</valsi> terminates a <valsi>lo'u</valsi> quotation, it is not directly possible to have a <valsi>lo'u</valsi> quotation within another <valsi>lo'u</valsi> quotation. Note that <valsi>le'u</valsi> is not an elidable terminator; it is required.
@@ -1041,16 +1041,16 @@
       <cmavo-entry>
         <cmavo>zoi</cmavo>
         <selmaho>ZOI</selmaho>
-        <description>non-Lojban quotation</description>
+        <description>non-Relojban quotation</description>
       </cmavo-entry>
       <cmavo-entry>
         <cmavo>la'o</cmavo>
         <selmaho>ZOI</selmaho>
-        <description>non-Lojban name</description>
+        <description>non-Relojban name</description>
       </cmavo-entry>
     </cmavo-list>
     <para role="indent">
-      The cmavo <valsi>zo</valsi> (of selma'o ZO) is a strong quotation mark for the single following word, which can be any Lojban word whatsoever. Among other uses, <valsi>zo</valsi> allows a metalinguistic word to be referenced without having it act on the surrounding text. The word must be a morphologically legal (but not necessarily meaningful) single Lojban word; multiple cmavo, zei-lujvo, and bu-letterals cannot be quoted this way. For example:
+      The cmavo <valsi>zo</valsi> (of selma'o ZO) is a strong quotation mark for the single following word, which can be any Relojban word whatsoever. Among other uses, <valsi>zo</valsi> allows a metalinguistic word to be referenced without having it act on the surrounding text. The word must be a morphologically legal (but not necessarily meaningful) single Relojban word; multiple cmavo, zei-lujvo, and bu-letterals cannot be quoted this way. For example:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-qxjF">
       <title>
@@ -1064,7 +1064,7 @@
       Since <valsi>zo</valsi> acts on a single word only, there is no corresponding terminator. Brevity, then, is a great advantage of <valsi>zo</valsi>, since the terminators for other kinds of quotation are rarely or never elidable.
     </para>
     <para>
-      The cmavo <valsi>zoi</valsi> (of selma'o ZOI) is a quotation mark for quoting non-Lojban text. Its syntax is <jbophrase>zoi X. text .X.</jbophrase>, where X is a Lojban word (called the delimiting word) which is separated from the quoted text by pauses, and which is not found in the written text or spoken phoneme stream. It is common, but not required, to use the lerfu word (of selma'o BY) which corresponds to the Lojban name of the language being quoted:
+      The cmavo <valsi>zoi</valsi> (of selma'o ZOI) is a quotation mark for quoting non-Relojban text. Its syntax is <jbophrase>zoi X. text .X.</jbophrase>, where X is a Relojban word (called the delimiting word) which is separated from the quoted text by pauses, and which is not found in the written text or spoken phoneme stream. It is common, but not required, to use the lerfu word (of selma'o BY) which corresponds to the Relojban name of the language being quoted:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-wYzm">
       <title>
@@ -1076,10 +1076,10 @@
       </interlinear-gloss>
     </example>
     <para role="noindent">
-      where <valsi>gy</valsi> stands for <valsi>glico</valsi>. Other popular choices of delimiting words are <cmevla>.kuuot.</cmevla>, a Lojban name which sounds like the English word <quote>quote</quote>, and the word <valsi>zoi</valsi> itself. Another possibility is a Lojban word suggesting the topic of the quotation.
+      where <valsi>gy</valsi> stands for <valsi>glico</valsi>. Other popular choices of delimiting words are <cmevla>.kuuot.</cmevla>, a Relojban name which sounds like the English word <quote>quote</quote>, and the word <valsi>zoi</valsi> itself. Another possibility is a Relojban word suggesting the topic of the quotation.
     </para>
     <para>
-      Within written text, the Lojban written word used as a delimiting word may not appear, whereas within spoken text, the sound of the delimiting word may not be uttered. This leads to occasional breakdowns of audio-visual isomorphism: <xref linkend="example-random-id-qIsv"/> is fine in speech but ungrammatical as written, whereas <xref linkend="example-random-id-qIsx"/> is correct when written but ungrammatical in speech.
+      Within written text, the Relojban written word used as a delimiting word may not appear, whereas within spoken text, the sound of the delimiting word may not be uttered. This leads to occasional breakdowns of audio-visual isomorphism: <xref linkend="example-random-id-qIsv"/> is fine in speech but ungrammatical as written, whereas <xref linkend="example-random-id-qIsx"/> is correct when written but ungrammatical in speech.
     </para>
     <example xml:id="example-random-id-qIsv" role="interlinear-gloss-example">
       <title>
@@ -1100,10 +1100,10 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      The text <valsi>fi</valsi> appears in the written word <quote>fight</quote>, whereas the sound represented in Lojban by <valsi>fai</valsi> appears in the spoken word <quote>fight</quote>. Such borderline cases should be avoided as a matter of good style.
+      The text <valsi>fi</valsi> appears in the written word <quote>fight</quote>, whereas the sound represented in Relojban by <valsi>fai</valsi> appears in the spoken word <quote>fight</quote>. Such borderline cases should be avoided as a matter of good style.
     </para>
     <para>
-      It should be noted particularly that <valsi>zoi</valsi> quotation is the only way to quote rafsi, specifically CCV rafsi, because they are not Lojban words, and <valsi>zoi</valsi> quotation is the only way to quote things which are not Lojban words. (CVC and CVV rafsi look like names and cmavo respectively, and so can be quoted using other methods.) For example:
+      It should be noted particularly that <valsi>zoi</valsi> quotation is the only way to quote rafsi, specifically CCV rafsi, because they are not Relojban words, and <valsi>zoi</valsi> quotation is the only way to quote things which are not Relojban words. (CVC and CVV rafsi look like names and cmavo respectively, and so can be quoted using other methods.) For example:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Eeya">
       <title>
@@ -1114,10 +1114,10 @@
       </interlinear-gloss>
     </example>
     <para role="noindent">
-      (A minor note on interaction between <jbophrase>lo'u ... le'u</jbophrase> and <valsi>zoi</valsi>: The text between <valsi>lo'u</valsi> and <valsi>le'u</valsi> must consist of Lojban words only. <valsi>zoi</valsi>-quotes may only appear within <valsi>lo'u</valsi>-quotes if they contain morphologically valid Lojban containing no instances of <valsi>le'u</valsi>.)
+      (A minor note on interaction between <jbophrase>lo'u ... le'u</jbophrase> and <valsi>zoi</valsi>: The text between <valsi>lo'u</valsi> and <valsi>le'u</valsi> must consist of Relojban words only. <valsi>zoi</valsi>-quotes may only appear within <valsi>lo'u</valsi>-quotes if they contain morphologically valid Relojban containing no instances of <valsi>le'u</valsi>.)
     </para>
     <para>
-      Lojban strictly avoids any confusion between things and the names of things:
+      Relojban strictly avoids any confusion between things and the names of things:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-56m5">
       <title>
@@ -1161,7 +1161,7 @@
       and says that Bob is both the name and the thing named, an unlikely situation. People are not names.
     </para>
     <para>
-      The cmavo <valsi>la'o</valsi> also belongs to selma'o ZOI, and is mentioned here for completeness, although it does not signal the beginning of a quotation. Instead, <valsi>la'o</valsi> serves to mark non-Lojban names, especially the Linnaean binomial names (such as <quote>Homo sapiens</quote>) which are the internationally standardized names for species of animals and plants. Internationally known names which can more easily be recognized by spelling rather than pronunciation, such as <quote>Goethe</quote>, can also appear in Lojban text with <valsi>la'o</valsi>:
+      The cmavo <valsi>la'o</valsi> also belongs to selma'o ZOI, and is mentioned here for completeness, although it does not signal the beginning of a quotation. Instead, <valsi>la'o</valsi> serves to mark non-Relojban names, especially the Linnaean binomial names (such as <quote>Homo sapiens</quote>) which are the internationally standardized names for species of animals and plants. Internationally known names which can more easily be recognized by spelling rather than pronunciation, such as <quote>Goethe</quote>, can also appear in Relojban text with <valsi>la'o</valsi>:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Sn3u">
       <title>
@@ -1213,7 +1213,7 @@
       </para>
     </example>
     <para role="indent">
-      The heavy stress on <quote><emphasis>George</emphasis></quote> (represented in writing by <emphasis>italics</emphasis>) indicates that I saw George rather than someone else. Lojban does not use stress in this way: stress is used only to help separate words (because every brivla is stressed on the penultimate syllable) and in names to match other languages' stress patterns. Note that many other languages do not use stress in this way either; typically word order is rearranged, producing something like
+      The heavy stress on <quote><emphasis>George</emphasis></quote> (represented in writing by <emphasis>italics</emphasis>) indicates that I saw George rather than someone else. Relojban does not use stress in this way: stress is used only to help separate words (because every brivla is stressed on the penultimate syllable) and in names to match other languages' stress patterns. Note that many other languages do not use stress in this way either; typically word order is rearranged, producing something like
     </para>
     <example xml:id="example-random-id-E8mx">
       <title>
@@ -1223,7 +1223,7 @@
       </para>
     </example>
     <para role="indent">
-      In Lojban, the cmavo <valsi>ba'e</valsi> (of selma'o BAhE) precedes a single word which is to be emphasized:
+      In Relojban, the cmavo <valsi>ba'e</valsi> (of selma'o BAhE) precedes a single word which is to be emphasized:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-8SVn">
       <title>
@@ -1266,7 +1266,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      Emphasis on one of the structural components of a Lojban bridi can also be achieved by rearranging it into an order that is not the speaker's or writer's usual order. Any sumti moved out of place, or the selbri when moved out of place, is emphatic to some degree.
+      Emphasis on one of the structural components of a Relojban bridi can also be achieved by rearranging it into an order that is not the speaker's or writer's usual order. Any sumti moved out of place, or the selbri when moved out of place, is emphatic to some degree.
     </para>
     <para>
       For completeness, the cmavo <valsi>za'e</valsi> should be mentioned, also of selma'o BAhE. It marks a word as possibly irregular, non-standard, or nonce (created for the occasion):
@@ -1404,7 +1404,7 @@
       Since a discursive utterance is working at a <quote>higher</quote> level of abstraction than a non-discursive utterance, a non-discursive utterance cannot refer to a discursive utterance. Specifically, the various back-counting, reciprocal, and reflexive constructs in selma'o KOhA ignore the utterances at <quote>higher</quote> metalinguistic levels in determining their referent. It is possible, and sometimes necessary, to refer to lower metalinguistic levels. For example, the English <quote>he said</quote> in a conversation is metalinguistic. For this purpose, quotations are considered to be at a lower metalinguistic level than the surrounding context (a quoted text cannot refer to the statements of the one who quotes it), whereas parenthetical remarks are considered to be at a higher level than the context.
     </para>
     <para>
-      Lojban works differently from English in that the <quote>he said</quote> can be marked instead of the quotation. In Lojban, you can say:
+      Relojban works differently from English in that the <quote>he said</quote> can be marked instead of the quotation. In Relojban, you can say:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-DY0u">
       <title>
@@ -1539,7 +1539,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      The Lojbanized spelling <cmevla valid="iffy">.esperanto</cmevla> breaks up, as a consequence of the Lojban morphology rules (see <xref linkend="chapter-morphology"/>) into two Lojban words, the cmavo <valsi>e</valsi> and the undefined lujvo <valsi valid="iffy">speranto</valsi>. Therefore, two <valsi>si</valsi> cmavo are needed to erase them. Of course, <jbophrase valid="false">.e speranto</jbophrase> is not grammatical after <valsi>la</valsi>, but recognition of <valsi>si</valsi> is done before grammatical analysis.
+      The Lojbanized spelling <cmevla valid="iffy">.esperanto</cmevla> breaks up, as a consequence of the Relojban morphology rules (see <xref linkend="chapter-morphology"/>) into two Relojban words, the cmavo <valsi>e</valsi> and the undefined lujvo <valsi valid="iffy">speranto</valsi>. Therefore, two <valsi>si</valsi> cmavo are needed to erase them. Of course, <jbophrase valid="false">.e speranto</jbophrase> is not grammatical after <valsi>la</valsi>, but recognition of <valsi>si</valsi> is done before grammatical analysis.
     </para>
     <para>
       <indexterm type="general"><primary>erasure</primary><secondary>quotes</secondary></indexterm>
@@ -1611,11 +1611,11 @@
       </cmavo-entry>
     </cmavo-list>
     <para role="indent">
-      Speakers often need to hesitate to think of what to say next or for some extra-linguistic reason. There are two ways to hesitate in Lojban: to pause between words (that is, to say nothing) or to use the cmavo <valsi>.y</valsi> (of selma'o Y). This resembles in sound the English hesitation noise written <quote>uh</quote> (or <quote>er</quote>), but differs from it in the requirement for a pause before. Unlike a long pause, it cannot be mistaken for having nothing more to say: it holds the floor for the speaker. Since vowel length is not significant in Lojban, the <letteral>y</letteral> sound can be dragged out for as long as necessary or repeated.
+      Speakers often need to hesitate to think of what to say next or for some extra-linguistic reason. There are two ways to hesitate in Relojban: to pause between words (that is, to say nothing) or to use the cmavo <valsi>.y</valsi> (of selma'o Y). This resembles in sound the English hesitation noise written <quote>uh</quote> (or <quote>er</quote>), but differs from it in the requirement for a pause before. Unlike a long pause, it cannot be mistaken for having nothing more to say: it holds the floor for the speaker. Since vowel length is not significant in Relojban, the <letteral>y</letteral> sound can be dragged out for as long as necessary or repeated.
     </para>
     <para>
       <indexterm type="general"><primary>hesitation sound</primary></indexterm>
-      Since the hesitation sound in English is outside the formal language, English-speakers may question the need for a formal cmavo. Speakers of other languages, however, often hesitate by saying (or, if necessary, repeating) a word (<quote>este</quote> in some dialects of Spanish, roughly meaning <quote>that is</quote>), and Lojban's audio-visual isomorphism requires a written representation of all meaningful spoken behavior. Of course, <valsi>.y</valsi> has no grammatical significance: it can appear anywhere at all in a Lojban sentence except in the middle of a word or before <valsi>bu</valsi>. <valsi>.y</valsi> cannot be quoted using <valsi>zo</valsi>, appear as a ZOI delimiter, or be part of a <valsi>zei</valsi>-lujvo.
+      Since the hesitation sound in English is outside the formal language, English-speakers may question the need for a formal cmavo. Speakers of other languages, however, often hesitate by saying (or, if necessary, repeating) a word (<quote>este</quote> in some dialects of Spanish, roughly meaning <quote>that is</quote>), and Relojban's audio-visual isomorphism requires a written representation of all meaningful spoken behavior. Of course, <valsi>.y</valsi> has no grammatical significance: it can appear anywhere at all in a Relojban sentence except in the middle of a word or before <valsi>bu</valsi>. <valsi>.y</valsi> cannot be quoted using <valsi>zo</valsi>, appear as a ZOI delimiter, or be part of a <valsi>zei</valsi>-lujvo.
     </para>
   </section>
   <section xml:id="section-faho">
@@ -1709,7 +1709,7 @@
   <section xml:id="section-elidable-terminators">
     <title>List of Elidable Terminators</title>
     <para>
-      The following list shows all the elidable terminators of Lojban. The first column is the terminator, the second column is the selma'o that starts the corresponding construction, and the third column states what kinds of grammatical constructs are terminated. Each terminator is the only cmavo of its selma'o, which naturally has the same name as the cmavo.
+      The following list shows all the elidable terminators of Relojban. The first column is the terminator, the second column is the selma'o that starts the corresponding construction, and the third column states what kinds of grammatical constructs are terminated. Each terminator is the only cmavo of its selma'o, which naturally has the same name as the cmavo.
     </para>
     <!-- These "selmaho" are anomalous in that they're the selmaho of the cmavo that the <cmavo> cmavo terminates, not the selmaho of <cmavo> cmavo. -->
     <cmavo-list>

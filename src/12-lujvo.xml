@@ -10,7 +10,7 @@
   <section xml:id="section-why-lujvo">
     <title>Why have lujvo?</title>
     <para>
-      The Lojban vocabulary is founded on its list of 1350-plus gismu, made up by combining word lists from various sources. These gismu are not intended to be either a complete vocabulary for the language nor a minimal list of semantic primitives. Instead, the gismu list serves as a basis for the creation of compound words, or lujvo. The intention is that (except in certain semantically broad but shallow fields such as cultures, nations, foods, plants, and animals) suitable lujvo can be devised to cover the ten million or so concepts expressible in all the world's languages taken together. Grammatically, lujvo behave just like gismu: they have place structures and function as selbri.
+      The Relojban vocabulary is founded on its list of 1350-plus gismu, made up by combining word lists from various sources. These gismu are not intended to be either a complete vocabulary for the language nor a minimal list of semantic primitives. Instead, the gismu list serves as a basis for the creation of compound words, or lujvo. The intention is that (except in certain semantically broad but shallow fields such as cultures, nations, foods, plants, and animals) suitable lujvo can be devised to cover the ten million or so concepts expressible in all the world's languages taken together. Grammatically, lujvo behave just like gismu: they have place structures and function as selbri.
     </para>
     <para>
       <indexterm type="general"><primary>lujvo</primary><secondary>compared with tanru</secondary></indexterm>
@@ -49,7 +49,7 @@
       <indexterm type="general"><primary>lujvo</primary><secondary>guidelines for place structure</secondary></indexterm>
       <indexterm type="general"><primary>absolute laws</primary></indexterm>
       <indexterm type="general"><primary>alternative guidelines</primary></indexterm>
-      There are no absolute laws fixing the place structure of a newly created lujvo. The maker must consider the place structures of all the components of the tanru and then decide which are still relevant and which can be removed. What is said in this chapter represents guidelines, presented as one possible standard, not necessarily complete, and not the only possible standard. There may well be lujvo that are built without regard for these guidelines, or in accordance with entirely different guidelines, should such alternative guidelines someday be developed. The reason for presenting any guidelines at all is so that Lojbanists have a starting point for deciding on a likely place structure &ndash; one that others seeing the same word can also arrive at by similar consideration.
+      There are no absolute laws fixing the place structure of a newly created lujvo. The maker must consider the place structures of all the components of the tanru and then decide which are still relevant and which can be removed. What is said in this chapter represents guidelines, presented as one possible standard, not necessarily complete, and not the only possible standard. There may well be lujvo that are built without regard for these guidelines, or in accordance with entirely different guidelines, should such alternative guidelines someday be developed. The reason for presenting any guidelines at all is so that Relojbanists have a starting point for deciding on a likely place structure &ndash; one that others seeing the same word can also arrive at by similar consideration.
     </para>
     <para>
       <indexterm type="general"><primary>lujvo</primary><secondary>cmavo incorporation</secondary></indexterm>
@@ -62,7 +62,7 @@
   <section xml:id="section-tanru-meanings">
     <title>The meaning of tanru: a necessary detour</title>
     <para>
-      The meaning of a lujvo is controlled by &ndash; but is not the same as &ndash; the meaning of the tanru from which the lujvo was constructed. The tanru corresponding to a lujvo is called its <valsi>veljvo</valsi> in Lojban, and since there is no concise English equivalent, that term will be used in this chapter. Furthermore, the left (modifier) part of a tanru will be called the <valsi>seltau</valsi>, and the right (modified) part the <valsi>tertau</valsi>, following the usage of <xref linkend="chapter-selbri"/>. For brevity, we will speak of the seltau or tertau of a lujvo, meaning of course the seltau or tertau of the veljvo of that lujvo. (If this terminology is confusing, substituting <quote>modifier</quote> for <valsi>seltau</valsi> and <quote>modified</quote> for <valsi>tertau</valsi> may help.)
+      The meaning of a lujvo is controlled by &ndash; but is not the same as &ndash; the meaning of the tanru from which the lujvo was constructed. The tanru corresponding to a lujvo is called its <valsi>veljvo</valsi> in Relojban, and since there is no concise English equivalent, that term will be used in this chapter. Furthermore, the left (modifier) part of a tanru will be called the <valsi>seltau</valsi>, and the right (modified) part the <valsi>tertau</valsi>, following the usage of <xref linkend="chapter-selbri"/>. For brevity, we will speak of the seltau or tertau of a lujvo, meaning of course the seltau or tertau of the veljvo of that lujvo. (If this terminology is confusing, substituting <quote>modifier</quote> for <valsi>seltau</valsi> and <quote>modified</quote> for <valsi>tertau</valsi> may help.)
     </para>
     <para>
       <indexterm type="general"><primary>tanru</primary><secondary>place structure of</secondary></indexterm>
@@ -104,7 +104,7 @@
       But is knowing the places of the tertau everything that is needed to understand the meaning of a tanru? No. To see why, let us switch to a less unlikely tanru: <jbophrase>gerku zdani</jbophrase>, literally <quote>dog house</quote>. A tanru expresses a very loose relation: a <jbophrase>gerku zdani</jbophrase> is a house that has something to do with some dog or dogs. What the precise relation might be is left unstated. Thus, the meaning of <jbophrase>lo gerku zdani</jbophrase> can include all of the following: houses occupied by dogs, houses shaped by dogs, dogs which are also houses (e.g. houses for fleas), houses named after dogs, and so on. All that is essential is that the place structure of <valsi>zdani</valsi> continues to apply.
     </para>
     <para>
-      For something (call it z1) to qualify as a <jbophrase>gerku zdani</jbophrase> in Lojban, it's got to be a house, first of all. For it to be a house, it's got to house someone (call that z2). Furthermore, there's got to be a dog somewhere (called g1). For g1 to count as a dog in Lojban, it's got to belong to some breed as well (called g2). And finally, for z1 to be in the first place of <jbophrase>gerku zdani</jbophrase>, as opposed to just <valsi>zdani</valsi>, there's got to be some relationship (called r) between some place of <valsi>zdani</valsi> and some place of <valsi>gerku</valsi>. It doesn't matter which places, because if there's a relationship between some place of <valsi>zdani</valsi> and any place of <valsi>gerku</valsi>, then that relationship can be compounded with the relationship between the places of <valsi>gerku</valsi>- namely, <valsi>gerku</valsi> itself &ndash; to reach any of the other <valsi>gerku</valsi> places. Thus, if the relationship turns out to be between z2 and g2, we can still state r in terms of z1 and g1: <quote>the relationship involves the dog g1, whose breed has to do with the occupant of the house z1</quote>.
+      For something (call it z1) to qualify as a <jbophrase>gerku zdani</jbophrase> in Relojban, it's got to be a house, first of all. For it to be a house, it's got to house someone (call that z2). Furthermore, there's got to be a dog somewhere (called g1). For g1 to count as a dog in Relojban, it's got to belong to some breed as well (called g2). And finally, for z1 to be in the first place of <jbophrase>gerku zdani</jbophrase>, as opposed to just <valsi>zdani</valsi>, there's got to be some relationship (called r) between some place of <valsi>zdani</valsi> and some place of <valsi>gerku</valsi>. It doesn't matter which places, because if there's a relationship between some place of <valsi>zdani</valsi> and any place of <valsi>gerku</valsi>, then that relationship can be compounded with the relationship between the places of <valsi>gerku</valsi>- namely, <valsi>gerku</valsi> itself &ndash; to reach any of the other <valsi>gerku</valsi> places. Thus, if the relationship turns out to be between z2 and g2, we can still state r in terms of z1 and g1: <quote>the relationship involves the dog g1, whose breed has to do with the occupant of the house z1</quote>.
     </para>
     <para>
       Doubtless to the relief of the reader, here's an illustration. We want to find out whether the White House (the one in which the U. S. President lives, that is) counts as a <jbophrase>gerku zdani</jbophrase>. We go through the five variables. The White House is the z1. It houses Bill Clinton as z2, as of this writing, so it counts as a <valsi>zdani</valsi>. Let's take a dog &ndash; say, Spot (g1). Spot has to have a breed; let's say it's a Saint Bernard (g2). Now, the White House counts as a <jbophrase>gerku zdani</jbophrase> if there is any relationship (r) at all between the White House and Spot. (We'll choose the g1 and z1 places to relate by r; we could have chosen any other pair of places, and simply gotten a different relationship.)
@@ -114,7 +114,7 @@
       The sky is the limit for r; it can be as complicated as <quote>The other day, g1 (Spot) chased Socks, who is owned by Chelsea Clinton, who is the daughter of Bill Clinton, who lives in z1 (the White House)</quote> or even worse. If no such r can be found, well, you take another dog, and keep going until no more dogs can be found. Only then can we say that the White House cannot fit into the first place of <jbophrase>gerku zdani</jbophrase>.
     </para>
     <para>
-      As we have seen, no less than five elements are involved in the definition of <jbophrase>gerku zdani</jbophrase>: the house, the house dweller, the dog, the dog breed (everywhere a dog goes in Lojban, a dog breed follows), and the relationship between the house and the dog. Since tanru are explicitly ambiguous in Lojban, the relationship r cannot be expressed within a tanru (if it could, it wouldn't be a tanru any more!) All the other places, however, can be expressed &ndash; thus:
+      As we have seen, no less than five elements are involved in the definition of <jbophrase>gerku zdani</jbophrase>: the house, the house dweller, the dog, the dog breed (everywhere a dog goes in Relojban, a dog breed follows), and the relationship between the house and the dog. Since tanru are explicitly ambiguous in Relojban, the relationship r cannot be expressed within a tanru (if it could, it wouldn't be a tanru any more!) All the other places, however, can be expressed &ndash; thus:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-tUDa">
       <title>
@@ -135,7 +135,7 @@
     </example>
     <para role="indent">
       <indexterm type="general"><primary>derogatory terms</primary></indexterm>
-      Not the most elegant sentence ever written in either Lojban or English. Yet if there is any relation at all between Spot and the White House, <xref linkend="example-random-id-tUDa"/> is arguably true. If we concentrate on just one type of relation in interpreting the tanru <jbophrase>gerku zdani</jbophrase>, then the meaning of <jbophrase>gerku zdani</jbophrase> changes. So if we understand <jbophrase>gerku zdani</jbophrase> as having the same meaning as the English word <quote>doghouse</quote>, the White House would no longer be a <jbophrase>gerku zdani</jbophrase> with respect to Spot, because as far as we know Spot does not actually live in the White House, and the White House is not a doghouse (derogatory terms for incumbents notwithstanding).
+      Not the most elegant sentence ever written in either Relojban or English. Yet if there is any relation at all between Spot and the White House, <xref linkend="example-random-id-tUDa"/> is arguably true. If we concentrate on just one type of relation in interpreting the tanru <jbophrase>gerku zdani</jbophrase>, then the meaning of <jbophrase>gerku zdani</jbophrase> changes. So if we understand <jbophrase>gerku zdani</jbophrase> as having the same meaning as the English word <quote>doghouse</quote>, the White House would no longer be a <jbophrase>gerku zdani</jbophrase> with respect to Spot, because as far as we know Spot does not actually live in the White House, and the White House is not a doghouse (derogatory terms for incumbents notwithstanding).
     </para>
   </section>
   <section xml:id="section-lujvo-meanings">
@@ -157,7 +157,7 @@
       The insight driving the rest of this chapter is this: while the relation expressed by a tanru can be very distant (e.g. Spot chasing Socks, above), the relationship singled out for disambiguation in a lujvo should be quite close. This is because lujvo-making, paralleling natural language compounding, picks out the most salient relationship r between a tertau place and a seltau place to be expressed in a single word. The relationship <quote>dog chases cat owned by daughter of person living in house</quote> is too distant, and too incidental, to be likely to need expression as a single short word; the relationship <quote>dog lives in house</quote> is not. From all the various interpretations of <jbophrase>gerku zdani</jbophrase>, the person creating <valsi>gerzda</valsi> should pick the most useful value of r. The most useful one is usually going to be the most obvious one, and the most obvious one is usually the closest one.
     </para>
     <para>
-      In fact, the relationship will almost always be so close that the predicate expressing r will be either the seltau or the tertau predicate itself. This should come as no surprise, given that a word like <valsi>zdani</valsi> in Lojban is a predicate. Predicates express relations; so when you're looking for a relation to tie together <jbophrase>le zdani</jbophrase> and <jbophrase>le gerku</jbophrase>, the most obvious relation to pick is the very relation named by the tertau, <valsi>zdani</valsi>: the relation between a home and its dweller. As a result, the object which fills the first place of <valsi>gerku</valsi> (the dog) also fills the second place of <valsi>zdani</valsi> (the house-dweller).
+      In fact, the relationship will almost always be so close that the predicate expressing r will be either the seltau or the tertau predicate itself. This should come as no surprise, given that a word like <valsi>zdani</valsi> in Relojban is a predicate. Predicates express relations; so when you're looking for a relation to tie together <jbophrase>le zdani</jbophrase> and <jbophrase>le gerku</jbophrase>, the most obvious relation to pick is the very relation named by the tertau, <valsi>zdani</valsi>: the relation between a home and its dweller. As a result, the object which fills the first place of <valsi>gerku</valsi> (the dog) also fills the second place of <valsi>zdani</valsi> (the house-dweller).
     </para>
     <para>
       <indexterm type="general"><primary>lujvo place structure</primary><secondary>dropping redundant places</secondary></indexterm>
@@ -238,13 +238,13 @@
       It would be possible to design the place structure of a lujvo from scratch, treating it as if it were a gismu, and working out what arguments contribute to the notion to be expressed by the lujvo. There are two reasons arguing against doing so and in favor of the procedure detailed in this chapter.
     </para>
     <para>
-      The first is that it might be very difficult for a hearer or reader, who has no preconceived idea of what concept the lujvo is intended to convey, to work out what the place structure actually is. Instead, he or she would have to make use of a lujvo dictionary every time a lujvo is encountered in order to work out what a <jbophrase>se jbopli</jbophrase> or a <jbophrase>te klagau</jbophrase> is. But this would mean that, rather than having to learn just the 1300-odd gismu place structures, a Lojbanist would also have to learn myriads of lujvo place structures with little or no apparent pattern or regularity to them. The purpose of the guidelines documented in this chapter is to apply regularity and to make it conventional wherever possible.
+      The first is that it might be very difficult for a hearer or reader, who has no preconceived idea of what concept the lujvo is intended to convey, to work out what the place structure actually is. Instead, he or she would have to make use of a lujvo dictionary every time a lujvo is encountered in order to work out what a <jbophrase>se jbopli</jbophrase> or a <jbophrase>te klagau</jbophrase> is. But this would mean that, rather than having to learn just the 1300-odd gismu place structures, a Relojbanist would also have to learn myriads of lujvo place structures with little or no apparent pattern or regularity to them. The purpose of the guidelines documented in this chapter is to apply regularity and to make it conventional wherever possible.
     </para>
     <para>
       The second reason is related to the first: if the veljvo of the lujvo has not been properly selected, and the places for the lujvo are formulated from scratch, then there is a risk that some of the places formulated may not correspond to any of the places of the gismu used in the veljvo of the lujvo. If that is the case &ndash; that is to say, if the lujvo places are not a subset of the veljvo gismu places &ndash; then it will be very difficult for the hearer or reader to understand what a particular place means, and what it is doing in that particular lujvo. This is a topic that will be further discussed in <xref linkend="section-anomalous-lujvo"/>.
     </para>
     <para>
-      However, second-guessing the place structure of the lujvo is useful in guiding the process of subsequently eliminating places from the veljvo. If the Lojbanist has an idea of what the final place structure should look like, he or she should be able to pick an appropriate veljvo to begin with, in order to express the idea, and then to decide which places are relevant or not relevant to expressing that idea.
+      However, second-guessing the place structure of the lujvo is useful in guiding the process of subsequently eliminating places from the veljvo. If the Relojbanist has an idea of what the final place structure should look like, he or she should be able to pick an appropriate veljvo to begin with, in order to express the idea, and then to decide which places are relevant or not relevant to expressing that idea.
     </para>
   </section>
   <section xml:id="section-symmetrical-asymmetrical">
@@ -543,7 +543,7 @@
     <title>Ordering lujvo places.</title>
     <para>
       <indexterm type="general"><primary>lujvo place order</primary></indexterm>
-      So far, we have concentrated on selecting the places to go into the place structure of a lujvo. However, this is only half the story. In using selbri in Lojban, it is important to remember the right order of the sumti. With lujvo, the need to attend to the order of sumti becomes critical: the set of places selected should be ordered in such a way that a reader unfamiliar with the lujvo should be able to tell which place is which.
+      So far, we have concentrated on selecting the places to go into the place structure of a lujvo. However, this is only half the story. In using selbri in Relojban, it is important to remember the right order of the sumti. With lujvo, the need to attend to the order of sumti becomes critical: the set of places selected should be ordered in such a way that a reader unfamiliar with the lujvo should be able to tell which place is which.
     </para>
     <para>
       <indexterm type="general"><primary>lujvo place order</primary><secondary>rationale for standardization</secondary></indexterm>
@@ -625,7 +625,7 @@
       </interlinear-gloss>
     </example>
     <para role="noindent">
-      where <valsi>gi'e</valsi> is the Lojban word for <quote>and</quote> when placed between two partial bridi, as explained in <xref linkend="section-compound-bridi"/>.
+      where <valsi>gi'e</valsi> is the Relojban word for <quote>and</quote> when placed between two partial bridi, as explained in <xref linkend="section-compound-bridi"/>.
     </para>
     <para>
       <indexterm type="general"><primary>lujvo place order</primary><secondary>asymmetrical lujvo</secondary></indexterm>
@@ -798,7 +798,7 @@
       <indexterm type="general"><primary>plausibility</primary><secondary>in abbreviated lujvo</secondary></indexterm>
       <indexterm type="general"><primary>abbreviated lujvo and plausibility</primary></indexterm>
       <indexterm type="general"><primary>implausible</primary></indexterm>
-      Note that, with these lujvo, an interpretation requiring SE insertion is safe only if the alternatives are either implausible or unlikely to be needed as a lujvo. This may not always be the case, and Lojbanists should be aware of the risk of ambiguity.
+      Note that, with these lujvo, an interpretation requiring SE insertion is safe only if the alternatives are either implausible or unlikely to be needed as a lujvo. This may not always be the case, and Relojbanists should be aware of the risk of ambiguity.
     </para>
   </section>
   <section xml:id="section-tertau-SE">
@@ -871,7 +871,7 @@
       </interlinear-gloss>
     </example>
     <para role="noindent">
-      because of the usual Lojban left-grouping rule. But there doesn't seem to be much difference between that veljvo and
+      because of the usual Relojban left-grouping rule. But there doesn't seem to be much difference between that veljvo and
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-HDBe">
       <title>
@@ -926,7 +926,7 @@
     </example>
     <para role="noindent">
       <indexterm type="general"><primary>invertebrate</primary></indexterm>
-      (<quote>worm</quote> in Lojban refers to any invertebrate), but <valsi valid='maybe'>xasycakcurnu</valsi> has the veljvo
+      (<quote>worm</quote> in Relojban refers to any invertebrate), but <valsi valid='maybe'>xasycakcurnu</valsi> has the veljvo
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-HEjn">
       <title>
@@ -1133,7 +1133,7 @@
       </para>
     </example>
     <para role="indent">
-      But it is also possible to omit the n1 place itself! The n1 place describes the event brought about; an event in Lojban is described as a bridi, by a selbri and its sumti; the selbri is already known (it's the seltau), and the sumti are also already known (they're in the lujvo place structure). So n1 would not give us any information we didn't already know. In fact, the n1=g2 place is dependent on c1 and c2 jointly &ndash; it does not depend on either c1 or c2 by itself. Being dependent and derived from the seltau, it is omissible. So the final place structure of <valsi valid='maybe'>nunctikezgau</valsi> is:
+      But it is also possible to omit the n1 place itself! The n1 place describes the event brought about; an event in Relojban is described as a bridi, by a selbri and its sumti; the selbri is already known (it's the seltau), and the sumti are also already known (they're in the lujvo place structure). So n1 would not give us any information we didn't already know. In fact, the n1=g2 place is dependent on c1 and c2 jointly &ndash; it does not depend on either c1 or c2 by itself. Being dependent and derived from the seltau, it is omissible. So the final place structure of <valsi valid='maybe'>nunctikezgau</valsi> is:
     </para>
     <example xml:id="example-random-id-9oTP">
       <title>
@@ -1191,7 +1191,7 @@
       where both <valsi>basti</valsi> and <valsi>basygau</valsi> are translated <quote>replace</quote> in English, but represent different relations: <valsi>basti</valsi> may be used with no mention of any agent doing the replacing.
     </para>
     <para>
-      In addition, <valsi>gasnu</valsi>-based lujvo can be built from what we would consider nouns or adjectives in English. In Lojban, everything is a predicate, so adjectives, nouns and verbs are all treated in the same way. This is consistent with the use of similar causative affixes in other languages. For example, the gismu <valsi>litki</valsi>, meaning <quote>liquid</quote>, with the place structure
+      In addition, <valsi>gasnu</valsi>-based lujvo can be built from what we would consider nouns or adjectives in English. In Relojban, everything is a predicate, so adjectives, nouns and verbs are all treated in the same way. This is consistent with the use of similar causative affixes in other languages. For example, the gismu <valsi>litki</valsi>, meaning <quote>liquid</quote>, with the place structure
     </para>
     <example xml:id="example-random-id-tDsX">
       <title>
@@ -1214,7 +1214,7 @@
       While <valsi valid='maybe'>likygau</valsi> correctly represents <quote>causes to be a liquid</quote>, a different lujvo based on <valsi>galfi</valsi> (meaning <quote>modify</quote>) may be more appropriate for <quote>causes to become a liquid</quote>. On the other hand, <valsi valid='maybe'>fetsygau</valsi> is potentially confusing, because it could mean <quote>agent in the event of something becoming female</quote> (the implicit-abstraction interpretation) or simply <quote>female agent</quote> (the parallel interpretation), so using implicit-abstraction lujvo is always accompanied with some risk of being misunderstood.
     </para>
     <para>
-      Many other Lojban gismu have places for event abstractions, and therefore are good candidates for the tertau of an implicit-abstraction lujvo. For example, lujvo based on <valsi>rinka</valsi>, with its place structure
+      Many other Relojban gismu have places for event abstractions, and therefore are good candidates for the tertau of an implicit-abstraction lujvo. For example, lujvo based on <valsi>rinka</valsi>, with its place structure
     </para>
     <example xml:id="example-random-id-Pmz8">
       <title>
@@ -1243,7 +1243,7 @@
   <section xml:id="section-anomalous-lujvo">
     <title>Anomalous lujvo</title>
     <para>
-      Some lujvo that have been coined and actually employed in Lojban writing do not follow the guidelines expressed above, either because the places that are equivalent in the seltau and the tertau are in an unusual position, or because the seltau and tertau are related in a complex way, or both. An example of the first kind is <valsi>jdaselsku</valsi>, meaning <quote>prayer</quote>, which was mentioned in <xref linkend="section-order-of-places"/>. The gismu places are:
+      Some lujvo that have been coined and actually employed in Relojban writing do not follow the guidelines expressed above, either because the places that are equivalent in the seltau and the tertau are in an unusual position, or because the seltau and tertau are related in a complex way, or both. An example of the first kind is <valsi>jdaselsku</valsi>, meaning <quote>prayer</quote>, which was mentioned in <xref linkend="section-order-of-places"/>. The gismu places are:
     </para>
     <example xml:id="example-random-id-qJEQ">
       <title>
@@ -1384,7 +1384,7 @@
     </para>
     <para>
       <indexterm type="general"><primary>latent component</primary></indexterm>
-      Does this make <valsi valid='maybe'>xanmi'e</valsi> wrong? By no means. But it does mean that there is a latent component to the meaning of <valsi valid='maybe'>xanmi'e</valsi>, the gismu <valsi>pilno</valsi>, which is not explicit in the veljvo. And it also means that, for a place structure derivation that actually makes sense, rather than being ad-hoc, the Lojbanist should probably go through a derivation for <valsi valid='maybe'>xancypliminde</valsi> or one of the other possibilities that is analogous to the analysis of <valsi valid='maybe'>terlantroge'u</valsi> above, even if he or she decides to stick with a shorter, more convenient form like <valsi valid='maybe'>xanmi'e</valsi>. In addition, of course, the possibilities of elliptical lujvo increase their potential ambiguity enormously &ndash; an unavoidable fact which should be borne in mind.
+      Does this make <valsi valid='maybe'>xanmi'e</valsi> wrong? By no means. But it does mean that there is a latent component to the meaning of <valsi valid='maybe'>xanmi'e</valsi>, the gismu <valsi>pilno</valsi>, which is not explicit in the veljvo. And it also means that, for a place structure derivation that actually makes sense, rather than being ad-hoc, the Relojbanist should probably go through a derivation for <valsi valid='maybe'>xancypliminde</valsi> or one of the other possibilities that is analogous to the analysis of <valsi valid='maybe'>terlantroge'u</valsi> above, even if he or she decides to stick with a shorter, more convenient form like <valsi valid='maybe'>xanmi'e</valsi>. In addition, of course, the possibilities of elliptical lujvo increase their potential ambiguity enormously &ndash; an unavoidable fact which should be borne in mind.
     </para>
   </section>
   <section xml:id="section-comparatives">
@@ -1392,7 +1392,7 @@
     <para>
       <indexterm type="general"><primary>lujvo</primary><secondary>superlatives</secondary></indexterm>
       <indexterm type="general"><primary>lujvo</primary><secondary>comparatives</secondary></indexterm>
-      English has the concepts of <quote>comparative adjectives</quote> and <quote>superlative adjectives</quote> which can be formed from other adjectives, either by adding the suffixes <quote>-er</quote> and <quote>-est</quote> or by using the words <quote>more</quote> and <quote>most</quote>, respectively. The Lojbanic equivalents, which can be made from any brivla, are lujvo with the tertau <valsi>zmadu</valsi>, <valsi>mleca</valsi>, <valsi>zenba</valsi>, <valsi>jdika</valsi>, and <valsi>traji</valsi>. In order to make these lujvo regular and easy to make, certain special guidelines are imposed.
+      English has the concepts of <quote>comparative adjectives</quote> and <quote>superlative adjectives</quote> which can be formed from other adjectives, either by adding the suffixes <quote>-er</quote> and <quote>-est</quote> or by using the words <quote>more</quote> and <quote>most</quote>, respectively. The Relojbanic equivalents, which can be made from any brivla, are lujvo with the tertau <valsi>zmadu</valsi>, <valsi>mleca</valsi>, <valsi>zenba</valsi>, <valsi>jdika</valsi>, and <valsi>traji</valsi>. In order to make these lujvo regular and easy to make, certain special guidelines are imposed.
     </para>
     <para>
       We will begin with lujvo based on <valsi>zmadu</valsi> and <valsi>mleca</valsi>, whose place structures are:
@@ -1443,7 +1443,7 @@
       </para>
     </example>
     <para role="indent">
-      Similarly, in Lojban you can say:
+      Similarly, in Relojban you can say:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-tJDa">
       <title>
@@ -1455,7 +1455,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      In English, <quote>more</quote> comparatives are easier to make and use than <quote>less</quote> comparatives, but in Lojban the two forms are equally easy.
+      In English, <quote>more</quote> comparatives are easier to make and use than <quote>less</quote> comparatives, but in Relojban the two forms are equally easy.
     </para>
     <para>
       Because of their much simpler place structure, lujvo ending in <rafsi>-mau</rafsi> and <rafsi>-me'a</rafsi> are in fact used much more frequently than <valsi>zmadu</valsi> and <valsi>mleca</valsi> themselves as selbri. It is highly unlikely for such lujvo to be construed as anything other than implicit-abstraction lujvo. But there is another type of ambiguity relevant to these lujvo, and which has to do with what is being compared.
@@ -1581,8 +1581,8 @@
       <title>
       </title>
       <interlinear-gloss>
-        <jbo>la .djudis. cu citrai lo'i lobypli</jbo>
-        <natlang>Judy is the youngest of all Lojbanists.</natlang>
+        <jbo>la .djudis. cu citrai lo'i reljbopli</jbo>
+        <natlang>Judy is the youngest of all Relojbanists.</natlang>
       </interlinear-gloss>
     </example>
     <example xml:id="example-random-id-qFf4" role="interlinear-gloss-example">

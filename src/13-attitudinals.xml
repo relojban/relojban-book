@@ -10,7 +10,7 @@
   <section xml:id="section-attitudinals-introduction">
     <title>What are attitudinal indicators?</title>
     <para>
-      This chapter explains the various words that Lojban provides for expressing attitude and related notions. In natural languages, attitudes are usually expressed by the tone of voice when speaking, and (very imperfectly) by punctuation when writing. For example, the bare words
+      This chapter explains the various words that Relojban provides for expressing attitude and related notions. In natural languages, attitudes are usually expressed by the tone of voice when speaking, and (very imperfectly) by punctuation when writing. For example, the bare words
     </para>
     <example xml:id="example-random-id-EWHQ">
       <title>
@@ -24,7 +24,7 @@
     </para>
     <para>
       <indexterm type="general"><primary>attitudinal indicators</primary></indexterm>
-      In Lojban, everything that can be spoken can also be written. Therefore, these tones of voice must be represented by explicit words known as <quote>attitudinal indicators</quote>, or just <quote>attitudinals</quote>. This rule seems awkward and clunky to English-speakers at first, but is an essential part of the Lojbanic way of doing things.
+      In Relojban, everything that can be spoken can also be written. Therefore, these tones of voice must be represented by explicit words known as <quote>attitudinal indicators</quote>, or just <quote>attitudinals</quote>. This rule seems awkward and clunky to English-speakers at first, but is an essential part of the Relojbanic way of doing things.
     </para>
     <para>
       <indexterm type="general"><primary>attitudinals</primary><secondary>placement for prevailing attitude</secondary></indexterm>
@@ -79,7 +79,7 @@
     </example>
     <para role="noindent">
       <indexterm type="general"><primary>attitudinals</primary><secondary>word-form for primary</secondary></indexterm>
-      The primary Lojban attitudinals are all the cmavo of the form VV or V'V: one of the few cases where cmavo have been classified solely by their form. There are 39 of these cmavo: all 25 possible vowel pairs of the form V'V, the four standard diphthongs (<valsi>.ai</valsi>, <valsi>.au</valsi>, <valsi>.ei</valsi>, and <valsi>.oi</valsi>), and the ten more diphthongs that are permitted only in these attitudinal indicators and in names and borrowings (<valsi>ia</valsi>, <valsi>ie</valsi>, <valsi>ii</valsi>, <valsi>io</valsi>, <valsi>iu</valsi>, <valsi>ua</valsi>, <valsi>ue</valsi>, <valsi>ui</valsi>, <valsi>uo</valsi>, and <valsi>uu</valsi>). Note that each of these cmavo has a period before it, marking the pause that is mandatory before every word beginning with a vowel. Attitudinals, like most of the other kinds of indicators described in this chapter, belong to selma'o UI.
+      The primary Relojban attitudinals are all the cmavo of the form VV or V'V: one of the few cases where cmavo have been classified solely by their form. There are 39 of these cmavo: all 25 possible vowel pairs of the form V'V, the four standard diphthongs (<valsi>.ai</valsi>, <valsi>.au</valsi>, <valsi>.ei</valsi>, and <valsi>.oi</valsi>), and the ten more diphthongs that are permitted only in these attitudinal indicators and in names and borrowings (<valsi>ia</valsi>, <valsi>ie</valsi>, <valsi>ii</valsi>, <valsi>io</valsi>, <valsi>iu</valsi>, <valsi>ua</valsi>, <valsi>ue</valsi>, <valsi>ui</valsi>, <valsi>uo</valsi>, and <valsi>uu</valsi>). Note that each of these cmavo has a period before it, marking the pause that is mandatory before every word beginning with a vowel. Attitudinals, like most of the other kinds of indicators described in this chapter, belong to selma'o UI.
     </para>
     <para>
       <indexterm type="general"><primary>attitudinals</primary><secondary>compound</secondary></indexterm>
@@ -97,7 +97,7 @@
       Throughout this chapter, tables of indicators will be written in four columns. The first column is the cmavo itself. The second column is a corresponding English word, not necessarily a literal translation. The fourth column represents the opposite of the second column, and shows the approximate meaning of the attitudinal when suffixed with <jbophrase>-nai</jbophrase>. The third column, which is sometimes omitted, indicates a neutral point between the second and fourth columns, and shows the approximate meaning of the attitudinal when it is suffixed with <jbophrase>-cu'i</jbophrase>. The cmavo <valsi>cu'i</valsi> belongs to selma'o CAI, and is explained more fully in <xref linkend="section-intensity-scale"/>.
     </para>
     <para>
-      One flaw that the English glosses are particularly subject to is that in English it is often difficult to distinguish between expressing your feelings and talking about them, particularly with the limited resource of the written word. So the gloss for <valsi>ui</valsi> should not really be <quote>happiness</quote> but some sound or tone that expresses happiness. However, there aren't nearly enough of those that have unambiguous or obvious meanings in English to go around for all the many, many different emotions Lojban speakers can readily express.
+      One flaw that the English glosses are particularly subject to is that in English it is often difficult to distinguish between expressing your feelings and talking about them, particularly with the limited resource of the written word. So the gloss for <valsi>ui</valsi> should not really be <quote>happiness</quote> but some sound or tone that expresses happiness. However, there aren't nearly enough of those that have unambiguous or obvious meanings in English to go around for all the many, many different emotions Relojban speakers can readily express.
     </para>
     <para>
       Many indicators of CV'V form are loosely derived from specific gismu. The gismu should be thought of as a memory hook, not an equivalent of the cmavo. Such gismu are shown in this chapter between square brackets, thus: [gismu].
@@ -109,7 +109,7 @@
       Attitudinals make no claim: they are expressions of attitude, not of facts or alleged facts. As a result, attitudinals themselves have no truth value, nor do they directly affect the truth value of a bridi that they modify. However, since emotional attitudes are carried in your mind, they reflect reactions to that version of the world that the mind is thinking about; this is seldom identical with the real world. At times, we are thinking about our idealized version of the real world; at other times we are thinking about a potential world that might or might not ever exist.
     </para>
     <para>
-      Therefore, there are two groups of attitudinals in Lojban. The <quote>pure emotion indicators</quote> express the way the speaker is feeling, without direct reference to what else is said. These indicators comprise the attitudinals which begin with <letteral>u</letteral> or <letteral>o</letteral> and many of those beginning with <letteral>i</letteral>.
+      Therefore, there are two groups of attitudinals in Relojban. The <quote>pure emotion indicators</quote> express the way the speaker is feeling, without direct reference to what else is said. These indicators comprise the attitudinals which begin with <letteral>u</letteral> or <letteral>o</letteral> and many of those beginning with <letteral>i</letteral>.
     </para>
     <para>
       The cmavo beginning with <letteral>u</letteral> are simple emotions, which represent the speaker's reaction to the world as it is, or as it is perceived to be.
@@ -236,13 +236,13 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      In <xref linkend="example-random-id-qfHA"/>, note that the attitudinal <valsi>uo</valsi> is translated by an English non-attitudinal phrase: <quote>At last!</quote> It is common for the English equivalents of Lojban attitudinals to be short phrases of this sort, with more or less normal grammar, but actually expressions of emotion.
+      In <xref linkend="example-random-id-qfHA"/>, note that the attitudinal <valsi>uo</valsi> is translated by an English non-attitudinal phrase: <quote>At last!</quote> It is common for the English equivalents of Relojban attitudinals to be short phrases of this sort, with more or less normal grammar, but actually expressions of emotion.
     </para>
     <para>
       In particular, both <valsi>uu</valsi> and <valsi>.u'u</valsi> can be translated into English as <quote>I'm sorry</quote>; the difference between these two attitudes frequently causes confusion among English-speakers who use this phrase, leading to responses like <quote>Why are you sorry? It's not your fault!</quote>
     </para>
     <para>
-      It is important to realize that <valsi>uu</valsi>, and indeed all attitudinals, are meant to be used sincerely, not ironically. In English, the exclamation <quote>Pity!</quote> is just as likely to be ironically intended, but this usage does not extend to Lojban. Lying with attitudinals is (normally) as inappropriate to Lojban discourse as any other kind of lying: perhaps worse, because misunderstood emotions can cause even greater problems than misunderstood statements.
+      It is important to realize that <valsi>uu</valsi>, and indeed all attitudinals, are meant to be used sincerely, not ironically. In English, the exclamation <quote>Pity!</quote> is just as likely to be ironically intended, but this usage does not extend to Relojban. Lying with attitudinals is (normally) as inappropriate to Relojban discourse as any other kind of lying: perhaps worse, because misunderstood emotions can cause even greater problems than misunderstood statements.
     </para>
     <para>
       The following examples display the effects of <valsi>nai</valsi> and <valsi>cu'i</valsi> when suffixed to an attitudinal:
@@ -440,7 +440,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      <xref linkend="example-random-id-qFJV"/> shows an attitude towards a vaguely specified relation; the attitudinal modifies the situation described by the bare selbri, namely the mouse that is causing the emotion. Lojban-speaking toddlers, if there ever are any, will probably use sentences like <xref linkend="example-random-id-qFJV"/> a lot.
+      <xref linkend="example-random-id-qFJV"/> shows an attitude towards a vaguely specified relation; the attitudinal modifies the situation described by the bare selbri, namely the mouse that is causing the emotion. Relojban-speaking toddlers, if there ever are any, will probably use sentences like <xref linkend="example-random-id-qFJV"/> a lot.
     </para>
     <para>
       <xref linkend="example-random-id-qfK3"/> and <xref linkend="example-random-id-qfKX"/> use attitudinals that follow <jbophrase>la .djan.</jbophrase> rather than being at the beginning of the sentence. This form means that the attitude is attached to John rather than the event of his coming; the speaker loves or disrespects John specifically. Compare:
@@ -485,7 +485,7 @@
       <indexterm type="general"><primary>attitudinals</primary><secondary>logical language and</secondary></indexterm>
       <indexterm type="general"><primary>attitudinals</primary><secondary>propositional/emotional caveat</secondary></indexterm>
       <indexterm type="general"><primary>attitudinals</primary><secondary>emotional/propositional caveat</secondary></indexterm>
-      In fact, the entire distinction between pure emotions and propositional attitudes is itself a bit shaky: <valsi>u'u</valsi> can be seen as a propositional attitude indicator meaning <quote>I regret that ...</quote>, and <valsi>a'e</valsi> (discussed below) can be seen as a pure emotion meaning <quote>I'm awake/aware</quote>. The division of the attitudinals into pure-emotion and propositional-attitude classes in this chapter is mostly by way of explanation; it is not intended to permit firm rulings on specific points. Attitudinals are the part of Lojban most distant from the <quote>logical language</quote> aspect.
+      In fact, the entire distinction between pure emotions and propositional attitudes is itself a bit shaky: <valsi>u'u</valsi> can be seen as a propositional attitude indicator meaning <quote>I regret that ...</quote>, and <valsi>a'e</valsi> (discussed below) can be seen as a pure emotion meaning <quote>I'm awake/aware</quote>. The division of the attitudinals into pure-emotion and propositional-attitude classes in this chapter is mostly by way of explanation; it is not intended to permit firm rulings on specific points. Attitudinals are the part of Relojban most distant from the <quote>logical language</quote> aspect.
     </para>
     <para>
       Here is the list of propositional attitude indicators grouped by initial letter, starting with those beginning with <letteral>a</letteral>:
@@ -803,7 +803,7 @@
       <indexterm type="general"><primary>attitudinals</primary><secondary>negative</secondary></indexterm>
       <indexterm type="general"><primary>attitudinals</primary><secondary>positive</secondary></indexterm>
       <indexterm type="general"><primary>attitudinals</primary><secondary>scale of</secondary></indexterm>
-      In Lojban, all emotions and attitudes are scales. These scales run from some extreme value (which we'll call <quote>positive</quote>) to an opposite extreme (which we'll call <quote>negative</quote>). In the tables above, we have seen three points on the scale: <quote>positive</quote>, neutral, and <quote>negative</quote>. The terms <quote>positive</quote> and <quote>negative</quote> are put into quotation marks because they are loaded words when applied to emotions, and the attitudinal system reflects this loading, which is a known cultural bias. Only two of the <quote>positive</quote> words, namely <valsi>ii</valsi> (fear) and <valsi>.oi</valsi> (pain/complaint), represent emotions commonly thought of as less <quote>virtuous</quote> in most cases than their negative counterparts. But these two were felt to be instinctive, distinct, and very powerful emotions that needed to be expressible in a monosyllable when necessary, while their counterparts are less commonly expressed.
+      In Relojban, all emotions and attitudes are scales. These scales run from some extreme value (which we'll call <quote>positive</quote>) to an opposite extreme (which we'll call <quote>negative</quote>). In the tables above, we have seen three points on the scale: <quote>positive</quote>, neutral, and <quote>negative</quote>. The terms <quote>positive</quote> and <quote>negative</quote> are put into quotation marks because they are loaded words when applied to emotions, and the attitudinal system reflects this loading, which is a known cultural bias. Only two of the <quote>positive</quote> words, namely <valsi>ii</valsi> (fear) and <valsi>.oi</valsi> (pain/complaint), represent emotions commonly thought of as less <quote>virtuous</quote> in most cases than their negative counterparts. But these two were felt to be instinctive, distinct, and very powerful emotions that needed to be expressible in a monosyllable when necessary, while their counterparts are less commonly expressed.
     </para>
     <para>
       <indexterm type="general"><primary>attitudinal scales</primary><secondary>rationale for assignment</secondary></indexterm>
@@ -926,7 +926,7 @@
       <indexterm type="general"><primary>emotions</primary><secondary>insights</secondary></indexterm>
       <indexterm type="general"><primary>emotions</primary><secondary>compound</secondary></indexterm>
       <indexterm type="general"><primary>compound emotions</primary></indexterm>
-      Now no one is going to ever utter a string of 100-odd attitudinals to express their emotions. If asked, we normally do not recognize more than one or two emotions at a time &ndash; usually the ones that are strongest or which most recently changed in some significant way. But the scale system provides some useful insights into a possible theory of emotion (which might be testable using Lojban), and incidentally explains how Lojbanists express compound emotions when they do recognize them.
+      Now no one is going to ever utter a string of 100-odd attitudinals to express their emotions. If asked, we normally do not recognize more than one or two emotions at a time &ndash; usually the ones that are strongest or which most recently changed in some significant way. But the scale system provides some useful insights into a possible theory of emotion (which might be testable using Relojban), and incidentally explains how Relojbanists express compound emotions when they do recognize them.
     </para>
     <para>
       <indexterm type="general"><primary>attitudinal scale</primary><secondary>neutral compared with positive + negative</secondary></indexterm>
@@ -939,11 +939,11 @@
     </para>
     <para>
       <indexterm type="general"><primary>attitudinals</primary><secondary>contrasted with bridi</secondary></indexterm>
-      People have proposed that attitudinals be expressed as bridi just like everything else; but emotions aren't logical or analytical &ndash; saying <quote>I'm awed</quote> is not the same as saying <quote>Wow!!!</quote>. The Lojban system is intended to give the effects of an analytical system without the thought involved. Thus, you can simply feel in Lojban.
+      People have proposed that attitudinals be expressed as bridi just like everything else; but emotions aren't logical or analytical &ndash; saying <quote>I'm awed</quote> is not the same as saying <quote>Wow!!!</quote>. The Relojban system is intended to give the effects of an analytical system without the thought involved. Thus, you can simply feel in Relojban.
     </para>
     <para>
       <indexterm type="general"><primary>attitudinals</primary><secondary>design benefit</secondary></indexterm>
-      A nice feature of this design is that you can be simple or complex, and the system works the same way. The most immediate benefit is in learning. You only need to learn a couple of the scale words and a couple of attitude words, and you're ready to express your emotions Lojbanically. As you learn more, you can express your emotions more thoroughly and more precisely, but even a limited vocabulary offers a broad range of expression.
+      A nice feature of this design is that you can be simple or complex, and the system works the same way. The most immediate benefit is in learning. You only need to learn a couple of the scale words and a couple of attitude words, and you're ready to express your emotions Relojbanically. As you learn more, you can express your emotions more thoroughly and more precisely, but even a limited vocabulary offers a broad range of expression.
     </para>
   </section>
   <section xml:id="section-categories">
@@ -952,7 +952,7 @@
       <indexterm type="general"><primary>attitudinal categories</primary><secondary>rationale</secondary></indexterm>
       <indexterm type="general"><primary>attitudinal categories</primary></indexterm>
       <indexterm type="general"><primary>emotional categories</primary></indexterm>
-      The Lojban attitudinal system was designed by starting with a long list of English emotion words, far too many to fit into the 39 available VV-form cmavo. To keep the number of cmavo limited, the emotion words in the list were grouped together by common features: each group was then assigned a separate cmavo. This was like making tanru in reverse, and the result is a collection of indicators that can be combined, like tanru, to express very complex emotions. Some examples in a moment.
+      The Relojban attitudinal system was designed by starting with a long list of English emotion words, far too many to fit into the 39 available VV-form cmavo. To keep the number of cmavo limited, the emotion words in the list were grouped together by common features: each group was then assigned a separate cmavo. This was like making tanru in reverse, and the result is a collection of indicators that can be combined, like tanru, to express very complex emotions. Some examples in a moment.
     </para>
     <para>
       The most significant <quote>common feature</quote> we identified was that the emotional words on the list could easily be broken down into six major groups, each of which was assigned its own cmavo:
@@ -1006,13 +1006,13 @@
       <indexterm type="general"><primary>spiritual discomfort</primary><secondary>example</secondary></indexterm>
       <indexterm type="general"><primary>sexual discomfort</primary><secondary>example</secondary></indexterm>
       <indexterm type="general"><primary>attitudinal categories</primary><secondary>example of effect</secondary></indexterm>
-      For example, embarrassment is a social discomfort, expressible as <jbophrase>.o'unairo'a</jbophrase>. Some emotions that we label <quote>stress</quote> in English are expressed in Lojban with <jbophrase>.o'unairo'i</jbophrase>. Physical distress can be expressed with <jbophrase>.o'unairo'o</jbophrase>, which makes a nice groan if you say it with feeling. Mental discomfort might be what you feel when you don't know the answer to the test question, but feel that you should. Most adults can recall some instance where we felt sexual discomfort, <jbophrase>o'unairo'u</jbophrase>. Spiritual discomfort, <jbophrase>o'unaire'e</jbophrase>, might be felt by a church-goer who has wandered into the wrong kind of religious building.
+      For example, embarrassment is a social discomfort, expressible as <jbophrase>.o'unairo'a</jbophrase>. Some emotions that we label <quote>stress</quote> in English are expressed in Relojban with <jbophrase>.o'unairo'i</jbophrase>. Physical distress can be expressed with <jbophrase>.o'unairo'o</jbophrase>, which makes a nice groan if you say it with feeling. Mental discomfort might be what you feel when you don't know the answer to the test question, but feel that you should. Most adults can recall some instance where we felt sexual discomfort, <jbophrase>o'unairo'u</jbophrase>. Spiritual discomfort, <jbophrase>o'unaire'e</jbophrase>, might be felt by a church-goer who has wandered into the wrong kind of religious building.
     </para>
     <para>
       Most of the time when expressing an emotion, you won't categorize it with these words. Emotional expressions should be quickly expressible without having to think about them. However, we sometimes have mixed emotions within this set, as for example emotional discomfort coupled with physical comfort or vice versa.
     </para>
     <para>
-      Coupling these six words with our 39 attitude scales, each of which has a positive and negative side, already gives you far more emotional expression words than we have emotional labels in English. Thus, you'll never see a Lojban-English emotional dictionary that covers all the Lojban possibilities. Some may be useless, but others convey emotions that probably never had a word for them before, though many have felt them (<jbophrase>.eiro'u</jbophrase>, for example &ndash; look it up).
+      Coupling these six words with our 39 attitude scales, each of which has a positive and negative side, already gives you far more emotional expression words than we have emotional labels in English. Thus, you'll never see a Relojban-English emotional dictionary that covers all the Relojban possibilities. Some may be useless, but others convey emotions that probably never had a word for them before, though many have felt them (<jbophrase>.eiro'u</jbophrase>, for example &ndash; look it up).
     </para>
     <para>
       <indexterm type="general"><primary>ro'anai</primary><secondary>example</secondary></indexterm>
@@ -1058,7 +1058,7 @@
       </cmavo-entry>
     </cmavo-list>
     <para role="indent">
-      The implicit metaphors <quote>heart</quote> for emotional and <quote>belly</quote> for physical are not really Lojbanic, but they work fine for English-speakers.
+      The implicit metaphors <quote>heart</quote> for emotional and <quote>belly</quote> for physical are not really Relojbanic, but they work fine for English-speakers.
     </para>
   </section>
   <section xml:id="section-modifiers">
@@ -1145,7 +1145,7 @@
     </example>
     <para role="indent">
       <indexterm type="general"><primary>imperatives</primary><secondary>attitude</secondary></indexterm>
-      Note that imperatives in Lojban need not be imperious! Corresponding examples with <valsi>ga'icu'i</valsi> and <valsi>ga'i</valsi>:
+      Note that imperatives in Relojban need not be imperious! Corresponding examples with <valsi>ga'icu'i</valsi> and <valsi>ga'i</valsi>:
     </para>
     <example xml:id="example-random-id-qfWn" role="interlinear-gloss-example">
       <title>
@@ -1219,7 +1219,7 @@
       In both cases, the English <quote>it</quote> is vague, reflecting the absence of a bridi. <xref linkend="example-random-id-qFxm"/> and <xref linkend="example-random-id-qfXq"/> are pure expressions of attitude. Analogously, <jbophrase>uuse'i</jbophrase> is self-pity, whereas <jbophrase>uuse'inai</jbophrase> is pity for someone else.
     </para>
     <para>
-      The modifier <valsi>ri'e</valsi> indicates emotional release versus emotional control. <quote>I will not let him know how angry I am</quote>, you say to yourself before entering the room. The Lojban is much shorter:
+      The modifier <valsi>ri'e</valsi> indicates emotional release versus emotional control. <quote>I will not let him know how angry I am</quote>, you say to yourself before entering the room. The Relojban is much shorter:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Pwuv">
       <title>
@@ -1275,7 +1275,7 @@
       </interlinear-gloss>
     </example>
     <para role="noindent">
-      is something a Lojban-speaking child might say. On the other hand,
+      is something a Relojban-speaking child might say. On the other hand,
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Arv2">
       <title>
@@ -1312,7 +1312,7 @@
     </example>
     <para role="indent">
       <indexterm type="general"><primary>attitudinals</primary><secondary>complexity</secondary></indexterm>
-      Some of the emotional expressions may seem too complicated to use. They might be for most circumstances. It is likely that most combinations will never get used. But if one person uses one of these expressions, another person can understand (as unambiguously as the expresser intends) what emotion is being expressed. Most probably as the system becomes well-known and internalized by Lojban-speakers, particular attitudinal combinations will come to be standard expressions (if not cliches) of emotion.
+      Some of the emotional expressions may seem too complicated to use. They might be for most circumstances. It is likely that most combinations will never get used. But if one person uses one of these expressions, another person can understand (as unambiguously as the expresser intends) what emotion is being expressed. Most probably as the system becomes well-known and internalized by Relojban-speakers, particular attitudinal combinations will come to be standard expressions (if not cliches) of emotion.
     </para>
   </section>
   <section xml:id="section-compound-attitudinals">
@@ -1404,7 +1404,7 @@
     </para>
     <para>
       <indexterm type="general"><primary>attitudinals</primary><secondary>referent uncertainty</secondary></indexterm>
-      More details about the uses of indicators, and the way they interact with other specialized cmavo, are given in <xref linkend="chapter-structure"/>. It is worth mentioning that real-world interpretation is not necessarily consistent with the formal scope rules. People generally express emotions when they feel them, with only a minimum of grammatical constraint on that expression; complexities of emotional expression are seldom logically analyzable. Lojban attempts to provide a systematic reference that could possibly be ingrained to an instinctive level. However, it should always be assumed that the referent of an indicator has some uncertainty.
+      More details about the uses of indicators, and the way they interact with other specialized cmavo, are given in <xref linkend="chapter-structure"/>. It is worth mentioning that real-world interpretation is not necessarily consistent with the formal scope rules. People generally express emotions when they feel them, with only a minimum of grammatical constraint on that expression; complexities of emotional expression are seldom logically analyzable. Relojban attempts to provide a systematic reference that could possibly be ingrained to an instinctive level. However, it should always be assumed that the referent of an indicator has some uncertainty.
     </para>
     <para>
       <indexterm type="general"><primary>multiple indicators</primary></indexterm>
@@ -1459,7 +1459,7 @@
     </para>
     <para>
       <indexterm type="general"><primary>attitudinal answers</primary><secondary>plausibility</secondary></indexterm>
-      When asked in the context of discourse, <valsi>pei</valsi> acts like other Lojban question words &ndash; it requests the respondent to <quote>fill in the blank</quote>, in this case with an appropriate attitudinal describing the respondent's feeling about the referent expression. As with other questions, plausibility is polite; if you answer with an irrelevant UI cmavo, such as a discursive, you are probably making fun of the questioner. (A <valsi>ge'e</valsi>, however, is always in order &ndash; you are not required to answer emotionally. This is not the same as <valsi>.i'inai</valsi>, which is privacy as the reverse of conviviality.)
+      When asked in the context of discourse, <valsi>pei</valsi> acts like other Relojban question words &ndash; it requests the respondent to <quote>fill in the blank</quote>, in this case with an appropriate attitudinal describing the respondent's feeling about the referent expression. As with other questions, plausibility is polite; if you answer with an irrelevant UI cmavo, such as a discursive, you are probably making fun of the questioner. (A <valsi>ge'e</valsi>, however, is always in order &ndash; you are not required to answer emotionally. This is not the same as <valsi>.i'inai</valsi>, which is privacy as the reverse of conviviality.)
     </para>
     <para>
       <indexterm type="general"><primary>attitudinal questions</primary><secondary>asking intensity</secondary></indexterm>
@@ -1700,7 +1700,7 @@
       <indexterm type="general"><primary>Láadan evidentials</primary></indexterm>
       <indexterm type="general"><primary>American Indian languages and evidentials</primary></indexterm>
       <indexterm type="general"><primary>Elgin</primary><secondary>Suzette Haden and evidentials</secondary></indexterm>
-      Now we proceed from the attitudinal indicators and their relatives to the other, semantically unrelated, categories of indicators. The indicators known as <quote>evidentials</quote> show how the speaker came to say the utterance; i.e. the source of the information or the idea. Lojban's list of evidentials was derived from lists describing several American Indian languages. Evidentials are also essential to the constructed language Láadan, designed by the linguist and novelist Suzette Haden Elgin. Láadan's set of indicators was drawn on extensively in developing the Lojban indicator system.
+      Now we proceed from the attitudinal indicators and their relatives to the other, semantically unrelated, categories of indicators. The indicators known as <quote>evidentials</quote> show how the speaker came to say the utterance; i.e. the source of the information or the idea. Relojban's list of evidentials was derived from lists describing several American Indian languages. Evidentials are also essential to the constructed language Láadan, designed by the linguist and novelist Suzette Haden Elgin. Láadan's set of indicators was drawn on extensively in developing the Relojban indicator system.
     </para>
     <para>
       <indexterm type="general"><primary>evidentials</primary><secondary>in English</secondary></indexterm>
@@ -1727,7 +1727,7 @@
       A bridi marked by <valsi>ja'o</valsi> is a conclusion by the speaker based on other (stated or unstated) information or ideas. Rough English equivalents of <valsi>ja'o</valsi> are <quote>thus</quote> and <quote>therefore</quote>.
     </para>
     <para>
-      A bridi marked by <valsi>ca'e</valsi> is true because the speaker says so. In addition to definitions of words, <valsi>ca'e</valsi> is also appropriate in what are called performatives, where the very act of speaking the words makes them true. An English example is <quote>I now pronounce you husband and wife</quote>, where the very act of uttering the words makes the listeners into husband and wife. A Lojban translation might be:
+      A bridi marked by <valsi>ca'e</valsi> is true because the speaker says so. In addition to definitions of words, <valsi>ca'e</valsi> is also appropriate in what are called performatives, where the very act of speaking the words makes them true. An English example is <quote>I now pronounce you husband and wife</quote>, where the very act of uttering the words makes the listeners into husband and wife. A Relojban translation might be:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Po4T">
       <title>
@@ -1978,7 +1978,7 @@
       <indexterm type="general"><primary>tanru</primary><secondary>explicitly defining</secondary></indexterm>
       <indexterm type="general"><primary>tanru</primary><secondary>explicating</secondary></indexterm>
       <indexterm type="general"><primary>tanru</primary><secondary>expanding</secondary></indexterm>
-      The cmavo <valsi>ta'u</valsi> is a discursive unique to Lojban; it expresses the particularly Lojbanic device of tanru. Since tanru are semantically ambiguous, they are subject to misunderstanding. This ambiguity can be removed by expanding the tanru into some semantically unambiguous structure, often involving relative clauses or the introduction of additional brivla. The discursive <valsi>ta'u</valsi> marks the transition from the use of a brief but possibly confusing tanru to its fuller, clearer expansion; the discursive <valsi>ta'unai</valsi> marks a transition in the reverse direction.
+      The cmavo <valsi>ta'u</valsi> is a unique discursive; it expresses the particularly Lojbanic device of tanru. Since tanru are semantically ambiguous, they are subject to misunderstanding. This ambiguity can be removed by expanding the tanru into some semantically unambiguous structure, often involving relative clauses or the introduction of additional brivla. The discursive <valsi>ta'u</valsi> marks the transition from the use of a brief but possibly confusing tanru to its fuller, clearer expansion; the discursive <valsi>ta'unai</valsi> marks a transition in the reverse direction.
     </para>
     <para>
       Next, the <quote>commentary on discourse</quote> group:
@@ -2053,7 +2053,7 @@
       <indexterm type="general"><primary>discourse</primary><secondary>tone of voice markers</secondary></indexterm>
       <indexterm type="general"><primary>discourse</primary><secondary>commentary on</secondary></indexterm>
       <indexterm type="general"><primary>discursives</primary><secondary>discourse commentary</secondary></indexterm>
-      This group is used by the speaker to characterize the nature of the discourse, so as to prevent misunderstanding. It is well-known that listeners often fail to recognize a humorous statement and take it seriously, or miss an exaggeration, or try to read more into a statement than the speaker intends to put there. In speech, the tone of voice often provides the necessary cue, but the reader of ironic or understated or imprecise discourse is often simply clueless. As with the attitudinals, the use of these cmavo may seem fussy to new Lojbanists, but it is important to remember that <valsi>zo'o</valsi>, for example, is the equivalent of smiling while you speak, not the equivalent of a flat declaration like <quote>What I'm about to say is supposed to be funny.</quote>
+      This group is used by the speaker to characterize the nature of the discourse, so as to prevent misunderstanding. It is well-known that listeners often fail to recognize a humorous statement and take it seriously, or miss an exaggeration, or try to read more into a statement than the speaker intends to put there. In speech, the tone of voice often provides the necessary cue, but the reader of ironic or understated or imprecise discourse is often simply clueless. As with the attitudinals, the use of these cmavo may seem fussy to new Relojbanists, but it is important to remember that <valsi>zo'o</valsi>, for example, is the equivalent of smiling while you speak, not the equivalent of a flat declaration like <quote>What I'm about to say is supposed to be funny.</quote>
     </para>
     <para>
       A few additional English equivalents: for <valsi>sa'enai</valsi>, <quote>roughly speaking</quote> or <quote>approximately speaking</quote>; for <valsi>sa'unai</valsi>, <quote>furthermore</quote>; for <valsi>to'u</valsi>, <quote>in short</quote> or<quote>skipping details</quote>; for <valsi>do'a</valsi>,  <quote>broadly construed</quote>; for <valsi>do'anai</valsi> (as you might expect), <quote>narrowly construed</quote>.
@@ -2338,7 +2338,7 @@
     </para>
     <para>
       <indexterm type="general"><primary>questions</primary><secondary>marking in advance</secondary></indexterm>
-      Lojban question words, unlike those of English, frequently do not stand at the beginning of the question. Placing the cmavo <valsi>pau</valsi> at the beginning of a bridi helps the listener realize that the bridi is a question, like the symbol at the beginning of written Spanish questions that looks like an upside-down question mark. The listener is then warned to watch for the actual question word.
+      Relojban question words, unlike those of English, frequently do not stand at the beginning of the question. Placing the cmavo <valsi>pau</valsi> at the beginning of a bridi helps the listener realize that the bridi is a question, like the symbol at the beginning of written Spanish questions that looks like an upside-down question mark. The listener is then warned to watch for the actual question word.
     </para>
     <para>
       <indexterm type="general"><primary>questions</primary><secondary>rhetorical</secondary></indexterm>
@@ -2365,7 +2365,7 @@
     </para>
     <para>
       <indexterm type="general"><primary>literally</primary></indexterm>
-      The negated form, <jbophrase>pe'anai</jbophrase>, indicates that what has been said is to be interpreted literally, in the usual way for Lojban; natural-language intuition is to be ignored.
+      The negated form, <jbophrase>pe'anai</jbophrase>, indicates that what has been said is to be interpreted literally, in the usual way for Relojban; natural-language intuition is to be ignored.
     </para>
     <para>
       <indexterm type="general"><primary>heartburn</primary><secondary>example</secondary></indexterm>
@@ -2389,7 +2389,7 @@
       <indexterm type="general"><primary>the</primary><secondary>example</secondary></indexterm>
       <indexterm type="general"><primary>a/an</primary><secondary>contrasted with the</secondary></indexterm>
       <indexterm type="general"><primary>the</primary><secondary>contrasted with a/an</secondary></indexterm>
-      The uses of <valsi>bi'u</valsi> and <valsi>bi'unai</valsi> correspond to one of the uses of the English articles <quote>the</quote> and <quote>a/an</quote>. An English-speaker telling a story may begin with <quote>I saw a man who ...</quote>. Later in the story, the same man will be referred to with the phrase <quote>the man</quote>. Lojban does not use its articles in the same way: both <quote>a man</quote> and <quote>the man</quote> would be translated <jbophrase>le nanmu</jbophrase>, since the speaker has in mind a specific man. However, the first use might be marked <jbophrase>le bi'u nanmu</jbophrase>, to indicate that this is a new man, not mentioned before. Later uses could correspondingly be tagged <jbophrase>le bi'unai nanmu</jbophrase>.
+      The uses of <valsi>bi'u</valsi> and <valsi>bi'unai</valsi> correspond to one of the uses of the English articles <quote>the</quote> and <quote>a/an</quote>. An English-speaker telling a story may begin with <quote>I saw a man who ...</quote>. Later in the story, the same man will be referred to with the phrase <quote>the man</quote>. Relojban does not use its articles in the same way: both <quote>a man</quote> and <quote>the man</quote> would be translated <jbophrase>le nanmu</jbophrase>, since the speaker has in mind a specific man. However, the first use might be marked <jbophrase>le bi'u nanmu</jbophrase>, to indicate that this is a new man, not mentioned before. Later uses could correspondingly be tagged <jbophrase>le bi'unai nanmu</jbophrase>.
     </para>
     <para>
       Most of the time, the distinction between <valsi>bi'u</valsi> and <valsi>bi'unai</valsi> need not be made, as the listener can infer the right referent. However, if a different man were referred to still later in the story, <jbophrase>le bi'u nanmu</jbophrase> would clearly show that this man was different from the previous one.
@@ -2434,7 +2434,7 @@
     <para>
       <indexterm type="general"><primary>vocatives</primary><secondary>rationale for redundancy</secondary></indexterm>
       <indexterm type="general"><primary>redundancy</primary><secondary>effect on vocative design</secondary></indexterm>
-      Because of the need for redundancy in noisy environments, the Lojban design does not compress the vocatives into a minimum number of scales. Doing so would make a non-redundant <valsi>nai</valsi> too often vital to interpretation of a protocol signal, as explained later in this section.
+      Because of the need for redundancy in noisy environments, the Relojban design does not compress the vocatives into a minimum number of scales. Doing so would make a non-redundant <valsi>nai</valsi> too often vital to interpretation of a protocol signal, as explained later in this section.
     </para>
     <para>
       <indexterm type="general"><primary>vocatives</primary><secondary>grammar overview</secondary></indexterm>
@@ -2443,7 +2443,7 @@
     <para>
       <indexterm type="general"><primary>vocatives</primary><secondary>and definition of &quot;you&quot;</secondary></indexterm>
       <indexterm type="general"><primary>you</primary><secondary>defining</secondary></indexterm>
-      Using any vocative except <valsi>mi'e</valsi> (explained below) implicitly defines the meaning of the sumka'i <valsi>do</valsi>, as the whole point of vocatives is to specify the listener, or at any rate the desired listener &ndash; even if the desired listener isn't listening! We will use the terms <quote>speaker</quote> and <quote>listener</quote> for clarity, although in written Lojban the appropriate terms would be <quote>writer</quote> and <quote>reader</quote>.
+      Using any vocative except <valsi>mi'e</valsi> (explained below) implicitly defines the meaning of the sumka'i <valsi>do</valsi>, as the whole point of vocatives is to specify the listener, or at any rate the desired listener &ndash; even if the desired listener isn't listening! We will use the terms <quote>speaker</quote> and <quote>listener</quote> for clarity, although in written Relojban the appropriate terms would be <quote>writer</quote> and <quote>reader</quote>.
     </para>
     <para>
       <indexterm type="general"><primary>vocatives</primary><secondary>notation convention symbol &quot;X&quot;</secondary></indexterm>
@@ -2653,7 +2653,7 @@
         <description role="long">
           <indexterm type="general"><primary>vi'o</primary><secondary>contrasted with je'e</secondary></indexterm>
           <indexterm type="general"><primary>je'e</primary><secondary>contrasted with vi'o</secondary></indexterm>
-          <quote>Wilco, X</quote>, <quote>I understand and will comply</quote>. Similar to <valsi>je'e</valsi> but signals an intention (similar to <valsi>.ai</valsi>) to comply with the other speaker's request. This cmavo is the main way of saying <quote>OK</quote> in Lojban, in the usual sense of <quote>Agreed!</quote>, although <valsi>ie</valsi> carries some of the same meaning. The negative form indicates that the message was received but that you will not comply: a very colloquial version is <quote>No way!</quote>.
+          <quote>Wilco, X</quote>, <quote>I understand and will comply</quote>. Similar to <valsi>je'e</valsi> but signals an intention (similar to <valsi>.ai</valsi>) to comply with the other speaker's request. This cmavo is the main way of saying <quote>OK</quote> in Relojban, in the usual sense of <quote>Agreed!</quote>, although <valsi>ie</valsi> carries some of the same meaning. The negative form indicates that the message was received but that you will not comply: a very colloquial version is <quote>No way!</quote>.
         </description>
       </cmavo-entry>
     </cmavo-list>
@@ -2724,13 +2724,13 @@
       <indexterm type="general"><primary>protocol</primary><secondary>using vocatives</secondary></indexterm>
       <indexterm type="general"><primary>protocol</primary><secondary>computer communications using COI</secondary></indexterm>
       <indexterm type="general"><primary>protocol</primary><secondary>parliamentary using COI</secondary></indexterm>
-      Many of the vocatives have been listed with translations which are drawn from radio use: <quote>roger</quote>, <quote>wilco</quote>, <quote>over and out</quote>. This form of translation does not mean that Lojban is a language of CB enthusiasts, but rather that in most natural languages these forms are so well handled by the context that only in specific domains (like speaking on the radio) do they need special words. In Lojban, dependence on the context can be dangerous, as speaker and listener may not share the right context, and so the vocatives provide a formal protocol for use when it is appropriate. Other appropriate contexts include computer communications and parliamentary procedure: in the latter context, the protocol question <jbophrase>ta'apei</jbophrase> would mean <quote>Will the speaker yield?</quote>
+      Many of the vocatives have been listed with translations which are drawn from radio use: <quote>roger</quote>, <quote>wilco</quote>, <quote>over and out</quote>. This form of translation does not mean that Relojban is a language of CB enthusiasts, but rather that in most natural languages these forms are so well handled by the context that only in specific domains (like speaking on the radio) do they need special words. In Relojban, dependence on the context can be dangerous, as speaker and listener may not share the right context, and so the vocatives provide a formal protocol for use when it is appropriate. Other appropriate contexts include computer communications and parliamentary procedure: in the latter context, the protocol question <jbophrase>ta'apei</jbophrase> would mean <quote>Will the speaker yield?</quote>
     </para>
   </section>
   <section xml:id="section-sample-dialogue">
     <title>A sample dialogue</title>
     <para>
-      The following dialogue in Lojban illustrates the uses of attitudinals and protocol vocatives in conversation. The phrases enclosed in <jbophrase>sei ... se'u</jbophrase> indicate the speaker of each sentence.
+      The following dialogue in Relojban illustrates the uses of attitudinals and protocol vocatives in conversation. The phrases enclosed in <jbophrase>sei ... se'u</jbophrase> indicate the speaker of each sentence.
     </para>
       <interlinear-gloss>
         <jbo>la .rik. e la .alis. cu nerkla le kafybarja</jbo>
@@ -2938,7 +2938,7 @@
       <indexterm type="general"><primary>indicators</primary><secondary>ramifications</secondary></indexterm>
       <indexterm type="general"><primary>aliens</primary><secondary>communication with</secondary></indexterm>
       <indexterm type="general"><primary>Kzinti</primary><secondary>communication with</secondary></indexterm>
-      The exact ramifications of the indicator system in actual usage are unknown. There has never been anything like it in natural language before. The system provides great potential for emotional expression and transcription, from which significant Sapir-Whorf effects can be anticipated. When communicating across cultural boundaries, where different indicators are often used for the same emotion, accidental offense can be avoided. If we ever ran into an alien race, a culturally neutral language of emotion could be vital. (A classic example, taken from the science fiction of Larry Niven, is to imagine speaking Lojban to the carnivorous warriors called Kzinti, noting that a human smile bares the teeth, and could be seen as an intent to attack.) And for communicating emotions to computers, when we cannot identify all of the signals involved in subliminal human communication (things like body language are also cultural), a system like this is needed.
+      The exact ramifications of the indicator system in actual usage are unknown. There has never been anything like it in natural language before. The system provides great potential for emotional expression and transcription, from which significant Sapir-Whorf effects can be anticipated. When communicating across cultural boundaries, where different indicators are often used for the same emotion, accidental offense can be avoided. If we ever ran into an alien race, a culturally neutral language of emotion could be vital. (A classic example, taken from the science fiction of Larry Niven, is to imagine speaking Relojban to the carnivorous warriors called Kzinti, noting that a human smile bares the teeth, and could be seen as an intent to attack.) And for communicating emotions to computers, when we cannot identify all of the signals involved in subliminal human communication (things like body language are also cultural), a system like this is needed.
     </para>
     <para>
       <indexterm type="general"><primary>indicators</primary><secondary>rationale for selection</secondary></indexterm>
@@ -2949,15 +2949,15 @@
       We envision an evolutionary development. At this point, the system is little more than a mental toy. Many of you who read this will try playing around with various combinations of indicators, trying to figure out what emotions they express and when the expressions might be useful. You may even find an expression for which there currently is no good English word and start using it. Why not, if it helps you express your feelings?
     </para>
     <para>
-      There will be a couple dozen of these used pretty much universally &ndash; mostly just simple attitudinals with, at most, intensity markers. These are the ones that will quickly be expressed at the subconscious level. But every Lojbanist who plays with the list will bring in a couple of new words. Poets will paint emotional pictures, and people who identify with those pictures will use the words so created for their own experiences.
+      There will be a couple dozen of these used pretty much universally &ndash; mostly just simple attitudinals with, at most, intensity markers. These are the ones that will quickly be expressed at the subconscious level. But every Relojbanist who plays with the list will bring in a couple of new words. Poets will paint emotional pictures, and people who identify with those pictures will use the words so created for their own experiences.
     </para>
     <para>
-      Just as a library of tanru is built up, so will a library of attitudes be built. Unlike the tanru, though, the emotional expressions are built on some fairly nebulous root emotions &ndash; words that cannot be defined with the precision of the gismu. The emotion words of Lojban will very quickly take on a life of their own, and the outline given here will evolve into a true system of emotions.
+      Just as a library of tanru is built up, so will a library of attitudes be built. Unlike the tanru, though, the emotional expressions are built on some fairly nebulous root emotions &ndash; words that cannot be defined with the precision of the gismu. The emotion words of Relojban will very quickly take on a life of their own, and the outline given here will evolve into a true system of emotions.
     </para>
     <para>
       <indexterm type="general"><primary>emotions</primary><secondary>research using indicators</secondary></indexterm>
       <indexterm type="general"><primary>emotions</primary><secondary>recording using indicators</secondary></indexterm>
-      There are several theories as to the nature of emotion, and they change from year to year as we learn more about ourselves. Whether or not Lojban's additive/scalar emotional model is an accurate model for human emotions, it does support the linguistic needs for expressing those emotions. Researchers may learn more about the nature of human emotions by exploring the use of the system by Lojban speakers. They also may be able to use the Lojban system as a means for more clearly recording emotions.
+      There are several theories as to the nature of emotion, and they change from year to year as we learn more about ourselves. Whether or not Relojban's additive/scalar emotional model is an accurate model for human emotions, it does support the linguistic needs for expressing those emotions. Researchers may learn more about the nature of human emotions by exploring the use of the system by Relojban speakers. They also may be able to use the Relojban system as a means for more clearly recording emotions.
     </para>
     <para>
       <indexterm type="general"><primary>emotions</primary><secondary>cultural bias of expression</secondary></indexterm>
@@ -2965,10 +2965,10 @@
     </para>
     <para>
       <indexterm type="general"><primary>Sapir-Whorf effects</primary><secondary>and emotional indicators</secondary></indexterm>
-      Perhaps native Lojban speakers will be more expressively clear about their emotions than others. Perhaps they will feel some emotions more strongly than others in ways that can be correlated with the word choices; any difference from the norms of other cultures could be significant. Psychologists have devised elaborate tests for measuring attitudes and personality; this may be the easiest area in which to detect any systematic cultural effect of the type sought to confirm Sapir-Whorf, simply because we already have tools in existence to test it. Because Lojban is unique among languages in having such extensive and expressive indicators, it is likely that a Sapir-Whorf effect will occur and will be recognized.
+      Perhaps native Relojban speakers will be more expressively clear about their emotions than others. Perhaps they will feel some emotions more strongly than others in ways that can be correlated with the word choices; any difference from the norms of other cultures could be significant. Psychologists have devised elaborate tests for measuring attitudes and personality; this may be the easiest area in which to detect any systematic cultural effect of the type sought to confirm Sapir-Whorf, simply because we already have tools in existence to test it. Because Relojban is unique among languages in having such extensive and expressive indicators, it is likely that a Sapir-Whorf effect will occur and will be recognized.
     </para>
     <para>
-      It is unlikely that we will know the true potential of a system like this one until and unless we have children raised entirely in a multi-cultural Lojban-speaking environment. We learn too many cultural habits in the realm of emotional communication <quote>at our mother's knee</quote>. Such children will have a Lojban system that has stronger reinforcement than any typical culture system. The second generation of such children, then, could be said to be the start of a true Lojbanic culture.
+      It is unlikely that we will know the true potential of a system like this one until and unless we have children raised entirely in a multi-cultural Relojban-speaking environment. We learn too many cultural habits in the realm of emotional communication <quote>at our mother's knee</quote>. Such children will have a Relojban system that has stronger reinforcement than any typical culture system. The second generation of such children, then, could be said to be the start of a true Relojbanic culture.
     </para>
     <para>
       <indexterm type="general"><primary>emotional indicators</primary><secondary>noticeable effects of</secondary></indexterm>

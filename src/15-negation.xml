@@ -10,10 +10,10 @@
   <section xml:id="section-negation-introduction">
     <title>Introductory</title>
     <para>
-      The grammatical expression of negation is a critical part of Lojban's claim to being logical. The problem of negation, simply put, is to come up with a complete definition of the word <quote>not</quote>. For Lojban's unambiguous grammar, this means further that meanings of <quote>not</quote> with different grammatical effect must be different words, and even different grammatical structures.
+      The grammatical expression of negation is a critical part of Relojban's claim to being logical. The problem of negation, simply put, is to come up with a complete definition of the word <quote>not</quote>. For Relojban's unambiguous grammar, this means further that meanings of <quote>not</quote> with different grammatical effect must be different words, and even different grammatical structures.
     </para>
     <para>
-      Logical assertions are implicitly required in a logical language; thus, an apparatus for expressing them is built into Lojban's logical connectives and other structures.
+      Logical assertions are implicitly required in a logical language; thus, an apparatus for expressing them is built into Relojban's logical connectives and other structures.
     </para>
     <para>
       In natural languages, especially those of Indo-European grammar, we have sentences composed of two parts which are typically called <quote>subject</quote> and <quote>predicate</quote>. In the statement
@@ -125,13 +125,13 @@
       In the natural languages, we would be inclined to say that both of these statements are false, since there is no King of Mexico.
     </para>
     <para>
-      The rest of this chapter is designed to explain the Lojban model of negation.
+      The rest of this chapter is designed to explain the Relojban model of negation.
     </para>
   </section>
   <section xml:id="section-bridi-negation">
     <title>bridi negation</title>
     <para>
-      In discussing Lojban negation, we will call the form of logical negation that simply denies the truth of a statement <quote>bridi negation</quote>. Using bridi negation, we can say the equivalent of <quote>I haven't stopped beating my wife</quote> without implying that I ever started, nor even that I have a wife, meaning simply <quote>It isn't true that I have stopped beating my wife.</quote> Since Lojban uses bridi as smaller components of complex sentences, bridi negation is permitted in these components as well at the sentence level.
+      In discussing Relojban negation, we will call the form of logical negation that simply denies the truth of a statement <quote>bridi negation</quote>. Using bridi negation, we can say the equivalent of <quote>I haven't stopped beating my wife</quote> without implying that I ever started, nor even that I have a wife, meaning simply <quote>It isn't true that I have stopped beating my wife.</quote> Since Relojban uses bridi as smaller components of complex sentences, bridi negation is permitted in these components as well at the sentence level.
     </para>
     <para>
       For the bridi negation of a sentence to be true, the sentence being negated must be false. A major use of bridi negation is in making a negative response to a yes/no question; such responses are usually contradictory, denying the truth of the entire sentence. A negative answer to
@@ -179,10 +179,10 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      Note that we have used a special convention to show in the English that a bridi negation is present. We would like to use the word <quote>not</quote>, because this highlights the naturalness of putting the negation marker just before the selbri, and makes the form easier to learn. But there is a major difference between Lojban's bridi negation with <valsi>na</valsi> and natural language negation with <quote>not</quote>. In English, the word <quote>not</quote> can apply to a single word, to a phrase, to an English predicate, or to the entire sentence. In addition, <quote>not</quote> may indicate either contradictory negation or another form of negation, depending on the sentence. Lojban's internal bridi negation, on the other hand, always applies to an entire bridi, and is always a contradictory negation; that is, it contradicts the claim of the whole bridi.
+      Note that we have used a special convention to show in the English that a bridi negation is present. We would like to use the word <quote>not</quote>, because this highlights the naturalness of putting the negation marker just before the selbri, and makes the form easier to learn. But there is a major difference between Relojban's bridi negation with <valsi>na</valsi> and natural language negation with <quote>not</quote>. In English, the word <quote>not</quote> can apply to a single word, to a phrase, to an English predicate, or to the entire sentence. In addition, <quote>not</quote> may indicate either contradictory negation or another form of negation, depending on the sentence. Relojban's internal bridi negation, on the other hand, always applies to an entire bridi, and is always a contradictory negation; that is, it contradicts the claim of the whole bridi.
     </para>
     <para>
-      Because of the ambiguity of English <quote>not</quote>, we will use <quote>[false]</quote> in the translation of Lojban examples to remind the reader that we are expressing a contradictory negation. Here are more examples of bridi negation:
+      Because of the ambiguity of English <quote>not</quote>, we will use <quote>[false]</quote> in the translation of Relojban examples to remind the reader that we are expressing a contradictory negation. Here are more examples of bridi negation:
     </para>
     <example xml:id="example-random-id-qgzz" role="interlinear-gloss-example">
       <title>
@@ -216,13 +216,13 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      Although there is this fundamental difference between Lojban's internal bridi negation and English negation, we note that in many cases, especially when there are no existential or quantified variables (the cmavo <valsi>da</valsi>, <valsi>de</valsi>, and <valsi>di</valsi> of selma'o KOhA, explained in <xref linkend="chapter-quantifiers"/>) in the bridi, you can indeed translate Lojban <valsi>na</valsi> as <quote>not</quote> (or <quote>isn't</quote> or <quote>doesn't</quote>, as appropriate).
+      Although there is this fundamental difference between Relojban's internal bridi negation and English negation, we note that in many cases, especially when there are no existential or quantified variables (the cmavo <valsi>da</valsi>, <valsi>de</valsi>, and <valsi>di</valsi> of selma'o KOhA, explained in <xref linkend="chapter-quantifiers"/>) in the bridi, you can indeed translate Relojban <valsi>na</valsi> as <quote>not</quote> (or <quote>isn't</quote> or <quote>doesn't</quote>, as appropriate).
     </para>
     <para>
       The most important rule about bridi negation is that if a bridi is true, its negation is false, and vice versa.
     </para>
     <para>
-      In Lojban, there are several structures that implicitly contain bridi, so that Lojban sentences may contain more than one occurrence of <valsi>na</valsi>. For example:
+      In Relojban, there are several structures that implicitly contain bridi, so that Relojban sentences may contain more than one occurrence of <valsi>na</valsi>. For example:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-WU9u">
       <title>
@@ -306,10 +306,10 @@
       </interlinear-gloss>
     </example>
     <para role="noindent">
-      mean the same thing with <valsi>na</valsi> before the <valsi>ta'e</valsi>, as when the negation occurs afterwards; we'll let future, Lojban-speaking, logicians decide on how they relate to each other.
+      mean the same thing with <valsi>na</valsi> before the <valsi>ta'e</valsi>, as when the negation occurs afterwards; we'll let future, Relojban-speaking, logicians decide on how they relate to each other.
     </para>
     <para>
-      A final caution on translating English negations into Lojban: if you translate the English literally, you'll get the wrong one. With English causal statements, and other statements with auxiliary clauses, this problem is more likely.
+      A final caution on translating English negations into Relojban: if you translate the English literally, you'll get the wrong one. With English causal statements, and other statements with auxiliary clauses, this problem is more likely.
     </para>
     <para>
       Thus, if you translate the English:
@@ -579,7 +579,7 @@
   Excellent------Good--------Fair--------Poor-------Awful
     </literallayout>
     <para>
-      Some scales are more binary than the examples we diagrammed. Thus we have <quote>not necessary</quote> or <quote>unnecessary</quote> being the polar opposite of necessary. Another scale, especially relevant to Lojban, is interpreted based on situations modified by one's philosophy: <quote>not true</quote> may be equated with <quote>false</quote> in a bi-valued truth-functional logic, while in tri-valued logic an intermediate between <quote>true</quote> and <quote>false</quote> is permitted, and in fuzzy logic a continuous scale exists from true to false. The meaning of <quote>not true</quote> requires a knowledge of which variety of truth scale is being considered.
+      Some scales are more binary than the examples we diagrammed. Thus we have <quote>not necessary</quote> or <quote>unnecessary</quote> being the polar opposite of necessary. Another scale, especially relevant to Relojban, is interpreted based on situations modified by one's philosophy: <quote>not true</quote> may be equated with <quote>false</quote> in a bi-valued truth-functional logic, while in tri-valued logic an intermediate between <quote>true</quote> and <quote>false</quote> is permitted, and in fuzzy logic a continuous scale exists from true to false. The meaning of <quote>not true</quote> requires a knowledge of which variety of truth scale is being considered.
     </para>
     <para>
       We will define the most general form of scalar negation as indicating only that the particular point or value in the scale or range is not valid and that some other (unspecified) point on the scale is correct. This is the intent expressed in most contexts by <quote>not mild</quote>, for example.
@@ -597,7 +597,7 @@
   <section xml:id="section-nahe">
     <title>selbri and tanru negation</title>
     <para>
-      All the scalar negations illustrated in <xref linkend="section-scalar-negation"/> are expressed in Lojban using the cmavo <valsi>na'e</valsi> (of selma'o NAhE). The most common use of <valsi>na'e</valsi> is as a prefix to the selbri:
+      All the scalar negations illustrated in <xref linkend="section-scalar-negation"/> are expressed in Relojban using the cmavo <valsi>na'e</valsi> (of selma'o NAhE). The most common use of <valsi>na'e</valsi> is as a prefix to the selbri:
     </para>
     <example xml:id="example-random-id-qh42" role="interlinear-gloss-example">
       <title>
@@ -616,7 +616,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      Comparing these two, we see that the negation operator being used in <xref linkend="example-random-id-qH4n"/> is <valsi>na'e</valsi>. But what exactly does <valsi>na'e</valsi> negate? Does the negation include only the gismu <valsi>klama</valsi>, which is the entire selbri in this case, or does it include the <jbophrase>le zarci</jbophrase> as well? In Lojban, the answer is unambiguously <quote>only the gismu</quote>. The cmavo <valsi>na'e</valsi> always applies only to what follows it.
+      Comparing these two, we see that the negation operator being used in <xref linkend="example-random-id-qH4n"/> is <valsi>na'e</valsi>. But what exactly does <valsi>na'e</valsi> negate? Does the negation include only the gismu <valsi>klama</valsi>, which is the entire selbri in this case, or does it include the <jbophrase>le zarci</jbophrase> as well? In Relojban, the answer is unambiguously <quote>only the gismu</quote>. The cmavo <valsi>na'e</valsi> always applies only to what follows it.
     </para>
     <para>
       <xref linkend="example-random-id-qH4n"/> looks as if it were parallel to:
@@ -669,10 +669,10 @@
       In neither <xref linkend="example-random-id-qh4w"/> nor <xref linkend="example-random-id-qH6w"/> does the <valsi>na'e</valsi> negate the entire selbri. While both sentences contain negations that deny a particular relationship between the sumti, they also have a component which makes a positive claim about such a relationship. This is clearer in <xref linkend="example-random-id-qh4w"/>, which says that I am going, but in a non-walking manner. In <xref linkend="example-random-id-qH6w"/>, we have claimed that the relationship between me and the market in some way involves walking, but is not one of <quote>going to</quote> (perhaps we are walking around the market, or walking-in-place while at the market).
     </para>
     <para>
-      The <quote>scale</quote>, or actually the <quote>set</quote>, implied in Lojban tanru negations is anything which plausibly can be substituted into the tanru. (Plausibility here is interpreted in the same way that answers to a <valsi>mo</valsi> question must be plausible &ndash; the result must not only have the right number of places and have sumti values appropriate to the place structure, it must also be appropriate or relevant to the context.) This minimal condition allows a speaker to be intentionally vague, while still communicating meaningful information. The speaker who uses selbri negation is denying one relationship, while minimally asserting a different relationship.
+      The <quote>scale</quote>, or actually the <quote>set</quote>, implied in Relojban tanru negations is anything which plausibly can be substituted into the tanru. (Plausibility here is interpreted in the same way that answers to a <valsi>mo</valsi> question must be plausible &ndash; the result must not only have the right number of places and have sumti values appropriate to the place structure, it must also be appropriate or relevant to the context.) This minimal condition allows a speaker to be intentionally vague, while still communicating meaningful information. The speaker who uses selbri negation is denying one relationship, while minimally asserting a different relationship.
     </para>
     <para>
-      We also need a scalar negation form that has a scope longer than a single brivla. There exists such a longer-scope selbri negation form, as exemplified by (each Lojban sentence in the next several examples is given twice, with parentheses in the second copy showing the scope of the <valsi>na'e</valsi>):
+      We also need a scalar negation form that has a scope longer than a single brivla. There exists such a longer-scope selbri negation form, as exemplified by (each Relojban sentence in the next several examples is given twice, with parentheses in the second copy showing the scope of the <valsi>na'e</valsi>):
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-t20b">
       <title>
@@ -741,7 +741,7 @@
       The translations show that the negation in <xref linkend="example-random-id-qh7T"/> is more restricted in scope; i.e. less of the sentence is negated with respect to x1 (<valsi>mi</valsi>).
     </para>
     <para>
-      Logical scope being an important factor in Lojban's claims to be unambiguous, let us indicate the relative precedence of <valsi>na'e</valsi> as an operator. Grouping with <valsi>ke</valsi> and <valsi>ke'e</valsi>, of course, has an overt scope, which is its advantage. <valsi>na'e</valsi> is very close binding to its brivla. Internal binding of tanru, with <valsi>bo</valsi>, is not as tightly bound as <valsi>na'e</valsi>. <valsi>co</valsi>, the tanru inversion operator has a scope that is longer than all other tanru constructs.
+      Logical scope being an important factor in Relojban's claims to be unambiguous, let us indicate the relative precedence of <valsi>na'e</valsi> as an operator. Grouping with <valsi>ke</valsi> and <valsi>ke'e</valsi>, of course, has an overt scope, which is its advantage. <valsi>na'e</valsi> is very close binding to its brivla. Internal binding of tanru, with <valsi>bo</valsi>, is not as tightly bound as <valsi>na'e</valsi>. <valsi>co</valsi>, the tanru inversion operator has a scope that is longer than all other tanru constructs.
     </para>
     <para>
       In short, <valsi>na'e</valsi> and <jbophrase>na'eke</jbophrase> define a type of negation, which is shorter in scope than bridi negation, and which affects all or part of a selbri. The result of <valsi>na'e</valsi> negation remains an assertion of some specific truth and not merely a denial of another claim.
@@ -779,7 +779,7 @@
       Note: <rafsi>-kem-</rafsi> is the rafsi for <valsi>ke</valsi>, but it is omitted in the final lujvo as superfluous &ndash; <valsi>ke'e</valsi> is its own rafsi, and its inclusion in the lujvo implies a <valsi>ke</valsi> after the <rafsi>-nal-</rafsi>, since it needs to close something; only a <valsi>ke</valsi> immediately after the negation would make the <valsi>ke'e</valsi> meaningful in the tanru expressed in this lujvo.
     </para>
     <para>
-      In a lujvo, it is probably clearest to translate <rafsi>-nal-</rafsi> as <quote>non-</quote>, to match the English combining forms, except when the <valsi>na'e</valsi> has single word scope and English uses <quote>un-</quote> or <quote>im-</quote> to negate that single word. Translation style should determine the use of <quote>other than</quote>, <quote>non-</quote>, or another negator for <valsi>na'e</valsi> in tanru; the translator must render the Lojban into English so it is clear in context. Let's go back to our simplest example:
+      In a lujvo, it is probably clearest to translate <rafsi>-nal-</rafsi> as <quote>non-</quote>, to match the English combining forms, except when the <valsi>na'e</valsi> has single word scope and English uses <quote>un-</quote> or <quote>im-</quote> to negate that single word. Translation style should determine the use of <quote>other than</quote>, <quote>non-</quote>, or another negator for <valsi>na'e</valsi> in tanru; the translator must render the Relojban into English so it is clear in context. Let's go back to our simplest example:
     </para>
     <example xml:id="example-random-id-qh9c" role="interlinear-gloss-example">
       <title>
@@ -799,7 +799,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      Note that to compare with the English translation form using <quote>non-</quote>, we've translated the Lojban as if the selbri were a noun. Since Lojban <valsi>klama</valsi> is indifferently a noun, verb, or adjective, the difference is purely a translation change, not a true change in meaning. The English difference seems significant, though, due to the strongly different English grammatical forms and the ambiguity of English negation.
+      Note that to compare with the English translation form using <quote>non-</quote>, we've translated the Relojban as if the selbri were a noun. Since Relojban <valsi>klama</valsi> is indifferently a noun, verb, or adjective, the difference is purely a translation change, not a true change in meaning. The English difference seems significant, though, due to the strongly different English grammatical forms and the ambiguity of English negation.
     </para>
     <para>
       Consider the following highly problematic sentence:
@@ -1031,7 +1031,7 @@
   <section xml:id="section-sumti-negation">
     <title>sumti negation</title>
     <para>
-      There are two ways of negating sumti in Lojban. We have the choice of quantifying the sumti with zero, or of applying the sumti-negator <jbophrase>na'ebo</jbophrase> before the sumti. It turns out that a zero quantification serves for contradictory negation. As the cmavo we use implies, <jbophrase>na'ebo</jbophrase> forms a scalar negation.
+      There are two ways of negating sumti in Relojban. We have the choice of quantifying the sumti with zero, or of applying the sumti-negator <jbophrase>na'ebo</jbophrase> before the sumti. It turns out that a zero quantification serves for contradictory negation. As the cmavo we use implies, <jbophrase>na'ebo</jbophrase> forms a scalar negation.
     </para>
     <para>
       Let us show examples of each.
@@ -1087,7 +1087,7 @@
       (Boston and Perth are nearly, but not quite, antipodal cities. In a purely United States context, San Francisco might be a better <quote>opposite</quote>.) Coming up with good examples is difficult, because attaching <jbophrase>to'ebo</jbophrase> to a description sumti is usually the same as attaching <valsi>to'e</valsi> to the selbri of the description.
     </para>
     <para>
-      It is not possible to transform sumti negations of either type into bridi negations or scalar selbri negations. Negations of sumti will be used in Lojban conversation. The inability to manipulate these negations logically will, it is hoped, prevent the logical errors that result when natural languages attempt corresponding manipulations.
+      It is not possible to transform sumti negations of either type into bridi negations or scalar selbri negations. Negations of sumti will be used in Relojban conversation. The inability to manipulate these negations logically will, it is hoped, prevent the logical errors that result when natural languages attempt corresponding manipulations.
     </para>
   </section>
   <section xml:id="section-other-negation">
@@ -1352,7 +1352,7 @@
       </interlinear-gloss>
     </example>
     <para role="noindent">
-      as a response to a negative question like <xref linkend="example-random-id-8VCt"/>, Lojban designers had to choose between two equally plausible interpretations with opposite effects. Does <xref linkend="example-random-id-Pgrw"/> create a double negative in the sentence by adding a new <valsi>na</valsi> to the one already there (forming a double negative and hence a positive statement), or does the <valsi>na</valsi> replace the previous one, leaving the sentence unchanged?
+      as a response to a negative question like <xref linkend="example-random-id-8VCt"/>, Relojban designers had to choose between two equally plausible interpretations with opposite effects. Does <xref linkend="example-random-id-Pgrw"/> create a double negative in the sentence by adding a new <valsi>na</valsi> to the one already there (forming a double negative and hence a positive statement), or does the <valsi>na</valsi> replace the previous one, leaving the sentence unchanged?
     </para>
     <para>
       It was decided that substitution, the latter alternative, is the preferable choice, since it is then clear whether we intend a positive or a negative sentence without performing any manipulations. This is the way English usually works, but not all languages work this way &ndash; Russian, Japanese, and Navajo all interpret a negative reply to a negative question as positive.
@@ -1412,10 +1412,10 @@
       Negations which follow such a pattern are called <quote>metalinguistic negations</quote>. In natural languages, the mark of metalinguistic negation is that an indication of a correct statement always, or almost always, follows the negation. Tone of voice or emphasis may be further used to clarify the error.
     </para>
     <para>
-      Negations of every sort must be expressible in Lojban; errors are inherent to human thought, and are not excluded from the language. When such negations are metalinguistic, we must separate them from logical claims about the truth or falsity of the statement, as well as from scalar negations which may not easily express (or imply) the preferred claim. Because Lojban allows concepts to be so freely combined in tanru, limits on what is plausible or not plausible tend to be harder to determine.
+      Negations of every sort must be expressible in Relojban; errors are inherent to human thought, and are not excluded from the language. When such negations are metalinguistic, we must separate them from logical claims about the truth or falsity of the statement, as well as from scalar negations which may not easily express (or imply) the preferred claim. Because Relojban allows concepts to be so freely combined in tanru, limits on what is plausible or not plausible tend to be harder to determine.
     </para>
     <para>
-      Mimicking the muddled nature of natural language negation would destroy this separation. Since Lojban does not use tone of voice, we need other means to metalinguistically indicate what is wrong with a statement. When the statement is entirely inappropriate, we need to be able to express metalinguistic negation in a more non-specific fashion.
+      Mimicking the muddled nature of natural language negation would destroy this separation. Since Relojban does not use tone of voice, we need other means to metalinguistically indicate what is wrong with a statement. When the statement is entirely inappropriate, we need to be able to express metalinguistic negation in a more non-specific fashion.
     </para>
     <para>
       Here is a list of some different kinds of metalinguistic negation with English-language examples:
@@ -1580,10 +1580,10 @@
       Scale errors and category errors can be similarly expressed with selma'o BAI. <valsi>le'a</valsi> has meaning <quote>of category/class/type X</quote>, <valsi>ci'u</valsi> has meaning <quote>on scale X</quote>, and <valsi>ci'e</valsi>, based on <valsi>ciste</valsi>, can be used to talk about universes of discourse defined either as systems or sets of components, as shown in <xref linkend="section-truth-questions"/>. <valsi>kai</valsi> and <valsi>la'u</valsi> also exist in BAI for discussing other quality and quantity errors.
     </para>
     <para>
-      We have to make particular note of potential problems in the areas of undue quantity and incorrect scale/category. Assertions about the relationships between gismu are among the basic substance of the language. It is thus invalid to logically require that if something is blue, that it is colored, or if it is not-blue, then it is some other color. In Lojban, <valsi>blanu</valsi> (<quote>blue</quote>) is not explicitly defined as a <valsi>skari</valsi> (<quote>color</quote>). Similarly, it is not implicit that the opposite of <quote>good</quote> is <quote>bad</quote>.
+      We have to make particular note of potential problems in the areas of undue quantity and incorrect scale/category. Assertions about the relationships between gismu are among the basic substance of the language. It is thus invalid to logically require that if something is blue, that it is colored, or if it is not-blue, then it is some other color. In Relojban, <valsi>blanu</valsi> (<quote>blue</quote>) is not explicitly defined as a <valsi>skari</valsi> (<quote>color</quote>). Similarly, it is not implicit that the opposite of <quote>good</quote> is <quote>bad</quote>.
     </para>
     <para>
-      This mutual independence of gismu is only an ideal. Pragmatically, people will categorize things based on their world-views. We will write dictionary definitions that will relate gismu, unfortunately including some of these world-view assumptions. Lojbanists should try to minimize these assumptions, but this seems a likely area where logical rules will break down (or where Sapir-Whorf effects will be made evident). In terms of negation, however, it is vital that we clearly preserve the capability of denying a presumably obvious scale or category assumption.
+      This mutual independence of gismu is only an ideal. Pragmatically, people will categorize things based on their world-views. We will write dictionary definitions that will relate gismu, unfortunately including some of these world-view assumptions. Relojbanists should try to minimize these assumptions, but this seems a likely area where logical rules will break down (or where Sapir-Whorf effects will be made evident). In terms of negation, however, it is vital that we clearly preserve the capability of denying a presumably obvious scale or category assumption.
     </para>
     <para>
       Solecisms, grammatical and spelling errors will be marked by marking the offending word or phrase with <valsi>na'i</valsi> (in the manner of any selma'o UI cmavo). In this sense, <valsi>na'i</valsi> becomes equivalent to the English metalinguistic marker <quote>[sic]</quote>. Purists may choose to use ZOI or LOhU/LEhU quotes or <valsi>sa'a</valsi>-marked corrections to avoid repeating a truly unparsable passage, especially if a computer is to analyze the speech/text. See <xref linkend="section-parentheses"/> for explanations of these usages.
@@ -1592,7 +1592,7 @@
       In summary, metalinguistic negation will typically take the form of referring to a previous statement and marking it with one or more <valsi>na'i</valsi> to indicate what metalinguistic errors have been made, and then repeating the statement with corrections. References to previous statements may be full repetitions, or may use members of selma'o GOhA. <valsi>na'i</valsi> at the beginning of a statement merely says that something is inappropriate about the statement, without specificity.
     </para>
     <para>
-      In normal use, metalinguistic negation requires that a corrected statement follow the negated statement. In Lojban, however, it is possible to merely specify metalinguistic errors without correcting them. It will eventually be seen whether an uncorrected metalinguistic negation remains an acceptable form in Lojban. In such a statement, metalinguistic expression would involve an ellipsis not unlike that of tenseless expression.
+      In normal use, metalinguistic negation requires that a corrected statement follow the negated statement. In Relojban, however, it is possible to merely specify metalinguistic errors without correcting them. It will eventually be seen whether an uncorrected metalinguistic negation remains an acceptable form in Relojban. In such a statement, metalinguistic expression would involve an ellipsis not unlike that of tenseless expression.
     </para>
     <para>
       Note that metalinguistic negation gives us another kind of legitimate negative answer to a <valsi>xu</valsi> question (see <xref linkend="section-truth-questions"/>). <valsi>na'i</valsi> will be used when something about the questioned statement is inappropriate, such as in questions like <quote>Have you stopped beating your wife?</quote>:

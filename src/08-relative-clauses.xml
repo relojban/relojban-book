@@ -30,7 +30,7 @@
       </cmavo-entry>
     </cmavo-list>
     <para role="indent">
-      Let us think about the problem of communicating what it is that we are pointing at when we are pointing at something. In Lojban, we can refer to what we are pointing at by using the sumka'i <valsi>ti</valsi> if it is nearby, or <valsi>ta</valsi> if it is somewhat further away, or <valsi>tu</valsi> if it is distant. (sumka'i are explained in full in <xref linkend="chapter-anaphoric-cmavo"/>.)
+      Let us think about the problem of communicating what it is that we are pointing at when we are pointing at something. In Relojban, we can refer to what we are pointing at by using the sumka'i <valsi>ti</valsi> if it is nearby, or <valsi>ta</valsi> if it is somewhat further away, or <valsi>tu</valsi> if it is distant. (sumka'i are explained in full in <xref linkend="chapter-anaphoric-cmavo"/>.)
     </para>
     <para>
       <indexterm type="general"><primary>reference</primary><secondary>ambiguity of ti/ta/tu</secondary></indexterm>
@@ -50,7 +50,7 @@
     <para>
       <indexterm type="general"><primary>reference</primary><secondary>use of relative clause for</secondary></indexterm>
       <indexterm type="general"><primary>relative clause</primary><secondary>use for reference</secondary></indexterm>
-      To help solve this problem, Lojban uses a construction called a <quote>relative clause</quote>. Relative clauses are usually attached to the end of sumti, but there are other places where they can go as well, as explained later in this chapter. A relative clause begins with a word of selma'o NOI, and ends with the elidable terminator <valsi>ku'o</valsi> (of selma'o KUhO). As you might suppose, <valsi>noi</valsi> is a cmavo of selma'o NOI; however, first we will discuss the cmavo <valsi>poi</valsi>, which also belongs to selma'o NOI.
+      To help solve this problem, Relojban uses a construction called a <quote>relative clause</quote>. Relative clauses are usually attached to the end of sumti, but there are other places where they can go as well, as explained later in this chapter. A relative clause begins with a word of selma'o NOI, and ends with the elidable terminator <valsi>ku'o</valsi> (of selma'o KUhO). As you might suppose, <valsi>noi</valsi> is a cmavo of selma'o NOI; however, first we will discuss the cmavo <valsi>poi</valsi>, which also belongs to selma'o NOI.
     </para>
     <para>
       <indexterm type="general"><primary>ke'a</primary><secondary>as referent for relativized sumti</secondary></indexterm>
@@ -241,7 +241,7 @@
       <indexterm type="general"><primary>comma</primary><secondary>effect on relative clause in English</secondary></indexterm>
       <indexterm type="general"><primary>relative clauses</primary><secondary>effect of commas in English</secondary></indexterm>
       <indexterm type="general"><primary>relative clauses</primary><secondary>restricted contrasted with incidental in English expression</secondary></indexterm>
-      In English, the distinction between restrictive and incidental relative clauses is expressed in writing by surrounding incidental, but not restrictive, clauses with commas. These commas are functioning as parentheses, because incidental relative clauses are essentially parenthetical. This distinction in punctuation is represented in speech by a difference in tone of voice. In addition, English restrictive relative clauses can be introduced by <quote>that</quote> as well as <quote>which</quote> and <quote>who</quote>, whereas incidental relative clauses cannot begin with <quote>that</quote>. Lojban, however, always uses the cmavo <valsi>poi</valsi> and <valsi>noi</valsi> rather than punctuation or intonation to make the distinction.
+      In English, the distinction between restrictive and incidental relative clauses is expressed in writing by surrounding incidental, but not restrictive, clauses with commas. These commas are functioning as parentheses, because incidental relative clauses are essentially parenthetical. This distinction in punctuation is represented in speech by a difference in tone of voice. In addition, English restrictive relative clauses can be introduced by <quote>that</quote> as well as <quote>which</quote> and <quote>who</quote>, whereas incidental relative clauses cannot begin with <quote>that</quote>. Relojban, however, always uses the cmavo <valsi>poi</valsi> and <valsi>noi</valsi> rather than punctuation or intonation to make the distinction.
     </para>
     <para>
       Here are more examples of incidental relative clauses:
@@ -344,7 +344,7 @@
       <indexterm type="general"><primary>relative phrase</primary><secondary>as an abbreviation of a common relative clause</secondary></indexterm>
       <indexterm type="general"><primary>relative phrase</primary><secondary>syntax of</secondary></indexterm>
       <indexterm type="general"><primary>relative phrase</primary><secondary>rationale for</secondary></indexterm>
-      There are types of relative clauses (those which have a certain selbri) which are frequently wanted in Lojban, and can be expressed using a shortcut called a relative phrase. Relative phrases are introduced by cmavo of selma'o GOI, and consist of a GOI cmavo followed by a single sumti.
+      There are types of relative clauses (those which have a certain selbri) which are frequently wanted in Relojban, and can be expressed using a shortcut called a relative phrase. Relative phrases are introduced by cmavo of selma'o GOI, and consist of a GOI cmavo followed by a single sumti.
     </para>
     <para>
       <indexterm type="general"><primary>loose association</primary><secondary>expressing with pe</secondary></indexterm>
@@ -402,7 +402,7 @@
     </para>
     <para>
       <indexterm type="general"><primary>po</primary><secondary>contrasted with English <quote>possession</quote></secondary></indexterm>
-      As a result, the relationship expressed between two sumti by <valsi>po</valsi> is usually called <quote>possession</quote>, although it does not necessarily imply ownership, legal or otherwise. The central concept is that of specificity (<valsi>steci</valsi> in Lojban).
+      As a result, the relationship expressed between two sumti by <valsi>po</valsi> is usually called <quote>possession</quote>, although it does not necessarily imply ownership, legal or otherwise. The central concept is that of specificity (<valsi>steci</valsi> in Relojban).
     </para>
     <para>
       <indexterm type="general"><primary>inalienable possession</primary><secondary>expressing with po'e</secondary></indexterm>
@@ -557,7 +557,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      <xref linkend="example-random-id-qMb2"/> is useful in a context which is about my friend, and states that his or her cup is small, whereas <xref linkend="example-random-id-qmbn"/> is useful in a context that is primarily about a certain cup, and makes a claim about <quote>my friend of the cup</quote>, as opposed to some other friend of mine. Here the cup appears to <quote>possess</quote> the person! English can't even express this relationship with a possessive &ndash; <quote>the cup's friend of mine</quote> looks like nonsense &ndash; but Lojban has no trouble doing so.
+      <xref linkend="example-random-id-qMb2"/> is useful in a context which is about my friend, and states that his or her cup is small, whereas <xref linkend="example-random-id-qmbn"/> is useful in a context that is primarily about a certain cup, and makes a claim about <quote>my friend of the cup</quote>, as opposed to some other friend of mine. Here the cup appears to <quote>possess</quote> the person! English can't even express this relationship with a possessive &ndash; <quote>the cup's friend of mine</quote> looks like nonsense &ndash; but Relojban has no trouble doing so.
     </para>
     <para>
       <indexterm type="general"><primary>incidental identification</primary><secondary>expressing with no'u</secondary></indexterm>
@@ -610,9 +610,9 @@
       is appropriate. Now I am using the fact that the man I am speaking of is Jim in order to pick out which man I mean.
     </para>
     <para>
-      <indexterm type="general"><primary>possession</primary><secondary>Lojban usage compared with French and German in omission/inclusion</secondary></indexterm>
-      <indexterm type="general"><primary>possession</primary><secondary>Lojban usage contrasted with English in omission/inclusion</secondary></indexterm>
-      It is worth mentioning that English sometimes over-specifies possession from the Lojban point of view (and the point of view of many other languages, including ones closely related to English). The idiomatic English sentence
+      <indexterm type="general"><primary>possession</primary><secondary>Relojban usage compared with French and German in omission/inclusion</secondary></indexterm>
+      <indexterm type="general"><primary>possession</primary><secondary>Relojban usage contrasted with English in omission/inclusion</secondary></indexterm>
+      It is worth mentioning that English sometimes over-specifies possession from the Relojban point of view (and the point of view of many other languages, including ones closely related to English). The idiomatic English sentence
     </para>
     <example xml:id="example-random-id-GXyS">
       <title>
@@ -622,7 +622,7 @@
       </para>
     </example>
     <para role="noindent">
-      seems strange to a French- or German-speaking person: whose pockets would he put his hands into? and even odder, whose hands would he put into his pockets? In Lojban, the sentence
+      seems strange to a French- or German-speaking person: whose pockets would he put his hands into? and even odder, whose hands would he put into his pockets? In Relojban, the sentence
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-V4R1">
       <title>
@@ -655,7 +655,7 @@
     </cmavo-list>
     <para role="indent">
       <indexterm type="general"><primary>multiple relative clauses</primary><secondary>attaching with zi'e</secondary></indexterm>
-      Sometimes it is necessary or useful to attach more than one relative clause to a sumti. This is made possible in Lojban by the cmavo <valsi>zi'e</valsi> (of selma'o ZIhE), which is used to join one or more relative clauses together into a single unit, thus making them apply to the same sumti. For example:
+      Sometimes it is necessary or useful to attach more than one relative clause to a sumti. This is made possible in Relojban by the cmavo <valsi>zi'e</valsi> (of selma'o ZIhE), which is used to join one or more relative clauses together into a single unit, thus making them apply to the same sumti. For example:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-HBMR">
       <title>
@@ -706,7 +706,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      Note that if the colloquial translation of <xref linkend="example-random-id-36tm"/> were <quote>My bottle, which is blue, is broken</quote>, then <valsi>noi</valsi> rather than <valsi>poi</valsi> would have been correct in the Lojban version, since that version of the English implies that you do not need to know the bottle is blue. As written, <xref linkend="example-random-id-36tm"/> suggests that I probably have more than one bottle, and the one in question needs to be picked out as the blue one.
+      Note that if the colloquial translation of <xref linkend="example-random-id-36tm"/> were <quote>My bottle, which is blue, is broken</quote>, then <valsi>noi</valsi> rather than <valsi>poi</valsi> would have been correct in the Relojban version, since that version of the English implies that you do not need to know the bottle is blue. As written, <xref linkend="example-random-id-36tm"/> suggests that I probably have more than one bottle, and the one in question needs to be picked out as the blue one.
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-FapT">
       <title>
@@ -1020,7 +1020,7 @@
     <para role="noindent">
       <indexterm type="general"><primary>possessor sumti</primary><secondary>definition</secondary></indexterm>
       <indexterm type="general"><primary>possessive sumti</primary><secondary>definition</secondary></indexterm>
-      means the same thing as well. A sumti like the one in <xref linkend="example-random-id-pALv"/> is called a <quote>possessive sumti</quote>. Of course, it does not really indicate possession in the sense of ownership, but like <valsi>pe</valsi> relative phrases, indicates only weak association; you can say <jbophrase>le mi karce</jbophrase> even if you've only borrowed it for the night. (In English, <quote>my car</quote> usually means <jbophrase>le karce po mi</jbophrase>, but we do not have the same sense of possession in <quote>my seat on the bus</quote>; Lojban simply makes the weaker sense the standard one.) The inner sumti, <valsi>mi</valsi> in <xref linkend="example-random-id-pALv"/>, is correspondingly called the <quote>possessor sumti</quote>.
+      means the same thing as well. A sumti like the one in <xref linkend="example-random-id-pALv"/> is called a <quote>possessive sumti</quote>. Of course, it does not really indicate possession in the sense of ownership, but like <valsi>pe</valsi> relative phrases, indicates only weak association; you can say <jbophrase>le mi karce</jbophrase> even if you've only borrowed it for the night. (In English, <quote>my car</quote> usually means <jbophrase>le karce po mi</jbophrase>, but we do not have the same sense of possession in <quote>my seat on the bus</quote>; Relojban simply makes the weaker sense the standard one.) The inner sumti, <valsi>mi</valsi> in <xref linkend="example-random-id-pALv"/>, is correspondingly called the <quote>possessor sumti</quote>.
     </para>
     <para>
       <indexterm type="general"><primary>relative clauses and possessive sumti</primary><secondary>development history</secondary></indexterm>
@@ -1177,7 +1177,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      <xref linkend="example-random-id-4sqi"/> is a bit complex, and may need some picking apart. The quotation <jbophrase>lu le xunre cmaxirma li'u</jbophrase> means the string of words <quote>The Red Pony</quote>. If the <valsi>la'e</valsi> at the beginning of the sentence were omitted, <xref linkend="example-random-id-4sqi"/> would claim that a certain string of words is in a room distant from the speaker. But obviously a string of words can't be in a room! The effect of the <valsi>la'e</valsi> is to modify the sumti so that it refers not to the words themselves, but to the referent of those words, a novel by John Steinbeck (presumably in Lojban translation). The particular copy of <quote>The Red Pony</quote> is identified by the restrictive relative clause. <xref linkend="example-random-id-4sqi"/> means exactly the same as:
+      <xref linkend="example-random-id-4sqi"/> is a bit complex, and may need some picking apart. The quotation <jbophrase>lu le xunre cmaxirma li'u</jbophrase> means the string of words <quote>The Red Pony</quote>. If the <valsi>la'e</valsi> at the beginning of the sentence were omitted, <xref linkend="example-random-id-4sqi"/> would claim that a certain string of words is in a room distant from the speaker. But obviously a string of words can't be in a room! The effect of the <valsi>la'e</valsi> is to modify the sumti so that it refers not to the words themselves, but to the referent of those words, a novel by John Steinbeck (presumably in Relojban translation). The particular copy of <quote>The Red Pony</quote> is identified by the restrictive relative clause. <xref linkend="example-random-id-4sqi"/> means exactly the same as:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-yX24">
       <title>
@@ -1236,8 +1236,8 @@
       The presence of <valsi>vu'o</valsi> here means that the relative clause <jbophrase>noi nanmu</jbophrase> extends to the entire logically connected sumti <jbophrase>la .frank. e la .djordj.</jbophrase>; in other words, both Frank and George are claimed to be men, as the colloquial translation shows.
     </para>
     <para>
-      <indexterm type="general"><primary>relative clauses on complex sumti</primary><secondary>Lojban contrasted with English</secondary></indexterm>
-      English is able to resolve the distinction correctly in the case of <xref linkend="example-random-id-EYgE"/> and <xref linkend="example-random-id-9XPz"/> by making use of number: <quote>who is</quote> rather than <quote>who are</quote>. Lojban doesn't distinguish between singular and plural verbs: <valsi>nanmu</valsi> can mean <quote>is a man</quote> or <quote>are men</quote>, so another means is required. Furthermore, Lojban's mechanism works correctly in general: if <valsi>nanmu</valsi> (meaning <quote>is-a-man</quote>) were replaced with <jbophrase>pu bajra</jbophrase> (<quote>ran</quote>), English would have to make the distinction some other way:
+      <indexterm type="general"><primary>relative clauses on complex sumti</primary><secondary>Relojban contrasted with English</secondary></indexterm>
+      English is able to resolve the distinction correctly in the case of <xref linkend="example-random-id-EYgE"/> and <xref linkend="example-random-id-9XPz"/> by making use of number: <quote>who is</quote> rather than <quote>who are</quote>. Relojban doesn't distinguish between singular and plural verbs: <valsi>nanmu</valsi> can mean <quote>is a man</quote> or <quote>are men</quote>, so another means is required. Furthermore, Relojban's mechanism works correctly in general: if <valsi>nanmu</valsi> (meaning <quote>is-a-man</quote>) were replaced with <jbophrase>pu bajra</jbophrase> (<quote>ran</quote>), English would have to make the distinction some other way:
     </para>
     <example xml:id="example-random-id-qmeb" role="interlinear-gloss-example">
       <title>
@@ -1316,7 +1316,7 @@
       Similarly, <xref linkend="example-random-id-qMGj"/> is short for <jbophrase>co'o le xirma</jbophrase>.
     </para>
     <para role="indent">
-      Syntactically, vocative phrases are a kind of free modifier, and can appear in many places in Lojban text, generally at the beginning or end of some complete construct; or, as in <xref linkend="example-random-id-qMG8"/> to <xref linkend="example-random-id-qmgM"/>, as sentences by themselves.
+      Syntactically, vocative phrases are a kind of free modifier, and can appear in many places in Relojban text, generally at the beginning or end of some complete construct; or, as in <xref linkend="example-random-id-qMG8"/> to <xref linkend="example-random-id-qmgM"/>, as sentences by themselves.
     </para>
     <para>
       <indexterm type="general"><primary>relative clauses</primary><secondary>placement with vocative phrases</secondary></indexterm>

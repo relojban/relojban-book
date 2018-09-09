@@ -11,14 +11,14 @@
     <title>Introductory</title>
     <para>
       <indexterm type="general"><primary>tense</primary><secondary>explanation of presentation method</secondary></indexterm>
-      This chapter attempts to document and explain the space/time tense system of Lojban. It does not attempt to answer all questions of the form <quote>How do I say such-and-such (an English tense) in Lojban?</quote> Instead, it explores the Lojban tense system from the inside, attempting to educate the reader into a Lojbanic viewpoint. Once the overall system is understood and the resources that it makes available are familiar, the reader should have some hope of using appropriate tense constructs and being correctly understood.
+      This chapter attempts to document and explain the space/time tense system of Relojban. It does not attempt to answer all questions of the form <quote>How do I say such-and-such (an English tense) in Relojban?</quote> Instead, it explores the Relojban tense system from the inside, attempting to educate the reader into a Relojbanic viewpoint. Once the overall system is understood and the resources that it makes available are familiar, the reader should have some hope of using appropriate tense constructs and being correctly understood.
     </para>
     <para>
-      <indexterm type="general"><primary>tense</primary><secondary>Lojban contrasted with native languages</secondary></indexterm>
-      The system of Lojban tenses presented here may seem really complex because of all the pieces and all the options; indeed, this chapter is the longest one in this book. But tense is in fact complex in every language. In your native language, the subtleties of tense are intuitive. In foreign languages, you are seldom taught the entire system until you have reached an advanced level. Lojban tenses are extremely systematic and productive, allowing you to express subtleties based on what they mean rather than on how they act similarly to English tenses. This chapter concentrates on presenting an intuitive approach to the meaning of Lojban tense words and how they may be creatively and productively combined.
+      <indexterm type="general"><primary>tense</primary><secondary>Relojban contrasted with native languages</secondary></indexterm>
+      The system of Relojban tenses presented here may seem really complex because of all the pieces and all the options; indeed, this chapter is the longest one in this book. But tense is in fact complex in every language. In your native language, the subtleties of tense are intuitive. In foreign languages, you are seldom taught the entire system until you have reached an advanced level. Relojban tenses are extremely systematic and productive, allowing you to express subtleties based on what they mean rather than on how they act similarly to English tenses. This chapter concentrates on presenting an intuitive approach to the meaning of Relojban tense words and how they may be creatively and productively combined.
     </para>
     <para>
-      <indexterm type="general"><primary>temporal tense</primary><secondary>Lojban contrasted with English in necessity</secondary></indexterm>
+      <indexterm type="general"><primary>temporal tense</primary><secondary>Relojban contrasted with English in necessity</secondary></indexterm>
       <indexterm type="general"><primary>temporal tense</primary><secondary>as mandatory in English</secondary></indexterm>
       <indexterm type="general"><primary>temporal tense</primary><secondary>real relationship to time in English</secondary></indexterm>
       <indexterm type="general"><primary>temporal tense</primary><secondary>historical definition</secondary></indexterm>
@@ -42,7 +42,7 @@
       </listitem>
     </itemizedlist>
     <para role="noindent">
-      all mean the same thing, even though the first sentence uses the present tense; the second, the future tense; and the third, a compound tense usually called <quote>present progressive</quote>. Likewise, a newspaper headline says <quote>JONES DIES</quote>, although it is obvious that the time referred to must be in the past. Tense is a mandatory category of English: every sentence must be marked for tense, even if in a way contrary to logic, because every main verb has a tense marker built into to it. By contrast, Lojban brivla have no implicit tense marker attached to them.
+      all mean the same thing, even though the first sentence uses the present tense; the second, the future tense; and the third, a compound tense usually called <quote>present progressive</quote>. Likewise, a newspaper headline says <quote>JONES DIES</quote>, although it is obvious that the time referred to must be in the past. Tense is a mandatory category of English: every sentence must be marked for tense, even if in a way contrary to logic, because every main verb has a tense marker built into to it. By contrast, Relojban brivla have no implicit tense marker attached to them.
     </para>
     <para>
       <indexterm type="general"><primary>elided tense</primary><secondary>meaning of</secondary></indexterm>
@@ -51,7 +51,7 @@
       <indexterm type="general"><primary>tense system</primary><secondary>and space location</secondary></indexterm>
       <indexterm type="general"><primary>tense system</primary><secondary>and space location</secondary></indexterm>
       <indexterm type="general"><primary>tense</primary><secondary>selbri types applicable to</secondary></indexterm>
-      In Lojban, the concept of tense extends to every selbri, not merely the verb-like ones. In addition, tense structures provide information about location in space as well as in time. All tense information is optional in Lojban: a sentence like:
+      In Relojban, the concept of tense extends to every selbri, not merely the verb-like ones. In addition, tense structures provide information about location in space as well as in time. All tense information is optional in Relojban: a sentence like:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-cKSK">
       <title>
@@ -100,7 +100,7 @@
       <indexterm type="general"><primary>tense specification</primary><secondary>effect on elidability of terminators</secondary></indexterm>
       <indexterm type="general"><primary>tense specification</primary><secondary>effect on &quot;cu&quot;</secondary></indexterm>
       <indexterm type="general"><primary>tense</primary><secondary>position of in sentence</secondary></indexterm>
-      The placement of a tense construct within a Lojban bridi is easy: right before the selbri. It goes immediately after the <valsi>cu</valsi>, and can in fact always replace the <valsi>cu</valsi> (although in very complex sentences the rules for eliding terminators may be changed as a result). In the following examples, <valsi>pu</valsi> is the tense marker for <quote>past time</quote>:
+      The placement of a tense construct within a Relojban bridi is easy: right before the selbri. It goes immediately after the <valsi>cu</valsi>, and can in fact always replace the <valsi>cu</valsi> (although in very complex sentences the rules for eliding terminators may be changed as a result). In the following examples, <valsi>pu</valsi> is the tense marker for <quote>past time</quote>:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-nFgv">
       <title>
@@ -219,7 +219,7 @@
       <indexterm type="general"><primary>temporal tense</primary><secondary>compared with spatial tense in elidability</secondary></indexterm>
       <indexterm type="general"><primary>spatial tense</primary><secondary>compared with temporal tense in elidability</secondary></indexterm>
       <indexterm type="general"><primary>spatial tense</primary><secondary>as optional in English</secondary></indexterm>
-      English doesn't have mandatory spatial tenses. Although there are plenty of ways in English of showing where an event happens, there is absolutely no need to do so. Considering this fact may give the reader a feel for what the optional Lojban time tenses are like. From the Lojban point of view, space and time are interchangeable, although they are not treated identically.
+      English doesn't have mandatory spatial tenses. Although there are plenty of ways in English of showing where an event happens, there is absolutely no need to do so. Considering this fact may give the reader a feel for what the optional Relojban time tenses are like. From the Relojban point of view, space and time are interchangeable, although they are not treated identically.
     </para>
     <para>
       <indexterm type="general"><primary>spatial tense</primary><secondary>distance</secondary></indexterm>
@@ -228,7 +228,7 @@
       <indexterm type="general"><primary>spatial tense</primary><secondary>as an imaginary journey</secondary></indexterm>
       <indexterm type="general"><primary>imaginary journey</primary><secondary>and spatial tense</secondary></indexterm>
       <indexterm type="general"><primary>spatial tense</primary><secondary>definition</secondary></indexterm>
-      Lojban specifies the spatial tense of a bridi (the place at which it occurs) by using words from selma'o FAhA and VA to describe an imaginary journey from the speaker to the place referred to. FAhA cmavo specify the direction taken in the journey, whereas VA cmavo specify the distance gone. For example:
+      Relojban specifies the spatial tense of a bridi (the place at which it occurs) by using words from selma'o FAhA and VA to describe an imaginary journey from the speaker to the place referred to. FAhA cmavo specify the direction taken in the journey, whereas VA cmavo specify the distance gone. For example:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-hNAJ">
       <title>
@@ -270,7 +270,7 @@
       </para>
     </blockquote>
     <para>
-      The <quote>my</quote> does not have an explicit equivalent in the Lojban, because the speaker's location is understood as the starting point.
+      The <quote>my</quote> does not have an explicit equivalent in the Relojban, because the speaker's location is understood as the starting point.
     </para>
     <para>
       <indexterm type="general"><primary>VA selma'o</primary><secondary>relation of words to ti</secondary><tertiary>ta, tu</tertiary></indexterm>
@@ -334,9 +334,9 @@
       (Perhaps the speaker is at the bottom of a manhole, and the dog-biting is going on at the edge of the street.)
     </para>
     <para>
-      <indexterm type="general"><primary>compound tense ordering</primary><secondary>Lojban contrasted with English</secondary></indexterm>
-      <indexterm type="general"><primary>compound tense</primary><secondary>Lojban contrasted with English in order of specification</secondary></indexterm>
-      In the English translation, the keywords <quote>left</quote> and <quote>above</quote> occur in reverse order to the Lojban order. This effect is typical of what happens when we <quote>unfold</quote> Lojban compound tenses into their English equivalents, and shows why it is not very useful to try to memorize a list of Lojban tense constructs and their colloquial English equivalents.
+      <indexterm type="general"><primary>compound tense ordering</primary><secondary>Relojban contrasted with English</secondary></indexterm>
+      <indexterm type="general"><primary>compound tense</primary><secondary>Relojban contrasted with English in order of specification</secondary></indexterm>
+      In the English translation, the keywords <quote>left</quote> and <quote>above</quote> occur in reverse order to the Relojban order. This effect is typical of what happens when we <quote>unfold</quote> Relojban compound tenses into their English equivalents, and shows why it is not very useful to try to memorize a list of Relojban tense constructs and their colloquial English equivalents.
     </para>
     <para>
       The opposite order also makes sense:
@@ -396,7 +396,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      Whew! It's a good thing tense constructs are optional: having to say all that could certainly be painful. Note, however, how much shorter the Lojban version of <xref linkend="example-random-id-mqTU"/> is than the English version.
+      Whew! It's a good thing tense constructs are optional: having to say all that could certainly be painful. Note, however, how much shorter the Relojban version of <xref linkend="example-random-id-mqTU"/> is than the English version.
     </para>
   </section>
   <section xml:id="section-temporal-tenses">
@@ -461,19 +461,19 @@
     <para>
       <indexterm type="general"><primary>space</primary><secondary>contrasted with time in number of directions</secondary></indexterm>
       <indexterm type="general"><primary>time</primary><secondary>contrasted with space in number of directions</secondary></indexterm>
-      Lojban recognizes three temporal directions: <valsi>pu</valsi> for the past, <valsi>ca</valsi> for the present, and <valsi>ba</valsi> for the future. (Etymologically, these derive from the corresponding gismu <valsi>purci</valsi>, <valsi>cabna</valsi>, and <valsi>balvi</valsi>. See <xref linkend="section-tenses-vs-modals"/> for an explanation of the exact relationship between the cmavo and the gismu.) There are many more spatial directions, since there are FAhA cmavo for both absolute and relative directions as well as <quote>direction-like relationships</quote> like <quote>surrounding</quote>, <quote>within</quote>, <quote>touching</quote>, etc. (See <xref linkend="section-tense-selmaho-summary"/> for a complete list.) But there are really only two directions in time: forward and backward, toward the future and toward the past. Why, then, are there three cmavo of selma'o PU?
+      Relojban recognizes three temporal directions: <valsi>pu</valsi> for the past, <valsi>ca</valsi> for the present, and <valsi>ba</valsi> for the future. (Etymologically, these derive from the corresponding gismu <valsi>purci</valsi>, <valsi>cabna</valsi>, and <valsi>balvi</valsi>. See <xref linkend="section-tenses-vs-modals"/> for an explanation of the exact relationship between the cmavo and the gismu.) There are many more spatial directions, since there are FAhA cmavo for both absolute and relative directions as well as <quote>direction-like relationships</quote> like <quote>surrounding</quote>, <quote>within</quote>, <quote>touching</quote>, etc. (See <xref linkend="section-tense-selmaho-summary"/> for a complete list.) But there are really only two directions in time: forward and backward, toward the future and toward the past. Why, then, are there three cmavo of selma'o PU?
     </para>
     <para>
       <indexterm type="general"><primary>tense</primary><secondary>as subjective perception</secondary></indexterm>
       <indexterm type="general"><primary>bu'u</primary><secondary>compared with ca</secondary></indexterm>
       <indexterm type="general"><primary>ca</primary><secondary>compared with bu'u</secondary></indexterm>
       <indexterm type="general"><primary>ca</primary><secondary>rational for</secondary></indexterm>
-      The reason is that tense is subjective: human beings perceive space and time in a way that does not necessarily agree with objective measurements. We have a sense of <quote>now</quote> which includes part of the objective past and part of the objective future, and so we naturally segment the time line into three parts. The Lojban design recognizes this human reality by providing a separate time-direction cmavo for the <quote>zero direction</quote>, Similarly, there is a FAhA cmavo for the zero space direction: <valsi>bu'u</valsi>, which means something like <quote>coinciding</quote>.
+      The reason is that tense is subjective: human beings perceive space and time in a way that does not necessarily agree with objective measurements. We have a sense of <quote>now</quote> which includes part of the objective past and part of the objective future, and so we naturally segment the time line into three parts. The Relojban design recognizes this human reality by providing a separate time-direction cmavo for the <quote>zero direction</quote>, Similarly, there is a FAhA cmavo for the zero space direction: <valsi>bu'u</valsi>, which means something like <quote>coinciding</quote>.
     </para>
     <para>
       <indexterm type="general"><primary>tense</primary><secondary>as observer-based</secondary></indexterm>
-      <indexterm type="general"><primary>relativity theory</primary><secondary>relation to Lojban tense system</secondary></indexterm>
-      (Technical note for readers conversant with relativity theory: The Lojban time tenses reflect time as seen by the speaker, who is assumed to be a <quote>point-like observer</quote> in the relativistic sense: they do not say anything about physical relationships of relativistic interval, still less about implicit causality. The nature of tense is not only subjective but also observer-based.)
+      <indexterm type="general"><primary>relativity theory</primary><secondary>relation to Relojban tense system</secondary></indexterm>
+      (Technical note for readers conversant with relativity theory: The Relojban time tenses reflect time as seen by the speaker, who is assumed to be a <quote>point-like observer</quote> in the relativistic sense: they do not say anything about physical relationships of relativistic interval, still less about implicit causality. The nature of tense is not only subjective but also observer-based.)
     </para>
     <para>
       Here are some examples of temporal tenses:
@@ -512,7 +512,7 @@
     </example>
     <para role="indent">
       <indexterm type="general"><primary>compound temporal tense</primary><secondary>beginning with distance only</secondary></indexterm>
-      What about the analogue of an initial VA without a direction? Lojban does allow an initial ZI with or without following PUs:
+      What about the analogue of an initial VA without a direction? Relojban does allow an initial ZI with or without following PUs:
     </para>
     <example xml:id="example-random-id-qDu0" role="interlinear-gloss-example">
       <title>
@@ -538,7 +538,7 @@
       <xref linkend="example-random-id-qDu0"/> and <xref linkend="example-random-id-qDw0"/> are perfectly legitimate, but may not be very much used: <valsi>zi</valsi> by itself signals an event that happens at a time close to the present, but without saying whether it is in the past or the future. A rough translation might be <quote>about now, but not exactly now</quote>.
     </para>
     <para>
-      Because we can move in any direction in space, we are comfortable with the idea of events happening in an unspecified space direction (<quote>nearby</quote> or <quote>far away</quote>), but we live only from past to future, and the idea of an event which happens <quote>nearby in time</quote> is a peculiar one. Lojban provides lots of such possibilities that don't seem all that useful to English-speakers, even though you can put them together productively; this fact may be a limitation of English.
+      Because we can move in any direction in space, we are comfortable with the idea of events happening in an unspecified space direction (<quote>nearby</quote> or <quote>far away</quote>), but we live only from past to future, and the idea of an event which happens <quote>nearby in time</quote> is a peculiar one. Relojban provides lots of such possibilities that don't seem all that useful to English-speakers, even though you can put them together productively; this fact may be a limitation of English.
     </para>
     <para>
       <indexterm type="general"><primary>tense</primary><secondary>with both temporal and spatial</secondary></indexterm>
@@ -607,7 +607,7 @@
     <para role="indent">
       <indexterm type="general"><primary>tense</primary><secondary>interval contrasted with point</secondary></indexterm>
       <indexterm type="general"><primary>tense</primary><secondary>point contrasted with interval</secondary></indexterm>
-      So far, we have considered only events that are usually thought of as happening at a particular point in space and time: a man biting a dog at a specified place and time. But Lojbanic events may be much more <quote>spread out</quote> than that: <jbophrase>mi vasxu</jbophrase> (I breathe) is something which is true during the whole of my life from birth to death, and over the entire part of the earth where I spend my life. The cmavo of VEhA (for space) and ZEhA (for time) can be added to any of the tense constructs we have already studied to specify the size of the space or length of the time over which the bridi is claimed to be true.
+      So far, we have considered only events that are usually thought of as happening at a particular point in space and time: a man biting a dog at a specified place and time. But Relojbanic events may be much more <quote>spread out</quote> than that: <jbophrase>mi vasxu</jbophrase> (I breathe) is something which is true during the whole of my life from birth to death, and over the entire part of the earth where I spend my life. The cmavo of VEhA (for space) and ZEhA (for time) can be added to any of the tense constructs we have already studied to specify the size of the space or length of the time over which the bridi is claimed to be true.
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Pgzz">
       <title>
@@ -732,7 +732,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      In <xref linkend="example-random-id-Mrzt"/>, there is no equivalent in the colloquial English translation of the <quote>small interval</quote> which the fish occupies. Neither the Lojban nor the English expresses the orientation of the fish. Compare <xref linkend="example-random-id-AVU3"/>:
+      In <xref linkend="example-random-id-Mrzt"/>, there is no equivalent in the colloquial English translation of the <quote>small interval</quote> which the fish occupies. Neither the Relojban nor the English expresses the orientation of the fish. Compare <xref linkend="example-random-id-AVU3"/>:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-AVU3">
       <title>
@@ -752,7 +752,7 @@
     <para>
       <indexterm type="general"><primary>interval size</primary><secondary>vague</secondary></indexterm>
       <indexterm type="general"><primary>interval size</primary><secondary>unspecified</secondary></indexterm>
-      What is the significance of failing to specify an interval size of the type discussed in <xref linkend="section-interval-sizes"/>? The Lojban rule is that if no interval size is given, the size of the space or time interval is left vague by the speaker. For example:
+      What is the significance of failing to specify an interval size of the type discussed in <xref linkend="section-interval-sizes"/>? The Relojban rule is that if no interval size is given, the size of the space or time interval is left vague by the speaker. For example:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-naft">
       <title>
@@ -776,14 +776,14 @@
       The vague or unspecified interval contains an instant in the speaker's past. However, there is no indication whether or not the whole interval is in the speaker's past! It is entirely possible that the interval during which the going-to-the-market is happening stretches into the speaker's present or even future.
     </para>
     <para>
-      <indexterm type="general"><primary>tense</primary><secondary>Lojban contrasted with English in implications of completeness</secondary></indexterm>
-      <xref linkend="example-random-id-naft"/> points up a fundamental difference between Lojban tenses and English tenses. An English past-tense sentence like <quote>I went to the market</quote> generally signifies that the going-to-the-market is entirely in the past; that is, that the event is complete at the time of speaking. Lojban <valsi>pu</valsi> has no such implication.
+      <indexterm type="general"><primary>tense</primary><secondary>Relojban contrasted with English in implications of completeness</secondary></indexterm>
+      <xref linkend="example-random-id-naft"/> points up a fundamental difference between Relojban tenses and English tenses. An English past-tense sentence like <quote>I went to the market</quote> generally signifies that the going-to-the-market is entirely in the past; that is, that the event is complete at the time of speaking. Relojban <valsi>pu</valsi> has no such implication.
     </para>
     <para>
       <indexterm type="general"><primary>tense</primary><secondary>aorist</secondary></indexterm>
       <indexterm type="general"><primary>aorist</primary><secondary>definition</secondary></indexterm>
-      <indexterm type="general"><primary>Classical Greek aorist tense</primary><secondary>compared with Lojban tense</secondary></indexterm>
-      This property of a past tense is sometimes called <quote>aorist</quote>, in reference to a similar concept in the tense system of Classical Greek. All of the Lojban tenses have the same property, however:
+      <indexterm type="general"><primary>Classical Greek aorist tense</primary><secondary>compared with Relojban tense</secondary></indexterm>
+      This property of a past tense is sometimes called <quote>aorist</quote>, in reference to a similar concept in the tense system of Classical Greek. All of the Relojban tenses have the same property, however:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-xQ0w">
       <title>
@@ -799,7 +799,7 @@
       does not imply (as the colloquial English translation does) that the tree is not green now. The vague interval throughout which the tree is, in fact, green may have already started.
     </para>
     <para>
-      This general principle does not mean that Lojban has no way of indicating that a tree will be green but is not yet green. Indeed, there are several ways of expressing that concept: see <xref linkend="section-event-contours"/> (event contours) and <xref linkend="section-connected-tenses"/> (logical connection between tenses).
+      This general principle does not mean that Relojban has no way of indicating that a tree will be green but is not yet green. Indeed, there are several ways of expressing that concept: see <xref linkend="section-event-contours"/> (event contours) and <xref linkend="section-connected-tenses"/> (logical connection between tenses).
     </para>
   </section>
   <section xml:id="section-dimensionality">
@@ -836,7 +836,7 @@
       <indexterm type="general"><primary>spatial tense</primary><secondary>planar</secondary></indexterm>
       <indexterm type="general"><primary>spatial tense</primary><secondary>linear</secondary></indexterm>
       <indexterm type="general"><primary>spatial tense</primary><secondary>contrasted with temporal in dimensionality</secondary></indexterm>
-      The cmavo of ZEhA are sufficient to express time intervals. One fundamental difference between space and time, however, is that space is multi-dimensional. Sometimes we want to say not only that something moves over a small interval, but also perhaps that it moves in a line. Lojban allows for this. I can specify that a motion <quote>in a small space</quote> is more specifically <quote>in a short line</quote>, <quote>in a small area</quote>, or <quote>through a small volume</quote>.
+      The cmavo of ZEhA are sufficient to express time intervals. One fundamental difference between space and time, however, is that space is multi-dimensional. Sometimes we want to say not only that something moves over a small interval, but also perhaps that it moves in a line. Relojban allows for this. I can specify that a motion <quote>in a small space</quote> is more specifically <quote>in a short line</quote>, <quote>in a small area</quote>, or <quote>through a small volume</quote>.
     </para>
     <para>
       What about the child walking on the ice in <xref linkend="example-random-id-Pgzz"/> through <xref linkend="example-random-id-gHPI"/>? Given the nature of ice, probably the area interpretation is most sensible. I can make this assumption explicit with the appropriate member of selma'o VIhA:
@@ -860,7 +860,7 @@
     <para>
       <indexterm type="general"><primary>dimensionality</primary><secondary>of walking</secondary></indexterm>
       <indexterm type="general"><primary>dimensionality of interval</primary><secondary>as subjective</secondary></indexterm>
-      The reader may wish to raise a philosophical point here. (Readers who don't wish to, should skip this paragraph.) The ice may be two-dimensional, or more accurately its surface may be, but since the child is three-dimensional, her walking must also be. The subjective nature of Lojban tense comes to the rescue here: the action is essentially planar, and the third dimension of height is simply irrelevant to walking. Even walking on a mountain could be called <valsi>vi'a</valsi>, because relatively speaking the mountain is associated with an essentially two-dimensional surface. Motion which is not confined to such a surface (e.g., flying, or walking through a three-dimensional network of tunnels, or climbing among mountains rather than on a single mountain) would be properly described with <valsi>vi'u</valsi>. So the cognitive, rather than the physical, dimensionality controls the choice of VIhA cmavo.
+      The reader may wish to raise a philosophical point here. (Readers who don't wish to, should skip this paragraph.) The ice may be two-dimensional, or more accurately its surface may be, but since the child is three-dimensional, her walking must also be. The subjective nature of Relojban tense comes to the rescue here: the action is essentially planar, and the third dimension of height is simply irrelevant to walking. Even walking on a mountain could be called <valsi>vi'a</valsi>, because relatively speaking the mountain is associated with an essentially two-dimensional surface. Motion which is not confined to such a surface (e.g., flying, or walking through a three-dimensional network of tunnels, or climbing among mountains rather than on a single mountain) would be properly described with <valsi>vi'u</valsi>. So the cognitive, rather than the physical, dimensionality controls the choice of VIhA cmavo.
     </para>
     <para>
       <indexterm type="general"><primary>spatial tense</primary><secondary>4-dimensional interaction with temporal tense</secondary></indexterm>
@@ -870,7 +870,7 @@
       <indexterm type="general"><primary>tense</primary><secondary>space-time dimension for intervals</secondary></indexterm>
       <indexterm type="general"><primary>spatial tense</primary><secondary>four-dimensional</secondary></indexterm>
       <indexterm type="general"><primary>Einsteinian</primary><secondary>space-time intervals with 4 dimensions</secondary></indexterm>
-      VIhA has a member <valsi>vi'e</valsi> which indicates a 4-dimensional interval, one that involves both space and time. This allows the spatial tenses to invade, to some degree, the temporal tenses; it is possible to make statements about space-time considered as an Einsteinian whole. (There are presently no cmavo of FAhA assigned to <quote>pastward</quote> and <quote>futureward</quote> considered as space rather than time directions &ndash; they could be added, though, if Lojbanists find space-time expression useful.) If a temporal tense cmavo is used in the same tense construct with a <valsi>vi'e</valsi> interval, the resulting tense may be self-contradictory.
+      VIhA has a member <valsi>vi'e</valsi> which indicates a 4-dimensional interval, one that involves both space and time. This allows the spatial tenses to invade, to some degree, the temporal tenses; it is possible to make statements about space-time considered as an Einsteinian whole. (There are presently no cmavo of FAhA assigned to <quote>pastward</quote> and <quote>futureward</quote> considered as space rather than time directions &ndash; they could be added, though, if Relojbanists find space-time expression useful.) If a temporal tense cmavo is used in the same tense construct with a <valsi>vi'e</valsi> interval, the resulting tense may be self-contradictory.
     </para>
   </section>
   <section xml:id="section-movement">
@@ -978,7 +978,7 @@
     <para>
       <indexterm type="general"><primary>time travel</primary></indexterm>
       <indexterm type="general"><primary>movement</primary><secondary>time</secondary></indexterm>
-      There is no parallel facility in Lojban at present for expressing movement in time &ndash; time travel &ndash; but one could be added easily if it ever becomes useful.
+      There is no parallel facility in Relojban at present for expressing movement in time &ndash; time travel &ndash; but one could be added easily if it ever becomes useful.
     </para>
   </section>
   <section xml:id="section-interval-properties">
@@ -1052,7 +1052,7 @@
       <indexterm type="general"><primary>intervals</primary><secondary>spread of actions over</secondary></indexterm>
       <indexterm type="general"><primary>discrete</primary><secondary>of tense intervals</secondary></indexterm>
       <indexterm type="general"><primary>continuous</primary><secondary>of tense intervals</secondary></indexterm>
-      Consider Lojban bridi which express events taking place in time. Whether a very short interval (a point) or a long interval of time is involved, the event may not be spread consistently throughout that interval. Lojban can use the cmavo of selma'o TAhE to express the idea of continuous or non-continuous actions.
+      Consider Relojban bridi which express events taking place in time. Whether a very short interval (a point) or a long interval of time is involved, the event may not be spread consistently throughout that interval. Relojban can use the cmavo of selma'o TAhE to express the idea of continuous or non-continuous actions.
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-GCXM">
       <title>
@@ -1131,7 +1131,7 @@
     <para>
       <indexterm type="general"><primary>tense</primary><secondary>quantified</secondary></indexterm>
       <indexterm type="general"><primary>quantified temporal tense</primary><secondary>definition</secondary></indexterm>
-      An intermittent event can also be specified by counting the number of times during the interval that it takes place. The cmavo <valsi>roi</valsi> (which belongs to selma'o ROI) can be appended to a number to make a quantified tense. Quantified tenses are common in English, but not so commonly named: they are exemplified by the adverbs <quote>never</quote>, <quote>once</quote>, <quote>twice</quote>, <quote>thrice</quote>, ... <quote>always</quote>, and by the related phrases <quote>many times</quote>, <quote>a few times</quote>, <quote>too many times</quote>, and so on. All of these are handled in Lojban by a number plus <jbophrase>-roi</jbophrase>:
+      An intermittent event can also be specified by counting the number of times during the interval that it takes place. The cmavo <valsi>roi</valsi> (which belongs to selma'o ROI) can be appended to a number to make a quantified tense. Quantified tenses are common in English, but not so commonly named: they are exemplified by the adverbs <quote>never</quote>, <quote>once</quote>, <quote>twice</quote>, <quote>thrice</quote>, ... <quote>always</quote>, and by the related phrases <quote>many times</quote>, <quote>a few times</quote>, <quote>too many times</quote>, and so on. All of these are handled in Relojban by a number plus <jbophrase>-roi</jbophrase>:
     </para>
     <example xml:id="example-random-id-qdW2" role="interlinear-gloss-example">
       <title>
@@ -1166,8 +1166,8 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      <indexterm type="general"><primary>quantified temporal tense with direction</primary><secondary>Lojban contrasted with English in implications</secondary></indexterm>
-      The English is slightly over-specific here: it entails that both goings-to-the-market were in the past, which may or may not be true in the Lojban sentence, since the implied interval is vague. Therefore, the interval may start in the past but extend into the present or even the future.
+      <indexterm type="general"><primary>quantified temporal tense with direction</primary><secondary>Relojban contrasted with English in implications</secondary></indexterm>
+      The English is slightly over-specific here: it entails that both goings-to-the-market were in the past, which may or may not be true in the Relojban sentence, since the implied interval is vague. Therefore, the interval may start in the past but extend into the present or even the future.
     </para>
     <para>
       <indexterm type="general"><primary>quantified temporal tense</primary><secondary>negating with nai</secondary></indexterm>
@@ -1306,14 +1306,14 @@
       <indexterm type="general"><primary>retrospective event contour</primary></indexterm>
       <indexterm type="general"><primary>continuitive event contour</primary></indexterm>
       <indexterm type="general"><primary>inchoative event contour</primary></indexterm>
-      The cmavo of selma'o ZAhO express the Lojban version of what is traditionally called <quote>aspect</quote>. This is not a notion well expressed by English tenses, but many languages (including Chinese and Russian among Lojban's six source languages) consider it more important than the specification of mere position in time.
+      The cmavo of selma'o ZAhO express the Relojban version of what is traditionally called <quote>aspect</quote>. This is not a notion well expressed by English tenses, but many languages (including Chinese and Russian among Relojban's six source languages) consider it more important than the specification of mere position in time.
     </para>
     <para>
       <indexterm type="general"><primary>event contours</primary><secondary>order with respect to TAhE and ROI</secondary></indexterm>
       <indexterm type="general"><primary>event contours</primary><secondary>syntax of</secondary></indexterm>
       <indexterm type="general"><primary>events</primary><secondary>considered as a process</secondary></indexterm>
       <indexterm type="general"><primary>event contours</primary><secondary>definition</secondary></indexterm>
-      The <quote>event contours</quote> of selma'o ZAhO, with their bizarre keywords, represent the natural portions of an event considered as a process, an occurrence with an internal structure including a beginning, a middle, and an end. Since the keywords are scarcely self-explanatory, each ZAhO will be explained in detail here. Note that from the viewpoint of Lojban syntax, ZAhOs are interval modifiers like TAhEs or ROI compounds; if both are found in a single tense, the TAhE/ROI comes first and the ZAhO afterward. The imaginary journey described by other tense cmavo moves us to the portion of the event-as-process which the ZAhO specifies.
+      The <quote>event contours</quote> of selma'o ZAhO, with their bizarre keywords, represent the natural portions of an event considered as a process, an occurrence with an internal structure including a beginning, a middle, and an end. Since the keywords are scarcely self-explanatory, each ZAhO will be explained in detail here. Note that from the viewpoint of Relojban syntax, ZAhOs are interval modifiers like TAhEs or ROI compounds; if both are found in a single tense, the TAhE/ROI comes first and the ZAhO afterward. The imaginary journey described by other tense cmavo moves us to the portion of the event-as-process which the ZAhO specifies.
     </para>
     <para>
       <indexterm type="general"><primary>event contours</primary><secondary>as characteristic portions of events</secondary></indexterm>
@@ -1626,7 +1626,7 @@
       <indexterm type="general"><primary>space/time metaphor</primary><secondary>expressing direction mapping for</secondary></indexterm>
       <indexterm type="general"><primary>space</primary><secondary>as time-based metaphor</secondary></indexterm>
       <indexterm type="general"><primary>time</primary><secondary>as space-based metaphor</secondary></indexterm>
-      Many natural languages represent time by a space-based metaphor: in English, what is past is said to be <quote>behind us</quote>. In other languages, the metaphor is reversed. Here, Lojban is representing space (or space interval modifiers) by a time-based metaphor: the choice of a FAhA cmavo following a VEhA cmavo indicates which direction is mapped onto the future. (The choice of future rather than past is arbitrary, but convenient for English-speakers.)
+      Many natural languages represent time by a space-based metaphor: in English, what is past is said to be <quote>behind us</quote>. In other languages, the metaphor is reversed. Here, Relojban is representing space (or space interval modifiers) by a time-based metaphor: the choice of a FAhA cmavo following a VEhA cmavo indicates which direction is mapped onto the future. (The choice of future rather than past is arbitrary, but convenient for English-speakers.)
     </para>
     <para>
       <indexterm type="general"><primary>fe'e</primary><secondary>effect of TAhE/ROI with ZAhO on</secondary></indexterm>
@@ -1644,7 +1644,7 @@
       <indexterm type="general"><primary>temporal information</primary><secondary>adding to a sentence with tense sumti tcita</secondary></indexterm>
       <indexterm type="general"><primary>spatial information</primary><secondary>adding to a sentence with tense sumti tcita</secondary></indexterm>
       <indexterm type="general"><primary>tenses</primary><secondary>use as sumti tcita</secondary></indexterm>
-      So far, we have seen tenses only just before the selbri, or (equivalently in meaning) floating about the bridi with <valsi>ku</valsi>. There is another major use for tenses in Lojban: as sumti tcita, or argument tags. A tense may be used to add spatial or temporal information to a bridi as, in effect, an additional place:
+      So far, we have seen tenses only just before the selbri, or (equivalently in meaning) floating about the bridi with <valsi>ku</valsi>. There is another major use for tenses in Relojban: as sumti tcita, or argument tags. A tense may be used to add spatial or temporal information to a bridi as, in effect, an additional place:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-v761">
       <title>
@@ -1888,7 +1888,7 @@
       <indexterm type="general"><primary>sticky tenses</primary><secondary>effect on future tense meaning</secondary></indexterm>
       <indexterm type="general"><primary>sticky tenses</primary><secondary>definition</secondary></indexterm>
       <indexterm type="general"><primary>tense</primary><secondary>scope of</secondary></indexterm>
-      So far we have only considered tenses in isolated bridi. Lojban provides several ways for a tense to continue in effect over more than a single bridi. This property is known as <quote>stickiness</quote>: the tense gets <quote>stuck</quote> and remains in effect until explicitly <quote>unstuck</quote>. In the metaphor of the imaginary journey, the place and time set by a sticky tense may be thought of as a campsite or way-station: it provides a permanent origin with respect to which other tenses are understood. Later imaginary journeys start from that point rather than from the speaker.
+      So far we have only considered tenses in isolated bridi. Relojban provides several ways for a tense to continue in effect over more than a single bridi. This property is known as <quote>stickiness</quote>: the tense gets <quote>stuck</quote> and remains in effect until explicitly <quote>unstuck</quote>. In the metaphor of the imaginary journey, the place and time set by a sticky tense may be thought of as a campsite or way-station: it provides a permanent origin with respect to which other tenses are understood. Later imaginary journeys start from that point rather than from the speaker.
     </para>
     <para>
       To make a tense sticky, suffix <valsi>ki</valsi> to it:
@@ -2038,7 +2038,7 @@
       <indexterm type="general"><primary>tense on main bridi</primary><secondary>effect on embedded sumti with tenses</secondary></indexterm>
       <indexterm type="general"><primary>tense on main bridi</primary><secondary>effect on embedded bridi tenses</secondary></indexterm>
       <indexterm type="general"><primary>tense</primary><secondary>on embedded bridi</secondary></indexterm>
-      Lojban has several ways of embedding a bridi within another bridi: descriptions, abstractors, relative clauses. (Technically, descriptions contain selbri rather than bridi.) Any of the selbri of these subordinate bridi may have tenses attached. These tenses are interpreted relative to the tense of the main bridi:
+      Relojban has several ways of embedding a bridi within another bridi: descriptions, abstractors, relative clauses. (Technically, descriptions contain selbri rather than bridi.) Any of the selbri of these subordinate bridi may have tenses attached. These tenses are interpreted relative to the tense of the main bridi:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-yxFP">
       <title>
@@ -2092,7 +2092,7 @@
       <indexterm type="general"><primary>story time</primary><secondary>tenseless sentences in</secondary></indexterm>
       <indexterm type="general"><primary>tenseless sentences in story time</primary></indexterm>
       <indexterm type="general"><primary>story time</primary><secondary>as a convention for inferring tense</secondary></indexterm>
-      Lojban speakers use a different set of conventions, commonly called <quote>story time</quote>, for inferring tense within a story. It is presumed that the event described by each sentence takes place some time more or less after the previous ones. Therefore, tenseless sentences are implicitly tensed as <quote>what happens next</quote>. In particular, any sticky time setting is advanced by each sentence.
+      Relojban speakers use a different set of conventions, commonly called <quote>story time</quote>, for inferring tense within a story. It is presumed that the event described by each sentence takes place some time more or less after the previous ones. Therefore, tenseless sentences are implicitly tensed as <quote>what happens next</quote>. In particular, any sticky time setting is advanced by each sentence.
     </para>
     <para>
       The following mini-story illustrates the important features of story time. A sentence-by-sentence explication follows:
@@ -2171,8 +2171,8 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      <indexterm type="general"><primary>story tense</primary><secondary>Lojban convention contrasted with English convention</secondary></indexterm>
-      <xref linkend="example-random-id-qE94"/> sets both the time (long ago) and the place (in a cave) using <valsi>ki</valsi>, just like the sentence sequences in <xref linkend="section-sticky-tenses"/>. No further space cmavo are used in the rest of the story, so the place is assumed to remain unchanged. The English translation of <xref linkend="example-random-id-qE94"/> is marked for past tense also, as the conventions of English storytelling require: consequently, all other English translation sentences are also in the past tense. (We don't notice how strange this is; even stories about the future are written in past tense!) This conventional use of past tense is not used in Lojban narratives.
+      <indexterm type="general"><primary>story tense</primary><secondary>Relojban convention contrasted with English convention</secondary></indexterm>
+      <xref linkend="example-random-id-qE94"/> sets both the time (long ago) and the place (in a cave) using <valsi>ki</valsi>, just like the sentence sequences in <xref linkend="section-sticky-tenses"/>. No further space cmavo are used in the rest of the story, so the place is assumed to remain unchanged. The English translation of <xref linkend="example-random-id-qE94"/> is marked for past tense also, as the conventions of English storytelling require: consequently, all other English translation sentences are also in the past tense. (We don't notice how strange this is; even stories about the future are written in past tense!) This conventional use of past tense is not used in Relojban narratives.
     </para>
     <para>
       <xref linkend="example-random-id-qEa4"/> is tenseless. Outside story time, it would be assumed that its event happens simultaneously with that of <xref linkend="example-random-id-qE94"/>, since a sticky tense is in effect; the rules of story time, however, imply that the event occurs afterwards, and that the story time has advanced (changing the sticky time set in <xref linkend="example-random-id-qE94"/>).
@@ -2239,11 +2239,11 @@
     </para>
     <para>
       <indexterm type="general"><primary>subordinate clause tense</primary><secondary>effect of main bridi tense on</secondary></indexterm>
-      <indexterm type="general"><primary>subordinate clause tense</primary><secondary>Lojban compared with Esperanto</secondary></indexterm>
-      <indexterm type="general"><primary>subordinate clause tense</primary><secondary>Lojban compared with Russian</secondary></indexterm>
-      <indexterm type="general"><primary>subordinate clause tense</primary><secondary>Lojban contrasted with English</secondary></indexterm>
-      <indexterm type="general"><primary>sequence of tense rules</primary><secondary>Lojban contrasted with English</secondary></indexterm>
-      Lojban, like Russian and Esperanto, uses a different convention. A tense in a subordinate bridi is understood to be relative to the tense already set in the main bridi. Thus <xref linkend="example-random-id-qECX"/> through <xref linkend="example-random-id-qeFQ"/> can be expressed in Lojban respectively thus:
+      <indexterm type="general"><primary>subordinate clause tense</primary><secondary>Relojban compared with Esperanto</secondary></indexterm>
+      <indexterm type="general"><primary>subordinate clause tense</primary><secondary>Relojban compared with Russian</secondary></indexterm>
+      <indexterm type="general"><primary>subordinate clause tense</primary><secondary>Relojban contrasted with English</secondary></indexterm>
+      <indexterm type="general"><primary>sequence of tense rules</primary><secondary>Relojban contrasted with English</secondary></indexterm>
+      Relojban, like Russian and Esperanto, uses a different convention. A tense in a subordinate bridi is understood to be relative to the tense already set in the main bridi. Thus <xref linkend="example-random-id-qECX"/> through <xref linkend="example-random-id-qeFQ"/> can be expressed in Relojban respectively thus:
     </para>
     <example xml:id="example-random-id-qega" role="interlinear-gloss-example">
       <title>
@@ -2293,7 +2293,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      Probably the most counterintuitive of the Lojban examples is <xref linkend="example-random-id-qEGL"/>. The <valsi>ca</valsi> looks quite odd, as if George were going to the market right now, rather than back when John spoke. But this <valsi>ca</valsi> is really a <valsi>ca</valsi> with respect to a reference point specified by the outer <valsi>pu</valsi>. This behavior is the same as the additive behavior of multiple tenses in the same bridi, as explained in <xref linkend="section-sticky-tenses"/>.
+      Probably the most counterintuitive of the Relojban examples is <xref linkend="example-random-id-qEGL"/>. The <valsi>ca</valsi> looks quite odd, as if George were going to the market right now, rather than back when John spoke. But this <valsi>ca</valsi> is really a <valsi>ca</valsi> with respect to a reference point specified by the outer <valsi>pu</valsi>. This behavior is the same as the additive behavior of multiple tenses in the same bridi, as explained in <xref linkend="section-sticky-tenses"/>.
     </para>
     <para>
       <indexterm type="general"><primary>nau</primary><secondary>syntax</secondary></indexterm>
@@ -2507,7 +2507,7 @@
     <para>
       <indexterm type="general"><primary>tensed logical connectives</primary></indexterm>
       <indexterm type="general"><primary>logical connectives</primary><secondary>tensed</secondary></indexterm>
-      The Lojban tense system interacts with the Lojban logical connective system. That system is a separate topic, explained in <xref linkend="chapter-connectives"/> and touched on only in summary here. By the rules of the logical connective system, <xref linkend="example-random-id-qehB"/> through <xref linkend="example-random-id-qEIm"/> are equivalent in meaning:
+      The Relojban tense system interacts with the Relojban logical connective system. That system is a separate topic, explained in <xref linkend="chapter-connectives"/> and touched on only in summary here. By the rules of the logical connective system, <xref linkend="example-random-id-qehB"/> through <xref linkend="example-random-id-qEIm"/> are equivalent in meaning:
     </para>
     <example xml:id="example-random-id-qehB" role="interlinear-gloss-example">
       <title>
@@ -2616,7 +2616,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      Note the uniformity of the Lojban, as contrasted with the variety of ways in which the English provides for the correct grouping. In all cases, the meaning is that I carry the sack in any case, and either the cat or the dog or both.
+      Note the uniformity of the Relojban, as contrasted with the variety of ways in which the English provides for the correct grouping. In all cases, the meaning is that I carry the sack in any case, and either the cat or the dog or both.
     </para>
     <para>
       To express that I carry the sack first (earlier in time), and then the dog or the cat or both simultaneously, I can insert tenses to form <!-- multiple examples --><xref linkend="example-random-id-qeLV"/> through <xref linkend="example-random-id-qEnd"/>:
@@ -2821,7 +2821,7 @@
     <para role="indent">
       <indexterm type="general"><primary>innate capabilities</primary><secondary>expressing implicitly</secondary></indexterm>
       <indexterm type="general"><primary>potential events</primary><secondary>expressing implicitly</secondary></indexterm>
-      Lojban bridi without tense markers may not necessarily refer to actual events: they may also refer to capabilities or potential events. For example:
+      Relojban bridi without tense markers may not necessarily refer to actual events: they may also refer to capabilities or potential events. For example:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-HjjN">
       <title>
@@ -2834,9 +2834,9 @@
       </interlinear-gloss>
     </example>
     <para role="noindent">
-      <indexterm type="general"><primary>actuality</primary><secondary>Lojban contrasted with English in implying</secondary></indexterm>
-      <indexterm type="general"><primary>tense</primary><secondary>Lojban contrasted with English in implying actuality</secondary></indexterm>
-      is a Lojban truth, even though the colloquial English translation is false or at best ambiguous. This is because the tenseless Lojban bridi doesn't necessarily claim that every duck is swimming or floating now or even at a specific time or place. Even if we add a tense marker to <xref linkend="example-random-id-HjjN"/>,
+      <indexterm type="general"><primary>actuality</primary><secondary>Relojban contrasted with English in implying</secondary></indexterm>
+      <indexterm type="general"><primary>tense</primary><secondary>Relojban contrasted with English in implying actuality</secondary></indexterm>
+      is a Relojban truth, even though the colloquial English translation is false or at best ambiguous. This is because the tenseless Relojban bridi doesn't necessarily claim that every duck is swimming or floating now or even at a specific time or place. Even if we add a tense marker to <xref linkend="example-random-id-HjjN"/>,
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-o9Yu">
       <title>
@@ -2867,7 +2867,7 @@
       A CAhA cmavo is always placed after any other tense cmavo, whether for time or for space. However, a CAhA cmavo comes before <valsi>ki</valsi>, so that a CAhA condition can be made sticky.
     </para>
     <para>
-      <xref linkend="example-random-id-hXpB"/> is false in both Lojban and English, since it claims that the swimming is an actual, present fact, true of every duck that exists, whereas in fact there is at least one duck that is not swimming now.
+      <xref linkend="example-random-id-hXpB"/> is false in both Relojban and English, since it claims that the swimming is an actual, present fact, true of every duck that exists, whereas in fact there is at least one duck that is not swimming now.
     </para>
     <para>
       <indexterm type="general"><primary>innate capability</primary><secondary>expressing explicitly</secondary></indexterm>
@@ -2967,7 +2967,7 @@
     </example>
     <para role="indent">
       <indexterm type="general"><primary>tenses with elided CAhA</primary><secondary>meaning</secondary></indexterm>
-      As always in Lojban tenses, a missing CAhA can have an indeterminate meaning, or the context can be enough to disambiguate it. Saying
+      As always in Relojban tenses, a missing CAhA can have an indeterminate meaning, or the context can be enough to disambiguate it. Saying
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-IKGW">
       <title>
@@ -3015,13 +3015,13 @@
       </interlinear-gloss>
     </example>
     <para role="noindent">
-      the prudent Lojbanist will assume the meaning <quote>Fire!</quote>
+      the prudent Relojbanist will assume the meaning <quote>Fire!</quote>
     </para>
   </section>
   <section xml:id="section-connected-tenses">
     <title>Logical and non-logical connections between tenses</title>
     <para>
-      Like many things in Lojban, tenses may be logically connected; logical connection is explained in more detail in <xref linkend="chapter-connectives"/>. Some of the terminology in this section will be clear only if you already understand logical connectives.
+      Like many things in Relojban, tenses may be logically connected; logical connection is explained in more detail in <xref linkend="chapter-connectives"/>. Some of the terminology in this section will be clear only if you already understand logical connectives.
     </para>
     <para>
       <indexterm type="lojban-word"><primary>JA selma'o</primary></indexterm>
@@ -3107,7 +3107,7 @@
     <para role="indent">
       <indexterm type="general"><primary>tenses</primary><secondary>possible groupings of</secondary></indexterm>
       <indexterm type="general"><primary>tenses</primary><secondary>forethought logical connections</secondary></indexterm>
-      There are no forethought logical connections between tenses allowed by the grammar, to keep tenses simpler. Nor is there any way to override simple left-grouping of the connectives, the Lojban default.
+      There are no forethought logical connections between tenses allowed by the grammar, to keep tenses simpler. Nor is there any way to override simple left-grouping of the connectives, the Relojban default.
     </para>
     <para>
       <indexterm type="lojban-word"><primary>GAhO selma'o</primary></indexterm>
@@ -3136,7 +3136,7 @@
     <title>Sub-events</title>
     <para>
       <indexterm type="general"><primary>tenses</primary><secondary>non-logical connection of for sub-events</secondary></indexterm>
-      Another application of non-logical tense connection is to talk about sub-events of events. Consider a six-shooter: a gun which can fire six bullets in succession before reloading. If I fire off the entire magazine twice, I can express the fact in Lojban thus:
+      Another application of non-logical tense connection is to talk about sub-events of events. Consider a six-shooter: a gun which can fire six bullets in succession before reloading. If I fire off the entire magazine twice, I can express the fact in Relojban thus:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-9CqG">
       <title>
@@ -3203,7 +3203,7 @@
     <para role="indent">
       <indexterm type="lojban-word"><primary>SE selma'o</primary></indexterm>
       <indexterm type="general"><primary>conversion</primary><secondary>definition</secondary></indexterm>
-      Conversion is the regular Lojban process of moving around the places of a place structure. The cmavo of selma'o SE serve this purpose, exchanging the first place with one of the others:
+      Conversion is the regular Relojban process of moving around the places of a place structure. The cmavo of selma'o SE serve this purpose, exchanging the first place with one of the others:
     </para>
     <example xml:id="example-random-id-qEu5" role="interlinear-gloss-example">
       <title>
@@ -3317,7 +3317,7 @@
       <indexterm type="general"><primary>tenses</primary><secondary>contrasted with modals in semantics</secondary></indexterm>
       <indexterm type="general"><primary>modals</primary><secondary>compared with tenses in syntax</secondary></indexterm>
       <indexterm type="general"><primary>tenses</primary><secondary>compared with modals in syntax</secondary></indexterm>
-      Grammatically, every use of tenses seen so far is exactly paralleled by some use of modals as explained in <xref linkend="chapter-bridi"/>. Modals and tenses alike can be followed by sumti, can appear before the selbri, can be used in pure and mixed connections, can participate in JAI conversions. The parallelism is perfect. However, there is a deep difference in the semantics of tense constructs and modal constructs, grounded in historical differences between the two forms. Originally, modals and tenses were utterly different things in earlier versions of Loglan; only in Lojban have they become grammatically interchangeable. And even now, differences in semantics continue to be maintained.
+      Grammatically, every use of tenses seen so far is exactly paralleled by some use of modals as explained in <xref linkend="chapter-bridi"/>. Modals and tenses alike can be followed by sumti, can appear before the selbri, can be used in pure and mixed connections, can participate in JAI conversions. The parallelism is perfect. However, there is a deep difference in the semantics of tense constructs and modal constructs, grounded in historical differences between the two forms. Originally, modals and tenses were utterly different things in earlier versions of Loglan; only in Relojban have they become grammatically interchangeable. And even now, differences in semantics continue to be maintained.
     </para>
     <para>
       <indexterm type="general"><primary>modals</primary><secondary>importance of 1st sumti place for sumti tcita use</secondary></indexterm>
@@ -3481,7 +3481,7 @@
       <indexterm type="general"><primary>ma</primary><secondary>for tense questions</secondary></indexterm>
       <indexterm type="general"><primary>tense questions with ma</primary></indexterm>
       <indexterm type="general"><primary>tense questions</primary><secondary>methods of asking</secondary></indexterm>
-      There are two main ways to ask questions about tense. The main English tense question words are <quote>When?</quote> and <quote>Where?</quote>. These may be paraphrased respectively as <quote>At what time?</quote> and <quote>At what place?</quote> In these forms, their Lojban equivalents simply involve a tense plus <valsi>ma</valsi>, the Lojban sumti question:
+      There are two main ways to ask questions about tense. The main English tense question words are <quote>When?</quote> and <quote>Where?</quote>. These may be paraphrased respectively as <quote>At what time?</quote> and <quote>At what place?</quote> In these forms, their Relojban equivalents simply involve a tense plus <valsi>ma</valsi>, the Relojban sumti question:
     </para>
     <example xml:id="example-random-id-qEwW" role="interlinear-gloss-example">
       <title>
@@ -3608,7 +3608,7 @@
   <section xml:id="section-explicit-magnitudes">
     <title>Explicit magnitudes</title>
     <para>
-      It is a limitation of the VA and ZI system of specifying magnitudes that they can only prescribe vague magnitudes: small, medium, or large. In order to express both an origin point and an exact distance, the Lojban construction called a <quote>termset</quote> is employed. (Termsets are explained further in <xref linkend="section-termsets"/> and <xref linkend="section-quantifier-grouping"/>.) Termsets let multiple series of terms apply to a bridi conjunctively, which allows both the origin of the imaginary journey and its distance to be specified. Here is an example:
+      It is a limitation of the VA and ZI system of specifying magnitudes that they can only prescribe vague magnitudes: small, medium, or large. In order to express both an origin point and an exact distance, the Relojban construction called a <quote>termset</quote> is employed. (Termsets are explained further in <xref linkend="section-termsets"/> and <xref linkend="section-quantifier-grouping"/>.) Termsets let multiple series of terms apply to a bridi conjunctively, which allows both the origin of the imaginary journey and its distance to be specified. Here is an example:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-7Lys">
       <title>

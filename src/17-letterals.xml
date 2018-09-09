@@ -25,35 +25,35 @@
     </example>
     <para role="noindent">
       <indexterm type="general"><primary>lerfu</primary><secondary>definition</secondary></indexterm>
-      (Don't forget the one within quotation marks.) Using the word <quote>letteral</quote> avoids confusion with <quote>letter</quote>, the kind you write to someone. Not surprisingly, there is a Lojban gismu for <quote>letteral</quote>, namely <valsi>lerfu</valsi>, and this word will be used in the rest of this chapter.
+      (Don't forget the one within quotation marks.) Using the word <quote>letteral</quote> avoids confusion with <quote>letter</quote>, the kind you write to someone. Not surprisingly, there is a Relojban gismu for <quote>letteral</quote>, namely <valsi>lerfu</valsi>, and this word will be used in the rest of this chapter.
     </para>
     <para>
-      <indexterm type="general"><primary>alphabet</primary><secondary>Latin used for Lojban</secondary></indexterm>
-      <indexterm type="general"><primary>Latin</primary><secondary>alphabet of Lojban</secondary></indexterm>
-      Lojban uses the Latin alphabet, just as English does, right? Then why is there a need for a chapter like this? After all, everyone who can read it already knows the alphabet. The answer is twofold:
+      <indexterm type="general"><primary>alphabet</primary><secondary>Latin used for Relojban</secondary></indexterm>
+      <indexterm type="general"><primary>Latin</primary><secondary>alphabet of Relojban</secondary></indexterm>
+      Relojban uses the Latin alphabet, just as English does, right? Then why is there a need for a chapter like this? After all, everyone who can read it already knows the alphabet. The answer is twofold:
     </para>
     <para>
       <indexterm type="general"><primary>alphabet</primary><secondary>words for letters in</secondary><tertiary>rationale</tertiary></indexterm>
-      First, in English there are a set of words that correspond to and represent the English lerfu. These words are rarely written down in English and have no standard spellings, but if you pronounce the English alphabet to yourself you will hear them: ay, bee, cee, dee ... . They are used in spelling out words and in pronouncing most acronyms. The Lojban equivalents of these words are standardized and must be documented somehow.
+      First, in English there are a set of words that correspond to and represent the English lerfu. These words are rarely written down in English and have no standard spellings, but if you pronounce the English alphabet to yourself you will hear them: ay, bee, cee, dee ... . They are used in spelling out words and in pronouncing most acronyms. The Relojban equivalents of these words are standardized and must be documented somehow.
     </para>
     <para>
-      <indexterm type="general"><primary>alphabets</primary><secondary>words for non-Lojban letters</secondary><tertiary>rationale</tertiary></indexterm>
-      Second, English has names only for the lerfu used in writing English. (There are also English names for Greek and Hebrew lerfu: English-speakers usually refer to the Greek lerfu conventionally spelled <quote>phi</quote> as <quote>fye</quote>, whereas <quote>fee</quote> would more nearly represent the name used by Greek-speakers. Still, not all English-speakers know these English names.) Lojban, in order to be culturally neutral, needs a more comprehensive system that can handle, at least potentially, all of the world's alphabets and other writing systems.
+      <indexterm type="general"><primary>alphabets</primary><secondary>words for non-Relojban letters</secondary><tertiary>rationale</tertiary></indexterm>
+      Second, English has names only for the lerfu used in writing English. (There are also English names for Greek and Hebrew lerfu: English-speakers usually refer to the Greek lerfu conventionally spelled <quote>phi</quote> as <quote>fye</quote>, whereas <quote>fee</quote> would more nearly represent the name used by Greek-speakers. Still, not all English-speakers know these English names.) Relojban, in order to be culturally neutral, needs a more comprehensive system that can handle, at least potentially, all of the world's alphabets and other writing systems.
     </para>
     <para>
-      Letterals have several uses in Lojban: in forming acronyms and abbreviations, as mathematical symbols, and as sumka'i &ndash; the equivalent of English pronouns.
+      Letterals have several uses in Relojban: in forming acronyms and abbreviations, as mathematical symbols, and as sumka'i &ndash; the equivalent of English pronouns.
     </para>
     <para>
       <indexterm type="general"><primary>letter</primary><secondary>contrasted with word for the letter</secondary></indexterm>
       <indexterm type="general"><primary>lerfu word</primary><secondary>contrasted with lerfu</secondary></indexterm>
       <indexterm type="general"><primary>lerfu</primary><secondary>contrasted with lerfu word</secondary></indexterm>
-      In earlier writings about Lojban, there has been a tendency to use the word <valsi>lerfu</valsi> for both the letterals themselves and for the Lojban words which represent them. In this chapter, that tendency will be ruthlessly suppressed, and the term <quote>lerfu word</quote> will invariably be used for the latter. The Lojban equivalent would be <jbophrase>lerfu valsi</jbophrase> or <valsi>lervla</valsi>.
+      In earlier writings about Relojban, there has been a tendency to use the word <valsi>lerfu</valsi> for both the letterals themselves and for the Relojban words which represent them. In this chapter, that tendency will be ruthlessly suppressed, and the term <quote>lerfu word</quote> will invariably be used for the latter. The Relojban equivalent would be <jbophrase>lerfu valsi</jbophrase> or <valsi>lervla</valsi>.
     </para>
   </section>
   <section xml:id="section-lerfu-liste">
-    <title>A to Z in Lojban, plus one</title>
+    <title>A to Z in Relojban, plus one</title>
     <para>
-      <indexterm type="general"><primary>lerfu words</primary><secondary>Lojban coverage requirement</secondary></indexterm>
+      <indexterm type="general"><primary>lerfu words</primary><secondary>Relojban coverage requirement</secondary></indexterm>
       The first requirement of a system of lerfu words for any language is that they must represent the lerfu used to write the language. The lerfu words for English are a motley crew: the relationship between <quote>doubleyou</quote> and <quote>w</quote> is strictly historical in nature; <quote>aitch</quote> represents <quote>h</quote> but has no clear relationship to it at all; and <quote>z</quote> has two distinct lerfu words, <quote>zee</quote> and <quote>zed</quote>, depending on the dialect of English in question.
     </para>
     <para>
@@ -61,7 +61,7 @@
       <indexterm type="general"><primary>lerfu words</primary><secondary>for consonants</secondary></indexterm>
       <indexterm type="general"><primary>lerfu words</primary><secondary>for vowels</secondary></indexterm>
       <indexterm type="general"><primary>lerfu words</primary><secondary>formation rules</secondary></indexterm>
-      All of Lojban's basic lerfu words are made by one of three rules:
+      All of Relojban's basic lerfu words are made by one of three rules:
     </para>
     <itemizedlist role="bullets">
       <listitem>
@@ -81,8 +81,8 @@
       </listitem>
     </itemizedlist>
     <para role="indent">
-      <indexterm type="general"><primary>lerfu words</primary><secondary>table of Lojban</secondary></indexterm>
-      Therefore, the following table represents the basic Lojban alphabet:
+      <indexterm type="general"><primary>lerfu words</primary><secondary>table of Relojban</secondary></indexterm>
+      Therefore, the following table represents the basic Relojban alphabet:
     </para>
     <informaltable class="rotated">
       <tbody>
@@ -127,10 +127,10 @@
       <indexterm type="general"><primary>lerfu words</primary><secondary>vowel words contrasted with consonant words</secondary></indexterm>
       <indexterm type="general"><primary>lerfu words</primary><secondary>consonant words contrasted with vowel words</secondary></indexterm>
       <indexterm type="general"><primary>lerfu words for vowels</primary><secondary>pause requirement before</secondary></indexterm>
-      There are several things to note about this table. The consonant lerfu words are a single syllable, whereas the vowel and <letteral>'</letteral> lerfu words are two syllables and must be preceded by pause (since they all begin with a vowel). Another fact, not evident from the table but important nonetheless, is that <valsi>by</valsi> and its like are single cmavo of selma'o BY, as is <valsi>.y'y</valsi>. The vowel lerfu words, on the other hand, are compound cmavo, made from a single vowel cmavo plus the cmavo <valsi>bu</valsi> (which belongs to its own selma'o, BU). All of the vowel cmavo have other meanings in Lojban (logical connectives, sentence separator, hesitation noise), but those meanings are irrelevant when <valsi>bu</valsi> follows.
+      There are several things to note about this table. The consonant lerfu words are a single syllable, whereas the vowel and <letteral>'</letteral> lerfu words are two syllables and must be preceded by pause (since they all begin with a vowel). Another fact, not evident from the table but important nonetheless, is that <valsi>by</valsi> and its like are single cmavo of selma'o BY, as is <valsi>.y'y</valsi>. The vowel lerfu words, on the other hand, are compound cmavo, made from a single vowel cmavo plus the cmavo <valsi>bu</valsi> (which belongs to its own selma'o, BU). All of the vowel cmavo have other meanings in Relojban (logical connectives, sentence separator, hesitation noise), but those meanings are irrelevant when <valsi>bu</valsi> follows.
     </para>
     <para>
-      Here are some illustrations of common Lojban words spelled out using the alphabet above:
+      Here are some illustrations of common Relojban words spelled out using the alphabet above:
     </para>
     <example xml:id="example-random-id-qHRb" role="interlinear-gloss-example">
       <title>
@@ -150,8 +150,8 @@
     </example>
     <para role="indent">
       <indexterm type="general"><primary>lerfu words</primary><secondary>effect of systematic formulation</secondary></indexterm>
-      <indexterm type="general"><primary>spelling out words</primary><secondary>Lojban contrasted with English in usefulness</secondary></indexterm>
-      Spelling out words is less useful in Lojban than in English, for two reasons: Lojban spelling is phonemic, so there can be no real dispute about how a word is spelled; and the Lojban lerfu words sound more alike than the English ones do, since they are made up systematically. The English words <quote>fail</quote> and <quote>vale</quote> sound similar, but just hearing the first lerfu word of either, namely <quote>eff</quote> or <quote>vee</quote>, is enough to discriminate easily between them &ndash; and even if the first lerfu word were somehow confused, neither <quote>vail</quote> nor <quote>fale</quote> is a word of ordinary English, so the rest of the spelling determines which word is meant. Still, the capability of spelling out words does exist in Lojban.
+      <indexterm type="general"><primary>spelling out words</primary><secondary>Relojban contrasted with English in usefulness</secondary></indexterm>
+      Spelling out words is less useful in Relojban than in English, for two reasons: Relojban spelling is phonemic, so there can be no real dispute about how a word is spelled; and the Relojban lerfu words sound more alike than the English ones do, since they are made up systematically. The English words <quote>fail</quote> and <quote>vale</quote> sound similar, but just hearing the first lerfu word of either, namely <quote>eff</quote> or <quote>vee</quote>, is enough to discriminate easily between them &ndash; and even if the first lerfu word were somehow confused, neither <quote>vail</quote> nor <quote>fale</quote> is a word of ordinary English, so the rest of the spelling determines which word is meant. Still, the capability of spelling out words does exist in Relojban.
     </para>
     <para>
       <indexterm type="general"><primary>lerfu words ending with &quot;y&quot;</primary><secondary>pause after</secondary><tertiary>rationale</tertiary></indexterm>
@@ -185,14 +185,14 @@
   <section xml:id="section-upper-case">
     <title>Upper and lower cases</title>
     <para>
-      <indexterm type="general"><primary>lower case letters</primary><secondary>use in Lojban</secondary></indexterm>
-      <indexterm type="general"><primary>capital letters</primary><secondary>use in Lojban</secondary></indexterm>
+      <indexterm type="general"><primary>lower case letters</primary><secondary>use in Relojban</secondary></indexterm>
+      <indexterm type="general"><primary>capital letters</primary><secondary>use in Relojban</secondary></indexterm>
       <indexterm type="general"><primary>stress</primary><secondary>irregular marked with upper-case</secondary></indexterm>
-      <indexterm type="general"><primary>lower-case letters</primary><secondary>English usage contrasted with Lojban</secondary></indexterm>
-      <indexterm type="general"><primary>lower-case letters</primary><secondary>Lojban usage contrasted with English</secondary></indexterm>
-      <indexterm type="general"><primary>upper-case letters</primary><secondary>English usage contrasted with Lojban</secondary></indexterm>
-      <indexterm type="general"><primary>upper-case letters</primary><secondary>Lojban usage contrasted with English</secondary></indexterm>
-      Lojban doesn't use lower-case (small) letters and upper-case (capital) letters in the same way that English does; sentences do not begin with an upper-case letter, nor do names. However, upper-case letters are used in Lojban to mark irregular stress within names, thus:
+      <indexterm type="general"><primary>lower-case letters</primary><secondary>English usage contrasted with Relojban</secondary></indexterm>
+      <indexterm type="general"><primary>lower-case letters</primary><secondary>Relojban usage contrasted with English</secondary></indexterm>
+      <indexterm type="general"><primary>upper-case letters</primary><secondary>English usage contrasted with Relojban</secondary></indexterm>
+      <indexterm type="general"><primary>upper-case letters</primary><secondary>Relojban usage contrasted with English</secondary></indexterm>
+      Relojban doesn't use lower-case (small) letters and upper-case (capital) letters in the same way that English does; sentences do not begin with an upper-case letter, nor do names. However, upper-case letters are used in Relojban to mark irregular stress within names, thus:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Fam2">
       <title>
@@ -281,7 +281,7 @@
       <indexterm type="general"><primary>bu</primary><secondary>interaction with ba'e</secondary></indexterm>
       <indexterm type="general"><primary>bu</primary><secondary>and compound cmavo</secondary></indexterm>
       <indexterm type="general"><primary>bu</primary><secondary>grammar of</secondary></indexterm>
-      Formally, <valsi>bu</valsi> may be attached to any single Lojban word. Compound cmavo do not count as words for this purpose. The special cmavo <valsi>zei</valsi>, <valsi>zo</valsi>, <valsi>si</valsi>, <valsi>sa</valsi>, <valsi>fa'o</valsi> may not have <valsi>bu</valsi> attached, because they are interpreted before <valsi>bu</valsi> detection is done; in particular,
+      Formally, <valsi>bu</valsi> may be attached to any single Relojban word. Compound cmavo do not count as words for this purpose. The special cmavo <valsi>zei</valsi>, <valsi>zo</valsi>, <valsi>si</valsi>, <valsi>sa</valsi>, <valsi>fa'o</valsi> may not have <valsi>bu</valsi> attached, because they are interpreted before <valsi>bu</valsi> detection is done; in particular,
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-WvFu">
       <title>
@@ -297,7 +297,7 @@
       <indexterm type="lojban-word"><primary>bubu</primary></indexterm>
       <indexterm type="general"><primary>names</primary><secondary>pause requirement in lerfu words</secondary></indexterm>
       <indexterm type="general"><primary>bu</primary><secondary>effect of multiple</secondary></indexterm>
-      is needed when discussing <valsi>bu</valsi> in Lojban. It is also illegal to attach <valsi>bu</valsi> to itself, but more than one <valsi>bu</valsi> may be attached to a word; thus <jbophrase>.abubu</jbophrase> is legal, if ugly. (Its meaning is not defined, but it is presumably different from <valsi>.abu</valsi>.) It does not matter if the word is a cmavo, a cmevla, or a brivla. All such words suffixed by <valsi>bu</valsi> are treated grammatically as if they were cmavo belonging to selma'o BY. However, if the word is a cmevla it is always necessary to precede and follow it by a pause, because otherwise the cmevla may absorb preceding or following words.
+      is needed when discussing <valsi>bu</valsi> in Relojban. It is also illegal to attach <valsi>bu</valsi> to itself, but more than one <valsi>bu</valsi> may be attached to a word; thus <jbophrase>.abubu</jbophrase> is legal, if ugly. (Its meaning is not defined, but it is presumably different from <valsi>.abu</valsi>.) It does not matter if the word is a cmavo, a cmevla, or a brivla. All such words suffixed by <valsi>bu</valsi> are treated grammatically as if they were cmavo belonging to selma'o BY. However, if the word is a cmevla it is always necessary to precede and follow it by a pause, because otherwise the cmevla may absorb preceding or following words.
     </para>
     <para>
       <indexterm type="general"><primary>happy face</primary><secondary>example</secondary></indexterm>
@@ -305,7 +305,7 @@
       <indexterm type="general"><primary>logograms</primary><secondary>words for</secondary></indexterm>
       <indexterm type="general"><primary>smiley face</primary><secondary>word for</secondary></indexterm>
       <indexterm type="general"><primary>unusual characters</primary><secondary>words for</secondary></indexterm>
-      The ability to attach <valsi>bu</valsi> to words has been used primarily to make names for various logograms and other unusual characters. For example, the Lojban name for the <quote>happy face</quote> is <jbophrase>uibu</jbophrase>, based on the attitudinal <valsi>ui</valsi> that means <quote>happiness</quote>. Likewise, the <quote>smiley face</quote>, written <quote>:-)</quote> and used on computer networks to indicate humor, is called <jbophrase>zo'obu</jbophrase> The existence of these names does not mean that you should insert <jbophrase>uibu</jbophrase> into running Lojban text to indicate that you are happy, or <jbophrase>zo'obu</jbophrase> when something is funny; instead, use the appropriate attitudinal directly.
+      The ability to attach <valsi>bu</valsi> to words has been used primarily to make names for various logograms and other unusual characters. For example, the Relojban name for the <quote>happy face</quote> is <jbophrase>uibu</jbophrase>, based on the attitudinal <valsi>ui</valsi> that means <quote>happiness</quote>. Likewise, the <quote>smiley face</quote>, written <quote>:-)</quote> and used on computer networks to indicate humor, is called <jbophrase>zo'obu</jbophrase> The existence of these names does not mean that you should insert <jbophrase>uibu</jbophrase> into running Relojban text to indicate that you are happy, or <jbophrase>zo'obu</jbophrase> when something is funny; instead, use the appropriate attitudinal directly.
     </para>
     <para>
       <indexterm type="general"><primary>ampersand</primary><secondary>example</secondary></indexterm>
@@ -320,25 +320,25 @@
       <indexterm type="general"><primary>pause</primary><secondary>word for</secondary></indexterm>
       <indexterm type="general"><primary>syllable break</primary><secondary>symbol for</secondary></indexterm>
       <indexterm type="general"><primary>pause</primary><secondary>symbol for</secondary></indexterm>
-      The <letteral>.</letteral> and <letteral>,</letteral> characters used in Lojbanic writing to represent pause and syllable break respectively have been assigned the lerfu words <jbophrase>denpa bu</jbophrase> (literally, <quote>pause bu</quote>) and <jbophrase>slaka bu</jbophrase> (literally, <quote>syllable bu</quote>). The written space is mandatory here, because <valsi>denpa</valsi> and <valsi>slaka</valsi> are normal gismu with normal stress: <jbophrase>denpabu</jbophrase> would be a fu'ivla (word borrowed from another language into Lojban) stressed <jbophrase>denPAbu</jbophrase>. No pause is required between <valsi>denpa</valsi> (or <valsi>slaka</valsi>) and <valsi>bu</valsi>, though.
+      The <letteral>.</letteral> and <letteral>,</letteral> characters used in Relojbanic writing to represent pause and syllable break respectively have been assigned the lerfu words <jbophrase>denpa bu</jbophrase> (literally, <quote>pause bu</quote>) and <jbophrase>slaka bu</jbophrase> (literally, <quote>syllable bu</quote>). The written space is mandatory here, because <valsi>denpa</valsi> and <valsi>slaka</valsi> are normal gismu with normal stress: <jbophrase>denpabu</jbophrase> would be a fu'ivla (word borrowed from another language into Relojban) stressed <jbophrase>denPAbu</jbophrase>. No pause is required between <valsi>denpa</valsi> (or <valsi>slaka</valsi>) and <valsi>bu</valsi>, though.
     </para>
   </section>
   <section xml:id="section-alien-alphabets">
     <title>Alien alphabets</title>
     <para>
-      As stated in <xref linkend="section-letterals-introduction"/>, Lojban's goal of cultural neutrality demands a standard set of lerfu words for the lerfu of as many other writing systems as possible. When we meet these lerfu in written text (particularly, though not exclusively, mathematical text), we need a standard Lojbanic way to pronounce them.
+      As stated in <xref linkend="section-letterals-introduction"/>, Relojban's goal of cultural neutrality demands a standard set of lerfu words for the lerfu of as many other writing systems as possible. When we meet these lerfu in written text (particularly, though not exclusively, mathematical text), we need a standard Relojbanic way to pronounce them.
     </para>
     <para>
-      There are certainly hundreds of alphabets and other writing systems in use around the world, and it is probably an unachievable goal to create a single system which can express all of them, but if perfection is not demanded, a usable system can be created from the raw material which Lojban provides.
+      There are certainly hundreds of alphabets and other writing systems in use around the world, and it is probably an unachievable goal to create a single system which can express all of them, but if perfection is not demanded, a usable system can be created from the raw material which Relojban provides.
     </para>
     <para>
       <indexterm type="general"><primary>alpha</primary><secondary>example</secondary></indexterm>
-      <indexterm type="general"><primary>letters</primary><secondary>non-Lojban</secondary><tertiary>representation with names</tertiary></indexterm>
-      One possibility would be to use the lerfu word associated with the language itself, Lojbanized and with <valsi>bu</valsi> added. Indeed, an isolated Greek <quote>alpha</quote> in running Lojban text is probably most easily handled by calling it <jbophrase>.alfas. bu</jbophrase>. Here the Greek lerfu word has been made into a Lojbanized name by adding <letteral>s</letteral> and then into a Lojban lerfu word by adding <valsi>bu</valsi>. Note that the pause after <jbophrase>.alfas.</jbophrase> is still needed.
+      <indexterm type="general"><primary>letters</primary><secondary>non-Relojban</secondary><tertiary>representation with names</tertiary></indexterm>
+      One possibility would be to use the lerfu word associated with the language itself, Lojbanized and with <valsi>bu</valsi> added. Indeed, an isolated Greek <quote>alpha</quote> in running Relojban text is probably most easily handled by calling it <jbophrase>.alfas. bu</jbophrase>. Here the Greek lerfu word has been made into a Lojbanized name by adding <letteral>s</letteral> and then into a Relojban lerfu word by adding <valsi>bu</valsi>. Note that the pause after <jbophrase>.alfas.</jbophrase> is still needed.
     </para>
     <para>
-      <indexterm type="general"><primary>letters</primary><secondary>non-Lojban</secondary><tertiary>representation with consonant-word + bu</tertiary></indexterm>
-      Likewise, the easiest way to handle the Latin letters <quote>h</quote>, <quote>q</quote>, and <quote>w</quote> that are not used in Lojban is by a consonant lerfu word with <valsi>bu</valsi> attached. The following assignments have been made:
+      <indexterm type="general"><primary>letters</primary><secondary>non-Relojban</secondary><tertiary>representation with consonant-word + bu</tertiary></indexterm>
+      Likewise, the easiest way to handle the Latin letters <quote>h</quote>, <quote>q</quote>, and <quote>w</quote> that are not used in Relojban is by a consonant lerfu word with <valsi>bu</valsi> attached. The following assignments have been made:
     </para>
     <informaltable>
       <colgroup/>
@@ -347,7 +347,7 @@
       <tr><td><jbophrase>vy.bu</jbophrase></td><td><para>w</para></td></tr>
     </informaltable>
     <para>
-      As an example, the English word <quote>quack</quote> would be spelled in Lojban thus:
+      As an example, the English word <quote>quack</quote> would be spelled in Relojban thus:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-0oAR">
       <title>
@@ -361,7 +361,7 @@
     <para role="indent">
       <indexterm type="general"><primary>letters</primary><secondary>symbol contrasted with sound for spelling</secondary></indexterm>
       <indexterm type="general"><primary>letters</primary><secondary>sound contrasted with symbol for spelling</secondary></indexterm>
-      Note that the fact that the letter <quote>c</quote> in this word has nothing to do with the sound of the Lojban letter <letteral>c</letteral> is irrelevant; we are spelling an English word and English rules control the choice of letters, but we are speaking Lojban and Lojban rules control the pronunciations of those letters.
+      Note that the fact that the letter <quote>c</quote> in this word has nothing to do with the sound of the Relojban letter <letteral>c</letteral> is irrelevant; we are spelling an English word and English rules control the choice of letters, but we are speaking Relojban and Relojban rules control the pronunciations of those letters.
     </para>
     <para>
       A few more possibilities for Latin-alphabet letters used in languages other than English:
@@ -372,14 +372,14 @@
       <tr><td><jbophrase>dy.bu</jbophrase></td><td><para>ð (edh)</para></td></tr>
     </informaltable>
     <para>
-      However, this system is not ideal for all purposes. For one thing, it is verbose. The native lerfu words are often quite long, and with <valsi>bu</valsi> added they become even longer: the worst-case Greek lerfu word would be <jbophrase>.Omikron. bu</jbophrase>, with four syllables and two mandatory pauses. In addition, alphabets that are used by many languages have separate sets of lerfu words for each language, and which set is Lojban to choose?
+      However, this system is not ideal for all purposes. For one thing, it is verbose. The native lerfu words are often quite long, and with <valsi>bu</valsi> added they become even longer: the worst-case Greek lerfu word would be <jbophrase>.Omikron. bu</jbophrase>, with four syllables and two mandatory pauses. In addition, alphabets that are used by many languages have separate sets of lerfu words for each language, and which set is Relojban to choose?
     </para>
     <para>
-      <indexterm type="general"><primary>letters</primary><secondary>non-Lojban</secondary><tertiary>representation with language-shift</tertiary></indexterm>
-      <indexterm type="general"><primary>language shift</primary><secondary>choice of Lojban-lerfu-word counterpart</secondary></indexterm>
+      <indexterm type="general"><primary>letters</primary><secondary>non-Relojban</secondary><tertiary>representation with language-shift</tertiary></indexterm>
+      <indexterm type="general"><primary>language shift</primary><secondary>choice of Relojban-lerfu-word counterpart</secondary></indexterm>
       <indexterm type="general"><primary>language shift</primary><secondary>effect on following words</secondary></indexterm>
       <indexterm type="general"><primary>language shift</primary><secondary>rationale for</secondary></indexterm>
-      <indexterm type="general"><primary>letters</primary><secondary>non-Lojban</secondary><tertiary>representation with consonant-word + bu, drawback</tertiary></indexterm>
+      <indexterm type="general"><primary>letters</primary><secondary>non-Relojban</secondary><tertiary>representation with consonant-word + bu, drawback</tertiary></indexterm>
       The alternative plan, therefore, is to use a shift word similar to those introduced in <xref linkend="section-upper-case"/>. After the appearance of such a shift word, the regular lerfu words are re-interpreted to represent the lerfu of the alphabet now in use. After a shift to the Greek alphabet, for example, the lerfu word <valsi>ty</valsi> would represent not Latin <quote>t</quote> but Greek <quote>tau</quote>. Why <quote>tau</quote>? Because it is, in some sense, the closest counterpart of <quote>t</quote> within the Greek lerfu system. In principle it would be all right to map <valsi>ty.</valsi> to <quote>phi</quote> or even <quote>omega</quote>, but such an arbitrary relationship would be extremely hard to remember.
     </para>
     <para>
@@ -392,7 +392,7 @@
     </para>
     <informaltable>
       <colgroup/>
-      <tr><td><valsi>lo'a</valsi></td><td><para>Latin/Roman/Lojban alphabet</para></td></tr>
+      <tr><td><valsi>lo'a</valsi></td><td><para>Latin/Roman/Relojban alphabet</para></td></tr>
       <tr><td><valsi>ge'o</valsi></td><td><para>Greek alphabet</para></td></tr>
       <tr><td><valsi>je'o</valsi></td><td><para>Hebrew alphabet</para></td></tr>
       <tr><td><valsi>jo'o</valsi></td><td><para>Arabic alphabet</para></td></tr>
@@ -486,7 +486,7 @@
       <indexterm type="general"><primary>na'a</primary><secondary>contrasted with lo'a</secondary></indexterm>
       <indexterm type="general"><primary>canceling letter shifts</primary></indexterm>
       <indexterm type="general"><primary>shift words</primary><secondary>canceling effect</secondary></indexterm>
-      The cmavo <valsi>na'a</valsi> (of selma'o BY) is a universal shift-word cancel: it returns the interpretation of lerfu words to the default of lower-case Lojban with no specific font. It is more general than <valsi>lo'a</valsi>, which changes the alphabet only, potentially leaving font and case shifts in place.
+      The cmavo <valsi>na'a</valsi> (of selma'o BY) is a universal shift-word cancel: it returns the interpretation of lerfu words to the default of lower-case Relojban with no specific font. It is more general than <valsi>lo'a</valsi>, which changes the alphabet only, potentially leaving font and case shifts in place.
     </para>
     <para>
       Several sections at the end of this chapter contain tables of proposed lerfu word assignments for various languages.
@@ -500,17 +500,17 @@
       <indexterm type="general"><primary>circumflex</primary><secondary>a diacritical mark</secondary></indexterm>
       <indexterm type="general"><primary>umlaut</primary><secondary>a diacritical mark</secondary></indexterm>
       <indexterm type="general"><primary>accent mark</primary><secondary>a diacritical mark</secondary></indexterm>
-      <indexterm type="general"><primary>letters</primary><secondary>non-Lojban</secondary><tertiary>representation of diacritical marks on</tertiary></indexterm>
+      <indexterm type="general"><primary>letters</primary><secondary>non-Relojban</secondary><tertiary>representation of diacritical marks on</tertiary></indexterm>
       <indexterm type="general"><primary>diacritical marks</primary><secondary>as lerfu</secondary></indexterm>
       Many languages that make use of the Latin alphabet add special marks to some of the lerfu they use. French, for example, uses three accent marks above vowels, called (in English) <quote>acute</quote>, <quote>grave</quote>, and <quote>circumflex</quote>. Likewise, German uses a mark called <quote>umlaut</quote>; a mark which looks the same is also used in French, but with a different name and meaning.
     </para>
     <para>
       <indexterm type="general"><primary>diacritical marks</primary><secondary>problem of position</secondary></indexterm>
-      These marks may be considered lerfu, and each has a corresponding lerfu word in Lojban. So far, no problem. But the marks appear over lerfu, whereas the words must be spoken (or written) either before or after the lerfu word representing the basic lerfu. Typewriters (for mechanical reasons) and the computer programs that emulate them usually require their users to type the accent mark before the basic lerfu, whereas in speech the accent mark is often pronounced afterwards (for example, in German <quote>a umlaut</quote> is preferred to <quote>umlaut a</quote>).
+      These marks may be considered lerfu, and each has a corresponding lerfu word in Relojban. So far, no problem. But the marks appear over lerfu, whereas the words must be spoken (or written) either before or after the lerfu word representing the basic lerfu. Typewriters (for mechanical reasons) and the computer programs that emulate them usually require their users to type the accent mark before the basic lerfu, whereas in speech the accent mark is often pronounced afterwards (for example, in German <quote>a umlaut</quote> is preferred to <quote>umlaut a</quote>).
     </para>
     <para>
       <indexterm type="general"><primary>diacritical marks</primary><secondary>specifying with tei…foi</secondary></indexterm>
-      Lojban cannot settle this question by fiat. Either it must be left up to default interpretation depending on the language in question, or the lerfu-word compounding cmavo <valsi>tei</valsi> (of selma'o TEI) and <valsi>foi</valsi> (of selma'o FOI) must be used. These cmavo are always used in pairs; any number of lerfu words may appear between them, and the whole is treated as a single compound lerfu word. The French word <quote>été</quote>, with acute accent marks on both <quote>e</quote> lerfu, could be spelled as:
+      Relojban cannot settle this question by fiat. Either it must be left up to default interpretation depending on the language in question, or the lerfu-word compounding cmavo <valsi>tei</valsi> (of selma'o TEI) and <valsi>foi</valsi> (of selma'o FOI) must be used. These cmavo are always used in pairs; any number of lerfu words may appear between them, and the whole is treated as a single compound lerfu word. The French word <quote>été</quote>, with acute accent marks on both <quote>e</quote> lerfu, could be spelled as:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-NQgb">
       <title>
@@ -524,7 +524,7 @@
     <para role="noindent">
       <indexterm type="general"><primary>accent mark</primary><secondary>example</secondary></indexterm>
       <indexterm type="general"><primary>diacritical marks</primary><secondary>order of specification within tei…foi</secondary></indexterm>
-      and it does not matter whether <jbophrase>.akut. bu</jbophrase> appears before or after <valsi>.ebu</valsi>; the <valsi>tei</valsi>&hellip;<valsi>foi</valsi> grouping guarantees that the acute accent is associated with the correct lerfu. Of course, the level of precision represented by <xref linkend="example-random-id-NQgb"/> would rarely be required: it might be needed by a Lojban-speaker when spelling out a French word for exact transcription by another Lojban-speaker who did not know French.
+      and it does not matter whether <jbophrase>.akut. bu</jbophrase> appears before or after <valsi>.ebu</valsi>; the <valsi>tei</valsi>&hellip;<valsi>foi</valsi> grouping guarantees that the acute accent is associated with the correct lerfu. Of course, the level of precision represented by <xref linkend="example-random-id-NQgb"/> would rarely be required: it might be needed by a Relojban-speaker when spelling out a French word for exact transcription by another Relojban-speaker who did not know French.
     </para>
     <para>
       <indexterm type="general"><primary>diacritical marks</primary><secondary>problem with multiple on one lerfu</secondary></indexterm>
@@ -536,10 +536,10 @@
       <indexterm type="general"><primary>compound letters</primary><secondary>native language</secondary><tertiary>representing as distinct letters</tertiary></indexterm>
       <indexterm type="general"><primary>accented letters</primary><secondary>considered as distinct from unaccented</secondary></indexterm>
       <indexterm type="general"><primary>diacritical marks</primary><secondary>considered as forming distinct letters</secondary></indexterm>
-      Some languages, like Swedish and Finnish, consider certain accented lerfu to be completely distinct from their unaccented equivalents, but Lojban does not make a formal distinction, since the printed characters look the same whether they are reckoned as separate letters or not. In addition, some languages consider certain 2-letter combinations (like <quote xml:lang="es">ll</quote> and <quote xml:lang="es">ch</quote> in Spanish) to be letters; this may be represented by enclosing the combination in <valsi>tei</valsi>&hellip;<valsi>foi</valsi>.
+      Some languages, like Swedish and Finnish, consider certain accented lerfu to be completely distinct from their unaccented equivalents, but Relojban does not make a formal distinction, since the printed characters look the same whether they are reckoned as separate letters or not. In addition, some languages consider certain 2-letter combinations (like <quote xml:lang="es">ll</quote> and <quote xml:lang="es">ch</quote> in Spanish) to be letters; this may be represented by enclosing the combination in <valsi>tei</valsi>&hellip;<valsi>foi</valsi>.
     </para>
     <para>
-      <indexterm type="general"><primary>lerfu words</primary><secondary>forming new for non-Lojban letters using bu</secondary></indexterm>
+      <indexterm type="general"><primary>lerfu words</primary><secondary>forming new for non-Relojban letters using bu</secondary></indexterm>
       In addition, when discussing a specific language, it is permissible to make up new lerfu words, as long as they are either explained locally or well understood from context: thus Spanish <quote xml:lang="es">ll</quote> or Croatian <quote xml:lang="hr">lj</quote> could be called <valsi>.ibu</valsi>, but that usage would not necessarily be universally understood.
     </para>
     <para>
@@ -551,11 +551,11 @@
     <para>
       <indexterm type="general"><primary>lau</primary><secondary>effect on following lerfu word</secondary></indexterm>
       <indexterm type="general"><primary>punctuation lerfu words</primary><secondary>mechanism for creating</secondary></indexterm>
-      Lojban does not have punctuation marks as such: the denpa bu and the slaka bu are really a part of the alphabet. Other languages, however, use punctuation marks extensively. As yet, Lojban does not have any words for these punctuation marks, but a mechanism exists for devising them: the cmavo <valsi>lau</valsi> of selma'o LAU. <valsi>lau</valsi> must always be followed by a BY word; the interpretation of the BY word is changed from a lerfu to a punctuation mark. Typically, this BY word would be a name or brivla with a <valsi>bu</valsi> suffix.
+      Relojban does not have punctuation marks as such: the denpa bu and the slaka bu are really a part of the alphabet. Other languages, however, use punctuation marks extensively. As yet, Relojban does not have any words for these punctuation marks, but a mechanism exists for devising them: the cmavo <valsi>lau</valsi> of selma'o LAU. <valsi>lau</valsi> must always be followed by a BY word; the interpretation of the BY word is changed from a lerfu to a punctuation mark. Typically, this BY word would be a name or brivla with a <valsi>bu</valsi> suffix.
     </para>
     <para>
       <indexterm type="general"><primary>punctuation lerfu words</primary><secondary>rationale for lau</secondary></indexterm>
-      Why is <valsi>lau</valsi> necessary at all? Why not just use a <valsi>bu</valsi>-marked word and announce that it is always to be interpreted as a punctuation mark? Primarily to avoid ambiguity. The <valsi>bu</valsi> mechanism is extremely open-ended, and it is easy for Lojban users to make up <valsi>bu</valsi> words without bothering to explain what they mean. Using the <valsi>lau</valsi> cmavo flags at least the most important of such nonce lerfu words as having a special function: punctuation. (Exactly the same argument applies to the use of <valsi>zai</valsi> to signal an alphabet shift or <valsi>ce'a</valsi> to signal a font shift.)
+      Why is <valsi>lau</valsi> necessary at all? Why not just use a <valsi>bu</valsi>-marked word and announce that it is always to be interpreted as a punctuation mark? Primarily to avoid ambiguity. The <valsi>bu</valsi> mechanism is extremely open-ended, and it is easy for Relojban users to make up <valsi>bu</valsi> words without bothering to explain what they mean. Using the <valsi>lau</valsi> cmavo flags at least the most important of such nonce lerfu words as having a special function: punctuation. (Exactly the same argument applies to the use of <valsi>zai</valsi> to signal an alphabet shift or <valsi>ce'a</valsi> to signal a font shift.)
     </para>
     <para>
       <indexterm type="general"><primary>punctuation lerfu words</primary><secondary>interaction with different alphabet systems</secondary></indexterm>
@@ -573,11 +573,11 @@
       Chinese characters (<quote>han<superscript>4</superscript> zi<superscript>4</superscript></quote> in Chinese, <valsi>kanji</valsi> in Japanese) represent an entirely different approach to writing from alphabets or syllabaries. (A syllabary, such as Japanese hiragana or Amharic writing, has one lerfu for each syllable of the spoken language.) Very roughly, Chinese characters represent single elements of meaning; also very roughly, they represent single syllables of spoken Chinese. There is in principle no limit to the number of Chinese characters that can exist, and many thousands are in regular use.
     </para>
     <para>
-      It is hopeless for Lojban, with its limited lerfu and shift words, to create an alphabet which will match this diversity. However, there are various possible ways around the problem.
+      It is hopeless for Relojban, with its limited lerfu and shift words, to create an alphabet which will match this diversity. However, there are various possible ways around the problem.
     </para>
     <para>
-      <indexterm type="general"><primary>romaji</primary><secondary>as a basis for kanji characters in Lojban lerfu words</secondary></indexterm>
-      <indexterm type="general"><primary>pinyin</primary><secondary>as a basis for Chinese characters in Lojban lerfu words</secondary></indexterm>
+      <indexterm type="general"><primary>romaji</primary><secondary>as a basis for kanji characters in Relojban lerfu words</secondary></indexterm>
+      <indexterm type="general"><primary>pinyin</primary><secondary>as a basis for Chinese characters in Relojban lerfu words</secondary></indexterm>
       <indexterm type="general"><primary>kanji</primary><secondary>representing based on romaji spelling</secondary></indexterm>
       <indexterm type="general"><primary>Chinese characters</primary><secondary>representing based on pinyin spelling</secondary></indexterm>
       First, both Chinese and Japanese have standard Latin-alphabet representations, known as <quote>pinyin</quote> for Chinese and <quote>romaji</quote> for Japanese, and these can be used. Thus, the word <quote>han<superscript>4</superscript>zi<superscript>4</superscript></quote> is conventionally written with two characters, but it may be spelled out as:
@@ -594,10 +594,10 @@
     <para role="indent">
       <indexterm type="general"><primary>lerfu words with numeric digits</primary><secondary>grammar considerations</secondary></indexterm>
       <indexterm type="general"><primary>numeric digits in lerfu words</primary><secondary>grammar considerations</secondary></indexterm>
-      The cmavo <valsi>vo</valsi> is the Lojban digit <quote>4</quote>. It is grammatical to intersperse digits (of selma'o PA) into a string of lerfu words; as long as the first cmavo is a lerfu word, the whole will be interpreted as a string of lerfu words. In Chinese, the digits can be used to represent tones. Pinyin is more usually written using accent marks, the mechanism for which was explained in <xref linkend="section-accents"/>.
+      The cmavo <valsi>vo</valsi> is the Relojban digit <quote>4</quote>. It is grammatical to intersperse digits (of selma'o PA) into a string of lerfu words; as long as the first cmavo is a lerfu word, the whole will be interpreted as a string of lerfu words. In Chinese, the digits can be used to represent tones. Pinyin is more usually written using accent marks, the mechanism for which was explained in <xref linkend="section-accents"/>.
     </para>
     <para>
-      The Japanese company named <quote>Mitsubishi</quote> in English is spelled the same way in romaji, and could be spelled out in Lojban thus:
+      The Japanese company named <quote>Mitsubishi</quote> in English is spelled the same way in romaji, and could be spelled out in Relojban thus:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-pLUV">
       <title>
@@ -611,14 +611,14 @@
     <para role="indent">
       <indexterm type="general"><primary>kanji</primary><secondary>representing based on strokes</secondary></indexterm>
       <indexterm type="general"><primary>Chinese characters</primary><secondary>representing based on strokes</secondary></indexterm>
-      Alternatively, a really ambitious Lojbanist could assign lerfu words to the individual strokes used to write Chinese characters (there are about seven or eight of them if you are a flexible human being, or about 40 if you are a rigid computer program), and then represent each character with a <valsi>tei</valsi>, the stroke lerfu words in the order of writing (which is standardized for each character), and a <valsi>foi</valsi>. No one has as yet attempted this project.
+      Alternatively, a really ambitious Relojbanist could assign lerfu words to the individual strokes used to write Chinese characters (there are about seven or eight of them if you are a flexible human being, or about 40 if you are a rigid computer program), and then represent each character with a <valsi>tei</valsi>, the stroke lerfu words in the order of writing (which is standardized for each character), and a <valsi>foi</valsi>. No one has as yet attempted this project.
     </para>
   </section>
   <section xml:id="section-lerfu-pro-sumti">
     <title>lerfu words as sumka'i</title>
     <para>
       <indexterm type="general"><primary>lerfu string</primary><secondary>definition</secondary></indexterm>
-      So far, lerfu words have only appeared in Lojban text when spelling out words. There are several other grammatical uses of lerfu words within Lojban. In each case, a single lerfu word or more than one may be used. Therefore, the term <quote>lerfu string</quote> is introduced: it is short for <quote>sequence of one or more lerfu words</quote>.
+      So far, lerfu words have only appeared in Relojban text when spelling out words. There are several other grammatical uses of lerfu words within Relojban. In each case, a single lerfu word or more than one may be used. Therefore, the term <quote>lerfu string</quote> is introduced: it is short for <quote>sequence of one or more lerfu words</quote>.
     </para>
     <para>
       <indexterm type="general"><primary>lerfu string</primary><secondary>as sumka'i</secondary></indexterm>
@@ -650,7 +650,7 @@
     </example>
     <para role="indent">
       <indexterm type="general"><primary>lerfu string</primary><secondary>as sumka'i</secondary><tertiary>assumption of reference</tertiary></indexterm>
-      There is a special rule that sometimes makes lerfu strings more advantageous than the regular sumka'i cmavo. If no assignment can be found for a lerfu string (especially a single lerfu word), it can be assumed to refer to the most recent sumti whose name or description begins in Lojban with that lerfu. So <xref linkend="example-random-id-i7Ny"/> can be rephrased:
+      There is a special rule that sometimes makes lerfu strings more advantageous than the regular sumka'i cmavo. If no assignment can be found for a lerfu string (especially a single lerfu word), it can be assumed to refer to the most recent sumti whose name or description begins in Relojban with that lerfu. So <xref linkend="example-random-id-i7Ny"/> can be rephrased:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-7hVs">
       <title>
@@ -680,8 +680,8 @@
         <gloss>… - - Alexander Pavlovitch Kuznetsov - is-Russian.</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
-        <jbo>… .i symydy. tavla .abupyky. bau la .lojban.</jbo>
-        <gloss>… - SMD talks-to APK in - Lojban.</gloss>
+        <jbo>… .i symydy. tavla .abupyky. bau la .relojban.</jbo>
+        <gloss>… - SMD talks-to APK in - Relojban.</gloss>
       </interlinear-gloss>
     </example>
     <para role="indent">
@@ -761,7 +761,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      Now we can translate <xref linkend="example-random-id-tvHm"/> into Lojban:
+      Now we can translate <xref linkend="example-random-id-tvHm"/> into Relojban:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-UT1J">
       <title>
@@ -774,7 +774,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      Since the Lojban sentence has only four <letteral>e</letteral> lerfu rather than fourteen, the translation is not a literal one &ndash; but <xref linkend="example-random-id-UT1J"/> is a Lojban truth just as <xref linkend="example-random-id-tvHm"/> is an English truth. Coincidentally, the colloquial English translation of <xref linkend="example-random-id-UT1J"/> is also true!
+      Since the Relojban sentence has only four <letteral>e</letteral> lerfu rather than fourteen, the translation is not a literal one &ndash; but <xref linkend="example-random-id-UT1J"/> is a Relojban truth just as <xref linkend="example-random-id-tvHm"/> is an English truth. Coincidentally, the colloquial English translation of <xref linkend="example-random-id-UT1J"/> is also true!
     </para>
     <para>
       <indexterm type="lojban-word"><primary>la'e</primary></indexterm>
@@ -807,7 +807,7 @@
       </para>
     </example>
     <para role="noindent">
-      which is not the case; rather, the thing symbolized by the word <valsi>.abu</valsi> is a letteral. In Lojban, that would be:
+      which is not the case; rather, the thing symbolized by the word <valsi>.abu</valsi> is a letteral. In Relojban, that would be:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Da4r">
       <title>
@@ -826,7 +826,7 @@
     <para>
       <indexterm type="general"><primary>lerfu strings</primary><secondary>uses in mathematics</secondary></indexterm>
       <indexterm type="general"><primary>mathematics</primary><secondary>use of lerfu strings in</secondary></indexterm>
-      This chapter is not about Lojban mathematics, which is explained in <xref linkend="chapter-mekso"/>, so the mathematical uses of lerfu strings will be listed and exemplified but not explained.
+      This chapter is not about Relojban mathematics, which is explained in <xref linkend="chapter-mekso"/>, so the mathematical uses of lerfu strings will be listed and exemplified but not explained.
     </para>
     <itemizedlist>
       <listitem>
@@ -948,7 +948,7 @@
     <para>
       <indexterm type="general"><primary>lerfu juxtaposition interpretation</primary><secondary>contrasted with mathematical interpretation</secondary></indexterm>
       <indexterm type="general"><primary>lerfu string</primary><secondary>interpretation</secondary><tertiary>contrasted with mathematical interpretation</tertiary></indexterm>
-      All the examples above have exhibited single lerfu words rather than lerfu strings, in accordance with the conventions of ordinary mathematics. A longer lerfu string would still be treated as a single variable or function name: in Lojban, <jbophrase>.abu by. cy.</jbophrase> is not the multiplication <quote><dbinlinemath>a × b × c</dbinlinemath></quote> but is the variable <dbinlinemath>abc</dbinlinemath>. (Of course, a local convention could be employed that made the value of a variable like <dbinlinemath>abc</dbinlinemath>, with a multi-lerfu-word name, equal to the values of the variables <dbinlinemath>a</dbinlinemath>, <dbinlinemath>b</dbinlinemath>, and <dbinlinemath>c</dbinlinemath> multiplied together.)
+      All the examples above have exhibited single lerfu words rather than lerfu strings, in accordance with the conventions of ordinary mathematics. A longer lerfu string would still be treated as a single variable or function name: in Relojban, <jbophrase>.abu by. cy.</jbophrase> is not the multiplication <quote><dbinlinemath>a × b × c</dbinlinemath></quote> but is the variable <dbinlinemath>abc</dbinlinemath>. (Of course, a local convention could be employed that made the value of a variable like <dbinlinemath>abc</dbinlinemath>, with a multi-lerfu-word name, equal to the values of the variables <dbinlinemath>a</dbinlinemath>, <dbinlinemath>b</dbinlinemath>, and <dbinlinemath>c</dbinlinemath> multiplied together.)
     </para>
     <para>
       <indexterm type="general"><primary>lerfu shift scope</primary><secondary>exception for mathematical texts</secondary></indexterm>
@@ -965,7 +965,7 @@
     <para>
       <indexterm type="general"><primary>lerfu words</primary><secondary>as a basis for acronym names</secondary></indexterm>
       <indexterm type="general"><primary>acronyms</primary><secondary>using names based on lerfu words</secondary></indexterm>
-      In Lojban, a name can be almost any sequence of sounds that ends in a consonant and is followed by a pause. The easiest way to Lojbanize acronym names is to glue the lerfu words together, using <letteral>'</letteral> wherever two vowels would come together (pauses are illegal in names) and adding a final consonant:
+      In Relojban, a name can be almost any sequence of sounds that ends in a consonant and is followed by a pause. The easiest way to Lojbanize acronym names is to glue the lerfu words together, using <letteral>'</letteral> wherever two vowels would come together (pauses are illegal in names) and adding a final consonant:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-736i">
       <title>
@@ -1063,7 +1063,7 @@
       <indexterm type="general"><primary>lerfu words</primary><secondary>using computer encoding schemes with se'e</secondary></indexterm>
       <indexterm type="general"><primary>characters</primary><secondary>definition</secondary></indexterm>
       <indexterm type="general"><primary>character codes</primary><secondary>definition</secondary></indexterm>
-      Since the first application of computers to non-numerical information, character sets have existed, mapping numbers (called <quote>character codes</quote>) into selected lerfu, digits, and punctuation marks (collectively called <quote>characters</quote>). Historically, these character sets have only covered a particular writing system in isolation. International efforts have now created Unicode, a unified character set that can represent essentially all the characters in essentially all the world's writing systems. Lojban can take advantage of these encoding schemes by using the cmavo <valsi>se'e</valsi> (of selma'o BY). This cmavo is conventionally followed by digit cmavo of selma'o PA representing the character code, and the whole string indicates a single character in some computerized character set:
+      Since the first application of computers to non-numerical information, character sets have existed, mapping numbers (called <quote>character codes</quote>) into selected lerfu, digits, and punctuation marks (collectively called <quote>characters</quote>). Historically, these character sets have only covered a particular writing system in isolation. International efforts have now created Unicode, a unified character set that can represent essentially all the characters in essentially all the world's writing systems. Relojban can take advantage of these encoding schemes by using the cmavo <valsi>se'e</valsi> (of selma'o BY). This cmavo is conventionally followed by digit cmavo of selma'o PA representing the character code, and the whole string indicates a single character in some computerized character set:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-r2jv">
       <title>
@@ -1083,12 +1083,12 @@
     </example>
     <para role="indent">
       <indexterm type="general"><primary>ASCII</primary><secondary>application to lerfu words</secondary></indexterm>
-      Understanding <xref linkend="example-random-id-r2jv"/> depends on knowing the value in the ASCII character set (one of the simplest and oldest) of the <quote>$</quote> character. Therefore, the <valsi>se'e</valsi> convention is only intelligible to those who know the underlying character set. For precisely specifying a particular character, however, it has the advantages of unambiguity and (relative) cultural neutrality, and therefore Lojban provides a means for those with access to descriptions of such character sets to take advantage of them.
+      Understanding <xref linkend="example-random-id-r2jv"/> depends on knowing the value in the ASCII character set (one of the simplest and oldest) of the <quote>$</quote> character. Therefore, the <valsi>se'e</valsi> convention is only intelligible to those who know the underlying character set. For precisely specifying a particular character, however, it has the advantages of unambiguity and (relative) cultural neutrality, and therefore Relojban provides a means for those with access to descriptions of such character sets to take advantage of them.
     </para>
     <para>
       <indexterm type="general"><primary>peace symbol</primary></indexterm>
       <indexterm type="general"><primary>Unicode</primary></indexterm>
-      As another example, the Unicode character set (also known as ISO 10646) represents the international symbol of peace, an inverted trident in a circle, using the base-16 value 262E. In a suitable context, a Lojbanist may say:
+      As another example, the Unicode character set (also known as ISO 10646) represents the international symbol of peace, an inverted trident in a circle, using the base-16 value 262E. In a suitable context, a Relojbanist may say:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-MXET">
       <title>
@@ -1129,7 +1129,7 @@
       <cmavo-entry>
         <cmavo>lo'a</cmavo>
         <selmaho>BY</selmaho>
-        <description>Latin/Lojban alphabet shift</description>
+        <description>Latin/Relojban alphabet shift</description>
       </cmavo-entry>
       <cmavo-entry>
         <cmavo>ge'o</cmavo>
@@ -1190,21 +1190,21 @@
     <para role="indent">
       <indexterm type="general"><primary>LAU selma'o</primary><secondary>grammar of following BY cmavo</secondary></indexterm>
       <indexterm type="general"><primary>lerfu word cmavo</primary><secondary>list of auxiliary</secondary></indexterm>
-      Note that LAU cmavo must be followed by a BY cmavo or the equivalent, where <quote>equivalent</quote> means: either any Lojban word followed by <valsi>bu</valsi>, another LAU cmavo (and its required sequel), or a <valsi>tei</valsi>&hellip;<valsi>foi</valsi> compound cmavo.
+      Note that LAU cmavo must be followed by a BY cmavo or the equivalent, where <quote>equivalent</quote> means: either any Relojban word followed by <valsi>bu</valsi>, another LAU cmavo (and its required sequel), or a <valsi>tei</valsi>&hellip;<valsi>foi</valsi> compound cmavo.
     </para>
   </section>
   <section xml:id="section-proposed-lerfu-words">
     <title>Proposed lerfu words &ndash; introduction</title>
     <para>
       <indexterm type="general"><primary>lerfu words</primary><secondary>list of proposed</secondary><tertiary>notation convention</tertiary></indexterm>
-      The following sections contain tables of proposed lerfu words for some of the standard alphabets supported by the Lojban lerfu system. The first column of each list is the lerfu (actually, a Latin-alphabet name sufficient to identify it). The second column is the proposed name-based lerfu word, and the third column is the proposed lerfu word in the system based on using the cmavo of selma'o BY with a shift word.
+      The following sections contain tables of proposed lerfu words for some of the standard alphabets supported by the Relojban lerfu system. The first column of each list is the lerfu (actually, a Latin-alphabet name sufficient to identify it). The second column is the proposed name-based lerfu word, and the third column is the proposed lerfu word in the system based on using the cmavo of selma'o BY with a shift word.
     </para>
     <para>
       <indexterm type="general"><primary>proposed lerfu words</primary><secondary>as working basis</secondary></indexterm>
-      These tables are not meant to be authoritative (several authorities within the Lojban community have niggled over them extensively, disagreeing with each other and sometimes with themselves). They provide a working basis until actual usage is available, rather than a final resolution of lerfu word problems. Probably the system presented here will evolve somewhat before settling down into a final, conventional form.
+      These tables are not meant to be authoritative (several authorities within the Relojban community have niggled over them extensively, disagreeing with each other and sometimes with themselves). They provide a working basis until actual usage is available, rather than a final resolution of lerfu word problems. Probably the system presented here will evolve somewhat before settling down into a final, conventional form.
     </para>
     <para>
-      For Latin-alphabet lerfu words, see <xref linkend="section-lerfu-liste"/> (for Lojban) and <xref linkend="section-alien-alphabets"/> (for non-Lojban Latin-alphabet lerfu).
+      For Latin-alphabet lerfu words, see <xref linkend="section-lerfu-liste"/> (for Relojban) and <xref linkend="section-alien-alphabets"/> (for non-Relojban Latin-alphabet lerfu).
     </para>
   </section>
   <section xml:id="section-greek">
@@ -1783,7 +1783,7 @@
       There is a set of English words which are used, by international agreement, as lerfu words (for the English alphabet) over the radio, or in noisy situations where the utmost clarity is required. Formally they are known as the <quote>ICAO Phonetic Alphabet</quote>, and are used even in non-English-speaking countries.
     </para>
     <para>
-      This table presents the standard English spellings and proposed Lojban versions. The Lojbanizations are not straightforward renderings of the English sounds, but make some concessions both to the English spellings of the words and to the Lojban pronunciations of the lerfu (thus <jbophrase>.carlis. bu</jbophrase>, not <jbophrase>.tcarlis. bu</jbophrase>).
+      This table presents the standard English spellings and proposed Relojban versions. The Lojbanizations are not straightforward renderings of the English sounds, but make some concessions both to the English spellings of the words and to the Relojban pronunciations of the lerfu (thus <jbophrase>.carlis. bu</jbophrase>, not <jbophrase>.tcarlis. bu</jbophrase>).
     </para>
     <para role="twocolumn"/>
     <para role="allowbreaks"/>

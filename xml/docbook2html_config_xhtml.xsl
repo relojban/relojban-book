@@ -95,7 +95,7 @@
                 </xsl:call-template>
                 <!-- Produces ": " or so -->
                 <xsl:value-of select="$xref.label-title.separator"/>
-                <!-- Produces like "Section 2.5" or "Lojban Word Glossary -->
+                <!-- Produces like "Chapter 2" or "General Index" -->
                 <xsl:apply-templates select="$prev" mode="object.xref.markup"/>
               </a>
             </xsl:if>
@@ -114,7 +114,7 @@
                 </xsl:call-template>
                 <!-- Produces ": " or so -->
                 <xsl:value-of select="$xref.label-title.separator"/>
-                <!-- Produces like "Section 2.5" or "Lojban Word Glossary -->
+                <!-- Produces like "Chapter 2" or "General Index" -->
                 <xsl:apply-templates select="$next" mode="object.xref.markup"/>
               </a>
             </xsl:if>

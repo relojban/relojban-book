@@ -11,7 +11,7 @@
     <title>A Catalogue Of selma'o</title>
     <para>
       <indexterm type="general"><primary>selma'o</primary><secondary>cross-reference list of</secondary><tertiary>selma'o catalog</tertiary></indexterm>
-      The following paragraphs list all the selma'o of Lojban, with a brief explanation of what each one is about, and reference to the chapter number where each is explained more fully. As usual, all selma'o names are given in capital letters (with <quote>h</quote> serving as the capital of <quote>'</quote>) and are the names of a representative cmavo, often the most important or the first in alphabetical order. One example is given of each selma'o: for selma'o which have several uses, the most common use is shown.
+      The following paragraphs list all the selma'o of Relojban, with a brief explanation of what each one is about, and reference to the chapter number where each is explained more fully. As usual, all selma'o names are given in capital letters (with <quote>h</quote> serving as the capital of <quote>'</quote>) and are the names of a representative cmavo, often the most important or the first in alphabetical order. One example is given of each selma'o: for selma'o which have several uses, the most common use is shown.
     </para>
     <bridgehead>
       <anchor xml:id="A" xreflabel="A"/> selma'o A (<xref linkend="section-sumti-connection"/>)
@@ -33,8 +33,8 @@
       May be prefixed to a sumti to specify an additional place, not otherwise present in the place structure of the selbri, and derived from a single place of some other selbri.
     </para>
     <interlinear-gloss>
-      <jbo>mi tavla bau la--.lojban.</jbo>
-      <gloss>I speak in-language Lojban.</gloss>
+      <jbo>mi tavla bau la--.relojban.</jbo>
+      <gloss>I speak in-language Relojban.</gloss>
     </interlinear-gloss>
     <bridgehead>
       <anchor xml:id="BAhE" xreflabel="BAhE"/> selma'o BAhE (<xref linkend="section-bahe"/>)
@@ -137,7 +137,7 @@
       <anchor xml:id="BY" xreflabel="BY"/> selma'o BY (<xref linkend="section-lerfu-liste"/>)
     </bridgehead>
     <para>
-      Words representing the letters of the Lojban alphabet, plus various shift words which alter the interpretation of other letter words. Terminated by BOI.
+      Words representing the letters of the Relojban alphabet, plus various shift words which alter the interpretation of other letter words. Terminated by BOI.
     </para>
     <interlinear-gloss>
       <jbo>.abu tavla by -- le -- la--.ibymym. skami</jbo>
@@ -651,9 +651,9 @@
       Indicates the end of a quotation begun with <xref linkend="LOhU"/>. Not an elidable terminator.
     </para>
     <interlinear-gloss>
-      <jbo>lo'u mi--du--do--du--mi le'u cu na lojbo drani</jbo>
-      <gloss>[quote] mi--du--do--du--mi [unquote] -- is-not Lojbanically correct.</gloss>
-      <natlang>“mi du do du mi” is not correct Lojban.</natlang>
+      <jbo>lo'u mi--du--do--du--mi le'u cu na reljbo drani</jbo>
+      <gloss>[quote] mi--du--do--du--mi [unquote] -- is-not Relojbanically correct.</gloss>
+      <natlang>“mi du do du mi” is not correct Relojban.</natlang>
     </interlinear-gloss>
     <bridgehead>
       <anchor xml:id="LI" xreflabel="LI"/> selma'o LI (<xref linkend="section-simple-infix"/>)
@@ -691,7 +691,7 @@
       <anchor xml:id="LOhU" xreflabel="LOhU"/> selma'o LOhU (<xref linkend="section-quotations"/>)
     </bridgehead>
     <para>
-      Indicates the beginning of a quotation (a sumti) which is grammatical as long as the quoted material consists of Lojban words, whether they form a text or not. Terminated by <xref linkend="LEhU"/>.
+      Indicates the beginning of a quotation (a sumti) which is grammatical as long as the quoted material consists of Relojban words, whether they form a text or not. Terminated by <xref linkend="LEhU"/>.
     </para>
     <interlinear-gloss>
       <jbo>do cusku lo'u mi--du--do--du--ko'a le'u</jbo>
@@ -702,7 +702,7 @@
       <anchor xml:id="LU" xreflabel="LU"/> selma'o LU (<xref linkend="section-quotations"/>)
     </bridgehead>
     <para>
-      Indicates the beginning of a quotation (a sumti) which is grammatical only if the quoted material also forms a grammatical Lojban text. Terminated by <xref linkend="LIhU"/>.
+      Indicates the beginning of a quotation (a sumti) which is grammatical only if the quoted material also forms a grammatical Relojban text. Terminated by <xref linkend="LIhU"/>.
     </para>
     <interlinear-gloss>
       <jbo>mi cusku lu mi klama le zarci li'u</jbo>
@@ -763,7 +763,7 @@
       <natlang>That's a me type of house.</natlang>
     </interlinear-gloss>
     <bridgehead>
-      <anchor xml:id="MOI" xreflabel="MOI"/> selma'o MOI (<xref linkend="section-place-conversion"/>, <xref linkend="section-lojban-within-mekso"/>)
+      <anchor xml:id="MOI" xreflabel="MOI"/> selma'o MOI (<xref linkend="section-place-conversion"/>, <xref linkend="section-relojban-within-mekso"/>)
     </bridgehead>
     <para>
       Suffixes added to numbers or other quantifiers to make various numerically-based selbri.
@@ -774,7 +774,7 @@
       <natlang>John and Frank are two brothers.</natlang>
     </interlinear-gloss>
     <bridgehead>
-      <anchor xml:id="MOhE" xreflabel="MOhE"/> selma'o MOhE (<xref linkend="section-lojban-within-mekso"/>)
+      <anchor xml:id="MOhE" xreflabel="MOhE"/> selma'o MOhE (<xref linkend="section-relojban-within-mekso"/>)
     </bridgehead>
     <para>
       Produces a mathematical operand from a sumti; used to make dimensioned units. Terminated by <xref linkend="TEhU"/>.
@@ -830,7 +830,7 @@
       <natlang>That is a house which is other than blue.</natlang>
     </interlinear-gloss>
     <bridgehead>
-      <anchor xml:id="NAhU" xreflabel="NAhU"/> selma'o NAhU (<xref linkend="section-lojban-within-mekso"/>)
+      <anchor xml:id="NAhU" xreflabel="NAhU"/> selma'o NAhU (<xref linkend="section-relojban-within-mekso"/>)
     </bridgehead>
     <para>
       Creates a mathematical operator from a selbri. Terminated by <xref linkend="TEhU"/>. See <xref linkend="VUhU"/>.
@@ -845,7 +845,7 @@
       <natlang>tan(π/2) = ∞</natlang>
     </interlinear-gloss>
     <bridgehead>
-      <anchor xml:id="NIhE" xreflabel="NIhE"/> selma'o NIhE (<xref linkend="section-lojban-within-mekso"/>)
+      <anchor xml:id="NIhE" xreflabel="NIhE"/> selma'o NIhE (<xref linkend="section-relojban-within-mekso"/>)
     </bridgehead>
     <para>
       Creates a mathematical operand from a selbri, usually a “ni” abstraction. Terminated by <xref linkend="TEhU"/>.
@@ -1363,17 +1363,17 @@
       <anchor xml:id="ZO" xreflabel="ZO"/> selma'o ZO (<xref linkend="section-more-quotations"/>)
     </bridgehead>
     <para>
-      Single-word quotation: quotes the following single Lojban word.
+      Single-word quotation: quotes the following single Relojban word.
     </para>
     <interlinear-gloss>
-      <jbo>zo si cu lojbo valsi</jbo>
-      <gloss>The-word “si” -- is-a-Lojbanic word.</gloss>
+      <jbo>zo si cu reljbo valsi</jbo>
+      <gloss>The-word “si” -- is-a-Relojbanic word.</gloss>
     </interlinear-gloss>
     <bridgehead>
       <anchor xml:id="ZOI" xreflabel="ZOI"/> selma'o ZOI (<xref linkend="section-more-quotations"/>)
     </bridgehead>
     <para>
-      Non-Lojban quotation: quotes any text using a delimiting word (which can be any single Lojban word) placed before and after the text. The delimiting word must not appear in the text, and must be separated from the text by pauses.
+      Non-Relojban quotation: quotes any text using a delimiting word (which can be any single Relojban word) placed before and after the text. The delimiting word must not appear in the text, and must be separated from the text by pauses.
     </para>
     <interlinear-gloss>
       <jbo>zoi .kuuot. Socrates--is--mortal .kuuot. cu glico jufra</jbo>

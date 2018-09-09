@@ -10,7 +10,7 @@
   <section xml:id="section-mekso-introduction">
     <title>Introductory</title>
     <para>
-      lojbau mekso (<quote>Lojbanic mathematical-expression</quote>) is the part of the Lojban language that is tailored for expressing statements of a mathematical character, or for adding numerical information to non-mathematical statements. Its formal design goals include:
+      Mathematical expression (mekso) is the part of the Relojban language that is tailored for expressing statements of a mathematical character, or for adding numerical information to non-mathematical statements. Its formal design goals include:
     </para>
     <orderedlist>
       <listitem>
@@ -24,7 +24,7 @@
         <para>
           <indexterm type="general"><primary>mekso goal</primary><secondary>for common use</secondary></indexterm>
           <indexterm type="general"><primary>mekso goal</primary><secondary>expandable</secondary></indexterm>
-          providing a vocabulary of commonly used mathematical terms which can readily be expanded to include newly coined words using the full resources of Lojban;
+          providing a vocabulary of commonly used mathematical terms which can readily be expanded to include newly coined words using the full resources of Relojban;
         </para>
       </listitem>
       <listitem>
@@ -49,7 +49,7 @@
     </para>
     <para>
       <indexterm type="general"><primary>mekso goals</primary><secondary>and non-mathematical expression</secondary></indexterm>
-      Goal 2 requires the provision of several conversion mechanisms, so that the boundary between mekso and full Lojban can be crossed from either side at many points.
+      Goal 2 requires the provision of several conversion mechanisms, so that the boundary between mekso and full Relojban can be crossed from either side at many points.
     </para>
     <para>
       <indexterm type="general"><primary>mathematical notation</primary><secondary>international uniqueness of</secondary></indexterm>
@@ -63,7 +63,7 @@
     </example>
     <para role="noindent">
       <indexterm type="general"><primary>mathematical notation</primary><secondary>and omitted operators</secondary></indexterm>
-      contains omitted multiplication operators, but there are other possible interpretations for the strings <dbinlinemath>3 x</dbinlinemath> and <dbinlinemath>2 y</dbinlinemath> than as mathematical multiplication. Therefore, the Lojban verbal (spoken and written) form of <xref linkend="example-random-id-dGcT"/> must not omit the multiplication operators.
+      contains omitted multiplication operators, but there are other possible interpretations for the strings <dbinlinemath>3 x</dbinlinemath> and <dbinlinemath>2 y</dbinlinemath> than as mathematical multiplication. Therefore, the Relojban verbal (spoken and written) form of <xref linkend="example-random-id-dGcT"/> must not omit the multiplication operators.
     </para>
     <para>
       <indexterm type="general"><primary>mekso chapter</primary><secondary>completeness</secondary></indexterm>
@@ -72,7 +72,7 @@
     </para>
   </section>
   <section xml:id="section-mekso-numbers">
-    <title>Lojban numbers</title>
+    <title>Relojban numbers</title>
     <para>
       The following cmavo are discussed in this section:
     </para>
@@ -267,7 +267,7 @@
     </example>
     <para role="noindent">
       <indexterm type="general"><primary>decimal point</primary><secondary>effect of different notations</secondary></indexterm>
-      (In some cultures, a comma is used instead of a period in the symbolic version of <xref linkend="example-random-id-Ust4"/>; <valsi>pi</valsi> is still the Lojban representation for the decimal point.)
+      (In some cultures, a comma is used instead of a period in the symbolic version of <xref linkend="example-random-id-Ust4"/>; <valsi>pi</valsi> is still the Relojban representation for the decimal point.)
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-AeRL">
       <title>
@@ -284,7 +284,7 @@
       <indexterm type="general"><primary>reciprocal</primary><secondary>expression of mathematical</secondary></indexterm>
       <indexterm type="general"><primary>fractions</primary><secondary>numerator default</secondary></indexterm>
       <indexterm type="general"><primary>fractions</primary><secondary>expressing with numerical punctuation</secondary></indexterm>
-      <xref linkend="example-random-id-AeRL"/> is the name of the number two-sevenths; it is not the same as <quote>the result of 2 divided by 7</quote> in Lojban, although numerically these two are equal. If the denominator of the fraction is present but the numerator is not, the numerator is taken to be 1, thus expressing the reciprocal of the following number:
+      <xref linkend="example-random-id-AeRL"/> is the name of the number two-sevenths; it is not the same as <quote>the result of 2 divided by 7</quote> in Relojban, although numerically these two are equal. If the denominator of the fraction is present but the numerator is not, the numerator is taken to be 1, thus expressing the reciprocal of the following number:
     </para>
     <example xml:id="example-random-id-qhvj" role="interlinear-gloss-example">
       <title>
@@ -332,7 +332,7 @@
       <indexterm type="general"><primary>commas in numbers</primary><secondary>effect of other notation conventions</secondary></indexterm>
       <indexterm type="general"><primary>commas in numbers</primary><secondary>as numerical punctuation</secondary></indexterm>
       <indexterm type="general"><primary>percent</primary><secondary>as numerical punctuation</secondary></indexterm>
-      (In some cultures, spaces are used in the symbolic representation of <xref linkend="example-random-id-qhwM"/>; <valsi>ki'o</valsi> is still the Lojban representation.)
+      (In some cultures, spaces are used in the symbolic representation of <xref linkend="example-random-id-qhwM"/>; <valsi>ki'o</valsi> is still the Relojban representation.)
     </para>
     <para>
       <indexterm type="general"><primary>commas in numbers</primary><secondary>with elided digits</secondary></indexterm>
@@ -484,7 +484,7 @@
     <para role="indent">
       <indexterm type="general"><primary>subtraction operator</primary><secondary>contrasted with negative sign</secondary></indexterm>
       <indexterm type="general"><primary>negative sign</primary><secondary>contrasted with subtraction operator</secondary></indexterm>
-      <xref linkend="example-random-id-qHya"/> is not <quote>1 minus 2</quote>, which is represented by a different cmavo sequence altogether. It is a single number which has not been assigned a meaning. There are many such numbers which have no well-defined meaning; they may be used for experimental purposes or for future expansion of the Lojban number system.
+      <xref linkend="example-random-id-qHya"/> is not <quote>1 minus 2</quote>, which is represented by a different cmavo sequence altogether. It is a single number which has not been assigned a meaning. There are many such numbers which have no well-defined meaning; they may be used for experimental purposes or for future expansion of the Relojban number system.
     </para>
     <para>
       It is possible, of course, that some of these <quote>oddities</quote> do have a meaningful use in some restricted area of mathematics. A mathematician appropriating these structures for specialized use needs to consider whether some other branch of mathematics would use the structure differently.
@@ -542,7 +542,7 @@
     </cmavo-list>
     <para role="indent">
       <indexterm type="general"><primary>mathematical notation</primary><secondary>infix</secondary></indexterm>
-      Let us begin at the beginning: one plus one equals two. In Lojban, that sentence translates to:
+      Let us begin at the beginning: one plus one equals two. In Relojban, that sentence translates to:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-CUeK">
       <title>
@@ -557,7 +557,7 @@
     <para role="indent">
       <indexterm type="general"><primary>du</primary><secondary>grammar of</secondary></indexterm>
       <indexterm type="general"><primary>mathematical equality</primary><secondary>expressing</secondary></indexterm>
-      <xref linkend="example-random-id-CUeK"/>, a mekso sentence, is a regular Lojban bridi that exploits mekso features. <valsi>du</valsi> is the predicate meaning <quote>x1 is mathematically equal to x2</quote>. It is a cmavo for conciseness, but it has the same grammatical uses as any brivla. Outside mathematical contexts, <valsi>du</valsi> means <quote>x1 is identical with x2</quote> or <quote>x1 is the same object as x2</quote>.
+      <xref linkend="example-random-id-CUeK"/>, a mekso sentence, is a regular Relojban bridi that exploits mekso features. <valsi>du</valsi> is the predicate meaning <quote>x1 is mathematically equal to x2</quote>. It is a cmavo for conciseness, but it has the same grammatical uses as any brivla. Outside mathematical contexts, <valsi>du</valsi> means <quote>x1 is identical with x2</quote> or <quote>x1 is the same object as x2</quote>.
     </para>
     <para>
       <indexterm type="general"><primary>numbers</primary><secondary>using for quantification contrasted with talking about</secondary></indexterm>
@@ -591,7 +591,7 @@
     <para role="noindent">
       <indexterm type="general"><primary>units of measurement</primary><secondary>expressing</secondary></indexterm>
       <indexterm type="general"><primary>measurements</primary><secondary>expressing</secondary></indexterm>
-      requires <valsi>li</valsi> because <valsi>ci</valsi> is being used as a sumti. Note that this is the way in which measurements are stated in Lojban: all the predicates for units of length, mass, temperature, and so on have the measured object as the first place and a number as the second place. Using <valsi>li</valsi> for <valsi>le</valsi> in <xref linkend="example-random-id-nSU9"/> would produce
+      requires <valsi>li</valsi> because <valsi>ci</valsi> is being used as a sumti. Note that this is the way in which measurements are stated in Relojban: all the predicates for units of length, mass, temperature, and so on have the measured object as the first place and a number as the second place. Using <valsi>li</valsi> for <valsi>le</valsi> in <xref linkend="example-random-id-nSU9"/> would produce
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-gJe1">
       <title>
@@ -650,10 +650,10 @@
     </para>
     <para>
       <indexterm type="general"><primary>precedence</primary><secondary>mathematical default</secondary></indexterm>
-      <indexterm type="general"><primary>operator left-right grouping</primary><secondary>as Lojban default</secondary></indexterm>
-      <indexterm type="general"><primary>operator precedence</primary><secondary>in Lojban default</secondary></indexterm>
-      <indexterm type="general"><primary>calculator mathematics</primary><secondary>as default in Lojban</secondary></indexterm>
-      By default, Lojban mathematics is like simple calculator mathematics: there is no notion of <quote>operator precedence</quote>. Consider the following example, where <valsi>pi'i</valsi> means <quote>times</quote>, the multiplication operator:
+      <indexterm type="general"><primary>operator left-right grouping</primary><secondary>as Relojban default</secondary></indexterm>
+      <indexterm type="general"><primary>operator precedence</primary><secondary>in Relojban default</secondary></indexterm>
+      <indexterm type="general"><primary>calculator mathematics</primary><secondary>as default in Relojban</secondary></indexterm>
+      By default, Relojban mathematics is like simple calculator mathematics: there is no notion of <quote>operator precedence</quote>. Consider the following example, where <valsi>pi'i</valsi> means <quote>times</quote>, the multiplication operator:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-7a2Q">
       <title>
@@ -665,7 +665,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      Is the Lojban version of <xref linkend="example-random-id-7a2Q"/> true? No! <quote>3 + 4 × 5</quote> is indeed 23, because the usual conventions of mathematics state that multiplication takes precedence over addition; that is, the multiplication <quote>4 × 5</quote> is done first, giving 20, and only then the addition <quote>3 + 20</quote>. But VUhU operators by default are done left to right, like other Lojban grouping, and so a truthful bridi would be:
+      Is the Relojban version of <xref linkend="example-random-id-7a2Q"/> true? No! <quote>3 + 4 × 5</quote> is indeed 23, because the usual conventions of mathematics state that multiplication takes precedence over addition; that is, the multiplication <quote>4 × 5</quote> is done first, giving 20, and only then the addition <quote>3 + 20</quote>. But VUhU operators by default are done left to right, like other Relojban grouping, and so a truthful bridi would be:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-XUQh">
       <title>
@@ -684,12 +684,12 @@
       <indexterm type="general"><primary>operator precedence</primary><secondary>effect of pragmatic convention</secondary></indexterm>
       <indexterm type="general"><primary>operator precedence</primary><secondary>and mathematical notation</secondary></indexterm>
       <indexterm type="general"><primary>mathematical notation</primary><secondary>and operator precedence</secondary></indexterm>
-      There are three solutions, all of which will probably be used to some degree. The first solution is to ignore the problem. People will say <jbophrase>li ci su'i vo pi'i mu</jbophrase> and mean 23 by it, because the notion that multiplication takes precedence over addition is too deeply ingrained to be eradicated by Lojban parsing, which totally ignores semantics. This convention essentially allows semantics to dominate syntax in this one area.
+      There are three solutions, all of which will probably be used to some degree. The first solution is to ignore the problem. People will say <jbophrase>li ci su'i vo pi'i mu</jbophrase> and mean 23 by it, because the notion that multiplication takes precedence over addition is too deeply ingrained to be eradicated by Relojban parsing, which totally ignores semantics. This convention essentially allows semantics to dominate syntax in this one area.
     </para>
     <para>
       <indexterm type="general"><primary>operator precedence in other languages</primary></indexterm>
       <indexterm type="general"><primary>operator precedence</primary><secondary>rationale for default left-grouping</secondary></indexterm>
-      (Why not hard-wire the precedences into the grammar, as is done in computer programming languages? Essentially because there are too many operators, known and unknown, with levels of precedence that vary according to usage. The programming language 'C' has 13 levels of precedence, and its list of operators is not even extensible. For Lojban this approach is just not practical. In addition, hard-wired precedence could not be overridden in mathematical systems such as spreadsheets where the conventions are different.)
+      (Why not hard-wire the precedences into the grammar, as is done in computer programming languages? Essentially because there are too many operators, known and unknown, with levels of precedence that vary according to usage. The programming language 'C' has 13 levels of precedence, and its list of operators is not even extensible. For Relojban this approach is just not practical. In addition, hard-wired precedence could not be overridden in mathematical systems such as spreadsheets where the conventions are different.)
     </para>
     <para>
       <indexterm type="general"><primary>operator precedence</primary><secondary>generalized explicit specification</secondary></indexterm>
@@ -710,12 +710,12 @@
       </interlinear-gloss>
     </example>
     <para role="noindent">
-      is a truthful Lojban bridi. If more than one operator has a <valsi>bi'e</valsi> prefix, grouping is from the right; multiple <valsi>bi'e</valsi> prefixes on a single operator are not allowed.
+      is a truthful Relojban bridi. If more than one operator has a <valsi>bi'e</valsi> prefix, grouping is from the right; multiple <valsi>bi'e</valsi> prefixes on a single operator are not allowed.
     </para>
     <para>
       <indexterm type="general"><primary>parenthesis</primary><secondary>mathematical</secondary></indexterm>
       <indexterm type="general"><primary>operator precedence</primary><secondary>specifying by parenthesis</secondary></indexterm>
-      In addition, of course, Lojban has the mathematical parentheses <valsi>vei</valsi> and <valsi>ve'o</valsi>, which can be used just like their written equivalents <quote>(</quote> and <quote>)</quote> to group expressions in any way desired:
+      In addition, of course, Relojban has the mathematical parentheses <valsi>vei</valsi> and <valsi>ve'o</valsi>, which can be used just like their written equivalents <quote>(</quote> and <quote>)</quote> to group expressions in any way desired:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-wfFV">
       <title>
@@ -741,7 +741,7 @@
       There are several new usages in <xref linkend="example-random-id-wfFV"/>: <valsi>te'a</valsi> means <quote>raised to the power</quote>, and we also see the use of the lerfu word <valsi>ny</valsi>, representing the letter <quote>n</quote>. In mekso, letters stand for just what they do in ordinary mathematics: variables. The parser will accept a string of lerfu words (called a <quote>lerfu string</quote>) as the equivalent of a single lerfu word, in agreement with computer-science conventions; <quote>abc</quote> is a single variable, not the equivalent of <quote>a × b × c</quote>. (Of course, a local convention could state that the value of a variable like <quote>abc</quote>, with a multi-lerfu name, was equal to the values of the variables <quote>a</quote>, <quote>b</quote>, and <quote>c</quote> multiplied together.)
     </para>
     <para>
-      The explicit operator <valsi>pi'i</valsi> is required in the Lojban verbal form whereas multiplication is implicit in the symbolic form. Note that <valsi>ve'o</valsi> (the right parenthesis) is an elidable terminator: the first use of it in <xref linkend="example-random-id-wfFV"/> is required, but the second use (marked by square brackets) could be elided. Additionally, the first <valsi>bi'e</valsi> (also marked by square brackets) is not necessary to get the proper grouping, but it is included here for symmetry with the other one.
+      The explicit operator <valsi>pi'i</valsi> is required in the Relojban verbal form whereas multiplication is implicit in the symbolic form. Note that <valsi>ve'o</valsi> (the right parenthesis) is an elidable terminator: the first use of it in <xref linkend="example-random-id-wfFV"/> is required, but the second use (marked by square brackets) could be elided. Additionally, the first <valsi>bi'e</valsi> (also marked by square brackets) is not necessary to get the proper grouping, but it is included here for symmetry with the other one.
     </para>
   </section>
   <section xml:id="section-forethought">
@@ -815,7 +815,7 @@
       Note that the normally elidable number terminator <valsi>boi</valsi> is required after <valsi>pa</valsi> and <valsi>re</valsi> because otherwise the reading would be <jbophrase>pareci</jbophrase>= 123. It is not required after <valsi>ci</valsi> but is inserted here in brackets for the sake of symmetry. The only time <valsi>boi</valsi> is required is, as in <xref linkend="example-random-id-I0Bm"/>, when there are two consecutive numbers or lerfu strings.
     </para>
     <para>
-      Forethought mekso can use any number of operands, in <xref linkend="example-random-id-I0Bm"/>, three. How do we know how many operands there are? The usual Lojban solution is employed: an elidable terminator, namely <valsi>ku'e</valsi>. Here is an example:
+      Forethought mekso can use any number of operands, in <xref linkend="example-random-id-I0Bm"/>, three. How do we know how many operands there are? The usual Relojban solution is employed: an elidable terminator, namely <valsi>ku'e</valsi>. Here is an example:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-IxMG">
       <title>
@@ -852,7 +852,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      Again, no parentheses are used. The construct <jbophrase>ma'o fy.boi</jbophrase> is the equivalent of an operator, and appears in forethought here (although it could also be used as a regular infix operator). In mathematics, letters sometimes mean functions and sometimes mean variables, with only the context to tell which. Lojban chooses to accept the variable interpretation as the default, and uses the special flag <valsi>ma'o</valsi> to mark a lerfu string as an operator. The cmavo <valsi>xy.</valsi> and <valsi>zy.</valsi> are variables, but <valsi>fy.</valsi> is an operator (a function) because <valsi>ma'o</valsi> marks it as such. The <valsi>boi</valsi> is required because otherwise the <valsi>xy.</valsi> would look like part of the operator name. (The use of <valsi>ma'o</valsi> can be generalized from lerfu strings to any mekso operand: see <xref linkend="section-miscellany"/>.)
+      Again, no parentheses are used. The construct <jbophrase>ma'o fy.boi</jbophrase> is the equivalent of an operator, and appears in forethought here (although it could also be used as a regular infix operator). In mathematics, letters sometimes mean functions and sometimes mean variables, with only the context to tell which. Relojban chooses to accept the variable interpretation as the default, and uses the special flag <valsi>ma'o</valsi> to mark a lerfu string as an operator. The cmavo <valsi>xy.</valsi> and <valsi>zy.</valsi> are variables, but <valsi>fy.</valsi> is an operator (a function) because <valsi>ma'o</valsi> marks it as such. The <valsi>boi</valsi> is required because otherwise the <valsi>xy.</valsi> would look like part of the operator name. (The use of <valsi>ma'o</valsi> can be generalized from lerfu strings to any mekso operand: see <xref linkend="section-miscellany"/>.)
     </para>
     <para>
       When using forethought mekso, the optional marker <valsi>pe'o</valsi> may be placed in front of the operator. This usage can help avoid confusion by providing clearly marked <valsi>pe'o</valsi> and <valsi>ku'e</valsi> pairs to delimit the operand list. <!-- multiple examples --><xref linkend="example-random-id-I0Bm"/> to <xref linkend="example-random-id-VybU"/>, respectively, with explicit <valsi>pe'o</valsi> and <valsi>ku'e</valsi>:
@@ -879,7 +879,7 @@
   <section xml:id="section-useful-selbri">
     <title>Other useful selbri for mekso bridi</title>
     <para>
-      So far our examples have been isolated mekso (it is legal to have a bare mekso as a sentence in Lojban) and equation bridi involving <valsi>du</valsi>. What about inequalities such as <quote>x &lt; 5</quote>? The answer is to use a bridi with an appropriate selbri, thus:
+      So far our examples have been isolated mekso (it is legal to have a bare mekso as a sentence in Relojban) and equation bridi involving <valsi>du</valsi>. What about inequalities such as <quote>x &lt; 5</quote>? The answer is to use a bridi with an appropriate selbri, thus:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-s4TW">
       <title>
@@ -923,7 +923,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      Lojban bridi can have only one predicate, so the <valsi>du</valsi> is not repeated.
+      Relojban bridi can have only one predicate, so the <valsi>du</valsi> is not repeated.
     </para>
     <para>
       Any of these selbri may usefully be prefixed with <valsi>na</valsi>, the contradictory negation cmavo, to indicate that the relation is false:
@@ -938,7 +938,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      As usual in Lojban, negated bridi say what is false, and do not say anything about what might be true.
+      As usual in Relojban, negated bridi say what is false, and do not say anything about what might be true.
     </para>
   </section>
   <section xml:id="section-indefinite-numbers">
@@ -1417,13 +1417,13 @@
       </interlinear-gloss>
     </example>
     <para role="noindent">
-      <indexterm type="general"><primary>plural</primary><secondary>Lojban equivalent of</secondary></indexterm>
+      <indexterm type="general"><primary>plural</primary><secondary>Relojban equivalent of</secondary></indexterm>
       <indexterm type="general"><primary>exact number</primary><secondary>expressing</secondary></indexterm>
       <indexterm type="general"><primary>at most</primary><secondary>contrasted with more than</secondary><tertiary>at least, less than</tertiary></indexterm>
       <indexterm type="general"><primary>at least</primary><secondary>contrasted with more than</secondary><tertiary>less than, at most</tertiary></indexterm>
       <indexterm type="general"><primary>more than</primary><secondary>contrasted with less than</secondary><tertiary>at least, at most</tertiary></indexterm>
       <indexterm type="general"><primary>less than</primary><secondary>contrasted with more than</secondary><tertiary>at least, at most</tertiary></indexterm>
-      Each of these is a subtly different claim: <xref linkend="example-random-id-qiE3"/> is true of two or any greater number, whereas <xref linkend="example-random-id-qIfM"/> requires three persons or more. Likewise, <xref linkend="example-random-id-qidi"/> refers to zero, one, or two; <xref linkend="example-random-id-qIe7"/> to zero or one. (Of course, when the context allows numbers other than non-negative integers, <jbophrase>me'i re</jbophrase> can be any number less than 2, and likewise with the other cases.) The exact quantifier, <quote>exactly 2, neither more nor less</quote> is just <valsi>re</valsi>. Note that <jbophrase>su'ore</jbophrase> is the exact Lojban equivalent of English plurals.
+      Each of these is a subtly different claim: <xref linkend="example-random-id-qiE3"/> is true of two or any greater number, whereas <xref linkend="example-random-id-qIfM"/> requires three persons or more. Likewise, <xref linkend="example-random-id-qidi"/> refers to zero, one, or two; <xref linkend="example-random-id-qIe7"/> to zero or one. (Of course, when the context allows numbers other than non-negative integers, <jbophrase>me'i re</jbophrase> can be any number less than 2, and likewise with the other cases.) The exact quantifier, <quote>exactly 2, neither more nor less</quote> is just <valsi>re</valsi>. Note that <jbophrase>su'ore</jbophrase> is the exact Relojban equivalent of English plurals.
     </para>
     <para>
       <indexterm type="general"><primary>za'u</primary><secondary>with elided number</secondary></indexterm>
@@ -1445,7 +1445,7 @@
     </para>
     <para>
       <indexterm type="general"><primary>inexact portions with bounds</primary></indexterm>
-      Like the numbers in <xref linkend="section-indefinite-numbers"/>, all of these cmavo may be preceded by <valsi>pi</valsi> to make the corresponding quantifiers for part of a whole. For example, <valsi>pisu'o</valsi> means <quote>at least some part of</quote>. The quantifiers <valsi>ro</valsi>, <valsi>su'o</valsi>, <valsi>piro</valsi>, and <valsi>pisu'o</valsi> are particularly important in Lojban, as they are implicitly used in the descriptions introduced by the cmavo of selma'o LA and LE, as explained in <xref linkend="section-quantified-descriptions"/>. Descriptions in general are outside the scope of this chapter.
+      Like the numbers in <xref linkend="section-indefinite-numbers"/>, all of these cmavo may be preceded by <valsi>pi</valsi> to make the corresponding quantifiers for part of a whole. For example, <valsi>pisu'o</valsi> means <quote>at least some part of</quote>. The quantifiers <valsi>ro</valsi>, <valsi>su'o</valsi>, <valsi>piro</valsi>, and <valsi>pisu'o</valsi> are particularly important in Relojban, as they are implicitly used in the descriptions introduced by the cmavo of selma'o LA and LE, as explained in <xref linkend="section-quantified-descriptions"/>. Descriptions in general are outside the scope of this chapter.
     </para>
   </section>
   <section xml:id="section-radixen">
@@ -1497,7 +1497,7 @@
     </cmavo-list>
     <para role="indent">
       <indexterm type="general"><primary>radix</primary><secondary>decimal (see also base)</secondary></indexterm>
-      In normal contexts, Lojban assumes that all numbers are expressed in the decimal (base 10) system. However, other bases are possible, and may be appropriate in particular circumstances.
+      In normal contexts, Relojban assumes that all numbers are expressed in the decimal (base 10) system. However, other bases are possible, and may be appropriate in particular circumstances.
     </para>
     <para>
       <indexterm type="general"><primary>octal system</primary><secondary>specifying numbers in (see also base)</secondary></indexterm>
@@ -1521,7 +1521,7 @@
     <para>
       <indexterm type="general"><primary>hexadecimal system</primary><secondary>specifying numbers in (see also base)</secondary></indexterm>
       <indexterm type="general"><primary>digits</primary><secondary>rationale for having 16</secondary></indexterm>
-      Lojban has digits for representing bases up to 16, because 16 is a base often used in computer applications. In English, it is customary to use the letters A-F as the base 16 digits equivalent to the numbers ten through fifteen. In Lojban, this ambiguity is avoided:
+      Relojban has digits for representing bases up to 16, because 16 is a base often used in computer applications. In English, it is customary to use the letters A-F as the base 16 digits equivalent to the numbers ten through fifteen. In Relojban, this ambiguity is avoided:
     </para>
     <example xml:id="example-random-id-qIgb" role="interlinear-gloss-example">
       <title>
@@ -1712,7 +1712,7 @@
     </cmavo-list>
     <para role="indent">
       <indexterm type="general"><primary>numerical selbri</primary><secondary>special</secondary></indexterm>
-      Lojban possesses a special category of selbri which are based on mekso. The simplest kind of such selbri are made by suffixing a member of selma'o MOI to a number. There are five members of MOI, each of which serves to create number-based selbri with specific place structures.
+      Relojban possesses a special category of selbri which are based on mekso. The simplest kind of such selbri are made by suffixing a member of selma'o MOI to a number. There are five members of MOI, each of which serves to create number-based selbri with specific place structures.
     </para>
     <para>
       <indexterm type="general"><primary>cardinal selbri</primary><secondary>definition</secondary></indexterm>
@@ -2036,7 +2036,7 @@
     <para role="indent">
       <indexterm type="general"><primary>number questions</primary></indexterm>
       <indexterm type="general"><primary>questions</primary><secondary>number</secondary></indexterm>
-      The cmavo <valsi>xo</valsi>, a member of selma'o PA, is used to ask questions whose answers are numbers. Like most Lojban question words, it fills the blank where the answer should go. (See <xref linkend="section-questions-and-answers"/> for more on Lojban questions.)
+      The cmavo <valsi>xo</valsi>, a member of selma'o PA, is used to ask questions whose answers are numbers. Like most Relojban question words, it fills the blank where the answer should go. (See <xref linkend="section-questions-and-answers"/> for more on Relojban questions.)
     </para>
     <example xml:id="example-random-id-qIiE" role="interlinear-gloss-example">
       <title>
@@ -2073,7 +2073,7 @@
     <para role="noindent">
       <indexterm type="general"><primary>number questions</primary><secondary>answers to</secondary></indexterm>
       <indexterm type="general"><primary>numbers</primary><secondary>as grammatically complete utterances</secondary></indexterm>
-      to which the correct reply would be <valsi>mu</valsi>, or 5. The ability to utter bare numbers as grammatical Lojban sentences is primarily intended for giving answers to <valsi>xo</valsi> questions. (Another use, obviously, is for counting off physical objects one by one.)
+      to which the correct reply would be <valsi>mu</valsi>, or 5. The ability to utter bare numbers as grammatical Relojban sentences is primarily intended for giving answers to <valsi>xo</valsi> questions. (Another use, obviously, is for counting off physical objects one by one.)
     </para>
   </section>
   <section xml:id="section-subscripts-math">
@@ -2090,7 +2090,7 @@
     </cmavo-list>
     <para role="indent">
       <indexterm type="general"><primary>subscripts</primary><secondary>external grammar of</secondary></indexterm>
-      Subscripting is a general Lojban feature, not used only in mekso; there are many things that can logically be subscripted, and grammatically a subscript is a free modifier, usable almost anywhere. In particular, of course, mekso variables (lerfu strings) can be subscripted:
+      Subscripting is a general Relojban feature, not used only in mekso; there are many things that can logically be subscripted, and grammatically a subscript is a free modifier, usable almost anywhere. In particular, of course, mekso variables (lerfu strings) can be subscripted:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-MT0a">
       <title>
@@ -2290,7 +2290,7 @@
     <para role="indent">
       <indexterm type="general"><primary>matrix</primary><secondary>definition</secondary></indexterm>
       <indexterm type="general"><primary>vector</primary><secondary>definition</secondary></indexterm>
-      A mathematical vector is a list of numbers, and a mathematical matrix is a table of numbers. Lojban considers matrices to be built up out of vectors, which are in turn built up out of operands.
+      A mathematical vector is a list of numbers, and a mathematical matrix is a table of numbers. Relojban considers matrices to be built up out of vectors, which are in turn built up out of operands.
     </para>
     <para>
       <indexterm type="general"><primary>vector indicator</primary><secondary>terminator for</secondary></indexterm>
@@ -2393,14 +2393,14 @@
     </cmavo-list>
     <para role="indent">
       <indexterm type="general"><primary>RP</primary><secondary>as abbreviation for reverse Polish notation</secondary></indexterm>
-      So far, the Lojban notational conventions have mapped fairly familiar kinds of mathematical discourse. The use of forethought operators may have seemed odd when applied to <quote>+</quote>, but when applied to <quote>f</quote> they appear as the usual functional notation. Now comes a sharp break. Reverse Polish (RP) notation represents something completely different; even mathematicians don't use it much. (The only common uses of RP, in fact, are in some kinds of calculators and in the implementation of some programming languages.)
+      So far, the Relojban notational conventions have mapped fairly familiar kinds of mathematical discourse. The use of forethought operators may have seemed odd when applied to <quote>+</quote>, but when applied to <quote>f</quote> they appear as the usual functional notation. Now comes a sharp break. Reverse Polish (RP) notation represents something completely different; even mathematicians don't use it much. (The only common uses of RP, in fact, are in some kinds of calculators and in the implementation of some programming languages.)
     </para>
     <para>
       <indexterm type="general"><primary>reverse Polish notation</primary><secondary>terminator</secondary></indexterm>
       <indexterm type="general"><primary>reverse Polish notation</primary><secondary>marker</secondary></indexterm>
       <indexterm type="general"><primary>reverse Polish notation</primary><secondary>use of parentheses in</secondary></indexterm>
       <indexterm type="general"><primary>reverse Polish notation</primary><secondary>definition</secondary></indexterm>
-      In RP notation, the operator follows the operands. (Polish notation, where the operator precedes its operands, is another name for forethought mekso of the kind explained in <xref linkend="section-forethought"/>.) The number of operands per operator is always fixed. No parentheses are required or permitted. In Lojban, RP notation is always explicitly marked by a <valsi>fu'a</valsi> at the beginning of the expression; there is no terminator. Here is a simple example:
+      In RP notation, the operator follows the operands. (Polish notation, where the operator precedes its operands, is another name for forethought mekso of the kind explained in <xref linkend="section-forethought"/>.) The number of operands per operator is always fixed. No parentheses are required or permitted. In Relojban, RP notation is always explicitly marked by a <valsi>fu'a</valsi> at the beginning of the expression; there is no terminator. Here is a simple example:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-V4xe">
       <title>
@@ -2440,7 +2440,7 @@
       <indexterm type="general"><primary>reverse Polish notation</primary><secondary>with too many operands</secondary></indexterm>
       <indexterm type="general"><primary>reverse Polish notation</primary><secondary>with too few operands</secondary></indexterm>
       <indexterm type="general"><primary>reverse Polish notation</primary><secondary>number of operands</secondary></indexterm>
-      In Lojban, RP operators are always parsed with exactly two operands. What about operators which require only one operand, or more than two operands? The null operand <valsi>tu'o</valsi> and the null operator <valsi>ge'a</valsi> provide a simple solution. A one-operand operator like <valsi>va'a</valsi> always appears in a reverse Polish context as <jbophrase>tu'o va'a</jbophrase>. The <valsi>tu'o</valsi> provides the second operand, which is semantically ignored but grammatically necessary. Likewise, the three-operand version of <valsi>gei</valsi> appears in reverse Polish as <jbophrase>ge'a gei</jbophrase>, where the <valsi>ge'a</valsi> effectively merges the 2nd and 3rd operands into a single operand. Here are some examples:
+      In Relojban, RP operators are always parsed with exactly two operands. What about operators which require only one operand, or more than two operands? The null operand <valsi>tu'o</valsi> and the null operator <valsi>ge'a</valsi> provide a simple solution. A one-operand operator like <valsi>va'a</valsi> always appears in a reverse Polish context as <jbophrase>tu'o va'a</jbophrase>. The <valsi>tu'o</valsi> provides the second operand, which is semantically ignored but grammatically necessary. Likewise, the three-operand version of <valsi>gei</valsi> appears in reverse Polish as <jbophrase>ge'a gei</jbophrase>, where the <valsi>ge'a</valsi> effectively merges the 2nd and 3rd operands into a single operand. Here are some examples:
     </para>
     <example xml:id="example-random-id-qiJp" role="interlinear-gloss-example">
       <title>
@@ -2512,7 +2512,7 @@
       <indexterm type="general"><primary>operator connection</primary><secondary>afterthought</secondary></indexterm>
       <indexterm type="general"><primary>operand connection</primary><secondary>forethought</secondary></indexterm>
       <indexterm type="general"><primary>operand connection</primary><secondary>afterthought</secondary></indexterm>
-      As befits a logical language, Lojban has extensive provision for logical connectives within both operators and operands. Full details on logical and non-logical connectives are provided in <xref linkend="chapter-connectives"/>. Operands are connected in afterthought with selma'o A and in forethought with selma'o GA, just like sumti. Operators are connected in afterthought with selma'o JA and in forethought with selma'o GUhA, just like tanru components. This parallelism is no accident.
+      As befits a logical language, Relojban has extensive provision for logical connectives within both operators and operands. Full details on logical and non-logical connectives are provided in <xref linkend="chapter-connectives"/>. Operands are connected in afterthought with selma'o A and in forethought with selma'o GA, just like sumti. Operators are connected in afterthought with selma'o JA and in forethought with selma'o GUhA, just like tanru components. This parallelism is no accident.
     </para>
     <para>
       <indexterm type="lojban-word"><primary>BO selma'o</primary></indexterm>
@@ -2546,7 +2546,7 @@
     <para role="indent">
       <indexterm type="general"><primary>parentheses</primary><secondary>for complex mekso used as quantifier</secondary></indexterm>
       <indexterm type="general"><primary>mekso</primary><secondary>complex used as quantifier</secondary></indexterm>
-      Note that the mekso here are being used as quantifiers. Lojban requires that any mekso other than a simple number be enclosed in parentheses when used as a quantifier. This rule prevents ambiguities that do not exist when using <valsi>li</valsi>.
+      Note that the mekso here are being used as quantifiers. Relojban requires that any mekso other than a simple number be enclosed in parentheses when used as a quantifier. This rule prevents ambiguities that do not exist when using <valsi>li</valsi>.
     </para>
     <para>
       <indexterm type="general"><primary>lo'o</primary><secondary>effect of logical connective on elidability of</secondary></indexterm>
@@ -2699,8 +2699,8 @@
       </interlinear-gloss>
     </example>
   </section>
-  <section xml:id="section-lojban-within-mekso">
-    <title>Using Lojban resources within mekso</title>
+  <section xml:id="section-relojban-within-mekso">
+    <title>Using Relojban resources within mekso</title>
     <para>
       The following cmavo are discussed in this section:
     </para>
@@ -2730,7 +2730,7 @@
       <indexterm type="general"><primary>mo'e</primary><secondary>terminator for</secondary></indexterm>
       <indexterm type="general"><primary>ni'e</primary><secondary>terminator for</secondary></indexterm>
       <indexterm type="general"><primary>na'u</primary><secondary>terminator for</secondary></indexterm>
-      One of the mekso design goals requires the ability to make use of Lojban's vocabulary resources within mekso to extend the built-in cmavo for operands and operators. There are three relevant constructs: all three share the elidable terminator <valsi>te'u</valsi> (which is also used to terminate vectors marked with <valsi>jo'i</valsi>)
+      One of the mekso design goals requires the ability to make use of Relojban's vocabulary resources within mekso to extend the built-in cmavo for operands and operators. There are three relevant constructs: all three share the elidable terminator <valsi>te'u</valsi> (which is also used to terminate vectors marked with <valsi>jo'i</valsi>)
     </para>
     <para>
       <indexterm type="general"><primary>operator derived from selbri</primary><secondary>effect of selbri place structure on</secondary></indexterm>
@@ -2809,7 +2809,7 @@
     </example>
     <para role="indent">
       <indexterm type="general"><primary>folk quantifiers</primary><secondary>expressing</secondary></indexterm>
-      Another use is in constructing Lojbanic versions of so-called <quote>folk quantifiers</quote>, such as <quote>a pride of lions</quote>:
+      Another use is in constructing Relojbanic versions of so-called <quote>folk quantifiers</quote>, such as <quote>a pride of lions</quote>:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-D4y4">
       <title>
@@ -2855,7 +2855,7 @@
       </cmavo-entry>
     </cmavo-list>
     <para role="indent">
-      So far we have seen mekso used as sumti (with <valsi>li</valsi>), as quantifiers (often parenthesized), and in MOI and ME-MOI selbri. There are a few other minor uses of mekso within Lojban.
+      So far we have seen mekso used as sumti (with <valsi>li</valsi>), as quantifiers (often parenthesized), and in MOI and ME-MOI selbri. There are a few other minor uses of mekso within Relojban.
     </para>
     <para>
       <indexterm type="general"><primary>mathematical expression</primary><secondary>referring to</secondary></indexterm>
@@ -3011,11 +3011,11 @@
       <indexterm type="general"><primary>mo'o</primary><secondary>contrasted with mai</secondary></indexterm>
       <indexterm type="general"><primary>mai</primary><secondary>contrasted with mo'o</secondary></indexterm>
       <indexterm type="general"><primary>text</primary><secondary>division numbering with -mai</secondary></indexterm>
-      The difference between <valsi>mai</valsi> and <valsi>mo'o</valsi> is that <valsi>mo'o</valsi> enumerates larger subdivisions of a text. Each <valsi>mo'o</valsi> subdivision can then be divided into pieces and internally numbered with <valsi>mai</valsi>. If this chapter were translated into Lojban, each section would be numbered with <valsi>mo'o</valsi>. (See <xref linkend="section-utterance-ordinals"/> for more on these words.)
+      The difference between <valsi>mai</valsi> and <valsi>mo'o</valsi> is that <valsi>mo'o</valsi> enumerates larger subdivisions of a text. Each <valsi>mo'o</valsi> subdivision can then be divided into pieces and internally numbered with <valsi>mai</valsi>. If this chapter were translated into Relojban, each section would be numbered with <valsi>mo'o</valsi>. (See <xref linkend="section-utterance-ordinals"/> for more on these words.)
     </para>
     <para>
       <indexterm type="general"><primary>tense</primary><secondary>numerical</secondary></indexterm>
-      A numerical tense can be created by suffixing a digit string with <valsi>roi</valsi>. This usage generates tenses corresponding to English <quote>once</quote>, <quote>twice</quote>, and so on. This topic belongs to a detailed discussion of Lojban tenses, and is explained further in <xref linkend="section-interval-properties"/>.
+      A numerical tense can be created by suffixing a digit string with <valsi>roi</valsi>. This usage generates tenses corresponding to English <quote>once</quote>, <quote>twice</quote>, and so on. This topic belongs to a detailed discussion of Relojban tenses, and is explained further in <xref linkend="section-interval-properties"/>.
     </para>
     <para>
       <indexterm type="general"><primary>numerical tenses</primary><secondary>effect on use of boi</secondary></indexterm>
@@ -3029,7 +3029,7 @@
   <section xml:id="section-explicit-operator-precedence">
     <title>Explicit operator precedence</title>
     <para>
-      As mentioned earlier, Lojban does provide a way for the precedences of operators to be explicitly declared, although current parsers do not understand these declarations.
+      As mentioned earlier, Relojban does provide a way for the precedences of operators to be explicitly declared, although current parsers do not understand these declarations.
     </para>
     <para>
       The declaration is made in the form of a metalinguistic comment using <valsi>ti'o</valsi>, a member of selma'o SEI. <valsi>sei</valsi>, the other member of SEI, is used to insert metalinguistic comments on a bridi which give information about the discourse which the bridi comprises. The format of a <valsi>ti'o</valsi> declaration has not been formally established, but presumably would take the form of mentioning a mekso operator and then giving it either an absolute numerical precedence on some pre-established scale, or else specifying relative precedences between new operators and existing operators.
@@ -3145,7 +3145,7 @@
       <indexterm type="general"><primary>conversion of operator into operand</primary></indexterm>
       <indexterm type="general"><primary>algebra of functions</primary><secondary>operator and operand distinction in</secondary></indexterm>
       <indexterm type="general"><primary>lambda calculus</primary><secondary>operator and operand distinction in</secondary></indexterm>
-      The grammar of mekso as described so far imposes a rigid distinction between operators and operands. Some flavors of mathematics (lambda calculus, algebra of functions) blur this distinction, and Lojban must have a method of doing the same. An operator can be changed into an operand with <jbophrase>ni'enu'a</jbophrase>, which transforms the operator into a matching selbri and then the selbri into an operand.
+      The grammar of mekso as described so far imposes a rigid distinction between operators and operands. Some flavors of mathematics (lambda calculus, algebra of functions) blur this distinction, and Relojban must have a method of doing the same. An operator can be changed into an operand with <jbophrase>ni'enu'a</jbophrase>, which transforms the operator into a matching selbri and then the selbri into an operand.
     </para>
     <para>
       <indexterm type="general"><primary>operator</primary><secondary>converting from operand</secondary></indexterm>
@@ -3221,7 +3221,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      Overall, <xref linkend="example-random-id-iwba"/> probably captures the flavor of the English best. <xref linkend="example-random-id-DzMH"/> and <xref linkend="example-random-id-HNyL"/> are too simple, and <xref linkend="example-random-id-2C3I"/> is too tricky. Nevertheless, all four examples are good Lojban. Pedagogically, these examples illustrate the richness of lojbau mekso: anything that can be said at all, can probably be said in more than one way.
+      Overall, <xref linkend="example-random-id-iwba"/> probably captures the flavor of the English best. <xref linkend="example-random-id-DzMH"/> and <xref linkend="example-random-id-HNyL"/> are too simple, and <xref linkend="example-random-id-2C3I"/> is too tricky. Nevertheless, all four examples are good Relojban. Pedagogically, these examples illustrate the richness of lojbau mekso: anything that can be said at all, can probably be said in more than one way.
     </para>
   </section>
   <section xml:id="section-selmaho-summary">

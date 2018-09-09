@@ -16,13 +16,13 @@
       <indexterm type="general"><primary>pronunciation</primary><secondary>relation to orthography</secondary></indexterm>
       <indexterm type="general"><primary>audio-visual isomorphism</primary></indexterm>
       <indexterm type="general"><primary>isomorphism</primary><secondary>audio-visual</secondary></indexterm>
-      Lojban is designed so that any properly spoken Lojban utterance can be uniquely transcribed in writing, and any properly written Lojban can be spoken so as to be uniquely reproduced by another person. As a consequence, the standard Lojban orthography must assign to each distinct sound, or phoneme, a unique letter or symbol. Each letter or symbol has only one sound or, more accurately, a limited range of sounds that are permitted pronunciations for that phoneme. Some symbols indicate stress (speech emphasis) and pause, which are also essential to Lojban word recognition. In addition, everything that is represented in other languages by punctuation (when written) or by tone of voice (when spoken) is represented in Lojban by words. These two properties together are known technically as <quote>audio-visual isomorphism</quote>.
+      Relojban is designed so that any properly spoken Relojban utterance can be uniquely transcribed in writing, and any properly written Relojban can be spoken so as to be uniquely reproduced by another person. As a consequence, the standard Relojban orthography must assign to each distinct sound, or phoneme, a unique letter or symbol. Each letter or symbol has only one sound or, more accurately, a limited range of sounds that are permitted pronunciations for that phoneme. Some symbols indicate stress (speech emphasis) and pause, which are also essential to Relojban word recognition. In addition, everything that is represented in other languages by punctuation (when written) or by tone of voice (when spoken) is represented in Relojban by words. These two properties together are known technically as <quote>audio-visual isomorphism</quote>.
     </para>
     <para>
-      <indexterm type="general"><primary>alphabet</primary><secondary>Lojban</secondary></indexterm>
-      <indexterm type="general"><primary>Lojban alphabet</primary></indexterm>
+      <indexterm type="general"><primary>alphabet</primary><secondary>Relojban</secondary></indexterm>
+      <indexterm type="general"><primary>Relojban alphabet</primary></indexterm>
       <indexterm type="general"><primary>Latin alphabet</primary></indexterm>
-      Lojban uses a variant of the Latin (Roman) alphabet, consisting of the following letters and symbols:
+      Relojban uses a variant of the Latin (Roman) alphabet, consisting of the following letters and symbols:
       <simplelist type="horiz" columns="13">
         <member>'</member>
         <member>,</member>
@@ -55,7 +55,7 @@
     </para>
     <para>
       <indexterm type="general"><primary>alphabetic order</primary></indexterm>
-      The alphabetic order given above is that of the ASCII coded character set, widely used in computers. By making Lojban alphabetical order the same as ASCII, computerized sorting and searching of Lojban text is facilitated.
+      The alphabetic order given above is that of the ASCII coded character set, widely used in computers. By making Relojban alphabetical order the same as ASCII, computerized sorting and searching of Relojban text is facilitated.
     </para>
     <para>
       <indexterm type="general"><primary>stress</primary><secondary>showing non-standard</secondary></indexterm>
@@ -63,7 +63,7 @@
       Capital letters are used only to represent non-standard stress, which can appear only in the representation of cmevla. Thus the English name <quote>Josephine</quote>, as normally pronounced, is Lojbanized as <cmevla>.DJOsefin.</cmevla>, pronounced <phrase role="IPA">[ʔ'dʒo.sɛ.finʔ]</phrase>. (See <xref linkend="section-basic-phonetics"/> for an explanation of the symbols within square brackets.) Technically, it is sufficient to capitalize the vowel letter, in this case <letteral>O</letteral>, but it is easier on the reader to capitalize the whole syllable.
     </para>
     <para>
-      Without the capitalization, the ordinary rules of Lojban stress would cause the <valsi>se</valsi> syllable to be stressed. Cmevla are meant to represent the pronunciation of names from other languages with as little distortion as may be; as such, they are exempt from many of the regular rules of Lojban phonology, as will appear in the rest of this chapter.
+      Without the capitalization, the ordinary rules of Relojban stress would cause the <valsi>se</valsi> syllable to be stressed. Cmevla are meant to represent the pronunciation of names from other languages with as little distortion as may be; as such, they are exempt from many of the regular rules of Relojban phonology, as will appear in the rest of this chapter.
     </para>
   </section>
   <section xml:id="section-basic-phonetics">
@@ -73,12 +73,12 @@
       <indexterm type="general"><primary>phonetic alphabet</primary></indexterm>
       <indexterm type="general"><primary>IPA</primary></indexterm>
       <indexterm type="general"><primary>International Phonetic Alphabet (see also IPA)</primary></indexterm>
-      Lojban pronunciations are defined using the International Phonetic Alphabet, or IPA, a standard method of transcribing pronunciations. By convention, IPA transcriptions are always within square brackets: for example, the word <quote>cat</quote> is pronounced (in General American pronunciation) <phrase role="IPA">[kæt]</phrase>. <xref linkend="section-anglophone-phonetics"/> contains a brief explanation of the IPA characters used in this chapter, with their nearest analogues in English, and will be especially useful to those not familiar with the technical terms used in describing speech sounds.
+      Relojban pronunciations are defined using the International Phonetic Alphabet, or IPA, a standard method of transcribing pronunciations. By convention, IPA transcriptions are always within square brackets: for example, the word <quote>cat</quote> is pronounced (in General American pronunciation) <phrase role="IPA">[kæt]</phrase>. <xref linkend="section-anglophone-phonetics"/> contains a brief explanation of the IPA characters used in this chapter, with their nearest analogues in English, and will be especially useful to those not familiar with the technical terms used in describing speech sounds.
     </para>
     <para>
       <indexterm type="general"><primary>standard pronunciation</primary></indexterm>
       <indexterm type="general"><primary>pronunciation</primary><secondary>standard</secondary></indexterm>
-      The standard pronunciations and permitted variants of the Lojban letters are listed in the table below. The descriptions have deliberately been made a bit ambiguous to cover variations in pronunciation by speakers of different native languages and dialects. In all cases except <letteral>r</letteral> the first IPA symbol shown represents the preferred pronunciation; for <letteral>r</letteral>, all of the variations (and any other rhotic sound) are equally acceptable.
+      The standard pronunciations and permitted variants of the Relojban letters are listed in the table below. The descriptions have deliberately been made a bit ambiguous to cover variations in pronunciation by speakers of different native languages and dialects. In all cases except <letteral>r</letteral> the first IPA symbol shown represents the preferred pronunciation; for <letteral>r</letteral>, all of the variations (and any other rhotic sound) are equally acceptable.
     </para>
     <informaltable class="vertsep">
       <thead>
@@ -249,30 +249,30 @@
     <para>
       <indexterm type="general"><primary>sounds</primary><secondary>clarity of</secondary></indexterm>
       <indexterm type="general"><primary>clarity of sounds</primary></indexterm>
-      <indexterm type="general"><primary>Lojban letters</primary><secondary>list with IPA pronunciation</secondary></indexterm>
-      <indexterm type="general"><primary>Lojban letters</primary><secondary>IPA for pronouncing</secondary></indexterm>
-      <indexterm type="general"><primary>pronunciation</primary><secondary>IPA for Lojban</secondary></indexterm>
-      The Lojban sounds must be clearly pronounced so that they are not mistaken for each other. Voicing and placement of the tongue are the key factors in correct pronunciation, but other subtle differences will develop between consonants in a Lojban-speaking community. At this point these are the only mandatory rules on the range of sounds.
+      <indexterm type="general"><primary>Relojban letters</primary><secondary>list with IPA pronunciation</secondary></indexterm>
+      <indexterm type="general"><primary>Relojban letters</primary><secondary>IPA for pronouncing</secondary></indexterm>
+      <indexterm type="general"><primary>pronunciation</primary><secondary>IPA for Relojban</secondary></indexterm>
+      The Relojban sounds must be clearly pronounced so that they are not mistaken for each other. Voicing and placement of the tongue are the key factors in correct pronunciation, but other subtle differences will develop between consonants in a Relojban-speaking community. At this point these are the only mandatory rules on the range of sounds.
     </para>
     <para>
       <indexterm type="general"><primary>rounded/unrounded vowels</primary></indexterm>
-      Note in particular that Lojban vowels can be pronounced with either rounded or unrounded lips; typically <letteral>o</letteral> and <letteral>u</letteral> are rounded and the others are not, as in English, but this is not a requirement; some people round <letteral>y</letteral> as well. Lojban consonants can be aspirated or unaspirated. Palatalizing of consonants, as found in Russian and other languages, is not generally acceptable in pronunciation, though a following <letteral>i</letteral> may cause it.
+      Note in particular that Relojban vowels can be pronounced with either rounded or unrounded lips; typically <letteral>o</letteral> and <letteral>u</letteral> are rounded and the others are not, as in English, but this is not a requirement; some people round <letteral>y</letteral> as well. Relojban consonants can be aspirated or unaspirated. Palatalizing of consonants, as found in Russian and other languages, is not generally acceptable in pronunciation, though a following <letteral>i</letteral> may cause it.
     </para>
     <para>
-      <indexterm type="general"><primary>sounds for letters</primary><secondary>Lojban contrasted with English</secondary></indexterm>
+      <indexterm type="general"><primary>sounds for letters</primary><secondary>Relojban contrasted with English</secondary></indexterm>
       <indexterm type="general"><primary>sounds</primary><secondary>difficult</secondary></indexterm>
-      The sounds represented by the letters <letteral>c</letteral>, <letteral>g</letteral>, <letteral>j</letteral>, <letteral>s</letteral>, and <letteral>x</letteral> require special attention for speakers of English, either because they are ambiguous in the orthography of English (<letteral>c</letteral>, <letteral>g</letteral>, <letteral>s</letteral>), or because they are strikingly different in Lojban (<letteral>c</letteral>, <letteral>j</letteral>, <letteral>x</letteral>). The English <quote>c</quote> represents three different sounds, <phrase role="IPA">[k]</phrase> in <quote>cat</quote> and <phrase role="IPA">[s]</phrase> in <quote>cent</quote>, as well as the <phrase role="IPA">[ʃ]</phrase> of <quote>ocean</quote>. Similarly, English <quote>g</quote> can represent <phrase role="IPA">[ɡ]</phrase> as in <quote>go</quote>, <phrase role="IPA">[dʒ]</phrase> as in <quote>gentle</quote>, and <phrase role="IPA">[ʒ]</phrase> as in the second "g" in <quote>garage</quote> (in some pronunciations). English <quote>s</quote> can be either <phrase role="IPA">[s]</phrase> as in <quote>cats</quote>, <phrase role="IPA">[z]</phrase> as in <quote>cards</quote>, <phrase role="IPA">[ʃ]</phrase> as in <quote>tension</quote>, or <phrase role="IPA">[ʒ]</phrase> as in <quote>measure</quote>. The sound of Lojban <letteral>x</letteral> doesn't appear in most English dialects at all.
+      The sounds represented by the letters <letteral>c</letteral>, <letteral>g</letteral>, <letteral>j</letteral>, <letteral>s</letteral>, and <letteral>x</letteral> require special attention for speakers of English, either because they are ambiguous in the orthography of English (<letteral>c</letteral>, <letteral>g</letteral>, <letteral>s</letteral>), or because they are strikingly different in Relojban (<letteral>c</letteral>, <letteral>j</letteral>, <letteral>x</letteral>). The English <quote>c</quote> represents three different sounds, <phrase role="IPA">[k]</phrase> in <quote>cat</quote> and <phrase role="IPA">[s]</phrase> in <quote>cent</quote>, as well as the <phrase role="IPA">[ʃ]</phrase> of <quote>ocean</quote>. Similarly, English <quote>g</quote> can represent <phrase role="IPA">[ɡ]</phrase> as in <quote>go</quote>, <phrase role="IPA">[dʒ]</phrase> as in <quote>gentle</quote>, and <phrase role="IPA">[ʒ]</phrase> as in the second "g" in <quote>garage</quote> (in some pronunciations). English <quote>s</quote> can be either <phrase role="IPA">[s]</phrase> as in <quote>cats</quote>, <phrase role="IPA">[z]</phrase> as in <quote>cards</quote>, <phrase role="IPA">[ʃ]</phrase> as in <quote>tension</quote>, or <phrase role="IPA">[ʒ]</phrase> as in <quote>measure</quote>. The sound of Relojban <letteral>x</letteral> doesn't appear in most English dialects at all.
     </para>
     <para>
-      <indexterm type="general"><primary>j-sound in English</primary><secondary>representation in Lojban</secondary></indexterm>
-      <indexterm type="general"><primary>ch-sound in English</primary><secondary>representation in Lojban</secondary></indexterm>
-      <indexterm type="general"><primary>ts-sound in Russian</primary><secondary>representation in Lojban</secondary></indexterm>
+      <indexterm type="general"><primary>j-sound in English</primary><secondary>representation in Relojban</secondary></indexterm>
+      <indexterm type="general"><primary>ch-sound in English</primary><secondary>representation in Relojban</secondary></indexterm>
+      <indexterm type="general"><primary>ts-sound in Russian</primary><secondary>representation in Relojban</secondary></indexterm>
       <indexterm type="general"><primary>sounds</primary><secondary>complex</secondary></indexterm>
-      There are two common English sounds that are found in Lojban but are not Lojban consonants: the <quote>ch</quote> of <quote>church</quote> and the <quote>j</quote> of <quote>judge</quote>. In Lojban, these are considered two consonant sounds spoken together without an intervening vowel sound, and so are represented in Lojban by the two separate consonants: <morphology>tc</morphology> (IPA <phrase role="IPA">[tʃ]</phrase>) and <morphology>dj</morphology> (IPA <phrase role="IPA">[dʒ]</phrase>). In general, whether a complex sound is considered one sound or two depends on the language: Russian views <quote>ts</quote> as a single sound, whereas English, French, and Lojban consider it to be a consonant cluster.
+      There are two common English sounds that are found in Relojban but are not Relojban consonants: the <quote>ch</quote> of <quote>church</quote> and the <quote>j</quote> of <quote>judge</quote>. In Relojban, these are considered two consonant sounds spoken together without an intervening vowel sound, and so are represented in Relojban by the two separate consonants: <morphology>tc</morphology> (IPA <phrase role="IPA">[tʃ]</phrase>) and <morphology>dj</morphology> (IPA <phrase role="IPA">[dʒ]</phrase>). In general, whether a complex sound is considered one sound or two depends on the language: Russian views <quote>ts</quote> as a single sound, whereas English, French, and Relojban consider it to be a consonant cluster.
     </para>
   </section>
   <section xml:id="section-lojban-characters">
-    <title>The Special Lojban Characters</title>
+    <title>The Special Relojban Characters</title>
     <para>
       <indexterm type="general"><primary>characters</primary><secondary>special</secondary></indexterm>
       The apostrophe, period, and comma need special attention. They are all used as indicators of a division between syllables, but each has a different pronunciation, and each is used for different reasons:
@@ -281,15 +281,15 @@
       <indexterm type="general"><primary>apostrophe</primary><secondary>type of letter in word-formation</secondary></indexterm>
       <indexterm type="general"><primary>' symbol</primary><secondary>definition (see also apostrophe)</secondary></indexterm>
       <indexterm type="general"><primary>apostrophe</primary><secondary>definition of</secondary></indexterm>
-      The apostrophe represents a phoneme similar to a short, breathy English <quote>h</quote>, (IPA <phrase role="IPA">[h]</phrase>). The letter <quote>h</quote> is not used to represent this sound for two reasons: primarily in order to simplify explanations of the morphology, but also because the sound is very common, and the apostrophe is a visually lightweight representation of it. The apostrophe sound is a consonant in nature, but is not treated as either a consonant or a vowel for purposes of Lojban morphology (word-formation), which is explained in <xref linkend="chapter-morphology"/>. In addition, the apostrophe visually parallels the comma and the period, which are also used (in different ways) to separate syllables.
+      The apostrophe represents a phoneme similar to a short, breathy English <quote>h</quote>, (IPA <phrase role="IPA">[h]</phrase>). The letter <quote>h</quote> is not used to represent this sound for two reasons: primarily in order to simplify explanations of the morphology, but also because the sound is very common, and the apostrophe is a visually lightweight representation of it. The apostrophe sound is a consonant in nature, but is not treated as either a consonant or a vowel for purposes of Relojban morphology (word-formation), which is explained in <xref linkend="chapter-morphology"/>. In addition, the apostrophe visually parallels the comma and the period, which are also used (in different ways) to separate syllables.
     </para>
     <para>
       <indexterm type="general"><primary>apostrophe</primary><secondary>variant of</secondary></indexterm>
-      As a permitted variant, any unvoiced fricative other than those already used in Lojban may be used to render the apostrophe: IPA <phrase role="IPA">[θ]</phrase> is one possibility. The convenience of the listener should be regarded as paramount in deciding to use a substitute for <phrase role="IPA">[h]</phrase>.
+      As a permitted variant, any unvoiced fricative other than those already used in Relojban may be used to render the apostrophe: IPA <phrase role="IPA">[θ]</phrase> is one possibility. The convenience of the listener should be regarded as paramount in deciding to use a substitute for <phrase role="IPA">[h]</phrase>.
     </para>
     <para>
-      <indexterm type="general"><primary>pause</primary><secondary>representation of in Lojban</secondary></indexterm>
-      <indexterm type="general"><primary>glottal stop</primary><secondary>as pause in Lojban</secondary></indexterm>
+      <indexterm type="general"><primary>pause</primary><secondary>representation of in Relojban</secondary></indexterm>
+      <indexterm type="general"><primary>glottal stop</primary><secondary>as pause in Relojban</secondary></indexterm>
       <indexterm type="general"><primary>period</primary><secondary>definition of</secondary></indexterm>
       The period represents a mandatory pause, with no specified length; a glottal stop (IPA <phrase role="IPA">[ʔ]</phrase>) is considered a pause of shortest length. A pause (or glottal stop) may appear between any two words, and in certain cases &ndash; explained in detail in <xref linkend="section-pauses"/> &ndash; must occur. In particular, a word beginning with a vowel is always preceded by a pause, and a word ending in a consonant is always followed by a pause.
     </para>
@@ -304,7 +304,7 @@
     <para>
       <indexterm type="general"><primary>pause</primary><secondary>contrasted with syllable break</secondary></indexterm>
       <indexterm type="general"><primary>syllable break</primary><secondary>contrasted with pause</secondary></indexterm>
-      <indexterm type="general"><primary>syllable break</primary><secondary>representation in Lojban</secondary></indexterm>
+      <indexterm type="general"><primary>syllable break</primary><secondary>representation in Relojban</secondary></indexterm>
       <indexterm type="general"><primary>comma</primary><secondary>definition of</secondary></indexterm>
       The comma is used to indicate a syllable break within a word, generally one that is not obvious to the reader. Such a comma is written to separate syllables, but indicates that there must be no pause between them, in contrast to the period. Removing a comma has no effect on how a text is pronounced or parsed.
     </para>
@@ -323,7 +323,7 @@
       </pronunciation>
     </example>
     <para role="indent">
-      However, this would sound clipped, staccato, and unmusical compared to the English. Furthermore, although <xref linkend="example-random-id-k2B4"/> is a string of meaningful Lojban words, as a sentence it makes very little sense. (Note the use of periods embedded within the written word.)
+      However, this would sound clipped, staccato, and unmusical compared to the English. Furthermore, although <xref linkend="example-random-id-k2B4"/> is a string of meaningful Relojban words, as a sentence it makes very little sense. (Note the use of periods embedded within the written word.)
     </para>
     <para>
       <indexterm type="general"><primary>comma</primary><secondary>example of</secondary></indexterm>
@@ -357,21 +357,21 @@
     <title>Diphthongs and Syllabic Consonants</title>
     <para>
       <indexterm type="general"><primary>diphthongs</primary><secondary>definition of</secondary></indexterm>
-      There exist 16 diphthongs in the Lojban language. A diphthong is a vowel sound that consists of two elements, a short vowel sound and a glide, either a labial (IPA <phrase role="IPA">[w]</phrase>) or palatal (IPA <phrase role="IPA">[j]</phrase>) glide, that either precedes (an on-glide) or follows (an off-glide) the main vowel. Diphthongs always constitute a single syllable.
+      There exist 16 diphthongs in the Relojban language. A diphthong is a vowel sound that consists of two elements, a short vowel sound and a glide, either a labial (IPA <phrase role="IPA">[w]</phrase>) or palatal (IPA <phrase role="IPA">[j]</phrase>) glide, that either precedes (an on-glide) or follows (an off-glide) the main vowel. Diphthongs always constitute a single syllable.
     </para>
     <para>
       <indexterm type="general"><primary>vowels</primary><secondary>contrasted with consonants</secondary></indexterm>
       <indexterm type="general"><primary>consonants</primary><secondary>contrasted with vowels</secondary></indexterm>
-      For Lojban purposes, a vowel sound is a relatively long speech-sound that forms the nucleus of a syllable. Consonant sounds are relatively brief and normally require an accompanying vowel sound in order to be audible. Consonants may occur at the beginning or end of a syllable, around the vowel, and there may be several consonants in a cluster at the beginning. When multiple consonants appear between two vowels, as many of them as phonotactically allowed are assigned to the second syllable.
+      For Relojban purposes, a vowel sound is a relatively long speech-sound that forms the nucleus of a syllable. Consonant sounds are relatively brief and normally require an accompanying vowel sound in order to be audible. Consonants may occur at the beginning or end of a syllable, around the vowel, and there may be several consonants in a cluster at the beginning. When multiple consonants appear between two vowels, as many of them as phonotactically allowed are assigned to the second syllable.
     </para>
     <para>
       <indexterm type="general"><primary>vowels</primary><secondary>definition of</secondary></indexterm>
-      The six Lojban vowels are <letteral>a</letteral>, <letteral>e</letteral>, <letteral>i</letteral>, <letteral>o</letteral>, <letteral>u</letteral>, and <letteral>y</letteral>. The first five vowels appear freely in all kinds of Lojban words. The vowel <letteral>y</letteral> has a limited distribution: it appears only in cmevla, in the Lojban names of the letters of the alphabet, as a glue vowel in compound words, and standing alone as a space-filler word (like English <quote>uh</quote> or <quote>er</quote>).
+      The six Relojban vowels are <letteral>a</letteral>, <letteral>e</letteral>, <letteral>i</letteral>, <letteral>o</letteral>, <letteral>u</letteral>, and <letteral>y</letteral>. The first five vowels appear freely in all kinds of Relojban words. The vowel <letteral>y</letteral> has a limited distribution: it appears only in cmevla, in the Relojban names of the letters of the alphabet, as a glue vowel in compound words, and standing alone as a space-filler word (like English <quote>uh</quote> or <quote>er</quote>).
     </para>
     <para>
       <indexterm type="general"><primary>diphthongs</primary><secondary>list of</secondary></indexterm>
       <indexterm type="general"><primary>diphthongs</primary><secondary>IPA for</secondary></indexterm>
-      The Lojban diphthongs are shown in the table below. (Variant pronunciations have been omitted, but are much as one would expect based on the variant pronunciations of the separate vowel letters: <diphthong>ai</diphthong> may be pronounced <phrase role="IPA">[ɑj]</phrase>, for example.)
+      The Relojban diphthongs are shown in the table below. (Variant pronunciations have been omitted, but are much as one would expect based on the variant pronunciations of the separate vowel letters: <diphthong>ai</diphthong> may be pronounced <phrase role="IPA">[ɑj]</phrase>, for example.)
     </para>
     <informaltable class="vertsep">
       <thead>
@@ -467,12 +467,12 @@
     </para>
     <para>
       <indexterm type="general"><primary>diphthongs</primary><secondary>classification of</secondary></indexterm>
-      The first four diphthongs above (<diphthong>ai</diphthong>, <diphthong>ei</diphthong>, <diphthong>oi</diphthong>, and <diphthong>au</diphthong>, the ones with off-glides) are freely used in most types of Lojban words and behave similarly to pure vowels; the twelve following ones are absent from gismu-based lujvo and behave similarly to CV syllables.
+      The first four diphthongs above (<diphthong>ai</diphthong>, <diphthong>ei</diphthong>, <diphthong>oi</diphthong>, and <diphthong>au</diphthong>, the ones with off-glides) are freely used in most types of Relojban words and behave similarly to pure vowels; the twelve following ones are absent from gismu-based lujvo and behave similarly to CV syllables.
     </para>
     <para>
       <indexterm type="general"><primary>syllabic consonants</primary></indexterm>
       <indexterm type="general"><primary>consonants</primary><secondary>syllabic</secondary></indexterm>
-      The syllabic consonants of Lojban, <phrase role="IPA">[l̩]</phrase>, <phrase role="IPA">[m̩]</phrase>, <phrase role="IPA">[n̩]</phrase>, and <phrase role="IPA">[r̩]</phrase>, are variants of the non-syllabic <phrase role="IPA">[l]</phrase>, <phrase role="IPA">[m]</phrase>, <phrase role="IPA">[n]</phrase>, and <phrase role="IPA">[r]</phrase> respectively. Although in principle any <letteral>l</letteral>, <letteral>m</letteral>, <letteral>n</letteral>, or <letteral>r</letteral> may be pronounced syllabically, only zi'evla can have syllabic consonants in their canonical pronunciation as defined by the grammar.
+      The syllabic consonants of Relojban, <phrase role="IPA">[l̩]</phrase>, <phrase role="IPA">[m̩]</phrase>, <phrase role="IPA">[n̩]</phrase>, and <phrase role="IPA">[r̩]</phrase>, are variants of the non-syllabic <phrase role="IPA">[l]</phrase>, <phrase role="IPA">[m]</phrase>, <phrase role="IPA">[n]</phrase>, and <phrase role="IPA">[r]</phrase> respectively. Although in principle any <letteral>l</letteral>, <letteral>m</letteral>, <letteral>n</letteral>, or <letteral>r</letteral> may be pronounced syllabically, only zi'evla can have syllabic consonants in their canonical pronunciation as defined by the grammar.
     </para>
     <para>
       <indexterm type="general"><primary>Earl</primary><secondary>example</secondary></indexterm>
@@ -492,7 +492,7 @@
       <indexterm type="general"><primary>vowel pairs</primary><secondary>use of apostrophe in</secondary></indexterm>
       <indexterm type="general"><primary>apostrophe</primary><secondary>use in vowel pairs</secondary></indexterm>
       <indexterm type="general"><primary>vowel pairs</primary><secondary>definition of</secondary></indexterm>
-      Lojban vowels also occur in pairs, where each vowel sound is in a separate syllable. These two vowel sounds are connected (and separated) by an apostrophe. Lojban vowel pairs should be pronounced continuously with the <phrase role="IPA">[h]</phrase> sound between (and not by a glottal stop or pause, which would split the two vowels into separate words).
+      Relojban vowels also occur in pairs, where each vowel sound is in a separate syllable. These two vowel sounds are connected (and separated) by an apostrophe. Relojban vowel pairs should be pronounced continuously with the <phrase role="IPA">[h]</phrase> sound between (and not by a glottal stop or pause, which would split the two vowels into separate words).
     </para>
     <para>
       <indexterm type="general"><primary>diphthongs</primary><secondary>contrasted with vowel pairs</secondary></indexterm>
@@ -501,7 +501,7 @@
     </para>
     <para>
       <indexterm type="general"><primary>vowel pairs</primary><secondary>list of</secondary></indexterm>
-      The Lojban vowel pairs are:
+      The Relojban vowel pairs are:
     </para>
     <simplelist type="horiz" columns="6">
       <member><morphology>a'a</morphology></member>
@@ -543,7 +543,7 @@
     </simplelist>
     <para>
       <indexterm type="general"><primary>vowel pairs</primary><secondary>grouping of</secondary></indexterm>
-      When more than two vowels occur together in Lojban, they are grouped into syllables so that every syllable has an onset, as in the cmevla:
+      When more than two vowels occur together in Relojban, they are grouped into syllables so that every syllable has an onset, as in the cmevla:
     </para>
     <example role="pronunciation-example" xml:id="example-random-id-RxtI">
       <title>
@@ -559,12 +559,12 @@
     <para>
       <indexterm type="general"><primary>consonant</primary><secondary>effect on syllable count</secondary></indexterm>
       <indexterm type="general"><primary>consonant</primary><secondary>definition</secondary></indexterm>
-      A consonant sound is a relatively brief speech-sound that precedes or follows a vowel sound in a syllable; its presence either preceding or following does not add to the count of syllables. Each syllable that does not start a word begins with one or more consonants (or an on-glide) and may end with up to one consonant. Lojban has seventeen consonants: for the purposes of this section, the apostrophe is not counted as a consonant.
+      A consonant sound is a relatively brief speech-sound that precedes or follows a vowel sound in a syllable; its presence either preceding or following does not add to the count of syllables. Each syllable that does not start a word begins with one or more consonants (or an on-glide) and may end with up to one consonant. Relojban has seventeen consonants: for the purposes of this section, the apostrophe is not counted as a consonant.
     </para>
     <para>
       <indexterm type="general"><primary>consonants</primary><secondary>voicing of</secondary></indexterm>
       <indexterm type="general"><primary>consonants</primary><secondary>voiced/unvoiced equivalents</secondary></indexterm>
-      An important distinction dividing Lojban consonants is that of voicing. The following table shows the unvoiced consonants and the corresponding voiced ones:
+      An important distinction dividing Relojban consonants is that of voicing. The following table shows the unvoiced consonants and the corresponding voiced ones:
     </para>
     <informaltable class="vertsep">
       <thead>
@@ -603,7 +603,7 @@
       </tr>
     </informaltable>
     <para>
-      The consonant <letteral>x</letteral> has no voiced counterpart in Lojban. The remaining consonants, <letteral>l</letteral>, <letteral>m</letteral>, <letteral>n</letteral>, and <letteral>r</letteral>, are typically pronounced with voice, but can be pronounced unvoiced.
+      The consonant <letteral>x</letteral> has no voiced counterpart in Relojban. The remaining consonants, <letteral>l</letteral>, <letteral>m</letteral>, <letteral>n</letteral>, and <letteral>r</letteral>, are typically pronounced with voice, but can be pronounced unvoiced.
     </para>
     <para>
       <indexterm type="general"><primary>consonant clusters</primary><secondary>contrasted with single consonants</secondary></indexterm>
@@ -613,16 +613,16 @@
       <indexterm type="general"><primary>single consonants</primary><secondary>contrasted with consonant clusters</secondary></indexterm>
       <indexterm type="general"><primary>single consonants</primary><secondary>contrasted with doubled consonants</secondary></indexterm>
       <indexterm type="general"><primary>consonant clusters</primary><secondary>definition of</secondary></indexterm>
-      Consonant sounds occur in languages as single consonants, or as doubled, or as clustered combinations. Single consonant sounds are isolated by word boundaries or by intervening vowel sounds from other consonant sounds. Doubled consonant sounds are either lengthened like <phrase role="IPA">[s]</phrase> in English <quote>hiss</quote>, or repeated like <phrase role="IPA">[k]</phrase> in English <quote>backcourt</quote>. Consonant clusters consist of two or more single or doubled consonant sounds in a group, each of which is different from its immediate neighbor. In Lojban, doubled consonants are excluded altogether, and clusters are limited to two or three members, except in cmevla.
+      Consonant sounds occur in languages as single consonants, or as doubled, or as clustered combinations. Single consonant sounds are isolated by word boundaries or by intervening vowel sounds from other consonant sounds. Doubled consonant sounds are either lengthened like <phrase role="IPA">[s]</phrase> in English <quote>hiss</quote>, or repeated like <phrase role="IPA">[k]</phrase> in English <quote>backcourt</quote>. Consonant clusters consist of two or more single or doubled consonant sounds in a group, each of which is different from its immediate neighbor. In Relojban, doubled consonants are excluded altogether, and clusters are limited to two or three members, except in cmevla.
     </para>
     <para>
       <indexterm type="general"><primary>consonants</primary><secondary>position of</secondary></indexterm>
-      Consonants can occur in three positions in words: initial (at the beginning), medial (in the middle), and final (at the end). In many languages, the sound of a consonant varies depending upon its position in the word. In Lojban, as much as possible, the sound of a consonant is unrelated to its position. In particular, the common American English trait of changing a <quote>t</quote> between vowels into a <quote>d</quote> or even an alveolar tap (IPA <phrase role="IPA">[ɾ]</phrase>) is unacceptable in Lojban.
+      Consonants can occur in three positions in words: initial (at the beginning), medial (in the middle), and final (at the end). In many languages, the sound of a consonant varies depending upon its position in the word. In Relojban, as much as possible, the sound of a consonant is unrelated to its position. In particular, the common American English trait of changing a <quote>t</quote> between vowels into a <quote>d</quote> or even an alveolar tap (IPA <phrase role="IPA">[ɾ]</phrase>) is unacceptable in Relojban.
     </para>
     <para>
       <indexterm type="general"><primary>consonants</primary><secondary>final</secondary></indexterm>
       <indexterm type="general"><primary>consonants</primary><secondary>restrictions on</secondary></indexterm>
-      Lojban imposes no restrictions on the appearance of single consonants in any valid consonant position; however, no consonant (including syllabic consonants) occurs final in a word except in cmevla.
+      Relojban imposes no restrictions on the appearance of single consonants in any valid consonant position; however, no consonant (including syllabic consonants) occurs final in a word except in cmevla.
     </para>
     <para>
       <indexterm type="general"><primary>consonant pairs</primary><secondary>restrictions on</secondary></indexterm>
@@ -894,7 +894,7 @@
     </para>
     <para>
       <indexterm type="general"><primary>consonant triples</primary></indexterm>
-      Consonant triples can occur medially in Lojban words, straddling the boundaries of syllables. They are subject to the following rules:
+      Consonant triples can occur medially in Relojban words, straddling the boundaries of syllables. They are subject to the following rules:
     </para>
     <orderedlist>
       <listitem>
@@ -985,7 +985,7 @@
       <indexterm type="general"><primary>vowel</primary><secondary>buffer</secondary></indexterm>
       <indexterm type="general"><primary>buffer vowel</primary></indexterm>
       <indexterm type="general"><primary>consonant clusters</primary><secondary>buffering of</secondary></indexterm>
-      Many languages do not have consonant clusters at all, and even those languages that do have them often allow only a subset of the full Lojban set. As a result, the Lojban design allows the use of a buffer sound between consonant combinations which a speaker finds unpronounceable. This sound may be any non-Lojbanic vowel which is clearly separable by the listener from the Lojban vowels. Some possibilities are IPA <phrase role="IPA">[ɪ]</phrase>, <phrase role="IPA">[ɨ]</phrase>, <phrase role="IPA">[ʊ]</phrase>, or even <phrase role="IPA">[ʏ]</phrase>, but there probably is no universally acceptable buffer sound. When using a consonant buffer, the sound should be made as short as possible. Two examples showing such buffering (we will use <phrase role="IPA">[ɪ]</phrase> in this chapter) are:
+      Many languages do not have consonant clusters at all, and even those languages that do have them often allow only a subset of the full Relojban set. As a result, the Relojban design allows the use of a buffer sound between consonant combinations which a speaker finds unpronounceable. This sound may be any non-Relojbanic vowel which is clearly separable by the listener from the Relojban vowels. Some possibilities are IPA <phrase role="IPA">[ɪ]</phrase>, <phrase role="IPA">[ɨ]</phrase>, <phrase role="IPA">[ʊ]</phrase>, or even <phrase role="IPA">[ʏ]</phrase>, but there probably is no universally acceptable buffer sound. When using a consonant buffer, the sound should be made as short as possible. Two examples showing such buffering (we will use <phrase role="IPA">[ɪ]</phrase> in this chapter) are:
     </para>
     <example role="pronunciation-example" xml:id="example-random-id-k2dg">
       <title>
@@ -1011,7 +1011,7 @@
     <para role="indent">
       <indexterm type="general"><primary>stress</primary><secondary>effect of buffer vowel on</secondary></indexterm>
       <indexterm type="general"><primary>buffer vowel</primary><secondary>and stress</secondary></indexterm>
-      When a buffer vowel is used, it splits each buffered consonant into its own syllable. However, the buffering syllables are never stressed, and are not counted in determining stress. They are, in effect, not really syllables to a Lojban listener, and thus their impact is ignored.
+      When a buffer vowel is used, it splits each buffered consonant into its own syllable. However, the buffering syllables are never stressed, and are not counted in determining stress. They are, in effect, not really syllables to a Relojban listener, and thus their impact is ignored.
     </para>
     <para>
       Here are more examples of unbuffered and buffered pronunciations:
@@ -1061,7 +1061,7 @@
       </pronunciation>
     </example>
     <para role="noindent">
-      a Lojban compound word meaning <quote>soy milk</quote> and
+      a Relojban compound word meaning <quote>soy milk</quote> and
     </para>
     <example role="pronunciation-example" xml:id="example-random-id-k2jv">
       <title>
@@ -1087,7 +1087,7 @@
     <para>
       <indexterm type="general"><primary>buffer vowel</primary><secondary>shortening of</secondary></indexterm>
       <indexterm type="general"><primary>vowels</primary><secondary>length of</secondary></indexterm>
-      Since buffering is done for the benefit of the speaker in order to aid pronounceability, there is no guarantee that the listener will not mistake a buffer vowel for one of the six regular Lojban vowels. The buffer vowel should be as laxly pronounced as possible, as central as possible, and as short as possible. Furthermore, it is worthwhile for speakers who use buffers to pronounce their regular vowels a bit longer than usual, to avoid confusion with buffer vowels. The speakers of many languages will have trouble correctly hearing any of the suggested buffer vowels otherwise. By this guideline, <xref linkend="example-random-id-k2Kb"/> would be pronounced
+      Since buffering is done for the benefit of the speaker in order to aid pronounceability, there is no guarantee that the listener will not mistake a buffer vowel for one of the six regular Relojban vowels. The buffer vowel should be as laxly pronounced as possible, as central as possible, and as short as possible. Furthermore, it is worthwhile for speakers who use buffers to pronounce their regular vowels a bit longer than usual, to avoid confusion with buffer vowels. The speakers of many languages will have trouble correctly hearing any of the suggested buffer vowels otherwise. By this guideline, <xref linkend="example-random-id-k2Kb"/> would be pronounced
     </para>
     <example role="pronunciation-example" xml:id="example-random-id-k2oF">
       <title>
@@ -1104,7 +1104,7 @@
     <title>Syllabication and Stress</title>
     <para>
       <indexterm type="general"><primary>syllabication</primary><secondary>definition of</secondary></indexterm>
-      A Lojban word has one syllable for each of its vowels, diphthongs, and syllabic consonants (referred to simply as <quote>vowels</quote> for the purposes of this section.) Syllabication rules determine which of the consonants separating two vowels belong to the preceding vowel and which to the following vowel. These rules are conventional only; the phonetic facts of the matter about how utterances are syllabified in any language are always very complex.
+      A Relojban word has one syllable for each of its vowels, diphthongs, and syllabic consonants (referred to simply as <quote>vowels</quote> for the purposes of this section.) Syllabication rules determine which of the consonants separating two vowels belong to the preceding vowel and which to the following vowel. These rules are conventional only; the phonetic facts of the matter about how utterances are syllabified in any language are always very complex.
     </para>
     <para>
       <indexterm type="general"><primary>syllabication</primary><secondary>rules for</secondary></indexterm>
@@ -1117,7 +1117,7 @@
     </para>
     <para>
       <indexterm type="general"><primary>syllabication</primary><secondary>examples of</secondary></indexterm>
-      Here are some examples of Lojban syllabication:
+      Here are some examples of Relojban syllabication:
     </para>
     <example role="pronunciation-example" xml:id="example-random-id-C9tX">
       <title>
@@ -1193,7 +1193,7 @@
     </para>
     <para>
       <indexterm type="general"><primary>stress</primary><secondary>rules for</secondary></indexterm>
-      Most Lojban words are stressed on the next-to-the-last, or penultimate, syllable. In counting syllables, however, syllables whose vowel is <letteral>y</letteral> or which contain a syllabic consonant (<letteral>l</letteral>, <letteral>m</letteral>, <letteral>n</letteral>, or <letteral>r</letteral>) are never counted. (The Lojban term for penultimate stress is <jbophrase>slaka da'a moi nu basna</jbophrase>.) Similarly, syllables created solely by adding a buffer vowel, such as <phrase role="IPA">[ɪ]</phrase>, are not counted.
+      Most Relojban words are stressed on the next-to-the-last, or penultimate, syllable. In counting syllables, however, syllables whose vowel is <letteral>y</letteral> or which contain a syllabic consonant (<letteral>l</letteral>, <letteral>m</letteral>, <letteral>n</letteral>, or <letteral>r</letteral>) are never counted. (The Relojban term for penultimate stress is <jbophrase>slaka da'a moi nu basna</jbophrase>.) Similarly, syllables created solely by adding a buffer vowel, such as <phrase role="IPA">[ɪ]</phrase>, are not counted.
     </para>
     <para>
       <indexterm type="general"><primary>stress</primary><secondary>levels of</secondary></indexterm>
@@ -1205,14 +1205,14 @@
       <indexterm type="general"><primary>brivla</primary><secondary>stress on</secondary></indexterm>
       <indexterm type="general"><primary>cmavo</primary><secondary>stress on</secondary></indexterm>
       <indexterm type="general"><primary>stress</primary><secondary>primary</secondary></indexterm>
-      Primary stress is required on the penultimate syllable of Lojban content words (called <valsi>brivla</valsi>). Cmevla may be stressed on any syllable, but if a syllable other than the penultimate is stressed, the syllable (or at least its vowel) must be capitalized in writing. Lojban structural words (called <valsi>cmavo</valsi>) may be stressed on any syllable or none at all. However, primary stress may not be used in a syllable just preceding a brivla, unless a pause divides them; otherwise, the two words may run together.
+      Primary stress is required on the penultimate syllable of Relojban content words (called <valsi>brivla</valsi>). Cmevla may be stressed on any syllable, but if a syllable other than the penultimate is stressed, the syllable (or at least its vowel) must be capitalized in writing. Relojban structural words (called <valsi>cmavo</valsi>) may be stressed on any syllable or none at all. However, primary stress may not be used in a syllable just preceding a brivla, unless a pause divides them; otherwise, the two words may run together.
     </para>
     <para>
       <indexterm type="general"><primary>stress</primary><secondary>secondary</secondary></indexterm>
       Secondary stress is the optional and non-distinctive emphasis used for other syllables besides those required to have either weak or primary stress. There are few rules governing secondary stress, which typically will follow a speaker's native language habits or preferences. Secondary stress can be used for contrast, or for emphasis of a point. Secondary stress can be emphasized at any level up to primary stress, although the speaker must not allow a false primary stress in brivla, since errors in word resolution could result.
     </para>
     <para>
-      The following are Lojban words with stress explicitly shown:
+      The following are Relojban words with stress explicitly shown:
     </para>
     <example role="pronunciation-example" xml:id="example-random-id-cxzt">
       <title>
@@ -1223,7 +1223,7 @@
       </pronunciation>
     </example>
     <para role="noindent">
-      (In a fully-buffered dialect, the pronunciation would be: <phrase role="IPA">['di.kə.ʒɪ.vo]</phrase>.) Note that the syllable <valsi>ky</valsi> is not counted in determining stress. The vowel <letteral>y</letteral> is never stressed in a normal Lojban context.
+      (In a fully-buffered dialect, the pronunciation would be: <phrase role="IPA">['di.kə.ʒɪ.vo]</phrase>.) Note that the syllable <valsi>ky</valsi> is not counted in determining stress. The vowel <letteral>y</letteral> is never stressed in a normal Relojban context.
     </para>
     <example role="pronunciation-example" xml:id="example-random-id-Sz52">
       <title>
@@ -1248,8 +1248,8 @@
       However, there is no need to insert a buffer in every possible place just because it is inserted in one place: partial buffering is also acceptable. In every case, however, the stress remains in the same place: on the first syllable.
     </para>
     <para>
-      <indexterm type="general"><primary>-ng</primary><secondary>Lojban contrasted with English</secondary></indexterm>
-      The English pronunciation of <quote>Armstrong</quote>, as spelled in English, is not correct by Lojban standards; the letters <quote>ng</quote> in English represent a velar nasal (IPA <phrase role="IPA">[ŋ]</phrase>) which is a single consonant. In Lojban, <morphology>ng</morphology> represents two separate consonants that must both be pronounced; you may not use <phrase role="IPA">[ŋ]</phrase> to pronounce Lojban <morphology>ng</morphology>, although <phrase role="IPA">[ŋg]</phrase> is acceptable. English speakers are likely to have to pronounce the ending with a buffer, as one of the following:
+      <indexterm type="general"><primary>-ng</primary><secondary>Relojban contrasted with English</secondary></indexterm>
+      The English pronunciation of <quote>Armstrong</quote>, as spelled in English, is not correct by Relojban standards; the letters <quote>ng</quote> in English represent a velar nasal (IPA <phrase role="IPA">[ŋ]</phrase>) which is a single consonant. In Relojban, <morphology>ng</morphology> represents two separate consonants that must both be pronounced; you may not use <phrase role="IPA">[ŋ]</phrase> to pronounce Relojban <morphology>ng</morphology>, although <phrase role="IPA">[ŋg]</phrase> is acceptable. English speakers are likely to have to pronounce the ending with a buffer, as one of the following:
     </para>
     <example role="pronunciation-example" xml:id="example-random-id-k2T5">
       <title>
@@ -1273,7 +1273,7 @@
       </pronunciation>
     </example>
     <para role="noindent">
-      since Lojban <letteral>n</letteral> is allowed to be pronounced as the velar nasal <phrase role="IPA">[ŋ]</phrase>.
+      since Relojban <letteral>n</letteral> is allowed to be pronounced as the velar nasal <phrase role="IPA">[ŋ]</phrase>.
     </para>
     <para>
       Here is another example showing the use of <letteral>y</letteral>:
@@ -1299,7 +1299,7 @@
       </pronunciation>
     </example>
     <para role="indent">
-      <jbophrase>da'U,dja</jbophrase> and <jbophrase>da'UD,ja</jbophrase> sound the same to a Lojban listener &ndash; the association of unbuffered consonants in syllables is of no import in recognizing the word.
+      <jbophrase>da'U,dja</jbophrase> and <jbophrase>da'UD,ja</jbophrase> sound the same to a Relojban listener &ndash; the association of unbuffered consonants in syllables is of no import in recognizing the word.
     </para>
     <example role="pronunciation-example" xml:id="example-random-id-Ki4a">
       <title>
@@ -1332,7 +1332,7 @@
       </pronunciation>
     </example>
     <para role="indent">
-      If the cmavo <valsi>no</valsi> in <xref linkend="example-random-id-qiXR"/> were to be stressed, the phrase would sound exactly like the given pronunciation of <xref linkend="example-random-id-qIXo"/>, which is unacceptable in Lojban: a single pronunciation cannot represent both.
+      If the cmavo <valsi>no</valsi> in <xref linkend="example-random-id-qiXR"/> were to be stressed, the phrase would sound exactly like the given pronunciation of <xref linkend="example-random-id-qIXo"/>, which is unacceptable in Relojban: a single pronunciation cannot represent both.
     </para>
   </section>
   <section xml:id="section-anglophone-phonetics">
@@ -1356,214 +1356,214 @@
       <tr>
         <td><phrase role="IPA">[ʔ]</phrase></td>
         <td>
-          The usual realization of Lojban <letteral>.</letteral> in connected speech. This sound is not usually considered part of English. It is the catch in your throat that sometimes occurs prior to the beginning of a word (and sometimes a syllable) which starts with a vowel. In some dialects, like Cockney and some kinds of American English, it is used between vowels instead of <quote>t</quote>: <quote>bottle</quote> <phrase role="IPA">[boʔl̩]</phrase>. The English interjection
+          The usual realization of Relojban <letteral>.</letteral> in connected speech. This sound is not usually considered part of English. It is the catch in your throat that sometimes occurs prior to the beginning of a word (and sometimes a syllable) which starts with a vowel. In some dialects, like Cockney and some kinds of American English, it is used between vowels instead of <quote>t</quote>: <quote>bottle</quote> <phrase role="IPA">[boʔl̩]</phrase>. The English interjection
           <quote>uh-oh!</quote> almost always has it between the syllables.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[ː]</phrase></td>
         <td>
-          A symbol indicating that the previous vowel is to be spoken for a longer time than usual. Lojban vowels can be pronounced long in order to make a greater contrast with buffer vowels.
+          A symbol indicating that the previous vowel is to be spoken for a longer time than usual. Relojban vowels can be pronounced long in order to make a greater contrast with buffer vowels.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[a]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban <letteral>a</letteral>. This sound doesn't occur in GA, but sounds somewhat like the <quote>ar</quote> of <quote>park</quote>, as spoken in RP or New England American. It is pronounced further forward in the mouth than <phrase role="IPA">[ɑ]</phrase>.
+          The preferred pronunciation of Relojban <letteral>a</letteral>. This sound doesn't occur in GA, but sounds somewhat like the <quote>ar</quote> of <quote>park</quote>, as spoken in RP or New England American. It is pronounced further forward in the mouth than <phrase role="IPA">[ɑ]</phrase>.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[ɑ]</phrase></td>
         <td>
-          An allowed variant of Lojban <letteral>a</letteral>. The <quote>a</quote> of GA <quote>father</quote>. The sound <phrase role="IPA">[a]</phrase> is preferred because GA speakers often relax an unstressed <phrase role="IPA">[ɑ]</phrase> into a schwa <phrase role="IPA">[ə]</phrase>, as in the usual pronunciations of <quote>about</quote> and <quote>sofa</quote>. Because schwa is a distinct vowel in Lojban, English speakers must either learn to avoid this shift or to use
-          <phrase role="IPA">[a]</phrase> instead: the Lojban word for <quote>sofa</quote> is <valsi>sfofa</valsi>, pronounced <phrase role="IPA">[sfofa]</phrase> or <phrase role="IPA">[sfofɑ]</phrase> but never <phrase role="IPA">[sfofə]</phrase> which would be the non-word <valsi valid="false">sfofy</valsi>.
+          An allowed variant of Relojban <letteral>a</letteral>. The <quote>a</quote> of GA <quote>father</quote>. The sound <phrase role="IPA">[a]</phrase> is preferred because GA speakers often relax an unstressed <phrase role="IPA">[ɑ]</phrase> into a schwa <phrase role="IPA">[ə]</phrase>, as in the usual pronunciations of <quote>about</quote> and <quote>sofa</quote>. Because schwa is a distinct vowel in Relojban, English speakers must either learn to avoid this shift or to use
+          <phrase role="IPA">[a]</phrase> instead: the Relojban word for <quote>sofa</quote> is <valsi>sfofa</valsi>, pronounced <phrase role="IPA">[sfofa]</phrase> or <phrase role="IPA">[sfofɑ]</phrase> but never <phrase role="IPA">[sfofə]</phrase> which would be the non-word <valsi valid="false">sfofy</valsi>.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[æ]</phrase></td>
         <td>
-          Not a Lojban sound. The <quote>a</quote> of English <quote>cat</quote>.
+          Not a Relojban sound. The <quote>a</quote> of English <quote>cat</quote>.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[b]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban <letteral>b</letteral>. As in English <quote>boy</quote>, <quote>sober</quote>, or <quote>job</quote>.
+          The preferred pronunciation of Relojban <letteral>b</letteral>. As in English <quote>boy</quote>, <quote>sober</quote>, or <quote>job</quote>.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[β]</phrase></td>
         <td>
-          An allowed variant of Lojban <letteral>v</letteral>. Not an English sound; the Spanish <quote xml:lang="es">b</quote> or <quote xml:lang="es">v</quote> between vowels. This sound should not be used for Lojban <letteral>b</letteral>.
+          An allowed variant of Relojban <letteral>v</letteral>. Not an English sound; the Spanish <quote xml:lang="es">b</quote> or <quote xml:lang="es">v</quote> between vowels. This sound should not be used for Relojban <letteral>b</letteral>.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[d]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban <letteral>d</letteral>. As in English <quote>dog</quote>, <quote>soda</quote>, or <quote>mad</quote>.
+          The preferred pronunciation of Relojban <letteral>d</letteral>. As in English <quote>dog</quote>, <quote>soda</quote>, or <quote>mad</quote>.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[ɛ]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban <letteral>e</letteral>. The <quote>e</quote> of English <quote>met</quote>.
+          The preferred pronunciation of Relojban <letteral>e</letteral>. The <quote>e</quote> of English <quote>met</quote>.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[e]</phrase></td>
         <td>
-          An allowed variant of Lojban <letteral>e</letteral>. This sound is not found in English, but is the Spanish <quote xml:lang="es">e</quote>, or the tense <quote xml:lang="it">e</quote> of Italian. The vowel of English <quote>say</quote> is similar except for the off-glide: you can learn to make this sound by holding your tongue steady while saying the first part of the English vowel.
+          An allowed variant of Relojban <letteral>e</letteral>. This sound is not found in English, but is the Spanish <quote xml:lang="es">e</quote>, or the tense <quote xml:lang="it">e</quote> of Italian. The vowel of English <quote>say</quote> is similar except for the off-glide: you can learn to make this sound by holding your tongue steady while saying the first part of the English vowel.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[ə]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban <letteral>y</letteral>. As in the <quote>a</quote> of English <quote>sofa</quote> or <quote>about</quote>. Schwa is generally unstressed in Lojban, as it is in English. It is a totally relaxed sound made with the tongue in the middle of the mouth.
+          The preferred pronunciation of Relojban <letteral>y</letteral>. As in the <quote>a</quote> of English <quote>sofa</quote> or <quote>about</quote>. Schwa is generally unstressed in Relojban, as it is in English. It is a totally relaxed sound made with the tongue in the middle of the mouth.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[f]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban <letteral>f</letteral>. As in <quote>fee</quote>, <quote>loafer</quote>, or <quote>chef</quote>.
+          The preferred pronunciation of Relojban <letteral>f</letteral>. As in <quote>fee</quote>, <quote>loafer</quote>, or <quote>chef</quote>.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[ɸ]</phrase></td>
         <td>
           <!-- if you put xml:lang="ja" here, it tries to render f as a japanese character; this does not work well -->
-          An allowed variant of Lojban <letteral>f</letteral>. Not an English sound; the Japanese <quote>f</quote> sound.
+          An allowed variant of Relojban <letteral>f</letteral>. Not an English sound; the Japanese <quote>f</quote> sound.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[g]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban <letteral>g</letteral>. As in English <quote>go</quote>, <quote>eagle</quote>, or <quote>dog</quote>.
+          The preferred pronunciation of Relojban <letteral>g</letteral>. As in English <quote>go</quote>, <quote>eagle</quote>, or <quote>dog</quote>.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[h]</phrase></td>
         <td>
-          The preferred pronunciation of the Lojban apostrophe sound. As in English <quote>aha</quote> or the second "h" in <quote>oh, hello</quote>.
+          The preferred pronunciation of the Relojban apostrophe sound. As in English <quote>aha</quote> or the second "h" in <quote>oh, hello</quote>.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[i]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban <letteral>i</letteral>. Essentially like the English vowel of <quote>pizza</quote> or <quote>machine</quote>, although the English vowel is sometimes pronounced with an off-glide, which should not be present in Lojban.
+          The preferred pronunciation of Relojban <letteral>i</letteral>. Essentially like the English vowel of <quote>pizza</quote> or <quote>machine</quote>, although the English vowel is sometimes pronounced with an off-glide, which should not be present in Relojban.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[ɪ]</phrase></td>
         <td>
-          A possible Lojban buffer vowel. The <quote>i</quote> of English <quote>bit</quote>.
+          A possible Relojban buffer vowel. The <quote>i</quote> of English <quote>bit</quote>.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[ɨ]</phrase></td>
         <td>
-          A possible Lojban buffer vowel. The <quote>u</quote> of <quote>just</quote> in some varieties of GA, those which make the word sound more or less like <quote>jist</quote>. Also Russian <quote xml:lang="ru">y</quote> as in <quote xml:lang="ru">byt'</quote> (to be); like a schwa <phrase role="IPA">[ə]</phrase>, but higher in the mouth.
+          A possible Relojban buffer vowel. The <quote>u</quote> of <quote>just</quote> in some varieties of GA, those which make the word sound more or less like <quote>jist</quote>. Also Russian <quote xml:lang="ru">y</quote> as in <quote xml:lang="ru">byt'</quote> (to be); like a schwa <phrase role="IPA">[ə]</phrase>, but higher in the mouth.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[j]</phrase></td>
         <td>
-          Used in Lojban diphthongs beginning or ending with <letteral>i</letteral>. Like the <quote>y</quote> in English <quote>yard</quote> or <quote>say</quote>.
+          Used in Relojban diphthongs beginning or ending with <letteral>i</letteral>. Like the <quote>y</quote> in English <quote>yard</quote> or <quote>say</quote>.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[k]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban <letteral>k</letteral>. As in English <quote>kill</quote>, <quote>token</quote>, or <quote>flak</quote>.
+          The preferred pronunciation of Relojban <letteral>k</letteral>. As in English <quote>kill</quote>, <quote>token</quote>, or <quote>flak</quote>.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[l]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban <letteral>l</letteral>. As in English <quote>low</quote>, <quote>nylon</quote>, or <quote>excel</quote>.
+          The preferred pronunciation of Relojban <letteral>l</letteral>. As in English <quote>low</quote>, <quote>nylon</quote>, or <quote>excel</quote>.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[l̩]</phrase></td>
         <td>
-          The syllabic version of Lojban <letteral>l</letteral>, as in English <quote>bottle</quote> or <quote>middle</quote>.
+          The syllabic version of Relojban <letteral>l</letteral>, as in English <quote>bottle</quote> or <quote>middle</quote>.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[m]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban <letteral>m</letteral>. As in English <quote>me</quote>, <quote>humor</quote>, or <quote>ham</quote>.
+          The preferred pronunciation of Relojban <letteral>m</letteral>. As in English <quote>me</quote>, <quote>humor</quote>, or <quote>ham</quote>.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[m̩]</phrase></td>
         <td>
-          The syllabic version of Lojban <letteral>m</letteral>. As in English <quote>catch 'em</quote> or <quote>bottom</quote>.
+          The syllabic version of Relojban <letteral>m</letteral>. As in English <quote>catch 'em</quote> or <quote>bottom</quote>.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[n]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban <letteral>n</letteral>. As in English <valsi>no</valsi>, <quote>honor</quote>, or <quote>son</quote>.
+          The preferred pronunciation of Relojban <letteral>n</letteral>. As in English <valsi>no</valsi>, <quote>honor</quote>, or <quote>son</quote>.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[n̩]</phrase></td>
         <td>
-          The syllabic version of Lojban <letteral>n</letteral>. As in English <quote>button</quote>.
+          The syllabic version of Relojban <letteral>n</letteral>. As in English <quote>button</quote>.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[ŋ]</phrase></td>
         <td>
-          An allowed variant of Lojban <letteral>n</letteral>, especially in cmevla and before <letteral>g</letteral> or <letteral>k</letteral>. As in English <quote>sing</quote> or <quote>singer</quote> (but not <quote>finger</quote> or <quote>danger</quote>).
+          An allowed variant of Relojban <letteral>n</letteral>, especially in cmevla and before <letteral>g</letteral> or <letteral>k</letteral>. As in English <quote>sing</quote> or <quote>singer</quote> (but not <quote>finger</quote> or <quote>danger</quote>).
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[ŋ̍]</phrase></td>
         <td>
-          An allowed variant of Lojban syllabic <letteral>n</letteral>, especially in cmevla.
+          An allowed variant of Relojban syllabic <letteral>n</letteral>, especially in cmevla.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[o]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban <letteral>o</letteral>. As in the French <quote xml:lang="fr">haute (cuisine)</quote> or Spanish <quote xml:lang="es">como</quote>. There is no exact English equivalent of this sound. The nearest GA equivalent is the <quote>o</quote> of <quote>goal</quote> or <quote>lore</quote>, but it is essential that the off-glide (a <phrase role="IPA">[w]</phrase>-like sound) at the end of the vowel is not pronounced when speaking Lojban. The RP sound in these words is <phrase role="IPA">[əw]</phrase> in IPA terms, and has no <phrase role="IPA">[o]</phrase> in it at all; unless you can speak with a Scots, Irish, or American accent, you may have trouble with this sound.
+          The preferred pronunciation of Relojban <letteral>o</letteral>. As in the French <quote xml:lang="fr">haute (cuisine)</quote> or Spanish <quote xml:lang="es">como</quote>. There is no exact English equivalent of this sound. The nearest GA equivalent is the <quote>o</quote> of <quote>goal</quote> or <quote>lore</quote>, but it is essential that the off-glide (a <phrase role="IPA">[w]</phrase>-like sound) at the end of the vowel is not pronounced when speaking Relojban. The RP sound in these words is <phrase role="IPA">[əw]</phrase> in IPA terms, and has no <phrase role="IPA">[o]</phrase> in it at all; unless you can speak with a Scots, Irish, or American accent, you may have trouble with this sound.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[ɔ]</phrase></td>
         <td>
-          An allowed variant of Lojban <letteral>o</letteral>, especially before <letteral>r</letteral>. This sound is a shortened form of the <quote>aw</quote> in GA <quote>dawn</quote> (for those people who don't pronounce <quote>dawn</quote> and <quote>Don</quote> alike; if you do, you may have trouble with this sound). In RP, but not GA, it is the <quote>o</quote> of <quote>hot</quote>.
+          An allowed variant of Relojban <letteral>o</letteral>, especially before <letteral>r</letteral>. This sound is a shortened form of the <quote>aw</quote> in GA <quote>dawn</quote> (for those people who don't pronounce <quote>dawn</quote> and <quote>Don</quote> alike; if you do, you may have trouble with this sound). In RP, but not GA, it is the <quote>o</quote> of <quote>hot</quote>.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[p]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban <letteral>p</letteral>. As in English <quote>pay</quote>, <quote>super</quote>, or <quote>up</quote>.
+          The preferred pronunciation of Relojban <letteral>p</letteral>. As in English <quote>pay</quote>, <quote>super</quote>, or <quote>up</quote>.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[r]</phrase></td>
         <td>
-          One version of Lojban <letteral>r</letteral>. Not an English sound. The Spanish <quote xml:lang="es">rr</quote> and the Scots <quote>r</quote>, a tongue-tip trill.
+          One version of Relojban <letteral>r</letteral>. Not an English sound. The Spanish <quote xml:lang="es">rr</quote> and the Scots <quote>r</quote>, a tongue-tip trill.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[ɹ]</phrase></td>
         <td>
-          One version of Lojban <letteral>r</letteral>. As in GA <quote>right</quote>, <quote>baron</quote>, or <quote>car</quote>.
+          One version of Relojban <letteral>r</letteral>. As in GA <quote>right</quote>, <quote>baron</quote>, or <quote>car</quote>.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[ɾ]</phrase></td>
         <td>
-          One version of Lojban <letteral>r</letteral>. In GA, appears as a variant of <quote>t</quote> or <quote>d</quote> in the words <quote>metal</quote> and <quote>medal</quote> respectively. A tongue-tip tap.
+          One version of Relojban <letteral>r</letteral>. In GA, appears as a variant of <quote>t</quote> or <quote>d</quote> in the words <quote>metal</quote> and <quote>medal</quote> respectively. A tongue-tip tap.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[ʀ]</phrase></td>
         <td>
-          One version of Lojban <letteral>r</letteral>. Not an English sound. The French or German <phrase xml:lang="de"><quote xml:lang="fr">r</quote></phrase> in <!--not sure how else to designate two languages at once--> <quote xml:lang="fr">reine</quote> or <quote xml:lang="de">rot</quote> respectively. A uvular trill.
+          One version of Relojban <letteral>r</letteral>. Not an English sound. The French or German <phrase xml:lang="de"><quote xml:lang="fr">r</quote></phrase> in <!--not sure how else to designate two languages at once--> <quote xml:lang="fr">reine</quote> or <quote xml:lang="de">rot</quote> respectively. A uvular trill.
         </td>
       </tr>
       <tr>
@@ -1575,87 +1575,87 @@
       <tr>
         <td><phrase role="IPA">[s]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban <letteral>s</letteral>. As in English <quote>so</quote>, <quote>basin</quote>, or <quote>yes</quote>.
+          The preferred pronunciation of Relojban <letteral>s</letteral>. As in English <quote>so</quote>, <quote>basin</quote>, or <quote>yes</quote>.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[ʃ]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban <letteral>c</letteral>. The <quote>sh</quote> of English <quote>ship</quote>, <quote>ashen</quote>, or <quote>dish</quote>.
+          The preferred pronunciation of Relojban <letteral>c</letteral>. The <quote>sh</quote> of English <quote>ship</quote>, <quote>ashen</quote>, or <quote>dish</quote>.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[ʂ]</phrase></td>
         <td>
-          An allowed variant of Lojban <letteral>c</letteral>. Not an English sound. The Hindi retroflex <quote xml:lang="hi">s</quote> with dot below, or Klingon <quote xml:lang="tlh">S</quote>.
+          An allowed variant of Relojban <letteral>c</letteral>. Not an English sound. The Hindi retroflex <quote xml:lang="hi">s</quote> with dot below, or Klingon <quote xml:lang="tlh">S</quote>.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[t]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban <letteral>t</letteral>. As in English <quote>tea</quote>, <quote>later</quote>, or <quote>not</quote>. It is important to avoid the GA habit of pronouncing the <quote>t</quote> between vowels as <phrase role="IPA">[d]</phrase> or <phrase role="IPA">[ɾ]</phrase>.
+          The preferred pronunciation of Relojban <letteral>t</letteral>. As in English <quote>tea</quote>, <quote>later</quote>, or <quote>not</quote>. It is important to avoid the GA habit of pronouncing the <quote>t</quote> between vowels as <phrase role="IPA">[d]</phrase> or <phrase role="IPA">[ɾ]</phrase>.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[θ]</phrase></td>
         <td>
-          Not normally a Lojban sound, but a possible variant of Lojban <letteral>'</letteral>. The <quote>th</quote> of English <quote>thin</quote> (but not <quote>then</quote>).
+          Not normally a Relojban sound, but a possible variant of Relojban <letteral>'</letteral>. The <quote>th</quote> of English <quote>thin</quote> (but not <quote>then</quote>).
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[v]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban <letteral>v</letteral>. As in English <quote>voice</quote>, <quote>savor</quote>, or <quote>live</quote>.
+          The preferred pronunciation of Relojban <letteral>v</letteral>. As in English <quote>voice</quote>, <quote>savor</quote>, or <quote>live</quote>.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[w]</phrase></td>
         <td>
-          Used in Lojban diphthongs beginning or ending with <letteral>u</letteral>. Like the <quote>w</quote> in English <quote>wet</quote> <phrase role="IPA">[wɛt]</phrase> or <quote>cow</quote> <phrase role="IPA">[kɑw]</phrase>.
+          Used in Relojban diphthongs beginning or ending with <letteral>u</letteral>. Like the <quote>w</quote> in English <quote>wet</quote> <phrase role="IPA">[wɛt]</phrase> or <quote>cow</quote> <phrase role="IPA">[kɑw]</phrase>.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[x]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban <letteral>x</letteral>. Not normally an English sound, but used in some pronunciations of <quote>loch</quote> and <quote>Bach</quote>; <quote>gh</quote> in Scots <quote>might</quote> and <quote>night</quote>. The German <quote xml:lang="de">Ach-Laut</quote>. To pronounce <phrase role="IPA">[x]</phrase>, force air through your throat without vibrating your vocal chords; there should be lots of scrape.
+          The preferred pronunciation of Relojban <letteral>x</letteral>. Not normally an English sound, but used in some pronunciations of <quote>loch</quote> and <quote>Bach</quote>; <quote>gh</quote> in Scots <quote>might</quote> and <quote>night</quote>. The German <quote xml:lang="de">Ach-Laut</quote>. To pronounce <phrase role="IPA">[x]</phrase>, force air through your throat without vibrating your vocal chords; there should be lots of scrape.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[ʏ]</phrase></td>
         <td>
-          A possible Lojban buffer vowel. Not an English sound: the <quote xml:lang="de">ü</quote> of German <quote xml:lang="de">hübsch</quote>.
+          A possible Relojban buffer vowel. Not an English sound: the <quote xml:lang="de">ü</quote> of German <quote xml:lang="de">hübsch</quote>.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[z]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban <letteral>z</letteral>. As in English <quote>zoo</quote>, <quote>hazard</quote>, or <quote>fizz</quote>.
+          The preferred pronunciation of Relojban <letteral>z</letteral>. As in English <quote>zoo</quote>, <quote>hazard</quote>, or <quote>fizz</quote>.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[ʒ]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban <letteral>j</letteral>. The <quote>si</quote> of English <quote>vision</quote>, or the consonant at the end of GA <quote>garage</quote>.
+          The preferred pronunciation of Relojban <letteral>j</letteral>. The <quote>si</quote> of English <quote>vision</quote>, or the consonant at the end of GA <quote>garage</quote>.
         </td>
       </tr>
       <tr>
         <td><phrase role="IPA">[ʐ]</phrase></td>
         <td>
-          An allowed variant of Lojban <letteral>j</letteral>. Not an English sound. The voiced version of <phrase role="IPA">[ʂ]</phrase>.
+          An allowed variant of Relojban <letteral>j</letteral>. Not an English sound. The voiced version of <phrase role="IPA">[ʂ]</phrase>.
         </td>
       </tr>
     </informaltable>
   </section>
   <section xml:id="section-anglophone-diphthongs">
-    <title>English Analogues For Lojban Diphthongs</title>
+    <title>English Analogues For Relojban Diphthongs</title>
     <para>
       <indexterm type="general"><primary>diphthongs</primary><secondary>English analogues of</secondary></indexterm>
-      Here is a list of English words that contain diphthongs that are similar to the Lojban diphthongs. This list does not constitute an official pronunciation guide; it is intended as a help to English-speakers.
+      Here is a list of English words that contain diphthongs that are similar to the Relojban diphthongs. This list does not constitute an official pronunciation guide; it is intended as a help to English-speakers.
     </para>
     <informaltable class="vertsep">
       <thead>
         <tr>
-          <td>Lojban</td>
+          <td>Relojban</td>
           <td>English</td>
         </tr>
       </thead>
@@ -1729,10 +1729,10 @@
     <title>Oddball Orthographies</title>
     <para>
       <indexterm type="general"><primary>orthography</primary><secondary>non-standard</secondary></indexterm>
-      The following notes describe ways in which Lojban has been written or could be written that differ from the standard orthography explained in the rest of this chapter. Nobody needs to read this section except people with an interest in the obscure. Technicalities are used without explanation or further apology.
+      The following notes describe ways in which Relojban has been written or could be written that differ from the standard orthography explained in the rest of this chapter. Nobody needs to read this section except people with an interest in the obscure. Technicalities are used without explanation or further apology.
     </para>
     <para>
-      There exists an alternative orthography for Lojban, which is designed to be as compatible as possible (but no more so) with the orthography used in pre-Lojban versions of Loglan. The consonants undergo no change, except that <letteral>x</letteral> is replaced by <letteral>h</letteral>. The individual vowels likewise remain unchanged. However, the vowel pairs and diphthongs are changed as follows:
+      There exists an alternative orthography for Relojban, which is designed to be as compatible as possible (but no more so) with the orthography used in pre-Relojban versions of Loglan. The consonants undergo no change, except that <letteral>x</letteral> is replaced by <letteral>h</letteral>. The individual vowels likewise remain unchanged. However, the vowel pairs and diphthongs are changed as follows:
     </para>
     <itemizedlist role="bullets">
       <listitem>
@@ -1776,7 +1776,7 @@
       </listitem>
       <listitem>
         <para>
-          It does not represent any changes to the standard Lojban phonology; it is simply a representation of the same phonology using a different written form.
+          It does not represent any changes to the standard Relojban phonology; it is simply a representation of the same phonology using a different written form.
         </para>
       </listitem>
       <listitem>
@@ -1787,12 +1787,12 @@
     </itemizedlist>
     <para role="indent">
       <indexterm type="general"><primary>non-standard orthographies</primary><secondary>Cyrillic</secondary></indexterm>
-      There also exists a Cyrillic orthography for Lojban which was designed when the introductory Lojban brochure was translated into Russian. It uses the <quote>а</quote>, <quote>б</quote>, <quote>в</quote>, <quote>г</quote>, <quote>д</quote>, <quote>е</quote>, <quote>ж</quote>, <quote>з</quote>, <quote>и</quote>, <quote>к</quote>, <quote>л</quote>, <quote>м</quote>, <quote>н</quote>, <quote>о</quote>, <quote>п</quote>, <quote>р</quote>, <quote>с</quote>, <quote>т</quote>, <quote>у</quote>, <quote>ф</quote>, <quote>х</quote>, and <quote>ш</quote> in the obvious ways. The Latin letter <quote>y</quote> is mapped onto <quote>ъ</quote>, as in Bulgarian. The apostrophe, comma, and period are unchanged. Diphthongs are written as vowel pairs, as in the Roman representation.
+      There also exists a Cyrillic orthography for Relojban which was designed when the introductory Relojban brochure was translated into Russian. It uses the <quote>а</quote>, <quote>б</quote>, <quote>в</quote>, <quote>г</quote>, <quote>д</quote>, <quote>е</quote>, <quote>ж</quote>, <quote>з</quote>, <quote>и</quote>, <quote>к</quote>, <quote>л</quote>, <quote>м</quote>, <quote>н</quote>, <quote>о</quote>, <quote>п</quote>, <quote>р</quote>, <quote>с</quote>, <quote>т</quote>, <quote>у</quote>, <quote>ф</quote>, <quote>х</quote>, and <quote>ш</quote> in the obvious ways. The Latin letter <quote>y</quote> is mapped onto <quote>ъ</quote>, as in Bulgarian. The apostrophe, comma, and period are unchanged. Diphthongs are written as vowel pairs, as in the Roman representation.
     </para>
     <para>
-      <indexterm type="general"><primary>Tolkien</primary><secondary>and non-standard Lojban orthography</secondary></indexterm>
+      <indexterm type="general"><primary>Tolkien</primary><secondary>and non-standard Relojban orthography</secondary></indexterm>
       <indexterm type="general"><primary>non-standard orthographies</primary><secondary>Tengwar</secondary></indexterm>
-      Finally, an orthography using the Tengwar of Féanor, a fictional orthography invented by J. R. R. Tolkien and described in the Appendixes to <citetitle pubwork="book">The Lord Of The Rings</citetitle>, has been devised for Lojban. The following mapping, which closely resembles that used for Westron, will be meaningful only to those who have read those appendixes. In brief, the tincotéma and parmatéma are used in the conventional ways; the calmatéma represents palatal consonants, and the quessetéma represents velar consonants.
+      Finally, an orthography using the Tengwar of Féanor, a fictional orthography invented by J. R. R. Tolkien and described in the Appendixes to <citetitle pubwork="book">The Lord Of The Rings</citetitle>, has been devised for Relojban. The following mapping, which closely resembles that used for Westron, will be meaningful only to those who have read those appendixes. In brief, the tincotéma and parmatéma are used in the conventional ways; the calmatéma represents palatal consonants, and the quessetéma represents velar consonants.
     </para>
     <informaltable>
       <colgroup/>
@@ -1837,7 +1837,7 @@
       The letters <quote xml:lang="qya">vala</quote> and <quote xml:lang="qya">anna</quote> are used for <letteral>u</letteral> and <letteral>i</letteral> only when those letters are used to represent glides. Of the additional letters, <letteral>r</letteral>, <letteral>l</letteral>, <letteral>s</letteral>, and <letteral>z</letteral> are written with <quote xml:lang="qya">rómen</quote>, <quote xml:lang="qya">lambe</quote>, <quote xml:lang="qya">silme</quote>, and <quote xml:lang="qya">áre</quote>/<quote xml:lang="qya">esse</quote> respectively; the inverted forms are used as free variants.
     </para>
     <para>
-      Lojban, like Quenya, is a vowel-last language, so tehtar are read as following the tengwar on which they are placed. The conventional tehtar are used for the five regular vowels, and the dot below for <letteral>y</letteral>. The Lojban apostrophe is represented by <quote xml:lang="qya">halla</quote>. There is no equivalent of the Lojban comma or period.
+      Relojban, like Quenya, is a vowel-last language, so tehtar are read as following the tengwar on which they are placed. The conventional tehtar are used for the five regular vowels, and the dot below for <letteral>y</letteral>. The Relojban apostrophe is represented by <quote xml:lang="qya">halla</quote>. There is no equivalent of the Relojban comma or period.
     </para>
   </section>
 </chapter>

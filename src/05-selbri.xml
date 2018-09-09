@@ -9,13 +9,13 @@
   <title>The Relojban selbri</title>
 
   <section xml:id="section-content-words-brivla">
-    <title>Lojban content words: brivla</title>
+    <title>Relojban content words: brivla</title>
     <para>
       <indexterm type="general"><primary>bridi</primary><secondary>relation to selbri</secondary></indexterm>
       <indexterm type="general"><primary>selbri</primary><secondary>relation to bridi</secondary></indexterm>
       <indexterm type="general"><primary>selbri</primary><secondary>definition</secondary></indexterm>
       <indexterm type="general"><primary>bridi</primary><secondary>definition</secondary></indexterm>
-      At the center, logically and often physically, of every Lojban bridi is one or more words which constitute the selbri. A bridi expresses a relationship between things: the selbri specifies which relationship is referred to. The difference between:
+      At the center, logically and often physically, of every Relojban bridi is one or more words which constitute the selbri. A bridi expresses a relationship between things: the selbri specifies which relationship is referred to. The difference between:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-do-mamta-mi">
       <title>
@@ -45,7 +45,7 @@
       <indexterm type="general"><primary>brivla</primary><secondary>types</secondary></indexterm>
       <indexterm type="general"><primary>brivla as selbri</primary></indexterm>
       <indexterm type="general"><primary>selbri</primary><secondary>brivla as</secondary></indexterm>
-      The simplest kind of selbri is a single Lojban content word: a brivla. There are three different varieties of brivla: those which are built into the language (the gismu), those which are derived from combinations of the gismu (the lujvo), and those which are taken (usually in a modified form) from other languages (the fu'ivla). In addition, there are a few cmavo that can act like brivla; these are mentioned in <xref linkend="section-cmavo-selbri"/>, and discussed in full in <xref linkend="chapter-anaphoric-cmavo"/>.
+      The simplest kind of selbri is a single Relojban content word: a brivla. There are three different varieties of brivla: those which are built into the language (the gismu), those which are derived from combinations of the gismu (the lujvo), and those which are taken (usually in a modified form) from other languages (the fu'ivla). In addition, there are a few cmavo that can act like brivla; these are mentioned in <xref linkend="section-cmavo-selbri"/>, and discussed in full in <xref linkend="chapter-anaphoric-cmavo"/>.
     </para>
     <para>
       For the purposes of this chapter, however, all brivla are alike. For example,
@@ -95,7 +95,7 @@
     <para>
       <indexterm type="general"><primary>adjective-noun combination</primary><secondary>with tanru</secondary></indexterm>
       <indexterm type="general"><primary>adverb-verb combination</primary><secondary>with tanru</secondary></indexterm>
-      In Lojban, tanru are also used for the same purposes as English adjective-noun combinations like <quote>big boy</quote> and adverb-verb combinations like <quote>quickly run</quote>. This is a consequence of Lojban not having any such categories as <quote>noun</quote>, <quote>verb</quote>, <quote>adjective</quote>, or <quote>adverb</quote>. English words belonging to any of these categories are translated by simple brivla in Lojban. Here are some examples of tanru:
+      In Relojban, tanru are also used for the same purposes as English adjective-noun combinations like <quote>big boy</quote> and adverb-verb combinations like <quote>quickly run</quote>. This is a consequence of Relojban not having any such categories as <quote>noun</quote>, <quote>verb</quote>, <quote>adjective</quote>, or <quote>adverb</quote>. English words belonging to any of these categories are translated by simple brivla in Relojban. Here are some examples of tanru:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-lemon-tree">
       <title>
@@ -143,7 +143,7 @@
     <para>
       <indexterm type="general"><primary>tertau</primary><secondary>definition of</secondary></indexterm>
       <indexterm type="general"><primary>seltau</primary><secondary>definition of</secondary></indexterm>
-      There are special Lojban terms for the two components of a tanru, derived from the place structure of the word <valsi>tanru</valsi>. The first component is called the <valsi>seltau</valsi>, and the second component is called the <valsi>tertau</valsi>.
+      There are special Relojban terms for the two components of a tanru, derived from the place structure of the word <valsi>tanru</valsi>. The first component is called the <valsi>seltau</valsi>, and the second component is called the <valsi>tertau</valsi>.
     </para>
     <para>
       <indexterm type="general"><primary>tertau</primary><secondary>effect on meaning of tanru</secondary></indexterm>
@@ -300,7 +300,7 @@
       This ambiguity is quite different from the simple tanru ambiguity described in <xref linkend="section-simple-tanru"/>. We understand that <quote>girls' school</quote> means <quote>a school where girls are the students</quote>, and not <quote>a school where girls are the teachers</quote> or <quote>a school which is a girl</quote> (!). Likewise, we understand that <quote>little girl</quote> means <quote>girl who is small</quote>. This is an ambiguity of grouping. Is <quote>girls' school</quote> to be taken as a unit, with <quote>little</quote> specifying the type of girls' school? Or is <quote>little girl</quote> to be taken as a unit, specifying the type of school? In English speech, different tones of voice, or exaggerated speech rhythm showing the grouping, are used to make the distinction; English writing usually leaves it unrepresented.
     </para>
     <para>
-      Lojban makes no use of tones of voice for any purpose; explicit words are used to do the work. The cmavo <valsi>bo</valsi> (which belongs to selma'o BO) may be placed between the two brivla which are most closely associated. Therefore, a Lojban translation of <xref linkend="example-random-id-5UBW"/> would be:
+      Relojban makes no use of tones of voice for any purpose; explicit words are used to do the work. The cmavo <valsi>bo</valsi> (which belongs to selma'o BO) may be placed between the two brivla which are most closely associated. Therefore, a Relojban translation of <xref linkend="example-random-id-5UBW"/> would be:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-nwuU">
       <title>
@@ -342,7 +342,7 @@
     <para role="indent">
       <indexterm type="general"><primary>tanru</primary><secondary>default left-grouping of</secondary></indexterm>
       <indexterm type="general"><primary>left-grouping rule</primary><secondary>definition of</secondary></indexterm>
-      The rules of Lojban do not leave this sentence ambiguous, as the rules of English do with <xref linkend="example-random-id-gCLr"/>. The choice made by the language designers is to say that <xref linkend="example-random-id-9FPm"/> means the same as <xref linkend="example-random-id-jquh"/>. This is true no matter what three brivla are used: the leftmost two are always grouped together. This rule is called the <quote>left-grouping rule</quote>. Left-grouping in seemingly ambiguous structures is quite common &ndash; though not universal &ndash; in other contexts in Lojban.
+      The rules of Relojban do not leave this sentence ambiguous, as the rules of English do with <xref linkend="example-random-id-gCLr"/>. The choice made by the language designers is to say that <xref linkend="example-random-id-9FPm"/> means the same as <xref linkend="example-random-id-jquh"/>. This is true no matter what three brivla are used: the leftmost two are always grouped together. This rule is called the <quote>left-grouping rule</quote>. Left-grouping in seemingly ambiguous structures is quite common &ndash; though not universal &ndash; in other contexts in Relojban.
     </para>
     <para>
       Another way to express the English meaning of <xref linkend="example-random-id-nwuU"/> and <xref linkend="example-random-id-jquh"/>, using parentheses to mark grouping, is:
@@ -364,7 +364,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      Because <quote>type-of</quote> is implicit in the Lojban tanru form, it has no Lojban equivalent.
+      Because <quote>type-of</quote> is implicit in the Relojban tanru form, it has no Relojban equivalent.
     </para>
     <para>
       Note: It is perfectly legal, though pointless, to insert <valsi>bo</valsi> into a simple tanru:
@@ -378,7 +378,7 @@
       </interlinear-gloss>
     </example>
     <para role="noindent">
-      is a legal Lojban bridi that means exactly the same thing as <xref linkend="example-random-id-aIfM"/>, and is ambiguous in exactly the same ways. The cmavo <valsi>bo</valsi> serves only to resolve grouping ambiguity: it says nothing about the more basic ambiguity present in all tanru.
+      is a legal Relojban bridi that means exactly the same thing as <xref linkend="example-random-id-aIfM"/>, and is ambiguous in exactly the same ways. The cmavo <valsi>bo</valsi> serves only to resolve grouping ambiguity: it says nothing about the more basic ambiguity present in all tanru.
     </para>
   </section>
   <section xml:id="section-complex-grouping">
@@ -397,11 +397,11 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      In <xref linkend="example-random-id-m5SD"/>, the selbri is a tanru with seltau <jbophrase>mutce bo barda</jbophrase> and tertau <jbophrase>gerku bo kavbu</jbophrase>. It is worth emphasizing once again that this tanru has the same fundamental ambiguity as all other Lojban tanru: the sense in which the <quote>dog type-of capturer</quote> is said to be <quote>very type-of large</quote> is not precisely specified. Presumably it is his body which is large, but theoretically it could be one of his other properties.
+      In <xref linkend="example-random-id-m5SD"/>, the selbri is a tanru with seltau <jbophrase>mutce bo barda</jbophrase> and tertau <jbophrase>gerku bo kavbu</jbophrase>. It is worth emphasizing once again that this tanru has the same fundamental ambiguity as all other Relojban tanru: the sense in which the <quote>dog type-of capturer</quote> is said to be <quote>very type-of large</quote> is not precisely specified. Presumably it is his body which is large, but theoretically it could be one of his other properties.
     </para>
     <para>
       <indexterm type="general"><primary>pretty</primary><secondary>English ambiguity of</secondary></indexterm>
-      We will now justify the title of this chapter by exploring the ramifications of the phrase <quote>pretty little girls' school</quote>, an expansion of the tanru used in <xref linkend="section-three-part-tanru"/> to four brivla. (Although this example has been used in the Loglan Project almost since the beginning &ndash; it first appeared in Quine's book <citetitle pubwork="book">Word and Object</citetitle> (1960) &ndash; it is actually a mediocre example because of the ambiguity of English <quote>pretty</quote>; it can mean <quote>beautiful</quote>, the sense intended here, or it can mean <quote>very</quote>. Lojban <valsi>melbi</valsi> is not subject to this ambiguity: it means only <quote>beautiful</quote>.)
+      We will now justify the title of this chapter by exploring the ramifications of the phrase <quote>pretty little girls' school</quote>, an expansion of the tanru used in <xref linkend="section-three-part-tanru"/> to four brivla. (Although this example has been used in the Loglan Project almost since the beginning &ndash; it first appeared in Quine's book <citetitle pubwork="book">Word and Object</citetitle> (1960) &ndash; it is actually a mediocre example because of the ambiguity of English <quote>pretty</quote>; it can mean <quote>beautiful</quote>, the sense intended here, or it can mean <quote>very</quote>. Relojban <valsi>melbi</valsi> is not subject to this ambiguity: it means only <quote>beautiful</quote>.)
     </para>
     <para>
       Here are four ways to group this phrase:
@@ -611,7 +611,7 @@
       </cmavo-entry>
     </cmavo-list>
     <para role="indent">
-      Consider the English phrase <quote>big red dog</quote>. How shall this be rendered as a Lojban tanru? The naive attempt:
+      Consider the English phrase <quote>big red dog</quote>. How shall this be rendered as a Relojban tanru? The naive attempt:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-riAq">
       <title>
@@ -639,7 +639,7 @@
     </para>
     <para>
       <indexterm type="general"><primary>logical connectives</primary><secondary>in tanru</secondary></indexterm>
-      The Lojban approach to this problem is to introduce the cmavo <valsi>je</valsi>, which is one of the many equivalents of English <quote>and</quote>. A big red dog is one that is both big and red, and we can say:
+      The Relojban approach to this problem is to introduce the cmavo <valsi>je</valsi>, which is one of the many equivalents of English <quote>and</quote>. A big red dog is one that is both big and red, and we can say:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-0UrF">
       <title>
@@ -754,7 +754,7 @@
       </interlinear-gloss>
     </example>
     <para role="noindent">
-      whereas the interpretation specified by <xref linkend="example-random-id-aFxm"/> does not. This is a kind of semantic ambiguity for which Lojban does not compel a firm resolution. The way in which the school is said to be of type <quote>beautiful and girl</quote> may entail that it is separately a beautiful school and a girls' school; but the alternative interpretation, that the members of the school are beautiful and girls, is also possible. Still another interpretation is:
+      whereas the interpretation specified by <xref linkend="example-random-id-aFxm"/> does not. This is a kind of semantic ambiguity for which Relojban does not compel a firm resolution. The way in which the school is said to be of type <quote>beautiful and girl</quote> may entail that it is separately a beautiful school and a girls' school; but the alternative interpretation, that the members of the school are beautiful and girls, is also possible. Still another interpretation is:
     </para>
     <example xml:id="example-random-id-2cjH">
       <title>
@@ -771,7 +771,7 @@
       In general, logical connectives within tanru cannot undergo the formal manipulations that are possible with the related logical connectives that exist outside tanru; see <xref linkend="section-tanru"/> for further details.
     </para>
     <para>
-      The logical connective <valsi>je</valsi> is only one of the fourteen logical connectives that Lojban provides. Here are a few examples of some of the others:
+      The logical connective <valsi>je</valsi> is only one of the fourteen logical connectives that Relojban provides. Here are a few examples of some of the others:
     </para>
     <example xml:id="example-random-id-qJse" role="interlinear-gloss-example">
       <title>
@@ -1173,7 +1173,7 @@
     </cmavo-list>
     <para role="indent">
       <indexterm type="general"><primary>tanru inversion</primary></indexterm>
-      The standard order of Lojban tanru, whereby the modifier precedes what it modifies, is very natural to English-speakers: we talk of <quote>blue houses</quote>, not of <quote>houses blue</quote>. In other languages, however, such matters are differently arranged, and Lojban supports this reverse order (tertau before seltau) by inserting the particle <valsi>co</valsi>. <xref linkend="example-random-id-qjtV"/> and <xref linkend="example-random-id-qjty"/> mean exactly the same thing:
+      The standard order of Relojban tanru, whereby the modifier precedes what it modifies, is very natural to English-speakers: we talk of <quote>blue houses</quote>, not of <quote>houses blue</quote>. In other languages, however, such matters are differently arranged, and Relojban supports this reverse order (tertau before seltau) by inserting the particle <valsi>co</valsi>. <xref linkend="example-random-id-qjtV"/> and <xref linkend="example-random-id-qjty"/> mean exactly the same thing:
     </para>
     <example xml:id="example-random-id-qjtV" role="interlinear-gloss-example">
       <title>
@@ -1227,7 +1227,7 @@
       <xref linkend="example-random-id-qjVx"/> is a less deeply nested construction, requiring fewer cmavo. As a result it is probably easier to understand.
     </para>
     <para>
-      Note that in Lojban <quote>trying to go</quote> is expressed using <valsi>troci</valsi> as the tertau. The reason is that <quote>trying to go</quote> is a <quote>going type of trying</quote>, not a <quote>trying type of going</quote>. The trying is more fundamental than the going &ndash; if the trying fails, we may not have a going at all.
+      Note that in Relojban <quote>trying to go</quote> is expressed using <valsi>troci</valsi> as the tertau. The reason is that <quote>trying to go</quote> is a <quote>going type of trying</quote>, not a <quote>trying type of going</quote>. The trying is more fundamental than the going &ndash; if the trying fails, we may not have a going at all.
     </para>
     <para>
       <indexterm type="general"><primary>inverted tanru</primary><secondary>effect on sumti after the selbri</secondary></indexterm>
@@ -1396,7 +1396,7 @@
     <para role="indent">
       <indexterm type="general"><primary>equivalents to brivla</primary></indexterm>
       <indexterm type="general"><primary>brivla equivalents</primary></indexterm>
-      So far we have only discussed brivla and tanru built up from brivla as possible selbri. In fact, there are a few other constructions in Lojban which are grammatically equivalent to brivla: they can be used either directly as selbri, or as components in tanru. Some of these types of simple selbri are discussed at length in <xref linkend="chapter-anaphoric-cmavo"/>, <xref linkend="chapter-abstractions"/>, and <xref linkend="chapter-mekso"/>; but for completeness these types are mentioned here with a brief explanation and an example of their use in selbri.
+      So far we have only discussed brivla and tanru built up from brivla as possible selbri. In fact, there are a few other constructions in Relojban which are grammatically equivalent to brivla: they can be used either directly as selbri, or as components in tanru. Some of these types of simple selbri are discussed at length in <xref linkend="chapter-anaphoric-cmavo"/>, <xref linkend="chapter-abstractions"/>, and <xref linkend="chapter-mekso"/>; but for completeness these types are mentioned here with a brief explanation and an example of their use in selbri.
     </para>
     <para>
       <indexterm type="general"><primary>tanru</primary><secondary>with GOhA</secondary></indexterm>
@@ -1450,7 +1450,7 @@
     <para>
       <indexterm type="general"><primary>tanru</primary><secondary>containing mathematical expressions</secondary></indexterm>
       <indexterm type="general"><primary>mathematical expressions in tanru</primary></indexterm>
-      Lojban mathematical expressions (mekso) can be incorporated into selbri in two different ways. Mathematical operators such as <valsi>su'i</valsi>, meaning <quote>plus</quote>, can be transformed into selbri by prefixing them with <valsi>nu'a</valsi> (of selma'o NUhA). The resulting place structure is:
+      Relojban mathematical expressions (mekso) can be incorporated into selbri in two different ways. Mathematical operators such as <valsi>su'i</valsi>, meaning <quote>plus</quote>, can be transformed into selbri by prefixing them with <valsi>nu'a</valsi> (of selma'o NUhA). The resulting place structure is:
     </para>
     <definition><content>x1 is the result of applying (the operator) to arguments x2, x3, etc.</content></definition>
     <para>
@@ -1507,7 +1507,7 @@
     </example>
     <para role="indent">
       <indexterm type="lojban-word"><primary>NU selma'o</primary></indexterm>
-      Finally, an important type of simple selbri which is not a brivla is the abstraction. Grammatically, abstractions are simple: a cmavo of selma'o NU, followed by a bridi, followed by the elidable terminator <valsi>kei</valsi> of selma'o KEI. Semantically, abstractions are an extremely subtle and powerful feature of Lojban whose full ramifications are documented in <xref linkend="chapter-abstractions"/>. A few examples:
+      Finally, an important type of simple selbri which is not a brivla is the abstraction. Grammatically, abstractions are simple: a cmavo of selma'o NU, followed by a bridi, followed by the elidable terminator <valsi>kei</valsi> of selma'o KEI. Semantically, abstractions are an extremely subtle and powerful feature of Relojban whose full ramifications are documented in <xref linkend="chapter-abstractions"/>. A few examples:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-5szz">
       <title>
@@ -1719,7 +1719,7 @@
       Conversion is the process of changing a selbri so that its places appear in a different order. This is not the same as labeling the sumti with the cmavo of FA, as mentioned in <xref linkend="section-be-sumti"/>, and then rearranging the order in which the sumti are spoken or written. Conversion transforms the selbri into a distinct, though closely related, selbri with renumbered places.
     </para>
     <para>
-      In Lojban, conversion is accomplished by placing a cmavo of selma'o SE before the selbri:
+      In Relojban, conversion is accomplished by placing a cmavo of selma'o SE before the selbri:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-29Gu">
       <title>
@@ -1827,7 +1827,7 @@
     <para>
       <indexterm type="general"><primary>selbri</primary><secondary>scalar negation of</secondary></indexterm>
       <indexterm type="general"><primary>scalar negation</primary><secondary>effect on selbri</secondary></indexterm>
-      Negation is too large and complex a topic to explain fully in this chapter; see <xref linkend="chapter-negation"/>. In brief, there are two main types of negation in Lojban. This section is concerned with so-called <quote>scalar negation</quote>, which is used to state that a true relation between the sumti is something other than what the selbri specifies. Scalar negation is expressed by cmavo of selma'o NAhE:
+      Negation is too large and complex a topic to explain fully in this chapter; see <xref linkend="chapter-negation"/>. In brief, there are two main types of negation in Relojban. This section is concerned with so-called <quote>scalar negation</quote>, which is used to state that a true relation between the sumti is something other than what the selbri specifies. Scalar negation is expressed by cmavo of selma'o NAhE:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-4oxH">
       <title>
@@ -1996,7 +1996,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      In <xref linkend="example-random-id-0WLq"/>, everything after <valsi>be</valsi> is a linked sumti, so the place structure is that of <valsi>cadzu</valsi>, whose x2 place is the surface walked upon. It is less than clear what an <quote>arm-type goer</quote> might be. Furthermore, since the x3 place has been occupied by the linked sumti, the <jbophrase>le zarci</jbophrase> following the selbri falls into the nonexistent x4 place of <valsi>cadzu</valsi>. As a result, the whole example, though grammatical, is complete nonsense. (The bracketed Lojban words appear where a fluent Lojbanist would understand them to be implied.)
+      In <xref linkend="example-random-id-0WLq"/>, everything after <valsi>be</valsi> is a linked sumti, so the place structure is that of <valsi>cadzu</valsi>, whose x2 place is the surface walked upon. It is less than clear what an <quote>arm-type goer</quote> might be. Furthermore, since the x3 place has been occupied by the linked sumti, the <jbophrase>le zarci</jbophrase> following the selbri falls into the nonexistent x4 place of <valsi>cadzu</valsi>. As a result, the whole example, though grammatical, is complete nonsense. (The bracketed Relojban words appear where a fluent Relojbanist would understand them to be implied.)
     </para>
     <para>
       <indexterm type="general"><primary>na'e</primary><secondary>before gu'e</secondary></indexterm>
@@ -3615,13 +3615,13 @@
       The following examples show every possible grouping arrangement of <jbophrase>melbi cmalu nixli ckule</jbophrase> using <valsi>bo</valsi> or <valsi>ke</valsi>&hellip;<valsi>ke'e</valsi> for grouping and <valsi>je</valsi> or <valsi>je</valsi><valsi>bo</valsi> for logical connection. Most of these are definitely not plausible interpretations of the English phrase <quote>pretty little girls' school</quote>, especially those which describe something which is both a girl and a school.
     </para>
     <para>
-      <!-- multiple examples --><xref linkend="example-random-id-qjmr"/>, <xref linkend="example-random-id-qjNi"/>, <xref linkend="example-random-id-qjog"/>, <xref linkend="example-random-id-qjop"/>, and <xref linkend="example-random-id-tz0L"/> are repeated here as <xref linkend="example-random-id-qjzw"/>, <xref linkend="example-random-id-qKaM"/>, <xref linkend="example-random-id-qKfX"/>, <xref linkend="example-random-id-qKmg"/>, and <xref linkend="example-random-id-qKPQ"/> respectively. The seven examples following each of these share the same grouping pattern, but differ in the presence or absence of <valsi>je</valsi> at each possible site. Some of the examples have more than one Lojban version. In that case, they differ only in grouping mechanism, and are always equivalent in meaning.
+      <!-- multiple examples --><xref linkend="example-random-id-qjmr"/>, <xref linkend="example-random-id-qjNi"/>, <xref linkend="example-random-id-qjog"/>, <xref linkend="example-random-id-qjop"/>, and <xref linkend="example-random-id-tz0L"/> are repeated here as <xref linkend="example-random-id-qjzw"/>, <xref linkend="example-random-id-qKaM"/>, <xref linkend="example-random-id-qKfX"/>, <xref linkend="example-random-id-qKmg"/>, and <xref linkend="example-random-id-qKPQ"/> respectively. The seven examples following each of these share the same grouping pattern, but differ in the presence or absence of <valsi>je</valsi> at each possible site. Some of the examples have more than one Relojban version. In that case, they differ only in grouping mechanism, and are always equivalent in meaning.
     </para>
     <para>
       The logical connective <valsi>je</valsi> is associative: that is, <quote>A and (B and C)</quote> is the same as <quote>(A and B) and C</quote>. Therefore, some of the examples have the same meaning as others. In particular, <xref linkend="example-random-id-qKAG"/>, <xref linkend="example-random-id-qKFA"/>, <xref linkend="example-random-id-qKLN"/>, <xref linkend="example-random-id-qKpo"/>, and <xref linkend="example-random-id-qKU6"/> all have the same meaning because all four brivla are logically connected and the grouping is simply irrelevant. Other equivalent forms are noted in the examples themselves. However, if <valsi>je</valsi> were replaced by <valsi>naja</valsi> or <valsi>jo</valsi> or most of the other logical connectives, the meanings would become distinct.
     </para>
     <para>
-      It must be emphasized that, because of the ambiguity of all tanru, the English translations are by no means definitive &ndash; they represent only one possible interpretation of the corresponding Lojban sentence.
+      It must be emphasized that, because of the ambiguity of all tanru, the English translations are by no means definitive &ndash; they represent only one possible interpretation of the corresponding Relojban sentence.
     </para>
     <example xml:id="example-random-id-qjzw" role="interlinear-gloss-example">
       <title>

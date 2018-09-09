@@ -14,7 +14,7 @@
     <para>
       <indexterm type="general"><primary>truth functions</primary></indexterm>
       <indexterm type="general"><primary>logical language</primary><secondary>truth functions</secondary></indexterm>
-      Lojban is a logical language: the name of the language itself means <quote>logical language</quote>. The fundamentals of ordinary logic (there are variant logics, which aren't addressed in this book) include the notions of a <quote>sentence</quote> (sometimes called a <quote>statement</quote> or <quote>proposition</quote>), which asserts a truth or falsehood, and a small set of <quote>truth functions</quote>, which combine two sentences to create a new sentence. The truth functions have the special characteristic that the truth value (that is, the truth or falsehood) of the results depends only on the truth value of the component sentences. For example,
+      Relojban is a logical language: the name of the language itself means <quote>logical language</quote>. The fundamentals of ordinary logic (there are variant logics, which aren't addressed in this book) include the notions of a <quote>sentence</quote> (sometimes called a <quote>statement</quote> or <quote>proposition</quote>), which asserts a truth or falsehood, and a small set of <quote>truth functions</quote>, which combine two sentences to create a new sentence. The truth functions have the special characteristic that the truth value (that is, the truth or falsehood) of the results depends only on the truth value of the component sentences. For example,
     </para>
     <example xml:id="example-random-id-mJ6y">
       <title>
@@ -33,10 +33,10 @@
     </para>
     <para>
       <indexterm type="general"><primary>logical connectives</primary></indexterm>
-      Words like <quote>or</quote> are called <quote>logical connectives</quote>, and Lojban has many of them, as befits a logical language. This chapter is mostly concerned with explaining the forms and uses of the Lojban logical connectives. There are a number of other logical connectives in English such as <quote>and</quote>, <quote>and/or</quote>, <quote>if</quote>, <quote>only if</quote>, <quote>whether or not</quote>, and others; however, not every use of these English words corresponds to a logical connective. This point will be made clear in particular cases as needed. The other English meanings are supported by different Lojban connective constructs.
+      Words like <quote>or</quote> are called <quote>logical connectives</quote>, and Relojban has many of them, as befits a logical language. This chapter is mostly concerned with explaining the forms and uses of the Relojban logical connectives. There are a number of other logical connectives in English such as <quote>and</quote>, <quote>and/or</quote>, <quote>if</quote>, <quote>only if</quote>, <quote>whether or not</quote>, and others; however, not every use of these English words corresponds to a logical connective. This point will be made clear in particular cases as needed. The other English meanings are supported by different Relojban connective constructs.
     </para>
     <para>
-      The Lojban connectives form a system (as the title of this chapter suggests), regular and predictable, whereas natural-language connectives are rather less systematic and therefore less predictable.
+      The Relojban connectives form a system (as the title of this chapter suggests), regular and predictable, whereas natural-language connectives are rather less systematic and therefore less predictable.
     </para>
     <para>
       <indexterm type="general"><primary>truth table</primary><secondary>explanation</secondary></indexterm>
@@ -153,13 +153,13 @@
     <para>
       <indexterm type="general"><primary>logical connectives</primary><secondary>relation to truth functions</secondary></indexterm>
       <indexterm type="general"><primary>truth functions</primary><secondary>relation to logical connectives</secondary></indexterm>
-      <indexterm type="general"><primary>truth functions</primary><secondary>fundamental 4 in Lojban</secondary></indexterm>
+      <indexterm type="general"><primary>truth functions</primary><secondary>fundamental 4 in Relojban</secondary></indexterm>
       <indexterm type="general"><primary>fancy U</primary><secondary>notation convention</secondary></indexterm>
       <indexterm type="general"><primary>fancy O</primary><secondary>notation convention</secondary></indexterm>
       <indexterm type="general"><primary>fancy E</primary><secondary>notation convention</secondary></indexterm>
       <indexterm type="general"><primary>fancy A</primary><secondary>notation convention</secondary></indexterm>
-      <indexterm type="general"><primary>truth tables</primary><secondary>for 4 fundamental Lojban truth functions</secondary></indexterm>
-      Lojban regards four of these 16 truth functions as fundamental, and assigns them the four vowels <phrase role="logical-vowel">A</phrase>, <phrase role="logical-vowel">E</phrase>, <phrase role="logical-vowel">O</phrase>, and <phrase role="logical-vowel">U</phrase>. These letters do not represent actual cmavo or selma'o, but rather a component vowel from which actual logical-connective cmavo are built up, as explained in the next section. Here are the four vowels, their truth tables, and rough English equivalents:
+      <indexterm type="general"><primary>truth tables</primary><secondary>for 4 fundamental Relojban truth functions</secondary></indexterm>
+      Relojban regards four of these 16 truth functions as fundamental, and assigns them the four vowels <phrase role="logical-vowel">A</phrase>, <phrase role="logical-vowel">E</phrase>, <phrase role="logical-vowel">O</phrase>, and <phrase role="logical-vowel">U</phrase>. These letters do not represent actual cmavo or selma'o, but rather a component vowel from which actual logical-connective cmavo are built up, as explained in the next section. Here are the four vowels, their truth tables, and rough English equivalents:
     </para>
     <informaltable>
       <tr>
@@ -193,7 +193,7 @@
       <member><phrase role="logical-vowel">U</phrase> is true if the first sentence is true, regardless of the truth value of the second sentence</member>
     </simplelist>
     <para>
-      <indexterm type="general"><primary>truth functions</primary><secondary>creating all 16 with Lojban's basic set</secondary></indexterm>
+      <indexterm type="general"><primary>truth functions</primary><secondary>creating all 16 with Relojban's basic set</secondary></indexterm>
       With the four vowels, the ability to negate either sentence, and the ability to exchange the sentences, as if their order had been reversed, we can create all of the 16 possible truth functions except TTTT and FFFF, which are fairly useless anyway. The following table illustrates how to create each of the 14 remaining truth functions:
     </para>
     <informaltable>
@@ -250,7 +250,7 @@
     <title>The six types of logical connectives</title>
     <para>
       <indexterm type="general"><primary>logical connectives</primary><secondary>rationale for multiple sets in grammar</secondary></indexterm>
-      In order to remain unambiguous, Lojban cannot have only a single logical connective for each truth function. There are many places in the grammar of the language where logical connection is permitted, and each must have its appropriate set of connectives. If the connective suitable for sumti were used to connect selbri, ambiguity would result.
+      In order to remain unambiguous, Relojban cannot have only a single logical connective for each truth function. There are many places in the grammar of the language where logical connection is permitted, and each must have its appropriate set of connectives. If the connective suitable for sumti were used to connect selbri, ambiguity would result.
     </para>
     <para>
       Consider the English sentence:
@@ -264,7 +264,7 @@
       </para>
     </example>
     <para role="noindent">
-      where the last word could be followed by <quote>the door</quote>, a noun phrase, or by <quote>saw the horses</quote>, a sentence with subject omitted, or by <quote>John went to the door</quote>, a full sentence, or by one of a variety of other English grammatical constructions. Lojban cannot tolerate such grammatical looseness.
+      where the last word could be followed by <quote>the door</quote>, a noun phrase, or by <quote>saw the horses</quote>, a sentence with subject omitted, or by <quote>John went to the door</quote>, a full sentence, or by one of a variety of other English grammatical constructions. Relojban cannot tolerate such grammatical looseness.
     </para>
     <para>
       <indexterm type="lojban-word"><primary>JA selma'o</primary></indexterm>
@@ -277,7 +277,7 @@
     </para>
     <para>
       <indexterm type="general"><primary>compound logical connectives</primary><secondary>components</secondary></indexterm>
-      Obviously, four cmavo are not enough to express the 14 truth functions explained in <xref linkend="section-connectives-introduction"/>. Therefore, compound cmavo must be used. These compound cmavo follow a systematic pattern: each has one cmavo from the five logical connection selma'o at its heart, and may also contain one or more of the auxiliary cmavo <valsi>se</valsi>, <valsi>na</valsi>, or <valsi>nai</valsi>. Which auxiliaries are used with which logical connection cmavo, and with what grammar and meaning, will be explained in the following sections. The uses of each of these auxiliary cmavo relates to its other uses in other parts of Lojban grammar.
+      Obviously, four cmavo are not enough to express the 14 truth functions explained in <xref linkend="section-connectives-introduction"/>. Therefore, compound cmavo must be used. These compound cmavo follow a systematic pattern: each has one cmavo from the five logical connection selma'o at its heart, and may also contain one or more of the auxiliary cmavo <valsi>se</valsi>, <valsi>na</valsi>, or <valsi>nai</valsi>. Which auxiliaries are used with which logical connection cmavo, and with what grammar and meaning, will be explained in the following sections. The uses of each of these auxiliary cmavo relates to its other uses in other parts of Relojban grammar.
     </para>
     <para>
       <indexterm type="lojban-word"><primary>JA selma'o</primary></indexterm>
@@ -285,12 +285,12 @@
       <indexterm type="general"><primary>ek</primary><secondary>definition</secondary></indexterm>
       <indexterm type="general"><primary>-ek</primary><secondary>in name for logical connectives</secondary></indexterm>
       <indexterm type="general"><primary>compound logical connectives</primary><secondary>naming convention</secondary></indexterm>
-      For convenience, each of the types of compound cmavo used for logical connection is designated by a Lojban name. The name is derived by changing the final <quote>-A</quote> of the selma'o name to <quote>-ek</quote>; the reasons for using <quote>-ek</quote> are buried deep in the history of the Loglan Project. Thus, compound cmavo based on selma'o A are known as eks, and those based on selma'o JA are known as jeks. (When writing in English, it is conventional to use <quote>eks</quote> as the plural of <quote>ek</quote>.) When the term <quote>logical connective</quote> is used in this chapter, it refers to one or more of these kinds of compound cmavo.
+      For convenience, each of the types of compound cmavo used for logical connection is designated by a Relojban name. The name is derived by changing the final <quote>-A</quote> of the selma'o name to <quote>-ek</quote>; the reasons for using <quote>-ek</quote> are buried deep in the history of the Loglan Project. Thus, compound cmavo based on selma'o A are known as eks, and those based on selma'o JA are known as jeks. (When writing in English, it is conventional to use <quote>eks</quote> as the plural of <quote>ek</quote>.) When the term <quote>logical connective</quote> is used in this chapter, it refers to one or more of these kinds of compound cmavo.
     </para>
     <para>
       <indexterm type="lojban-word"><primary>JA selma'o</primary></indexterm>
       <indexterm type="general"><primary>ijek</primary><secondary>definition</secondary></indexterm>
-      Why does the title of this section refer to <quote>six types</quote> when there are only five selma'o? A jek may be preceded by <valsi>i</valsi>, the usual Lojban cmavo for connecting two sentences. The compound produced by <valsi>i</valsi> followed by a jek is known as an ijek. It is useful to think of ijeks as a sixth kind of logical connective, parallel to eks, jeks, geks, giheks, and guheks.
+      Why does the title of this section refer to <quote>six types</quote> when there are only five selma'o? A jek may be preceded by <valsi>i</valsi>, the usual Relojban cmavo for connecting two sentences. The compound produced by <valsi>i</valsi> followed by a jek is known as an ijek. It is useful to think of ijeks as a sixth kind of logical connective, parallel to eks, jeks, geks, giheks, and guheks.
     </para>
     <para>
       <indexterm type="lojban-word"><primary>JOI selma'o</primary></indexterm>
@@ -307,7 +307,7 @@
     <para>
       <indexterm type="general"><primary>bridi</primary><secondary>logical connective for</secondary></indexterm>
       <indexterm type="general"><primary>ijek logical connectives</primary><secondary>connecting bridi</secondary></indexterm>
-      Now we are ready to express <xref linkend="example-random-id-mJ6y"/> in Lojban! The kind of logical connective which is placed between two Lojban bridi to connect them logically is an ijek:
+      Now we are ready to express <xref linkend="example-random-id-mJ6y"/> in Relojban! The kind of logical connective which is placed between two Relojban bridi to connect them logically is an ijek:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-h2hN">
       <title>
@@ -318,7 +318,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      Here we have two separate Lojban bridi, <jbophrase>la .djan. cu nanmu</jbophrase> and <jbophrase>la .djeimyz. cu ninmu</jbophrase>. These bridi are connected by <valsi>.i</valsi><valsi>ja</valsi>, the ijek for the truth function <phrase role="logical-vowel">A</phrase>. The <valsi>i</valsi> portion of the ijek tells us that we are dealing with separate sentences here. Similarly, we can now say:
+      Here we have two separate Relojban bridi, <jbophrase>la .djan. cu nanmu</jbophrase> and <jbophrase>la .djeimyz. cu ninmu</jbophrase>. These bridi are connected by <valsi>.i</valsi><valsi>ja</valsi>, the ijek for the truth function <phrase role="logical-vowel">A</phrase>. The <valsi>i</valsi> portion of the ijek tells us that we are dealing with separate sentences here. Similarly, we can now say:
     </para>
     <example xml:id="example-random-id-qGiu" role="interlinear-gloss-example">
       <title>
@@ -346,7 +346,7 @@
     </example>
     <para role="indent">
       <indexterm type="general"><primary>bridi</primary><secondary>logical connection with negation</secondary></indexterm>
-      To obtain the other truth tables listed in <xref linkend="section-four-basics"/>, we need to know how to negate the two bridi which represent the component sentences. We could negate them directly by inserting <valsi>na</valsi> before the selbri, but Lojban also allows us to place the negation within the connective itself.
+      To obtain the other truth tables listed in <xref linkend="section-four-basics"/>, we need to know how to negate the two bridi which represent the component sentences. We could negate them directly by inserting <valsi>na</valsi> before the selbri, but Relojban also allows us to place the negation within the connective itself.
     </para>
     <para>
       <indexterm type="lojban-word"><primary>JA selma'o</primary></indexterm>
@@ -394,9 +394,9 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      <indexterm type="general"><primary>if</primary><secondary>English usage contrasted with Lojban logical connective</secondary></indexterm>
+      <indexterm type="general"><primary>if</primary><secondary>English usage contrasted with Relojban logical connective</secondary></indexterm>
       <indexterm type="general"><primary>if</primary><secondary>meaning in logical connections</secondary></indexterm>
-      How's that again? Are those two English sentences in <xref linkend="example-random-id-FXSC"/> really equivalent? In English, no. The Lojban TTFT truth function can be glossed <quote>A if B</quote>, but the <quote>if</quote> does not quite have its English sense. <xref linkend="example-random-id-FXSC"/> is true so long as John is a man, even if James is not a woman; likewise, it is true just because James is not a woman, regardless of John's gender. This kind of <quote>if-then</quote> is technically known as a <quote>material conditional</quote>.
+      How's that again? Are those two English sentences in <xref linkend="example-random-id-FXSC"/> really equivalent? In English, no. The Relojban TTFT truth function can be glossed <quote>A if B</quote>, but the <quote>if</quote> does not quite have its English sense. <xref linkend="example-random-id-FXSC"/> is true so long as John is a man, even if James is not a woman; likewise, it is true just because James is not a woman, regardless of John's gender. This kind of <quote>if-then</quote> is technically known as a <quote>material conditional</quote>.
     </para>
     <para>
       Since James is not a woman (by our assertions in <xref linkend="section-connectives-introduction"/>), the English sentence <quote>John is a man if James is a woman</quote> seems to be neither true nor false, since it assumes something which is not true. It turns out to be most convenient to treat this <quote>if</quote> as TTFT, which on investigation means that <xref linkend="example-random-id-FXSC"/> is true. <xref linkend="example-random-id-EdY5"/>, however, is equally true:
@@ -412,7 +412,7 @@
     <para role="indent">
       <indexterm type="general"><primary>false statement</primary><secondary>implications of</secondary></indexterm>
       <indexterm type="general"><primary>principle of consistency</primary><secondary>of logical-if statements</secondary></indexterm>
-      This can be thought of as a principle of consistency, and may be paraphrased as follows: <quote>If a false statement is true, any statement follows from it.</quote> All uses of English <quote>if</quote> must be considered very carefully when translating into Lojban to see if they really fit this Lojban mold.
+      This can be thought of as a principle of consistency, and may be paraphrased as follows: <quote>If a false statement is true, any statement follows from it.</quote> All uses of English <quote>if</quote> must be considered very carefully when translating into Relojban to see if they really fit this Relojban mold.
     </para>
     <para>
       <indexterm type="general"><primary>only if</primary><secondary>compared with if … then</secondary></indexterm>
@@ -465,7 +465,7 @@
     <para>
       <indexterm type="general"><primary>forethought connectives</primary><secondary>contrasted with afterthought connectives</secondary></indexterm>
       <indexterm type="general"><primary>afterthought connectives</primary><secondary>contrasted with forethought connectives</secondary></indexterm>
-      Many concepts in Lojban are expressible in two different ways, generally referred to as <quote>afterthought</quote> and <quote>forethought</quote>. <xref linkend="section-bridi-connection"/> discussed what is called <quote>afterthought bridi logical connection</quote>. The word <quote>afterthought</quote> is used because the connective cmavo and the second bridi were added, as it were, afterwards and without changing the form of the first bridi. This form might be used by someone who makes a statement and then wishes to add or qualify that statement after it has been completed. Thus,
+      Many concepts in Relojban are expressible in two different ways, generally referred to as <quote>afterthought</quote> and <quote>forethought</quote>. <xref linkend="section-bridi-connection"/> discussed what is called <quote>afterthought bridi logical connection</quote>. The word <quote>afterthought</quote> is used because the connective cmavo and the second bridi were added, as it were, afterwards and without changing the form of the first bridi. This form might be used by someone who makes a statement and then wishes to add or qualify that statement after it has been completed. Thus,
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-dp8V">
       <title>
@@ -504,7 +504,7 @@
       </interlinear-gloss>
     </example>
     <para role="noindent">
-      <valsi>ga</valsi> is the cmavo which represents the <phrase role="logical-vowel">A</phrase> truth function in selma'o GA. The word <valsi>gi</valsi> does not belong to GA at all, but constitutes its own selma'o: it serves only to separate the two bridi without having any content of its own. The English translation of <valsi>ga</valsi>&hellip;<valsi>gi</valsi> is <quote>either ... or</quote>, but in the English form the truth function is specified both by the word <quote>either</quote> and by the word <quote>or</quote>: not so in Lojban.
+      <valsi>ga</valsi> is the cmavo which represents the <phrase role="logical-vowel">A</phrase> truth function in selma'o GA. The word <valsi>gi</valsi> does not belong to GA at all, but constitutes its own selma'o: it serves only to separate the two bridi without having any content of its own. The English translation of <valsi>ga</valsi>&hellip;<valsi>gi</valsi> is <quote>either ... or</quote>, but in the English form the truth function is specified both by the word <quote>either</quote> and by the word <quote>or</quote>: not so in Relojban.
     </para>
     <para>
       <indexterm type="general"><primary>i</primary><secondary>regarding forethought bridi connection</secondary></indexterm>
@@ -552,11 +552,11 @@
     </para>
     <para>
       <indexterm type="general"><primary>logical connectives</primary><secondary>negated first sentence as a potential problem for understanding</secondary></indexterm>
-      Why does English insist on forethought in the translation of <xref linkend="example-random-id-Xcg1"/>? Possibly because it would be confusing to seemingly assert a sentence and then make it conditional (which, as the Lojban form shows, involves a negation). Truth functions which involve negating the first sentence may be confusing, even to the Lojbanic understanding, when expressed using afterthought.
+      Why does English insist on forethought in the translation of <xref linkend="example-random-id-Xcg1"/>? Possibly because it would be confusing to seemingly assert a sentence and then make it conditional (which, as the Relojban form shows, involves a negation). Truth functions which involve negating the first sentence may be confusing, even to the Relojbanic understanding, when expressed using afterthought.
     </para>
     <para>
       <indexterm type="general"><primary>if … then</primary><secondary>logical connectives contrasted with other translations</secondary></indexterm>
-      It must be reiterated here that not every use of English <quote>if ... then</quote> is properly translated by <valsi>.i</valsi><valsi>na</valsi><valsi>ja</valsi> or <valsi>ganai</valsi>&hellip;<valsi>gi</valsi>; anything with implications of time needs a somewhat different Lojban translation, which will be discussed in <xref linkend="section-sumtcita"/>. Causal sentences like <quote>If you feed the pig, then it will grow</quote> are not logical connectives of any type, but rather need a translation using <valsi>rinka</valsi> as the selbri joining two event abstractions, thus:
+      It must be reiterated here that not every use of English <quote>if ... then</quote> is properly translated by <valsi>.i</valsi><valsi>na</valsi><valsi>ja</valsi> or <valsi>ganai</valsi>&hellip;<valsi>gi</valsi>; anything with implications of time needs a somewhat different Relojban translation, which will be discussed in <xref linkend="section-sumtcita"/>. Causal sentences like <quote>If you feed the pig, then it will grow</quote> are not logical connectives of any type, but rather need a translation using <valsi>rinka</valsi> as the selbri joining two event abstractions, thus:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-TQP9">
       <title>
@@ -659,7 +659,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      Here only a single sumti differs between the two bridi. Lojban does not require that both bridi be expressed in full. Instead, a single bridi can be given which contains both of the different sumti and uses a logical connective from a different selma'o to combine the two sumti:
+      Here only a single sumti differs between the two bridi. Relojban does not require that both bridi be expressed in full. Instead, a single bridi can be given which contains both of the different sumti and uses a logical connective from a different selma'o to combine the two sumti:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-JTIm">
       <title>
@@ -673,7 +673,7 @@
       <indexterm type="lojban-word"><primary>A selma'o</primary></indexterm>
       <indexterm type="lojban-word"><primary>.e</primary></indexterm>
       <indexterm type="general"><primary>logical connection</primary><secondary>transformation between forms</secondary></indexterm>
-      <xref linkend="example-random-id-JTIm"/> means exactly the same thing as <xref linkend="example-random-id-Ecnq"/>: one may be rigorously transformed into the other without any change of logical meaning. This rule is true in general for every different kind of logical connection in Lojban; all of them, with one exception (see <xref linkend="section-tanru"/>), can always be transformed into a logical connection between sentences that expresses the same truth function.
+      <xref linkend="example-random-id-JTIm"/> means exactly the same thing as <xref linkend="example-random-id-Ecnq"/>: one may be rigorously transformed into the other without any change of logical meaning. This rule is true in general for every different kind of logical connection in Relojban; all of them, with one exception (see <xref linkend="section-tanru"/>), can always be transformed into a logical connection between sentences that expresses the same truth function.
     </para>
     <para>
       <indexterm type="lojban-word"><primary>A selma'o</primary></indexterm>
@@ -709,7 +709,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      The second line of <xref linkend="example-random-id-7KHA"/> is highly stilted English, but the first line (of which it is a literal translation) is excellent Lojban.
+      The second line of <xref linkend="example-random-id-7KHA"/> is highly stilted English, but the first line (of which it is a literal translation) is excellent Relojban.
     </para>
     <para>
       <indexterm type="lojban-word"><primary>GA selma'o</primary></indexterm>
@@ -747,7 +747,7 @@
     <title>More than two propositions</title>
     <para>
       <indexterm type="general"><primary>logical connectives</primary><secondary>more than 2 sentences</secondary></indexterm>
-      So far we have seen logical connectives used to connect exactly two sentences. How about connecting three or more? Is this possible in Lojban? The answer is yes, subject to some warnings and some restrictions.
+      So far we have seen logical connectives used to connect exactly two sentences. How about connecting three or more? Is this possible in Relojban? The answer is yes, subject to some warnings and some restrictions.
     </para>
     <para>
       <indexterm type="general"><primary>logical connectives</primary><secondary>associative</secondary></indexterm>
@@ -844,7 +844,7 @@
     <para role="indent">
       <indexterm type="general"><primary>logical connection</primary><secondary>of more than 2 sentences</secondary><tertiary>forethought</tertiary></indexterm>
       <indexterm type="general"><primary>logical connectives</primary><secondary>pairing from left</secondary></indexterm>
-      <xref linkend="example-random-id-dPcI"/> is the correct translation of <xref linkend="example-random-id-mLo1"/>. The reason is that Lojban logical connectives pair off from the left, like many constructs in the language. This rule, called the left-grouping rule, is easy to forget, especially when intuition pulls the other way. Forethought connectives are not subject to this problem:
+      <xref linkend="example-random-id-dPcI"/> is the correct translation of <xref linkend="example-random-id-mLo1"/>. The reason is that Relojban logical connectives pair off from the left, like many constructs in the language. This rule, called the left-grouping rule, is easy to forget, especially when intuition pulls the other way. Forethought connectives are not subject to this problem:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-487z">
       <title>
@@ -882,7 +882,7 @@
       </interlinear-gloss>
     </example>
     <para role="noindent">
-      is not equivalent to <xref linkend="example-random-id-mLo1"/>, but is instead a valid translation into Lojban, using forethought, of <xref linkend="example-random-id-BSuT"/>.
+      is not equivalent to <xref linkend="example-random-id-mLo1"/>, but is instead a valid translation into Relojban, using forethought, of <xref linkend="example-random-id-BSuT"/>.
     </para>
   </section>
   <section xml:id="section-afterthought-connectives-grouping">
@@ -891,7 +891,7 @@
       <indexterm type="general"><primary>bo</primary><secondary>in logical connectives</secondary></indexterm>
       <indexterm type="general"><primary>logical connection</primary><secondary>with bo</secondary><tertiary>precedence</tertiary></indexterm>
       <indexterm type="general"><primary>logical connectives</primary><secondary>grouping with bo</secondary></indexterm>
-      There are several ways in Lojban to render <xref linkend="example-random-id-BSuT"/> using afterthought only. The simplest method is to make use of the cmavo <valsi>bo</valsi> (of selma'o BO). This cmavo has several functions in Lojban, but is always associated with high precedence and short scope. In particular, if <valsi>bo</valsi> is placed after an ijek, the result is a grammatically distinct kind of ijek which overrides the regular left-grouping rule. Connections marked with <valsi>bo</valsi> are interpreted before connections not so marked. <xref linkend="example-random-id-Uu7D"/> is equivalent in meaning to <xref linkend="example-random-id-1Dd2"/>:
+      There are several ways in Relojban to render <xref linkend="example-random-id-BSuT"/> using afterthought only. The simplest method is to make use of the cmavo <valsi>bo</valsi> (of selma'o BO). This cmavo has several functions in Relojban, but is always associated with high precedence and short scope. In particular, if <valsi>bo</valsi> is placed after an ijek, the result is a grammatically distinct kind of ijek which overrides the regular left-grouping rule. Connections marked with <valsi>bo</valsi> are interpreted before connections not so marked. <xref linkend="example-random-id-Uu7D"/> is equivalent in meaning to <xref linkend="example-random-id-1Dd2"/>:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Uu7D">
       <title>
@@ -906,7 +906,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      The English translation feebly indicates with a comma what the Lojban marks far more clearly: the <quote>I like Martha</quote> and <quote>I like Mary</quote> sentences are joined by <valsi>.i</valsi><valsi>ja</valsi> first, before the result is joined to <quote>I like John</quote> by <valsi>.i</valsi><valsi>je</valsi>.
+      The English translation feebly indicates with a comma what the Relojban marks far more clearly: the <quote>I like Martha</quote> and <quote>I like Mary</quote> sentences are joined by <valsi>.i</valsi><valsi>ja</valsi> first, before the result is joined to <quote>I like John</quote> by <valsi>.i</valsi><valsi>je</valsi>.
     </para>
     <para>
       Eks can have <valsi>bo</valsi> attached in exactly the same way, so that <xref linkend="example-random-id-JVhK"/> is equivalent in meaning to <xref linkend="example-random-id-Uu7D"/>:
@@ -932,13 +932,13 @@
     <para role="indent">
       <indexterm type="general"><primary>logical connectives</primary><secondary>right-grouping with bo</secondary></indexterm>
       <indexterm type="general"><primary>bo</primary><secondary>right-grouping</secondary></indexterm>
-      Does this wind up meaning the same as <xref linkend="example-random-id-mLo1"/> and <xref linkend="example-random-id-dPcI"/>? Not at all. A second rule relating to <valsi>bo</valsi> is that where several <valsi>bo</valsi>-marked connectives are used in succession, the normal Lojban left-grouping rule is replaced by a right-grouping rule. As a result, <xref linkend="example-random-id-YJeE"/> in fact means the same as <xref linkend="example-random-id-Uu7D"/> and <xref linkend="example-random-id-JVhK"/>. This rule may be occasionally exploited for special effects, but is tricky to keep straight; in writing intended to be easy to understand, multiple consecutive connectives marked with <valsi>bo</valsi> should be avoided.
+      Does this wind up meaning the same as <xref linkend="example-random-id-mLo1"/> and <xref linkend="example-random-id-dPcI"/>? Not at all. A second rule relating to <valsi>bo</valsi> is that where several <valsi>bo</valsi>-marked connectives are used in succession, the normal Relojban left-grouping rule is replaced by a right-grouping rule. As a result, <xref linkend="example-random-id-YJeE"/> in fact means the same as <xref linkend="example-random-id-Uu7D"/> and <xref linkend="example-random-id-JVhK"/>. This rule may be occasionally exploited for special effects, but is tricky to keep straight; in writing intended to be easy to understand, multiple consecutive connectives marked with <valsi>bo</valsi> should be avoided.
     </para>
     <para>
       <indexterm type="general"><primary>complex logical connectives</primary><secondary>grouping with parentheses</secondary></indexterm>
       <indexterm type="general"><primary>logical connection</primary><secondary>grouping strategies for complex cases contrasted</secondary></indexterm>
       <indexterm type="general"><primary>complex logical connection</primary><secondary>grouping strategies contrasted</secondary></indexterm>
-      The use of <valsi>bo</valsi>, therefore, gets tricky in complex connections of more than three sentences. Looking back at the English translations of <xref linkend="example-random-id-487z"/> and <xref linkend="example-random-id-1Dd2"/>, parentheses were used to clarify the grouping. These parentheses have their Lojban equivalents, two sets of them actually. <valsi>tu'e</valsi> and <valsi>tu'u</valsi> are used with ijeks, and <valsi>ke</valsi> and <valsi>ke'e</valsi> with eks and other connectives to be discussed later. (<valsi>ke</valsi> and <valsi>ke'e</valsi> are also used in other roles in the language, but always as grouping markers). Consider the English sentence:
+      The use of <valsi>bo</valsi>, therefore, gets tricky in complex connections of more than three sentences. Looking back at the English translations of <xref linkend="example-random-id-487z"/> and <xref linkend="example-random-id-1Dd2"/>, parentheses were used to clarify the grouping. These parentheses have their Relojban equivalents, two sets of them actually. <valsi>tu'e</valsi> and <valsi>tu'u</valsi> are used with ijeks, and <valsi>ke</valsi> and <valsi>ke'e</valsi> with eks and other connectives to be discussed later. (<valsi>ke</valsi> and <valsi>ke'e</valsi> are also used in other roles in the language, but always as grouping markers). Consider the English sentence:
     </para>
     <example xml:id="example-random-id-aqIg">
       <title>
@@ -1017,7 +1017,7 @@
       <indexterm type="general"><primary>sumti</primary><secondary>beginning with &quot;ke&quot;</secondary></indexterm>
       <indexterm type="general"><primary>logical connection</primary><secondary>of sumti</secondary><tertiary>restriction on ke</tertiary></indexterm>
       <indexterm type="general"><primary>logical connection</primary><secondary>of sumti</secondary><tertiary>grouping with parentheses</tertiary></indexterm>
-      Two pairs of parentheses, analogous to <xref linkend="example-random-id-erTb"/>, would seem to be the right approach. However, it is a rule of Lojban grammar that a sumti may not begin with <valsi>ke</valsi>, so the first set of parentheses must be omitted, producing <xref linkend="example-random-id-0mJM"/>, which is instead parallel to <xref linkend="example-random-id-QGBz"/>:
+      Two pairs of parentheses, analogous to <xref linkend="example-random-id-erTb"/>, would seem to be the right approach. However, it is a rule of Relojban grammar that a sumti may not begin with <valsi>ke</valsi>, so the first set of parentheses must be omitted, producing <xref linkend="example-random-id-0mJM"/>, which is instead parallel to <xref linkend="example-random-id-QGBz"/>:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-0mJM">
       <title>
@@ -1063,7 +1063,7 @@
     </para>
     <para>
       <indexterm type="general"><primary>compound bridi</primary><secondary>definition</secondary></indexterm>
-      Surprise! Lojban provides no logical connective that is designed to handle selbri and nothing else. Instead, selbri connection is provided as part of a more general-purpose mechanism called <quote>compound bridi</quote>. Compound bridi result from logically connecting sentences that differ in their selbri and possibly some of their sumti.
+      Surprise! Relojban provides no logical connective that is designed to handle selbri and nothing else. Instead, selbri connection is provided as part of a more general-purpose mechanism called <quote>compound bridi</quote>. Compound bridi result from logically connecting sentences that differ in their selbri and possibly some of their sumti.
     </para>
     <para>
       <indexterm type="general"><primary>compound bridi</primary><secondary>one sumti in common</secondary></indexterm>
@@ -1136,7 +1136,7 @@
     <para role="noindent">
       <indexterm type="general"><primary>tail-terms</primary><secondary>definition</secondary></indexterm>
       <indexterm type="general"><primary>logical connectives</primary><secondary>bridi-tail connection</secondary></indexterm>
-      where the <valsi>fi</valsi> does not have an exact English translation because it merely places <valsi>do</valsi> in the third place of both <valsi>lebna</valsi> and <valsi>dunda</valsi>. However, a form that preserves natural sumti order also exists in Lojban. Giheks connect two bridi-tails, but also allow sumti to be added following the bridi-tail. These sumti are known as tail-terms, and apply to both bridi. The straightforward gihek version of <xref linkend="example-random-id-PRxj"/> therefore is:
+      where the <valsi>fi</valsi> does not have an exact English translation because it merely places <valsi>do</valsi> in the third place of both <valsi>lebna</valsi> and <valsi>dunda</valsi>. However, a form that preserves natural sumti order also exists in Relojban. Giheks connect two bridi-tails, but also allow sumti to be added following the bridi-tail. These sumti are known as tail-terms, and apply to both bridi. The straightforward gihek version of <xref linkend="example-random-id-PRxj"/> therefore is:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-DYBN">
       <title>
@@ -1319,7 +1319,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      The literal English translation in <xref linkend="example-random-id-901t"/> is almost unintelligible, but the Lojban is perfectly grammatical. <valsi>mi</valsi> fills the x1 place of all three selbri; <jbophrase>lo rupnu</jbophrase> is the x2 of <valsi>dejni</valsi>, whereas <jbophrase>le cukta</jbophrase> is a tail-term shared between <valsi>dunda</valsi> and <valsi>lebna</valsi>; <jbophrase>la .djan.</jbophrase> is a tail-term shared by <valsi>dejni</valsi> and by <jbophrase>dunda gi'abo lebna</jbophrase>. In this case, greater clarity is probably achieved by moving <jbophrase>la .djan.</jbophrase> to the beginning of the sentence, as in <xref linkend="example-random-id-Evo4"/>:
+      The literal English translation in <xref linkend="example-random-id-901t"/> is almost unintelligible, but the Relojban is perfectly grammatical. <valsi>mi</valsi> fills the x1 place of all three selbri; <jbophrase>lo rupnu</jbophrase> is the x2 of <valsi>dejni</valsi>, whereas <jbophrase>le cukta</jbophrase> is a tail-term shared between <valsi>dunda</valsi> and <valsi>lebna</valsi>; <jbophrase>la .djan.</jbophrase> is a tail-term shared by <valsi>dejni</valsi> and by <jbophrase>dunda gi'abo lebna</jbophrase>. In this case, greater clarity is probably achieved by moving <jbophrase>la .djan.</jbophrase> to the beginning of the sentence, as in <xref linkend="example-random-id-Evo4"/>:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-7NnV">
       <title>
@@ -1335,7 +1335,7 @@
     </example>
     <para role="indent">
       <indexterm type="general"><primary>logical connection</primary><secondary>of bridi-tails</secondary><tertiary>forethought</tertiary></indexterm>
-      Finally, what about forethought logical connection of bridi-tails? There is no direct mechanism for the purpose. Instead, Lojban grammar allows a pair of forethought-connected sentences to function as a single bridi-tail, and of course the sentences need not have terms before their selbri. For example:
+      Finally, what about forethought logical connection of bridi-tails? There is no direct mechanism for the purpose. Instead, Relojban grammar allows a pair of forethought-connected sentences to function as a single bridi-tail, and of course the sentences need not have terms before their selbri. For example:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-4gJC">
       <title>
@@ -1433,7 +1433,7 @@
       <indexterm type="general"><primary>logical connection</primary><secondary>termsets</secondary></indexterm>
       <indexterm type="general"><primary>termset</primary><secondary>formation</secondary></indexterm>
       <indexterm type="general"><primary>term</primary><secondary>definition</secondary></indexterm>
-      The Lojban version of <xref linkend="example-random-id-G02C"/> requires two termsets joined by a logical connective. A <quote>term</quote> is either a sumti or a sumti preceded by a tense or modal tag such as <valsi>pu</valsi> or <valsi>bai</valsi>. Afterthought termsets are formed by linking terms together by inserting the cmavo <valsi>ce'e</valsi> (of selma'o CEhE) between each of them. Furthermore, the logical connective (which is a jek) must be prefixed by the cmavo <valsi>pe'e</valsi> (of selma'o PEhE). (We could refer to the combination of <valsi>pe'e</valsi> and a jek as a <quote>pehejek</quote>, I suppose.)
+      The Relojban version of <xref linkend="example-random-id-G02C"/> requires two termsets joined by a logical connective. A <quote>term</quote> is either a sumti or a sumti preceded by a tense or modal tag such as <valsi>pu</valsi> or <valsi>bai</valsi>. Afterthought termsets are formed by linking terms together by inserting the cmavo <valsi>ce'e</valsi> (of selma'o CEhE) between each of them. Furthermore, the logical connective (which is a jek) must be prefixed by the cmavo <valsi>pe'e</valsi> (of selma'o PEhE). (We could refer to the combination of <valsi>pe'e</valsi> and a jek as a <quote>pehejek</quote>, I suppose.)
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-UVPj">
       <title>
@@ -1536,7 +1536,7 @@
     <title>Logical connection within tanru</title>
     <para>
       <indexterm type="general"><primary>logical connectives in tanru</primary></indexterm>
-      As noted at the beginning of <xref linkend="section-compound-bridi"/>, there is no logical connective in Lojban that joins selbri and nothing but selbri. However, it is possible to have logical connectives within a selbri, forming a kind of tanru that involves a logical connection. Consider the simple tanru <jbophrase>blanu zdani</jbophrase>, blue house. Now anything that is a blue ball, in the most ordinary understanding of the phrase at least, is both blue and a ball. And indeed, instead of <jbophrase>blanu bolci</jbophrase>, Lojbanists can say <jbophrase>blanu je bolci</jbophrase>, using a jek connective within the tanru. (We saw jeks used in <xref linkend="section-termsets"/> also, but there they were always prefixed by <valsi>pe'e</valsi>; in this section they are used alone.) Here is a pair of examples:
+      As noted at the beginning of <xref linkend="section-compound-bridi"/>, there is no logical connective in Relojban that joins selbri and nothing but selbri. However, it is possible to have logical connectives within a selbri, forming a kind of tanru that involves a logical connection. Consider the simple tanru <jbophrase>blanu zdani</jbophrase>, blue house. Now anything that is a blue ball, in the most ordinary understanding of the phrase at least, is both blue and a ball. And indeed, instead of <jbophrase>blanu bolci</jbophrase>, Relojbanists can say <jbophrase>blanu je bolci</jbophrase>, using a jek connective within the tanru. (We saw jeks used in <xref linkend="section-termsets"/> also, but there they were always prefixed by <valsi>pe'e</valsi>; in this section they are used alone.) Here is a pair of examples:
     </para>
     <example xml:id="example-random-id-qGoH" role="interlinear-gloss-example">
       <title>
@@ -1559,7 +1559,7 @@
     <para role="indent">
       <indexterm type="general"><primary>unconnected tanru</primary><secondary>contrasted with logically connected version</secondary></indexterm>
       <indexterm type="general"><primary>logical connection</primary><secondary>in tanru</secondary><tertiary>contrasted with unconnected version</tertiary></indexterm>
-      But of course <xref linkend="example-random-id-qGoH"/> and <xref linkend="example-random-id-qgoW"/> are not necessarily equivalent in meaning! It is the most elementary point about Lojban tanru that <xref linkend="example-random-id-qGoH"/> might just as well mean
+      But of course <xref linkend="example-random-id-qGoH"/> and <xref linkend="example-random-id-qgoW"/> are not necessarily equivalent in meaning! It is the most elementary point about Relojban tanru that <xref linkend="example-random-id-qGoH"/> might just as well mean
     </para>
     <example xml:id="example-random-id-DxVB">
       <title>
@@ -1753,7 +1753,7 @@
   <section xml:id="section-truth-and-connective-questions">
     <title>Truth questions and connective questions</title>
     <para>
-      So far we have addressed only sentences which are statements. Lojban, like all human languages, needs also to deal with sentences which are questions. There are many ways of asking questions in Lojban, but some of these (like questions about quantity, tense, and emotion) are discussed in other chapters.
+      So far we have addressed only sentences which are statements. Relojban, like all human languages, needs also to deal with sentences which are questions. There are many ways of asking questions in Relojban, but some of these (like questions about quantity, tense, and emotion) are discussed in other chapters.
     </para>
     <para>
       <indexterm type="general"><primary>truth questions</primary><secondary>simple</secondary></indexterm>
@@ -1770,7 +1770,7 @@
       </para>
     </example>
     <para role="indent">
-      Note the two formulations. English truth questions can always be formed by prefixing <quote>Is is true that</quote> to the beginning of a statement; there is also usually a more idiomatic way involving putting the verb before its subject. <quote>Is Fido a dog?</quote> is the truth question corresponding to <quote>Fido is a dog</quote>. In Lojban, the equivalent mechanism is to prefix the cmavo <valsi>xu</valsi> (of selma'o UI) to the statement:
+      Note the two formulations. English truth questions can always be formed by prefixing <quote>Is is true that</quote> to the beginning of a statement; there is also usually a more idiomatic way involving putting the verb before its subject. <quote>Is Fido a dog?</quote> is the truth question corresponding to <quote>Fido is a dog</quote>. In Relojban, the equivalent mechanism is to prefix the cmavo <valsi>xu</valsi> (of selma'o UI) to the statement:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-gKaM">
       <title>
@@ -1787,7 +1787,7 @@
       <indexterm type="general"><primary>truth questions</primary><secondary>answering &quot;no&quot;</secondary></indexterm>
       <indexterm type="general"><primary>truth questions</primary><secondary>answering &quot;yes&quot;</secondary></indexterm>
       <indexterm type="general"><primary>truth questions</primary><secondary>as yes-or-no questions</secondary></indexterm>
-      A truth question can be answered <quote>yes</quote> or <quote>no</quote>, depending on the truth or falsity, respectively, of the underlying statement. The standard way of saying <quote>yes</quote> in Lojban is <valsi>go'i</valsi> and of saying <quote>no</quote> is <valsi>na</valsi><valsi>go'i</valsi>. (The reasons for this rule are explained in <xref linkend="section-ri-gohi-series"/>.) In answer to <xref linkend="example-random-id-gKaM"/>, the possible answers are:
+      A truth question can be answered <quote>yes</quote> or <quote>no</quote>, depending on the truth or falsity, respectively, of the underlying statement. The standard way of saying <quote>yes</quote> in Relojban is <valsi>go'i</valsi> and of saying <quote>no</quote> is <valsi>na</valsi><valsi>go'i</valsi>. (The reasons for this rule are explained in <xref linkend="section-ri-gohi-series"/>.) In answer to <xref linkend="example-random-id-gKaM"/>, the possible answers are:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-XSmq">
       <title>
@@ -1832,7 +1832,7 @@
       </para>
     </example>
     <para role="indent">
-      By translating <xref linkend="example-random-id-n6Ec"/> into Lojban and prefixing <valsi>xu</valsi> to signal a truth question, we get:
+      By translating <xref linkend="example-random-id-n6Ec"/> into Relojban and prefixing <valsi>xu</valsi> to signal a truth question, we get:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-hz4S">
       <title>
@@ -1851,7 +1851,7 @@
     </para>
     <para>
       <indexterm type="general"><primary>questions</primary><secondary>connection</secondary></indexterm>
-      Lojban has an elegant mechanism for rendering this kind of question which is very unlike that used in English. Instead of asking about the truth value of the connected bridi, Lojban users ask about the truth function which connects them. This is done by using a special question cmavo: there is one of these for each of the logical connective selma'o, as shown by the following table:
+      Relojban has an elegant mechanism for rendering this kind of question which is very unlike that used in English. Instead of asking about the truth value of the connected bridi, Relojban users ask about the truth function which connects them. This is done by using a special question cmavo: there is one of these for each of the logical connective selma'o, as shown by the following table:
     </para>
     <cmavo-list>
       <cmavo-entry>
@@ -1938,7 +1938,7 @@
     <para>
       <indexterm type="general"><primary>afterthought connectives</primary><secondary>as complete grammatical utterance</secondary></indexterm>
       <indexterm type="general"><primary>connectives</primary><secondary>as complete grammatical utterance</secondary></indexterm>
-      As usual, Lojban questions are answered by filling in the blank left by the question. Here the blank is a logical connective, and therefore it is grammatical in Lojban to utter a bare logical connective without anything for it to connect.
+      As usual, Relojban questions are answered by filling in the blank left by the question. Here the blank is a logical connective, and therefore it is grammatical in Relojban to utter a bare logical connective without anything for it to connect.
     </para>
     <para>
       The answer <valsi>gi'e</valsi>, meaning that Alice is a dog and is a cat, is impossible in the real world, but for:
@@ -1984,7 +1984,7 @@
     </para>
     <para>
       <indexterm type="general"><primary>connective questions</primary><secondary>compared with other languages</secondary></indexterm>
-      There are natural languages, notably Chinese, which employ the Lojbanic form of connective question. The Chinese sentence
+      There are natural languages, notably Chinese, which employ the Relojbanic form of connective question. The Chinese sentence
     </para>
     <example xml:id="example-random-id-HyVv">
       <title>
@@ -1995,7 +1995,7 @@
       </simplelist>
     </example>
     <para role="noindent">
-      means <quote>Do you walk or run?</quote>, and is exactly parallel to the Lojban:
+      means <quote>Do you walk or run?</quote>, and is exactly parallel to the Relojban:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-3jIq">
       <title>
@@ -2034,14 +2034,14 @@
     <para role="indent">
       <indexterm type="general"><primary>and</primary><secondary>compared with but</secondary></indexterm>
       <indexterm type="general"><primary>but</primary><secondary>compared with and</secondary></indexterm>
-      In logical terms, however, <quote>but</quote> is the same as <quote>and</quote>; the difference is that the sentence after a <quote>but</quote> is felt to be in tension or opposition to the sentence before it. Lojban represents this distinction by adding the discursive cmavo <valsi>ku'i</valsi> (of selma'o UI), which is explained in <xref linkend="section-discursives"/>, to the logical <valsi>.i</valsi><valsi>je</valsi>.)
+      In logical terms, however, <quote>but</quote> is the same as <quote>and</quote>; the difference is that the sentence after a <quote>but</quote> is felt to be in tension or opposition to the sentence before it. Relojban represents this distinction by adding the discursive cmavo <valsi>ku'i</valsi> (of selma'o UI), which is explained in <xref linkend="section-discursives"/>, to the logical <valsi>.i</valsi><valsi>je</valsi>.)
     </para>
   </section>
   <section xml:id="section-non-logical-connectives">
     <title>Non-logical connectives</title>
     <para>
       <indexterm type="general"><primary>and</primary><secondary>as non-logical connective</secondary></indexterm>
-      Way back in <xref linkend="section-connectives-introduction"/>, the point was made that not every use of English <quote>and</quote>, <quote>if ... then</quote>, and so on represents a Lojban logical connective. In particular, consider the <quote>and</quote> of:
+      Way back in <xref linkend="section-connectives-introduction"/>, the point was made that not every use of English <quote>and</quote>, <quote>if ... then</quote>, and so on represents a Relojban logical connective. In particular, consider the <quote>and</quote> of:
     </para>
     <example xml:id="example-random-id-x6JW">
       <title>
@@ -2063,7 +2063,7 @@
       </para>
     </example>
     <para role="noindent">
-      which would mean that each of them carried the piano by himself/herself. Lojban deals with this particular linguistic phenomenon as a <quote>mass</quote>. John and Alice are joined together into a mass, John-and-Alice, and it is this mass which carried the piano, not either of them separately. The cmavo <valsi>joi</valsi> (of selma'o JOI) is used to join two or more components into a mass:
+      which would mean that each of them carried the piano by himself/herself. Relojban deals with this particular linguistic phenomenon as a <quote>mass</quote>. John and Alice are joined together into a mass, John-and-Alice, and it is this mass which carried the piano, not either of them separately. The cmavo <valsi>joi</valsi> (of selma'o JOI) is used to join two or more components into a mass:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-pC5x">
       <title>
@@ -2099,7 +2099,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      The cmavo <valsi>ku</valsi> is the elidable terminator for <valsi>le</valsi>, which can almost always be elided, but not in this case. If the first <valsi>ku</valsi> were elided here, Lojban's parsing rules would see <jbophrase>le nanmu joi</jbophrase> and assume that another tanru component is to follow; since the second <valsi>le</valsi> cannot be part of a tanru, a parsing error results. No such problem can occur with logical connectives, because an ek signals a following sumti and a jek a following tanru component unambiguously.
+      The cmavo <valsi>ku</valsi> is the elidable terminator for <valsi>le</valsi>, which can almost always be elided, but not in this case. If the first <valsi>ku</valsi> were elided here, Relojban's parsing rules would see <jbophrase>le nanmu joi</jbophrase> and assume that another tanru component is to follow; since the second <valsi>le</valsi> cannot be part of a tanru, a parsing error results. No such problem can occur with logical connectives, because an ek signals a following sumti and a jek a following tanru component unambiguously.
     </para>
     <para>
       <indexterm type="general"><primary>joik</primary><secondary>definition</secondary></indexterm>
@@ -2232,7 +2232,7 @@
       <indexterm type="general"><primary>individuals into mass</primary><secondary>by non-logical connection</secondary></indexterm>
       <indexterm type="general"><primary>non-logical connection</primary><secondary>of individuals into set</secondary></indexterm>
       <indexterm type="general"><primary>non-logical connection</primary><secondary>of individuals into mass</secondary></indexterm>
-      So <valsi>joi</valsi>, <valsi>ce</valsi>, and <valsi>ce'o</valsi> are parallel, in that the sumti connected are taken to be individuals, and the result is something else: a mass, a set, or a sequence respectively. The cmavo <valsi>jo'u</valsi> serves as a fourth element in this pattern: the sumti connected are individuals, and the result is still individuals &ndash; but inseparably so. The normal Lojban way of saying that James and George are brothers is:
+      So <valsi>joi</valsi>, <valsi>ce</valsi>, and <valsi>ce'o</valsi> are parallel, in that the sumti connected are taken to be individuals, and the result is something else: a mass, a set, or a sequence respectively. The cmavo <valsi>jo'u</valsi> serves as a fourth element in this pattern: the sumti connected are individuals, and the result is still individuals &ndash; but inseparably so. The normal Relojban way of saying that James and George are brothers is:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-sy2V">
       <title>
@@ -2485,8 +2485,8 @@
         <indexterm type="example"><primary>discuss in language</primary></indexterm>
       </title>
       <interlinear-gloss>
-        <jbo>mi ce'e bau la .lojban. pe'e joi</jbo>
-        <gloss>(I [plus] in-language that-named Lojban [joint] massed-with</gloss>
+        <jbo>mi ce'e bau la .relojban. pe'e joi</jbo>
+        <gloss>(I [plus] in-language that-named Relojban [joint] massed-with</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
         <jbo>… do ce'e bau la .gliban. nu'u casnu</jbo>
@@ -2499,7 +2499,7 @@
     <example role="interlinear-gloss-example" xml:id="example-random-id-DgXI">
       <title>
       </title>
-      <jbophrase>nu'i joigi mi bau la .lojban. gi do bau la .gliban. nu'u casnu</jbophrase>
+      <jbophrase>nu'i joigi mi bau la .relojban. gi do bau la .gliban. nu'u casnu</jbophrase>
     </example>
     <para role="indent">
       <indexterm type="general"><primary>respectively</primary><secondary>with different relationships</secondary></indexterm>
@@ -2515,8 +2515,8 @@
         <gloss>That-named John respectively-with that-named Frank - express</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
-        <jbo>… nu'i bau la .lojban.</jbo>
-        <gloss>… [start-termset] in-language that-named Lojban</gloss>
+        <jbo>… nu'i bau la .relojban.</jbo>
+        <gloss>… [start-termset] in-language that-named Relojban</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
         <jbo>… nu'u pe'e fa'u bai</jbo>
@@ -2525,11 +2525,11 @@
       <interlinear-gloss>
         <jbo>tu'a la .djordj.</jbo>
         <gloss>something-about that-named George.</gloss>
-        <natlang>John and Frank speak in Lojban and under George's compulsion, respectively.</natlang>
+        <natlang>John and Frank speak in Relojban and under George's compulsion, respectively.</natlang>
       </interlinear-gloss>
     </example>
     <para role="indent">
-      <xref linkend="example-random-id-wVSG"/> associates speaking in Lojban with John, and speaking under George's compulsion with Frank. We do not know what language Frank uses, or whether John speaks under anyone's compulsion.
+      <xref linkend="example-random-id-wVSG"/> associates speaking in Relojban with John, and speaking under George's compulsion with Frank. We do not know what language Frank uses, or whether John speaks under anyone's compulsion.
     </para>
     <para>
       <indexterm type="lojban-word"><primary>JOI selma'o</primary></indexterm>
@@ -2567,7 +2567,7 @@
       <xref linkend="example-random-id-27xU"/> represents a list of things to be done in priority order. The order is important, hence the need for a sequence connective, but does not necessarily represent a time order (the dog may end up getting walked first). Note the use of <valsi>tu'e</valsi> and <valsi>tu'u</valsi> as general brackets around the whole list. This is related to, but distinct from, their use in <xref linkend="section-afterthought-connectives-grouping"/>, because there is no logical connective between the introductory phrase <jbophrase>mi ba gasnu la'edi'e</jbophrase> and the rest. The brackets effectively show how large an utterance the word <valsi>di'e</valsi>, which means <quote>the following utterance</quote>, refers to.
     </para>
     <para>
-      Similarly, <valsi>.i</valsi><valsi>joi</valsi> is used to connect sentences that represent the components of a joint event such as a joint cause: the Lojban equivalent of <quote>Fran hit her head and fell out of the boat, so that she drowned</quote> would join the events <quote>Fran hit her head</quote> and <quote>Fran fell out of the boat</quote> with <valsi>.i</valsi><valsi>joi</valsi>.
+      Similarly, <valsi>.i</valsi><valsi>joi</valsi> is used to connect sentences that represent the components of a joint event such as a joint cause: the Relojban equivalent of <quote>Fran hit her head and fell out of the boat, so that she drowned</quote> would join the events <quote>Fran hit her head</quote> and <quote>Fran fell out of the boat</quote> with <valsi>.i</valsi><valsi>joi</valsi>.
     </para>
     <para>
       <indexterm type="general"><primary>scalar negation of non-logical connective</primary></indexterm>
@@ -2617,7 +2617,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      Ugh. (Or in Lojban: <valsi>.a'u</valsi><valsi>nai</valsi><valsi>sai</valsi><valsi>ro'o</valsi>.)
+      Ugh. (Or in Relojban: <valsi>.a'u</valsi><valsi>nai</valsi><valsi>sai</valsi><valsi>ro'o</valsi>.)
     </para>
   </section>
   <section xml:id="section-non-logical-continued-continued">
@@ -2837,7 +2837,7 @@
       <indexterm type="lojban-word"><primary>nai</primary></indexterm>
       <indexterm type="lojban-word"><primary>se</primary></indexterm>
       <indexterm type="general"><primary>joigiks</primary><secondary>syntax of</secondary></indexterm>
-      Notice that the colloquial English translations of <valsi>bi'i</valsi> and <valsi>bi'o</valsi> have forethought form: <quote>between ... and</quote> for <valsi>bi'i</valsi>, and <quote>from ... to</quote> for <valsi>bi'o</valsi>. In Lojban too, non-logical connectives can be expressed in forethought. Rather than using a separate selma'o, the forethought logical connectives are constructed from the afterthought ones by suffixing <valsi>gi</valsi>. Such a compound cmavo is not unnaturally called a <quote>joigik</quote>; the syntax of joigiks is any of:
+      Notice that the colloquial English translations of <valsi>bi'i</valsi> and <valsi>bi'o</valsi> have forethought form: <quote>between ... and</quote> for <valsi>bi'i</valsi>, and <quote>from ... to</quote> for <valsi>bi'o</valsi>. In Relojban too, non-logical connectives can be expressed in forethought. Rather than using a separate selma'o, the forethought logical connectives are constructed from the afterthought ones by suffixing <valsi>gi</valsi>. Such a compound cmavo is not unnaturally called a <quote>joigik</quote>; the syntax of joigiks is any of:
     </para>
     <grammar-template>
       <itemizedlist>
@@ -2906,7 +2906,7 @@
       <indexterm type="general"><primary>mathematical expressions</primary><secondary>connectives in</secondary></indexterm>
       <indexterm type="general"><primary>non-logical connection</primary><secondary>in mathematical expressions</secondary></indexterm>
       <indexterm type="general"><primary>logical connection</primary><secondary>in mathematical expressions</secondary></indexterm>
-      Lojban has a separate grammar embedded within the main grammar for representing mathematical expressions (or mekso in Lojban) such as <quote>2 + 2</quote>. Mathematical expressions are explained fully in <xref linkend="chapter-mekso"/>. The basic components of mekso are operands, like <quote>2</quote>, and operators, like <quote>+</quote>. Both of these may be either logically or non-logically connected.
+      Relojban has a separate grammar embedded within the main grammar for representing mathematical expressions (or mekso in Relojban) such as <quote>2 + 2</quote>. Mathematical expressions are explained fully in <xref linkend="chapter-mekso"/>. The basic components of mekso are operands, like <quote>2</quote>, and operators, like <quote>+</quote>. Both of these may be either logically or non-logically connected.
     </para>
     <para>
       <indexterm type="lojban-word"><primary>JOI selma'o</primary></indexterm>
@@ -2959,7 +2959,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      Note that the mekso in <xref linkend="example-random-id-gMU4"/> and <xref linkend="example-random-id-ftNY"/> are being used as quantifiers. Lojban requires that any mekso other than a simple number be enclosed in <valsi>vei</valsi> and <valsi>ve'o</valsi> parentheses when used as a quantifier. The right parenthesis mark, <valsi>ve'o</valsi>, is an elidable terminator.
+      Note that the mekso in <xref linkend="example-random-id-gMU4"/> and <xref linkend="example-random-id-ftNY"/> are being used as quantifiers. Relojban requires that any mekso other than a simple number be enclosed in <valsi>vei</valsi> and <valsi>ve'o</valsi> parentheses when used as a quantifier. The right parenthesis mark, <valsi>ve'o</valsi>, is an elidable terminator.
     </para>
     <para>
       Simple examples of logical connection between operators are hard to come by. A contrived example is:
@@ -3025,7 +3025,7 @@
   <section xml:id="section-sumtcita">
     <title>Tenses, modals, and logical connection</title>
     <para>
-      The tense and modal systems of Lojban interact with the logical connective system. No one chapter can explain all of these simultaneously, so each chapter must present its own view of the area of interaction with emphasis on its own concepts and terminology. In the examples of this chapter, the many tenses of various selma'o as well as the modals of selma'o BAI are represented by the simple time cmavo <valsi>pu</valsi>, <valsi>ca</valsi>, and <valsi>ba</valsi> (of selma'o PU) representing the past, the present, and the future respectively. Preceding a selbri, these cmavo state the time when the bridi was, is, or will be true (analogous to English verb tenses); preceding a sumti, they state that the event of the main bridi is before, simultaneous with, or after the event given by the sumti (which is generally a <jbophrase>le nu</jbophrase> abstraction; see <xref linkend="section-events"/>).
+      The tense and modal systems of Relojban interact with the logical connective system. No one chapter can explain all of these simultaneously, so each chapter must present its own view of the area of interaction with emphasis on its own concepts and terminology. In the examples of this chapter, the many tenses of various selma'o as well as the modals of selma'o BAI are represented by the simple time cmavo <valsi>pu</valsi>, <valsi>ca</valsi>, and <valsi>ba</valsi> (of selma'o PU) representing the past, the present, and the future respectively. Preceding a selbri, these cmavo state the time when the bridi was, is, or will be true (analogous to English verb tenses); preceding a sumti, they state that the event of the main bridi is before, simultaneous with, or after the event given by the sumti (which is generally a <jbophrase>le nu</jbophrase> abstraction; see <xref linkend="section-events"/>).
     </para>
     <para>
       <indexterm type="general"><primary>logically connected tenses</primary><secondary>definition</secondary></indexterm>
@@ -3388,7 +3388,7 @@
     <title>Constructs and appropriate connectives</title>
     <para>
       <indexterm type="general"><primary>connectives</primary><secondary>table by constructs connected</secondary></indexterm>
-      The following table specifies, for each kind of construct that can be logically or non-logically connected in Lojban, what kind of connective is required for both afterthought and (when possible) forethought modes. An asterisk (*) indicates that tensed connection is permitted.
+      The following table specifies, for each kind of construct that can be logically or non-logically connected in Relojban, what kind of connective is required for both afterthought and (when possible) forethought modes. An asterisk (*) indicates that tensed connection is permitted.
     </para>
     <para>
       A dash indicates that connection of the specified type is not possible.

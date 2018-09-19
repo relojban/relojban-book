@@ -63,10 +63,10 @@
     </para>
     <itemizedlist role="bullets">
       <listitem>
-        <para>Standardization. The Relojban project focuses on providing complete specifications of the language, suitable for univocal implementation of parsers and other software tools. It also makes an effort to provide and maintain reference implementations of the language specifications.</para>
+        <para>Standardization. The Relojban project focuses on providing complete specifications of the language, suitable for unambiguos implementation through software parsers, and supporting an ecosystem of diverse software tools. It also makes an effort to provide and maintain reference implementations of the language specifications.</para>
       </listitem>
       <listitem>
-        <para>Stability, but with the possibility for future evolution. While at the current stage the Relojban language is open to a certain level of experimentation, the objective of long term stability is clearly in mind and highly valued. However, even in the long term, the Relojban project does not envisage to ever reach a "final", immutable state of the language. The objective is, on the contrary, to continuously allow refinements and adjustments, if warranted and justified, through well-defined processes.</para>
+        <para>Stability, but with the possibility of future evolution. At the current stage the Relojban language is open to a certain level of experimentation, but the project highly values the idea of long term stability and of a careful, planned approach in response to future pressures for change. However, even in the long term, the Relojban project does not envisage to ever reach a "final", immutable state of the language. The objective is, on the contrary, to continuously allow refinements and adjustments, if warranted and justified, through well-defined processes.</para>
       </listitem>
     </itemizedlist>
     <para>

@@ -1,7 +1,7 @@
 # The Relojban Language
 [The Relojban Language]: #the-relojban-language
 
-This repository holds the sources of _The Relojban Language_ book, available here in HTML and PDF format. It is one of the main repositories of the Relojban project, a spin-off of [Lojban](https://www.lojban.org).
+This repository holds the sources of _The Relojban Language_ book, available [here](https://github.com/relojban/relojban.github.io/book/) in HTML and PDF format. It is one of the main repositories of the Relojban project, a spin-off of [Lojban](https://www.lojban.org).
 
 This repository was built using as foundation the existing [CLL repository](https://github.com/lojban/cll) created by the amazing people over at the Lojban project.
 

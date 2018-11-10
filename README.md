@@ -40,7 +40,7 @@ In order to generate the final outputs from the DocBook sources, a few programs 
 
 - Ruby, with the [Nokogiri](http://www.nokogiri.org/) gem;
 - `xmllint` and `xmlto`
-- [Prince](https://www.princexml.com/) _(optional for PDF generation, latest version is 12.1 at the time of this writing)_
+- [Prince](https://www.princexml.com/) _(optional for PDF generation, latest version is 12.2 at the time of this writing)_
 
 As an example, the following command will install all the prerequisites on a standard RedHat/Fedora system. Packaging might be different in other distributions.
 

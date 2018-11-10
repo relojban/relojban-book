@@ -28,9 +28,9 @@ This repository was built using as foundation the existing [CLL repository](http
 
 _The Relojban Language_ is written in the [DocBook 5](https://tdg.docbook.org/tdg/5.0/docbook.html) semantic markup language. The sources for the book are stored under [`src/`](src/), one file per chapter.
 
-The metadata tags used are the standard ones from DocBook, with the addition of some customized tags, described in `README-tags.md`, that are pre-processed into DocBook-compliant tags as a pre-processing step.
+The metadata tags used are the standard ones from DocBook, with the addition of some customized tags, described in `README-tags.md`, that are converted into DocBook-compliant tags as a pre-processing step.
 
-From the DocBook sources, various outputs can be derived. The building process curently supports an XHTML output (with CSS styling) organized as one page per chapter (i.e. "chunked"); an output consisting of a single XHTML file; and a PDF output (created from the XHTML using the Prince PDF generator). These three outputs correspond to the files available for display and download on the website under xhtml, xhtml_nochunks and pdf respectively.
+From the DocBook sources, various outputs can be derived. The building process curently supports an XHTML output (with CSS styling) organized as one page per chapter (i.e. "chunked"); an output consisting of a single XHTML file; and a PDF output (created from the XHTML using the Prince PDF generator). These three outputs correspond to the files available for display and download on the website: <https://www.relojban.org/learn/>.
 
 
 ## Building from Sources
@@ -64,7 +64,7 @@ If the pre-requisites are available, the following command will produce all thre
 make
 ```
 
-The single targets can also be specified individually:
+The three targets can also be specified individually:
 
 ```shell
 make xhtml          # for the chunked HTML version

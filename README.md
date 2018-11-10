@@ -46,7 +46,7 @@ As an example, the following command will install all the prerequisites on a sta
 
 ```shell
 sudo dnf install rubygem-nokogiri libxml2 xmlto
-sudo dnf install path/to/prince-12.1-1.centos7.x86_64.rpm (optional for PDF generation)
+sudo dnf install path/to/prince-12.2-1.centos7.x86_64.rpm # (optional for PDF generation)
 ```
 
 Note that when generating the PDF output, prince will make use of the fonts available on the system. Therefore the resulting file might be different from the one on the website, depending on the exact set of fonts that Prince can find. To guarantee the same result, make sure the preferred fonts (as indicated in the [CSS](scripts/master.css)) are available on the building host. These are the Linux Libertine fonts (for Serif text), Linux Biolinum fonts (for Sans-serif), the Baekmuk Dotum (Korean) and Ming (Chinese) fonts (the last two are needed just for a couple of examples in the book where Korean and Chinese characters appear).

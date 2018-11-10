@@ -30,7 +30,7 @@ _The Relojban Language_ is written in the [DocBook 5](https://tdg.docbook.org/td
 
 The metadata tags used are the standard ones from DocBook, with the addition of some customized tags, described in [`README-tags.md`](README-tags.md), that are converted into DocBook-compliant tags as a pre-processing step.
 
-From the DocBook sources, various outputs can be derived. The building process curently supports an XHTML output (with CSS styling) organized as one page per chapter (i.e. "chunked"); an output consisting of a single XHTML file; and a PDF output (created from the XHTML using the Prince PDF generator). These three outputs correspond to the files available for display and download on the website: <https://www.relojban.org/learn/>.
+From the DocBook sources, various outputs can be derived. The building process curently supports an XHTML output (with CSS styling) organized as one page per chapter (i.e. "chunked"); an output consisting of a single XHTML file; and a PDF output (created from the XHTML using the Prince PDF generator). These three outputs correspond to the files available for display and download on the [Relojban website](https://www.relojban.org/learn/).
 
 
 ## Building from Sources
@@ -133,7 +133,7 @@ git push
 # Now you can go to the page for your fork on GitHub, select your development branch, and click the pull request button.
 ```
 
-If you are planning to do substantial changes, please take a look at the [RFC process](https://github.com/relojban/rfcs) first!.
+If you are planning to do substantial changes, please take a look at the [RFC process](https://github.com/relojban/rfcs) first!
 
 
 ## License

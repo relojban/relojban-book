@@ -38,8 +38,8 @@ $(builddir)/xhtml.done: $(builddir)/relojban-book-processed.xml xml/docbook2html
 	touch $(builddir)/xhtml.done
 ifneq ($(copydir),)
 	mkdir -p $(copydir)
-	rm -rf $(copydir)/relojban-book-xhtml
-	cp -pLr $(builddir)/xhtml $(copydir)/relojban-book-xhtml
+	rm -rf $(copydir)/xhtml
+	cp -pLr $(builddir)/xhtml $(copydir)/xhtml
 endif
 
 #*******
@@ -58,8 +58,8 @@ $(builddir)/xhtml_nochunks.done: $(builddir)/relojban-book-processed.xml xml/doc
 	touch $(builddir)/xhtml_nochunks.done
 ifneq ($(copydir),)
 	mkdir -p $(copydir)
-	rm -rf $(copydir)/relojban-book-xhtml-nochunks
-	cp -pLr $(builddir)/xhtml_nochunks $(copydir)/relojban-book-xhtml-nochunks
+	rm -rf $(copydir)/xhtml_nochunks
+	cp -pLr $(builddir)/xhtml_nochunks $(copydir)/xhtml_nochunks
 endif
 
 #*******

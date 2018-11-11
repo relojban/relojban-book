@@ -20,8 +20,8 @@ $(builddir)/relojban-book-merged.xml: src/*.xml
 $(builddir)/relojban-book-processed.xml: $(builddir)/relojban-book-merged.xml scripts/xml_preprocess.rb
 	ruby scripts/xml_preprocess.rb $(builddir)/relojban-book-merged.xml >$(builddir)/relojban-book-processed.xml 2>$(builddir)/xml_preprocess.out || (tail $(builddir)/xml_preprocess.out && false)
 	xmllint --relaxng xml/docbookxi.rng --noout $(builddir)/relojban-book-processed.xml 2>$(builddir)/xml_validation.out || (tail $(builddir)/xml_validation.out && false)
-	# alternative validator
-	#rnv xml/docbookxi.rnc $(builddir)/relojban-book-processed.xml 2>$(builddir)/xml_validation.out || (tail $(builddir)/xml_validation.out && false)
+# alternative validator
+#rnv xml/docbookxi.rnc $(builddir)/relojban-book-processed.xml 2>$(builddir)/xml_validation.out || (tail $(builddir)/xml_validation.out && false)
 
 #*******
 # XHTML, chunked
@@ -76,6 +76,10 @@ $(builddir)/pdf.done: $(builddir)/relojban-book-processed.xml xml/docbook2html_c
 	ruby scripts/xml_prince_postprocess.rb $(builddir)/pdf/relojban-book-processed.html >$(builddir)/pdf/relojban-book-pdf.html 2>$(builddir)/xml_prince_postprocess.out
 
 	prince --verbose --no-network --script=scripts/prince_check_margins.js --script=scripts/prince_shave_index.js $(builddir)/pdf/relojban-book-pdf.html -o $(builddir)/pdf/relojban-book.pdf
+
+# remove line with random ID from the generated PDF (see https://www.princexml.com/forum/topic/3855/is-output-guaranteed-for-the-same-input)
+	sed -i '/^\/ID \[/d' $(builddir)/pdf/relojban-book.pdf
+
 	touch $(builddir)/pdf.done
 ifneq ($(copydir),)
 	mkdir -p $(copydir)

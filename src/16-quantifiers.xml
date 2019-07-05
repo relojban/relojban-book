@@ -1101,7 +1101,7 @@
       <indexterm type="general"><primary>noda</primary><secondary>expanding to naku su'oda</secondary></indexterm>
       <indexterm type="general"><primary>&quot;no&quot; quantifier</primary><secondary>expanding</secondary></indexterm>
       <indexterm type="general"><primary>expanding &quot;no&quot; quantifier</primary></indexterm>
-      We can simplify <xref linkend="example-random-id-fpeW"/> by transforming the prenex. To move the negation phrase within the prenex, we must first expand the <valsi>no</valsi> quantifier. Thus <quote>for no x</quote> means the same thing as <quote>it is false for some x</quote>, and the corresponding Relojban <valsi>noda</valsi> can be replaced by <jbophrase>naku su'oda</jbophrase>. Making this substitution, we get:
+      We can simplify <xref linkend="example-random-id-fpeW"/> by transforming the prenex. To move the negation phrase within the prenex, we must first expand the <valsi>no</valsi> quantifier. Thus <quote>for no x</quote> means the same thing as <quote>it is false that for some x</quote>, and the corresponding Relojban <valsi>noda</valsi> can be replaced by <jbophrase>naku su'oda</jbophrase>. Making this substitution, we get:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-xTie">
       <title>

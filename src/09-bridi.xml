@@ -845,12 +845,12 @@
       <indexterm type="general"><primary>modal sumti</primary><secondary>effect on place structure</secondary></indexterm>
       <indexterm type="general"><primary>modal sumti</primary><secondary>position in bridi</secondary></indexterm>
       <indexterm type="general"><primary>seltcita sumti</primary><secondary>definition (see also modal sumti)</secondary></indexterm>
-      <indexterm type="general"><primary>sumti tcita</primary><secondary>definition (see also modal tag)</secondary></indexterm>
+      <indexterm type="general"><primary>sumtcita</primary><secondary>definition (see also modal tag)</secondary></indexterm>
       <indexterm type="general"><primary>modal sumti</primary><secondary>definition (see also seltcita sumti)</secondary></indexterm>
-      <indexterm type="general"><primary>modal tag</primary><secondary>definition (see also sumti tcita)</secondary></indexterm>
+      <indexterm type="general"><primary>modal tag</primary><secondary>definition (see also sumtcita)</secondary></indexterm>
       <indexterm type="general"><primary>modal place</primary><secondary>rationale for term name</secondary></indexterm>
       <indexterm type="general"><primary>modal place</primary><secondary>definition</secondary></indexterm>
-      The term for such an added place is a <quote>modal place</quote>, as distinguished from the regular numbered places. (This use of the word <quote>modal</quote> is specific to the Loglan Project, and does not agree with the standard uses in either logic or linguistics, but is now too entrenched to change easily.) The <valsi>fi'o</valsi> construction marking a modal place is called a <quote>modal tag</quote>, and the sumti which follows it a <quote>modal sumti</quote>; the purely Relojban terms <jbophrase>sumti tcita</jbophrase> and <jbophrase>seltcita sumti</jbophrase>, respectively, are also commonly used. Modal sumti may be placed anywhere within the bridi, in any order; they have no effect whatever on the rules for assigning unmarked bridi to numbered places, and they may not be marked with FA cmavo.
+      The term for such an added place is a <quote>modal place</quote>, as distinguished from the regular numbered places. (This use of the word <quote>modal</quote> is specific to the Loglan Project, and does not agree with the standard uses in either logic or linguistics, but is now too entrenched to change easily.) The <valsi>fi'o</valsi> construction marking a modal place is called a <quote>modal tag</quote>, and the sumti which follows it a <quote>modal sumti</quote>; the purely Relojban terms <jbophrase>sumtcita</jbophrase> and <jbophrase>seltcita sumti</jbophrase>, respectively, are also commonly used. Modal sumti may be placed anywhere within the bridi, in any order; they have no effect whatever on the rules for assigning unmarked bridi to numbered places, and they may not be marked with FA cmavo.
     </para>
     <para>
       Consider <xref linkend="example-random-id-BSAc"/> again. Another way to view the situation is to consider the speaker's left eye as a tool, a tool for seeing. The relevant selbri then becomes <valsi>pilno</valsi>, whose place structure is

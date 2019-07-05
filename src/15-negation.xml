@@ -911,7 +911,7 @@
       We might also have reduced the pragmatic ambiguity by making the two trailing sumti values explicit (the <quote>as perceived by</quote> and <quote>under conditions</quote> places have been added to the place structure of <valsi>xunre</valsi>). But assume we have a really stubborn listener (an artificially semi-intelligent computer?) who will find a way to misinterpret <xref linkend="example-random-id-yWSC"/> even with three specific sumti provided.
     </para>
     <para>
-      In this case, we use a sumti tagged with the sumti tcita <valsi>ci'u</valsi>, which translates roughly as <quote>on a scale of X</quote>, where <dbinlinemath>X</dbinlinemath> is the sumti. For maximal clarity, the tagged sumti can be bound into the negated selbri with <valsi>be</valsi>. To clarify <xref linkend="example-random-id-yWSC"/>, we might say:
+      In this case, we use a sumti tagged with the sumtcita <valsi>ci'u</valsi>, which translates roughly as <quote>on a scale of X</quote>, where <dbinlinemath>X</dbinlinemath> is the sumti. For maximal clarity, the tagged sumti can be bound into the negated selbri with <valsi>be</valsi>. To clarify <xref linkend="example-random-id-yWSC"/>, we might say:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-a8S1">
       <title>
@@ -922,7 +922,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      We can alternately use the sumti tcita <valsi>teci'e</valsi>, based on <valsi>ciste</valsi>, which translates roughly as <quote>of a system of components X</quote>, for universes of discourse; in this case, we would express <xref linkend="example-random-id-yWSC"/> as:
+      We can alternately use the sumtcita <valsi>teci'e</valsi>, based on <valsi>ciste</valsi>, which translates roughly as <quote>of a system of components X</quote>, for universes of discourse; in this case, we would express <xref linkend="example-random-id-yWSC"/> as:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-I0eV">
       <title>
@@ -1574,7 +1574,7 @@
       Existential failure can be marked by attaching <valsi>na'i</valsi> to the descriptor <valsi>lo</valsi> or the <valsi>poi</valsi> in a <jbophrase>da poi</jbophrase>-form sumti. (See <xref linkend="section-basic-descriptors"/> and <xref linkend="section-restricted-claims"/> for details on these constructions.) Remember that if a <valsi>le</valsi> sumti seems to refer to a non-existent referent, you may not understand what the speaker has in mind &ndash; the appropriate response is then <valsi>ki'a</valsi>, asking for clarification.
     </para>
     <para>
-      Presupposition failure can be marked directly if the presupposition is overt; if not, one can insert a <quote>mock presupposition</quote> to question with the sumti tcita (selma'o BAI) word <valsi>ji'u</valsi>; <jbophrase>ji'uku</jbophrase> thus explicitly refers to an unexpressed assumption, and <jbophrase>ji'una'iku</jbophrase> metalinguistically says that something is wrong with that assumption. (See <xref linkend="chapter-bridi"/>.)
+      Presupposition failure can be marked directly if the presupposition is overt; if not, one can insert a <quote>mock presupposition</quote> to question with the sumtcita (selma'o BAI) word <valsi>ji'u</valsi>; <jbophrase>ji'uku</jbophrase> thus explicitly refers to an unexpressed assumption, and <jbophrase>ji'una'iku</jbophrase> metalinguistically says that something is wrong with that assumption. (See <xref linkend="chapter-bridi"/>.)
     </para>
     <para>
       Scale errors and category errors can be similarly expressed with selma'o BAI. <valsi>le'a</valsi> has meaning <quote>of category/class/type X</quote>, <valsi>ci'u</valsi> has meaning <quote>on scale X</quote>, and <valsi>ci'e</valsi>, based on <valsi>ciste</valsi>, can be used to talk about universes of discourse defined either as systems or sets of components, as shown in <xref linkend="section-truth-questions"/>. <valsi>kai</valsi> and <valsi>la'u</valsi> also exist in BAI for discussing other quality and quantity errors.

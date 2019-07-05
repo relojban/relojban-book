@@ -357,13 +357,13 @@
           <selbri>tavla</selbri>
           <sumti>zo'e</sumti>
           <sumti>tu</sumti>
-          <sumti>ti</sumti>
+          <sumti>ry.</sumti>
         </jbo>
-        <natlang>I talk to someone about that thing yonder in this language.</natlang>
+        <natlang>I talk to someone about that thing yonder in language R.</natlang>
       </interlinear-gloss-itemized>
     </example>
     <para role="noindent">
-      (<xref linkend="example-random-id-k03n"/> is a bit unusual, as there is no easy way to point to a language; one might point to a copy of this book, and hope the meaning gets across!)
+      (in <xref linkend="example-random-id-k03n"/> the word <valsi>ry.</valsi> is a so-called letteral for the Lojban letter <quote>r</quote> and refers to something labelled <quote>r</quote>, most likely the language <quote>Relojban</quote> as its first letter is <quote>r</quote>.)
     </para>
     <para>
       <indexterm type="general"><primary>ellipsis</primary><secondary>quick-tour version</secondary></indexterm>

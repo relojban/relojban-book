@@ -1879,7 +1879,7 @@
       The cmavo <valsi>du</valsi> has the place structure:
     </para>
     <definition><content>x1 is identical with x2, x3, ...</content></definition>
-    <para>
+    <para role="noindent">
       <indexterm type="general"><primary>du</primary><secondary>rationale for selection of selma'o for</secondary></indexterm>
       and appears in selma'o GOhA for reasons of convenience: it is not a brika'i. <valsi>du</valsi> serves as mathematical <quote>=</quote>, and outside mathematical contexts is used for defining or identifying. Mathematical examples may be found in <xref linkend="chapter-mekso"/>.
     </para>

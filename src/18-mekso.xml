@@ -2897,7 +2897,7 @@
       The cmavo <valsi>nu'a</valsi> is the inverse of <valsi>na'u</valsi>, and allows a mekso operator to be used as a normal selbri, with the place structure:
     </para>
     <definition><content>x1 is the result of applying (operator) to x2, x3, ...</content></definition>
-    <para>
+    <para role="noindent">
       for as many places as may be required. For example:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-9idi">

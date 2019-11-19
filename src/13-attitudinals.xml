@@ -2376,11 +2376,11 @@
       Alone among the cmavo of selma'o UI, <valsi>pe'a</valsi> has a rafsi, namely <rafsi>pev</rafsi>. This rafsi is used in forming figurative (culturally dependent) lujvo, whose place structure need have nothing to do with the place structure of the components. Thus <valsi valid='maybe'>risnyjelca</valsi> (heart burn) might have a place structure like:
     </para>
     <definition><content>x1 is the heart of x2, burning in atmosphere x3 at temperature x4</content></definition>
-    <para>
+    <para role="noindent">
       whereas <valsi valid='maybe'>pevrisnyjelca</valsi>, explicitly marked as figurative, might have the place structure:
     </para>
     <definition><content>x1 is indigestion/heartburn suffered by x2</content></definition>
-    <para>
+    <para role="noindent">
       which obviously has nothing to do with the places of either <valsi>risna</valsi> or <valsi>jelca</valsi>.
     </para>
     <para>

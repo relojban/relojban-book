@@ -598,19 +598,19 @@
     <definition>
       <content>x1 is the destination of x2's going from x3 via x4 using x5</content>
     </definition>
-    <para>
+    <para role="noindent">
       and <jbophrase>te klama</jbophrase>:
     </para>
     <definition>
       <content>x1 is the origin and x2 the destination of x3 going via x4 using x5</content>
     </definition>
-    <para>
+    <para role="noindent">
       and <jbophrase>ve klama</jbophrase>:
     </para>
     <definition>
       <content>x1 is the route to x2 from x3 used by x4 going via x5</content>
     </definition>
-    <para>
+    <para role="noindent">
       and <jbophrase>xe klama</jbophrase>:
     </para>
     <definition>
@@ -773,7 +773,7 @@
     <definition>
       <content>x1 is the origin of x2's going to x3 via x4 using x5</content>
     </definition>
-    <para>
+    <para role="noindent">
       <indexterm type="general"><primary>multiple conversion</primary><secondary>avoiding</secondary></indexterm>
       which is quite different. However, multiple conversions like this are never necessary. Arbitrary scrambling of places can be achieved more easily and far more intelligibly with FA tags, and only a single conversion is ever needed in a description.
     </para>
@@ -858,7 +858,7 @@
     <definition>
       <valsi>pilno</valsi> <content>x1 uses x2 as a tool for purpose x3</content>
     </definition>
-    <para>
+    <para role="noindent">
       and we can rewrite <xref linkend="example-random-id-BSAc"/> as
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Lu15">
@@ -882,7 +882,7 @@
     <definition>
       <valsi>pilno</valsi> <content>x1 uses x2 as a tool for purpose x3</content>
     </definition>
-    <para>
+    <para role="noindent">
       <indexterm type="general"><primary>BAI modal tags</primary><secondary>rationale for</secondary></indexterm>
       and almost any selbri which represents an action may need to specify a tool. Having to say <jbophrase>fi'o se pilno</jbophrase> frequently would make many Relojban sentences unnecessarily verbose and clunky, so an abbreviation is provided in the language design: the compound cmavo <valsi>sepi'o</valsi>.
     </para>

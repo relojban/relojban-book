@@ -494,22 +494,22 @@
       Such a convoluted use of tags should probably be avoided except when trying for a literal translation of some English (or other natural-language) sentence; the rules stated here are merely given so that some standard interpretation is possible.
     </para>
     <para>
-      <indexterm type="general"><primary>multiple sumti in one place</primary><secondary>meaning</secondary></indexterm>
+      <indexterm type="general"><primary>sumti in one place</primary><secondary>multiple ones</secondary></indexterm>
       <indexterm type="general"><primary>sumti</primary><secondary>multiple in one place with FA</secondary></indexterm>
       <indexterm type="general"><primary>FA selma'o</primary><secondary>for putting more than one sumti in a single place</secondary></indexterm>
       It is grammatically permitted to tag more than one sumti with the same FA cmavo. The effect is that of making more than one claim:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-N1aE">
       <title>
-        <indexterm type="example"><primary>to movie</primary><secondary>house</secondary><tertiary>office: example</tertiary></indexterm>
+        <indexterm type="example"><primary>movie</primary><secondary>example of going to</secondary><tertiary>office: example</tertiary></indexterm>
       </title>
       <interlinear-gloss>
         <jbo>[fa] la .rik. fa la .djein. cu klama</jbo>
         <gloss>[x1=] that-named Rick x1= that-named Jane -- goes-to</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
-        <jbo>… [fe] le skina fe le zdani fe le zarci</jbo>
-        <gloss>… [x2=] the movie x2= the house x2= the office</gloss>
+        <jbo>… [fe] le kindi'u fe le zdani fe le zarci</jbo>
+        <gloss>… [x2=] the movie-theater x2= the house x2= the office</gloss>
       </interlinear-gloss>
     </example>
     <para role="noindent">

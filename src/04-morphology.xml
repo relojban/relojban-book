@@ -1730,7 +1730,7 @@
         <indexterm type="example"><primary>Brown</primary><secondary>John</secondary></indexterm>
       </title>
       <lojbanization>
-        <jbo>.djan. braun.</jbo>
+        <jbo>.djan.braun.</jbo>
       </lojbanization>
     </example>
     <para role="noindent">
@@ -2066,12 +2066,12 @@
       <tr>
         <td>Polish</td>
         <td><quote>Lech Walesa</quote></td>
-        <td><cmevla>.lex. vauensas.</cmevla></td>
+        <td><cmevla>.lex.vauensas.</cmevla></td>
       </tr>
       <tr>
         <td>Spanish</td>
         <td><quote>Don Quixote</quote></td>
-        <td><cmevla>.don. kicotes.</cmevla> or modern Spanish: <cmevla>.don. kixotes.</cmevla> or Mexican dialect: <cmevla>.don. ki'otes.</cmevla></td>
+        <td><cmevla>.don.kicotes.</cmevla> or modern Spanish: <cmevla>.don.kixotes.</cmevla> or Mexican dialect: <cmevla>.don.ki'otes.</cmevla></td>
       </tr>
       <tr>
         <td>Chinese</td>

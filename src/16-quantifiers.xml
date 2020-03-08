@@ -1296,7 +1296,7 @@
       <title>
         <indexterm type="example"><primary>some do not go to school</primary></indexterm>
       </title>
-      <jbophrase>Some children do not go to school.</jbophrase>
+      <para>Some children do not go to school.</para>
     </example>
     <para role="indent">
       We cannot express this directly with <valsi>na</valsi>; the apparently obvious translation

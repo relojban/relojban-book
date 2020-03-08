@@ -1486,8 +1486,8 @@
         <indexterm type="example"><primary>Preem Palver</primary></indexterm>
       </title>
       <interlinear-gloss>
-        <jbo>la .prim. palvr. cu pamoi cusku</jbo>
-        <gloss>That-named Preem Palver - is-the-1-th speaker.</gloss>
+        <jbo>la .prim.palvr. cu pamoi cusku</jbo>
+        <gloss>That-named Preem--Palver - is-the-1-th speaker.</gloss>
         <natlang>Preem Palver is the first speaker.</natlang>
       </interlinear-gloss>
     </example>
@@ -1809,7 +1809,7 @@
       <title>
       </title>
       <interlinear-gloss>
-        <jbo>la .djan. cu cadzu se--klama la .alis</jbo>
+        <jbo>la .djan. cu cadzu se--klama la .alis.</jbo>
         <gloss>That-named John - walkingly is-gone-to-by that-named Alice</gloss>
       </interlinear-gloss>
     </example>

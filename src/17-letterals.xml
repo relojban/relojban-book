@@ -672,12 +672,12 @@
         <indexterm type="example"><primary>Steven Mark Jones</primary></indexterm>
       </title>
       <interlinear-gloss>
-        <jbo>la .stivn. mark. djonz. cu merko</jbo>
-        <gloss>- Steven Mark Jones - is-American.</gloss>
+        <jbo>la .stivn.mark.djonz. cu merko</jbo>
+        <gloss>- Steven--Mark--Jones - is-American.</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
-        <jbo>… .i la .aleksandr. pali'itc. kuzniIETsyf. cu rusko</jbo>
-        <gloss>… - - Alexander Pavlovitch Kuznetsov - is-Russian.</gloss>
+        <jbo>… .i la .aleksandr.pali'itc.kuzniIETsyf. cu rusko</jbo>
+        <gloss>… - - Alexander--Pavlovitch--Kuznetsov - is-Russian.</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
         <jbo>… .i symydy. tavla .abupyky. bau la .relojban.</jbo>
@@ -965,7 +965,7 @@
     <para>
       <indexterm type="general"><primary>lerfu words</primary><secondary>as a basis for acronym names</secondary></indexterm>
       <indexterm type="general"><primary>acronyms</primary><secondary>using names based on lerfu words</secondary></indexterm>
-      In Relojban, a name can be almost any sequence of sounds that ends in a consonant and is followed by a pause. The easiest way to Lojbanize acronym names is to glue the lerfu words together, using <letteral>'</letteral> wherever two vowels would come together (pauses are illegal in names) and adding a final consonant:
+      In Relojban, a name can be almost any sequence of sounds that ends in a consonant and is surrounded by pauses. The easiest way to Lojbanize acronym names is to glue the lerfu words together, using <letteral>'</letteral> wherever two vowels would come together (pauses are illegal in names) and adding a final consonant:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-736i">
       <title>
@@ -1743,7 +1743,7 @@
       </tr>
       <tr>
         <td>double-acute</td>
-        <td><jbophrase>.re'akut. bu  [re akut.]</jbophrase></td>
+        <td><jbophrase>.re'akut. bu  [re .akut.]</jbophrase></td>
       </tr>
       <tr>
         <td>ogonek</td>

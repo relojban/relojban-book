@@ -2450,8 +2450,6 @@
       In the following list of vocatives, the translations include the symbol X. This represents the name (or identifying description, or whatever) of the listener.
     </para>
     <para>
-      <indexterm type="general"><primary>doi</primary><secondary>effect on pause before name</secondary></indexterm>
-      <indexterm type="general"><primary>pause before name</primary><secondary>effect of doi</secondary></indexterm>
       The cmavo <valsi>doi</valsi> is the general-purpose vocative. It is not considered a scale, and <jbophrase valid="false">doinai</jbophrase> is not grammatical. In general, <valsi>doi</valsi> needs no translation in English (we just use names by themselves without any preceding word, although in poetic styles we sometimes say <quote>Oh X</quote>, which is equivalent to <valsi>doi</valsi>). One may attach an attitudinal to <valsi>doi</valsi> to express various English vocatives. For example, <jbophrase>doi .io</jbophrase> means <quote>Sir/Madam!</quote>, whereas <jbophrase>doi .ionai</jbophrase> means <quote>You there!</quote>.
     </para>
     <cmavo-list>

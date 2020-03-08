@@ -291,7 +291,7 @@
       <indexterm type="general"><primary>pause</primary><secondary>representation of in Relojban</secondary></indexterm>
       <indexterm type="general"><primary>glottal stop</primary><secondary>as pause in Relojban</secondary></indexterm>
       <indexterm type="general"><primary>period</primary><secondary>definition of</secondary></indexterm>
-      The period represents a mandatory pause, with no specified length; a glottal stop (IPA <phrase role="IPA">[ʔ]</phrase>) is considered a pause of shortest length. A pause (or glottal stop) may appear between any two words, and in certain cases &ndash; explained in detail in <xref linkend="section-pauses"/> &ndash; must occur. In particular, a word beginning with a vowel is always preceded by a pause, and a word ending in a consonant is always followed by a pause.
+      The period represents a mandatory pause, with no specified length; a glottal stop (IPA <phrase role="IPA">[ʔ]</phrase>) is considered a pause of shortest length. A pause (or glottal stop) may appear between any two words, and in certain cases &ndash; explained in detail in <xref linkend="section-pauses"/> &ndash; must occur. In particular, a word beginning with a vowel is always preceded by a pause, and a word ending in a consonant is always surrounded by pauses.
     </para>
     <para>
       <indexterm type="general"><primary>period</primary><secondary>optional</secondary></indexterm>

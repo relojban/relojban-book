@@ -1467,25 +1467,13 @@
         <indexterm type="lojban-word"><primary>coi</primary></indexterm>
       </title>
       <interlinear-gloss>
-        <jbo>coi. djan.</jbo>
+        <jbo>coi .djan.</jbo>
         <gloss>[greetings] John.</gloss>
         <natlang>Hello, John.</natlang>
       </interlinear-gloss>
     </example>
-    <para role="indent">
-      A pause is required (for morphological reasons) between a member of COI and a name. You can use <valsi>doi</valsi> instead of a pause:
-    </para>
-    <example role="interlinear-gloss-example" xml:id="example-random-id-QmzB">
-      <title>
-      </title>
-      <interlinear-gloss>
-        <jbo>coi doi .djan.</jbo>
-        <gloss>[greetings] O John.</gloss>
-        <natlang>Hello, John.</natlang>
-      </interlinear-gloss>
-    </example>
-    <para role="noindent">
-      means exactly the same thing and does not require a pause. Using <valsi>doi</valsi> by itself is like just saying someone's name to attract his or her attention:
+    <para>
+      Using <valsi>doi</valsi> by itself is like just saying someone's name to attract his or her attention:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-ULHn">
       <title>
@@ -1590,19 +1578,16 @@
     <para>
       <indexterm type="general"><primary>name words</primary><secondary>recognition of</secondary></indexterm>
       <indexterm type="general"><primary>names</primary><secondary>two kinds of</secondary></indexterm>
-      First of all, there are two different kinds of things usually called <quote>names</quote> when talking about Relojban. The naming predicates of <xref linkend="section-basic-descriptors"/> are just ordinary predicates which are being used in a special sense. In addition, though, there are <valsi>cmevla</valsi>, a class of Relojban words which are used to name things: these can be recognized by the fact that they end in a consonant followed by a pause. Some examples:
+      First of all, there are two different kinds of things usually called <quote>names</quote> when talking about Relojban. The naming predicates of <xref linkend="section-basic-descriptors"/> are just ordinary predicates which are being used in a special sense. In addition, though, there are <valsi>cmevla</valsi>, a class of Relojban words which are used to name things: these can be recognized by the fact that they end in a consonant and are surrounded by pauses. Some examples:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-u0zY">
       <title>
       </title>
       <interlinear-gloss>
-        <jbo>.djan. meris. djein. .alis.</jbo>
+        <jbo>.djan. .meris. .djein. .alis.</jbo>
         <gloss>John. Mary. Jane. Alice.</gloss>
       </interlinear-gloss>
     </example>
-    <para role="noindent">
-      (Note that <cmevla>.alis.</cmevla> begins as well as ends with a pause, because all Relojban words beginning with a vowel must be preceded by a pause. See <xref linkend="chapter-morphology"/> for more information.)
-    </para>
     <para>
       <indexterm type="general"><primary>names</primary><secondary>with LA descriptor</secondary></indexterm>
       <indexterm type="general"><primary>names</primary><secondary>in vocative phrase</secondary></indexterm>
@@ -1636,36 +1621,8 @@
       The sumti in <xref linkend="example-random-id-qLgw"/> and <xref linkend="example-random-id-qLHn"/> operate exactly like the similar uses of <valsi>la</valsi> and <valsi>lai</valsi> in <xref linkend="example-random-id-PrGp"/> and <xref linkend="example-random-id-H8z5"/> respectively. The only difference is that these descriptors are followed by Relojban name-words. And in fact, the only difference between descriptors of selma'o LA (these three) and of selma'o LE (all the other descriptors) is that the former can be followed by name-words, whereas the latter cannot.
     </para>
     <para>
-      <indexterm type="general"><primary>doi</primary><secondary>effect on necessity for pause before name-word</secondary></indexterm>
-      <indexterm type="general"><primary>LA selma'o</primary><secondary>effect on necessity for pause before name-word</secondary></indexterm>
-      <indexterm type="general"><primary>name-words</primary><secondary>pause requirements before</secondary></indexterm>
-      <indexterm type="general"><primary>name-words</primary><secondary>limitations on</secondary></indexterm>
-      There are certain limitations on the form of name-words in Relojban. In particular, they cannot contain the letter-sequences (or sound-sequences) <valsi>la</valsi>, <valsi>lai</valsi>, or <valsi>doi</valsi> unless a consonant immediately precedes within the name. Reciprocally, every name not preceded by <valsi>la</valsi>, <valsi>lai</valsi>, <valsi>la'i</valsi>, or <valsi>doi</valsi> must be preceded by a pause instead:
-    </para>
-    <example xml:id="example-random-id-qLiB" role="interlinear-gloss-example">
-      <title>
-      </title>
-      <interlinear-gloss>
-        <jbo>coi .djan.</jbo>
-        <gloss>[greetings] John.</gloss>
-        <natlang>Hello, John.</natlang>
-      </interlinear-gloss>
-    </example>
-    <example xml:id="example-random-id-qLIJ" role="interlinear-gloss-example">
-      <title>
-      </title>
-      <interlinear-gloss>
-        <jbo>zo .djan. cmene mi</jbo>
-        <gloss>The-word <quote>John</quote> is-the-name-of me.</gloss>
-        <natlang>My name is John.</natlang>
-      </interlinear-gloss>
-    </example>
-    <para role="indent">
-      In <xref linkend="example-random-id-qLiB"/> and <xref linkend="example-random-id-qLIJ"/>, <cmevla>.djan.</cmevla> appears with a pause before it as well as after it, because the preceding word is not one of the four special cases. These rules force cmevla to always be separable from the general word-stream.
-    </para>
-    <para>
       <indexterm type="general"><primary>names</primary><secondary>multiple</secondary></indexterm>
-      Unless some other rule prevents it (such as the rule that <valsi>zo</valsi> is always followed by a single word, which is quoted), multiple cmevla may appear wherever one cmevla is permitted, each with its terminating pause:
+      Unless some other rule prevents it (such as the rule that <valsi>zo</valsi> is always followed by a single word, which is quoted), multiple cmevla may appear wherever one cmevla is permitted, each surrounded by pauses:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-cw3p">
       <title>
@@ -1673,7 +1630,7 @@
         <indexterm type="example"><primary>John Paul Jones</primary></indexterm>
       </title>
       <interlinear-gloss>
-        <jbo>doi .djan.--pol.--djonz. le bloti cu klama fi--la .niiuport.--niiuz.</jbo>
+        <jbo>doi .djan.pol.djonz. le bloti cu klama fi--la .niiuport.niiuz.</jbo>
         <gloss>O John--Paul--Jones the boat - goes from-that-named Newport--News.</gloss>
         <natlang>John Paul Jones, the boat comes (to somewhere) from Newport News.</natlang>
       </interlinear-gloss>

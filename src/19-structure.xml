@@ -1064,7 +1064,7 @@
       Since <valsi>zo</valsi> acts on a single word only, there is no corresponding terminator. Brevity, then, is a great advantage of <valsi>zo</valsi>, since the terminators for other kinds of quotation are rarely or never elidable.
     </para>
     <para>
-      The cmavo <valsi>zoi</valsi> (of selma'o ZOI) is a quotation mark for quoting non-Relojban text. Its syntax is <jbophrase>zoi X. text .X.</jbophrase>, where X is a Relojban word (called the delimiting word) which is separated from the quoted text by pauses, and which is not found in the written text or spoken phoneme stream. It is common, but not required, to use the lerfu word (of selma'o BY) which corresponds to the Relojban name of the language being quoted:
+      The cmavo <valsi>zoi</valsi> (of selma'o ZOI) is a quotation mark for quoting non-Relojban text. Its syntax is <jbophrase>zoi .X. text .X.</jbophrase>, where X is a Relojban word (called the delimiting word) which is separated from the quoted text by pauses, and which is not found in the written text or spoken phoneme stream. It is common, but not required, to use the lerfu word (of selma'o BY) which corresponds to the Relojban name of the language being quoted:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-wYzm">
       <title>

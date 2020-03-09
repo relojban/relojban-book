@@ -570,7 +570,7 @@
       <indexterm type="general"><primary>hiragana</primary><secondary>contrasted with kanji</secondary></indexterm>
       <indexterm type="general"><primary>kanji</primary><secondary>contrasted with alphabets and syllabaries</secondary></indexterm>
       <indexterm type="general"><primary>Chinese characters</primary><secondary>contrasted with alphabets and syllabaries</secondary></indexterm>
-      Chinese characters (<quote>han<superscript>4</superscript> zi<superscript>4</superscript></quote> in Chinese, <valsi>kanji</valsi> in Japanese) represent an entirely different approach to writing from alphabets or syllabaries. (A syllabary, such as Japanese hiragana or Amharic writing, has one lerfu for each syllable of the spoken language.) Very roughly, Chinese characters represent single elements of meaning; also very roughly, they represent single syllables of spoken Chinese. There is in principle no limit to the number of Chinese characters that can exist, and many thousands are in regular use.
+      Chinese characters (<quote>hànzi</quote> in Chinese, <quote>kanji</quote> in Japanese) represent an entirely different approach to writing from alphabets or syllabaries. (A syllabary, such as Japanese hiragana or Amharic writing, has one lerfu for each syllable of the spoken language.) Very roughly, Chinese characters represent single elements of meaning; also very roughly, they represent single syllables of spoken Chinese. There is in principle no limit to the number of Chinese characters that can exist, and many thousands are in regular use.
     </para>
     <para>
       It is hopeless for Relojban, with its limited lerfu and shift words, to create an alphabet which will match this diversity. However, there are various possible ways around the problem.
@@ -580,7 +580,7 @@
       <indexterm type="general"><primary>pinyin</primary><secondary>as a basis for Chinese characters in Relojban lerfu words</secondary></indexterm>
       <indexterm type="general"><primary>kanji</primary><secondary>representing based on romaji spelling</secondary></indexterm>
       <indexterm type="general"><primary>Chinese characters</primary><secondary>representing based on pinyin spelling</secondary></indexterm>
-      First, both Chinese and Japanese have standard Latin-alphabet representations, known as <quote>pinyin</quote> for Chinese and <quote>romaji</quote> for Japanese, and these can be used. Thus, the word <quote>han<superscript>4</superscript>zi<superscript>4</superscript></quote> is conventionally written with two characters, but it may be spelled out as:
+      First, both Chinese and Japanese have standard Latin-alphabet representations, known as <quote>pinyin</quote> for Chinese and <quote>romaji</quote> for Japanese, and these can be used. Thus, the word <quote>han<superscript>4</superscript>zi<superscript>4</superscript></quote> (<quote>hànzi</quote>) is conventionally written with two characters, but it may be spelled out as:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-fBfe">
       <title>

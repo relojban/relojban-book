@@ -787,13 +787,13 @@
         <indexterm type="example"><primary>whether criminal</primary></indexterm>
       </title>
       <interlinear-gloss>
-        <jbo>mi ba jdice le jei la .djordj.</jbo>
-        <gloss>I [future] decide the (truth-value--of that-named George</gloss>
+        <jbo>mi ba jdice tu'a le jei la .djordj.</jbo>
+        <gloss>I [future] decide on the (truth-value--of that-named George</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
         <jbo>… cu zekri gasnu [kei]</jbo>
         <gloss>… -- being-a-(crime doer) ).</gloss>
-        <natlang>I will decide whether George is a criminal.</natlang>
+        <natlang>I will decide on the topic of whether George is a criminal.</natlang>
       </interlinear-gloss>
     </example>
     <para role="indent">
@@ -860,8 +860,8 @@
       <title>
       </title>
       <interlinear-gloss>
-        <jbo>mi djuno le jei la .frank. cu bebna [kei]</jbo>
-        <natlang>I know the truth-value of Frank being a fool.</natlang>
+        <jbo>mi djuno tu'a le jei la .frank. cu bebna [kei]</jbo>
+        <natlang>I know about the truth-value of Frank being a fool.</natlang>
       </interlinear-gloss>
     </example>
     <para role="indent">
@@ -888,7 +888,7 @@
     </example>
     <para role="noindent">
       <indexterm type="general"><primary>curious</primary></indexterm>
-      and here <valsi>du'u</valsi> could probably be replaced by <valsi>jei</valsi> without much change in meaning:
+      and here <valsi>du'u</valsi> could probably be replaced by <jbophrase>tu'a le jei</jbophrase> without much change in meaning:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-h4De">
       <title>
@@ -896,7 +896,7 @@
         <indexterm type="example"><primary>curious</primary></indexterm>
       </title>
       <interlinear-gloss>
-        <jbo>mi kucli le jei la .frank. cu bebna [kei]</jbo>
+        <jbo>mi kucli tu'a le jei la .frank. cu bebna [kei]</jbo>
         <natlang>I am curious about how true it is that Frank is a fool.</natlang>
       </interlinear-gloss>
     </example>

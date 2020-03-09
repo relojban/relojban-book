@@ -668,20 +668,20 @@
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-uAAF">
       <title>
-        <indexterm type="example"><primary>Alexander Pavlovitch Kuznetsov</primary></indexterm>
+        <indexterm type="example"><primary>Alexander Pavlovich Kuznetsov</primary></indexterm>
         <indexterm type="example"><primary>Steven Mark Jones</primary></indexterm>
       </title>
       <interlinear-gloss>
         <jbo>la .stivn.mark.djonz. cu merko</jbo>
-        <gloss>- Steven--Mark--Jones - is-American.</gloss>
+        <gloss>that-named Steven--Mark--Jones - is-American.</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
-        <jbo>… .i la .aleksandr.pali'itc.kuzniIETsyf. cu rusko</jbo>
-        <gloss>… - - Alexander--Pavlovitch--Kuznetsov - is-Russian.</gloss>
+        <jbo>… .i la .aleksandr.pavlovitc.kuznietsof. cu rusko</jbo>
+        <gloss>… - that-named Alexander--Pavlovich--Kuznetsov - is-Russian.</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
         <jbo>… .i symydy. tavla .abupyky. bau la .relojban.</jbo>
-        <gloss>… - SMD talks-to APK in - Relojban.</gloss>
+        <gloss>… - SMD talks-to APK in that-named Relojban.</gloss>
       </interlinear-gloss>
     </example>
     <para role="indent">

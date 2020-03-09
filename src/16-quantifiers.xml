@@ -1340,7 +1340,7 @@
       </title>
       <interlinear-gloss>
         <jbo>su'oda poi verba ku'o naku klama su'ode poi ckule</jbo>
-        <gloss>Some which-are children don't go-to some which-are schools.</gloss>
+        <gloss>Some which are-children - don't go-to some that-are schools.</gloss>
         <natlang>Some children don't go to a school.</natlang>
       </interlinear-gloss>
     </example>
@@ -1482,7 +1482,7 @@
       </interlinear-gloss>
       <interlinear-gloss>
         <jbo>… poi ckule zo'u de na se klama da</jbo>
-        <gloss>… which is-a-school such-that: Y - - is-gone-to-by X.</gloss>
+        <gloss>… which is-a-school such-that: Y [false] - is-gone-to-by X.</gloss>
       </interlinear-gloss>
     </example>
     <para role="indent">

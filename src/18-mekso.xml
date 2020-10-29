@@ -5,7 +5,7 @@
   <!ENTITY hellip "&#x02026;" ><!--HORIZONTAL ELLIPSIS -->
 ]>
 <chapter xml:id="chapter-mekso">
-  <title>Mathematical Expressions</title>
+  <title>Mathematical expressions</title>
 
   <section xml:id="section-mekso-introduction">
     <title>Introductory</title>
@@ -3436,7 +3436,7 @@
     </cmavo-list>
   </section>
   <section xml:id="section-pa">
-    <title>Complete table of PA cmavo: digits, punctuation, and other numbers.</title>
+    <title>Complete table of PA cmavo: digits, punctuation, and other numbers</title>
     <itemizedlist>
       <listitem>
         <cmavo-list>

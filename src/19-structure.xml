@@ -5,7 +5,7 @@
   <!ENTITY hellip "&#x02026;" ><!--HORIZONTAL ELLIPSIS -->
 ]>
 <chapter xml:id="chapter-structure">
-  <title>Putting It All Together: Notes on the Structure of Relojban Texts</title>
+  <title>Putting it all together: notes on the structure of Relojban texts</title>
 
   <section xml:id="section-structure-introduction">
     <title>Introductory</title>
@@ -1708,7 +1708,7 @@
     </itemizedlist>
   </section>
   <section xml:id="section-elidable-terminators">
-    <title>List of Elidable Terminators</title>
+    <title>List of elidable terminators</title>
     <para>
       The following list shows all the elidable terminators of Relojban. The first column is the terminator, the second column is the selma'o that starts the corresponding construction, and the third column states what kinds of grammatical constructs are terminated. Each terminator is the only cmavo of its selma'o, which naturally has the same name as the cmavo.
     </para>

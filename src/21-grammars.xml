@@ -5,7 +5,7 @@
   <!ENTITY hellip "&#x02026;" ><!--HORIZONTAL ELLIPSIS -->
 ]>
 <chapter xml:id="chapter-grammars">
-  <title>Relojban Formal Specifications</title>
+  <title>Relojban formal specifications</title>
 
   <warning><para>This chapter is a work in progress.</para></warning>
 

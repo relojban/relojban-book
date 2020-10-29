@@ -5,7 +5,7 @@
   <!ENTITY hellip "&#x02026;" ><!--HORIZONTAL ELLIPSIS -->
 ]>
 <chapter xml:id="chapter-connectives">
-  <title>The Relojban Connective System</title>
+  <title>The Relojban connective system</title>
 
   <warning><para>This chapter is a work in progress.</para></warning>
 
@@ -149,7 +149,7 @@
     </para>
   </section>
   <section xml:id="section-four-basics">
-    <title>The Four basic vowels</title>
+    <title>The four basic vowels</title>
     <para>
       <indexterm type="general"><primary>logical connectives</primary><secondary>relation to truth functions</secondary></indexterm>
       <indexterm type="general"><primary>truth functions</primary><secondary>relation to logical connectives</secondary></indexterm>

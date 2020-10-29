@@ -5,7 +5,7 @@
   <!ENTITY hellip "&#x02026;" ><!--HORIZONTAL ELLIPSIS -->
 ]>
 <chapter xml:id="chapter-phonology">
-  <title>Phonology: Relojban Sounds and Syllables</title>
+  <title>Phonology: Relojban sounds and syllables</title>
 
   <warning><para>This chapter is a work in progress.</para></warning>
 
@@ -67,7 +67,7 @@
     </para>
   </section>
   <section xml:id="section-basic-phonetics">
-    <title>Basic Phonetics</title>
+    <title>Basic phonetics</title>
     <para>
       <indexterm type="general"><primary>brackets</primary><secondary>use in IPA notation</secondary></indexterm>
       <indexterm type="general"><primary>phonetic alphabet</primary></indexterm>
@@ -272,7 +272,7 @@
     </para>
   </section>
   <section xml:id="section-lojban-characters">
-    <title>The Special Relojban Characters</title>
+    <title>The special Relojban characters</title>
     <para>
       <indexterm type="general"><primary>characters</primary><secondary>special</secondary></indexterm>
       The apostrophe, period, and comma need special attention. They are all used as indicators of a division between syllables, but each has a different pronunciation, and each is used for different reasons:
@@ -354,7 +354,7 @@
     </para>
   </section>
   <section xml:id="section-diphthongs">
-    <title>Diphthongs and Syllabic Consonants</title>
+    <title>Diphthongs and syllabic consonants</title>
     <para>
       <indexterm type="general"><primary>diphthongs</primary><secondary>definition of</secondary></indexterm>
       There exist 16 diphthongs in the Relojban language. A diphthong is a vowel sound that consists of two elements, a short vowel sound and a glide, either a labial (IPA <phrase role="IPA">[w]</phrase>) or palatal (IPA <phrase role="IPA">[j]</phrase>) glide, that either precedes (an on-glide) or follows (an off-glide) the main vowel. Diphthongs always constitute a single syllable.
@@ -487,7 +487,7 @@
     </para>
   </section>
   <section xml:id="section-vowel-pairs">
-    <title>Vowel Pairs</title>
+    <title>Vowel pairs</title>
     <para>
       <indexterm type="general"><primary>vowel pairs</primary><secondary>use of apostrophe in</secondary></indexterm>
       <indexterm type="general"><primary>apostrophe</primary><secondary>use in vowel pairs</secondary></indexterm>
@@ -555,7 +555,7 @@
     </example>
   </section>
   <section xml:id="section-clusters">
-    <title>Consonant Clusters</title>
+    <title>Consonant clusters</title>
     <para>
       <indexterm type="general"><primary>consonant</primary><secondary>effect on syllable count</secondary></indexterm>
       <indexterm type="general"><primary>consonant</primary><secondary>definition</secondary></indexterm>
@@ -670,7 +670,7 @@
     </para>
   </section>
   <section xml:id="section-initial-pairs">
-    <title>Initial Consonant Pairs</title>
+    <title>Initial consonant pairs</title>
     <para>
       <indexterm type="general"><primary>consonant pairs</primary><secondary>initial</secondary></indexterm>
       The set of consonant pairs that may appear at the beginning of a syllable (excluding cmevla) is far more restricted than the fairly large group of permissible consonant pairs described in <xref linkend="section-clusters"/>. Even so, it is more than English allows, although hopefully not more than English-speakers (and others) can learn to pronounce.
@@ -980,7 +980,7 @@
     </para>
   </section>
   <section xml:id="section-buffer-vowels">
-    <title>Buffering Of Consonant Clusters</title>
+    <title>Buffering of consonant clusters</title>
     <para>
       <indexterm type="general"><primary>vowel</primary><secondary>buffer</secondary></indexterm>
       <indexterm type="general"><primary>buffer vowel</primary></indexterm>
@@ -1101,7 +1101,7 @@
     </para>
   </section>
   <section xml:id="section-stress">
-    <title>Syllabication and Stress</title>
+    <title>Syllabication and stress</title>
     <para>
       <indexterm type="general"><primary>syllabication</primary><secondary>definition of</secondary></indexterm>
       A Relojban word has one syllable for each of its vowels, diphthongs, and syllabic consonants (referred to simply as <quote>vowels</quote> for the purposes of this section.) Syllabication rules determine which of the consonants separating two vowels belong to the preceding vowel and which to the following vowel. These rules are conventional only; the phonetic facts of the matter about how utterances are syllabified in any language are always very complex.
@@ -1336,7 +1336,7 @@
     </para>
   </section>
   <section xml:id="section-anglophone-phonetics">
-    <title>IPA For English Speakers</title>
+    <title>IPA for English speakers</title>
     <para>
       <indexterm type="general"><primary>IPA pronunciation</primary><secondary>description</secondary></indexterm>
       <indexterm type="general"><primary>television</primary></indexterm>
@@ -1647,7 +1647,7 @@
     </informaltable>
   </section>
   <section xml:id="section-anglophone-diphthongs">
-    <title>English Analogues For Relojban Diphthongs</title>
+    <title>English analogues For Relojban diphthongs</title>
     <para>
       <indexterm type="general"><primary>diphthongs</primary><secondary>English analogues of</secondary></indexterm>
       Here is a list of English words that contain diphthongs that are similar to the Relojban diphthongs. This list does not constitute an official pronunciation guide; it is intended as a help to English-speakers.
@@ -1726,7 +1726,7 @@
     </informaltable>
   </section>
   <section xml:id="section-oddball-orthographies">
-    <title>Oddball Orthographies</title>
+    <title>Oddball orthographies</title>
     <para>
       <indexterm type="general"><primary>orthography</primary><secondary>non-standard</secondary></indexterm>
       The following notes describe ways in which Relojban has been written or could be written that differ from the standard orthography explained in the rest of this chapter. Nobody needs to read this section except people with an interest in the obscure. Technicalities are used without explanation or further apology.

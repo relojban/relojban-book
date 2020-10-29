@@ -5,7 +5,7 @@
   <!ENTITY hellip "&#x02026;" ><!--HORIZONTAL ELLIPSIS -->
 ]>
 <chapter xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="chapter-about">
-  <title>About This Book</title>
+  <title>About this book</title>
 
   <section xml:id="section-what-is-lojban">
     <title>What is Lojban?</title>
@@ -120,7 +120,7 @@
     </para>
   </section>
   <section xml:id="section-copyright">
-    <title>Boring Legalities</title>
+    <title>Boring legalities</title>
     <para>
       As a derivative work of <citetitle pubwork="book">The Complete Lojban Language</citetitle> by John Woldemar Cowan, this book is subject to the copyright notice included therein, which is reproduced below in its entirety. All parts not explicitly covered by this notice are placed in the public domain.
     </para>

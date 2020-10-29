@@ -5,7 +5,7 @@
   <!ENTITY hellip "&#x02026;" ><!--HORIZONTAL ELLIPSIS -->
 ]>
 <chapter xml:id="chapter-quantifiers">
-  <title>Relojban And Logic</title>
+  <title>Relojban and logic</title>
 
   <warning><para>This chapter is a work in progress.</para></warning>
 
@@ -1517,7 +1517,7 @@
     </para>
   </section>
   <section xml:id="section-demorgans-law">
-    <title>Logical Connectives and DeMorgan's Law</title>
+    <title>Logical connectives and DeMorgan's law</title>
     <para>
       <indexterm type="general"><primary>negations with logical connectives</primary><secondary>effects on expansion of sentence</secondary></indexterm>
       <indexterm type="general"><primary>logical connectives within negation</primary><secondary>effects of expansion on</secondary></indexterm>

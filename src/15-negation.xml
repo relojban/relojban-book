@@ -357,7 +357,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      In <xref linkend="example-random-id-R3GU"/>, the negation is clearly confined to the event abstraction in the x1 sumti, and does not extend to the whole sentence. The English could also have been expressed by two separate sentences joined by a causal connective (which we'll not go into here).
+      In <xref linkend="example-random-id-R3GU"/>, the negation is clearly confined to the event abstraction in the x<subscript>1</subscript> sumti, and does not extend to the whole sentence. The English could also have been expressed by two separate sentences joined by a causal connective (which we'll not go into here).
     </para>
     <para>
       The problem is not confined to obvious causals. In the English:
@@ -738,7 +738,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      The translations show that the negation in <xref linkend="example-random-id-qh7T"/> is more restricted in scope; i.e. less of the sentence is negated with respect to x1 (<valsi>mi</valsi>).
+      The translations show that the negation in <xref linkend="example-random-id-qh7T"/> is more restricted in scope; i.e. less of the sentence is negated with respect to x<subscript>1</subscript> (<valsi>mi</valsi>).
     </para>
     <para>
       Logical scope being an important factor in Relojban's claims to be unambiguous, let us indicate the relative precedence of <valsi>na'e</valsi> as an operator. Grouping with <valsi>ke</valsi> and <valsi>ke'e</valsi>, of course, has an overt scope, which is its advantage. <valsi>na'e</valsi> is very close binding to its brivla. Internal binding of tanru, with <valsi>bo</valsi>, is not as tightly bound as <valsi>na'e</valsi>. <valsi>co</valsi>, the tanru inversion operator has a scope that is longer than all other tanru constructs.

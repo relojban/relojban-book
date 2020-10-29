@@ -226,7 +226,7 @@
     <para role="indent">
       <indexterm type="general"><primary>ko</primary><secondary>in later selbri place in imperative</secondary></indexterm>
       <indexterm type="general"><primary>imperatives</primary><secondary>English contrasted with Relojban in presence of subject of command</secondary></indexterm>
-      In English, the subject of a command is omitted, but in Relojban, the word <valsi>ko</valsi> must be used. However, <valsi>ko</valsi> does not have to appear in the x1 place:
+      In English, the subject of a command is omitted, but in Relojban, the word <valsi>ko</valsi> must be used. However, <valsi>ko</valsi> does not have to appear in the x<subscript>1</subscript> place:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-5Jbi">
       <title>
@@ -240,7 +240,7 @@
     </example>
     <para role="indent">
       <indexterm type="general"><primary>ko</primary><secondary>in sub-clause of main bridi</secondary></indexterm>
-      In <xref linkend="example-random-id-5Jbi"/>, it is necessary to make the verb passive in English in order to convey the effect of <valsi>ko</valsi> in the x2 place. Indeed, <valsi>ko</valsi> does not even have to be a sumti of the main bridi:
+      In <xref linkend="example-random-id-5Jbi"/>, it is necessary to make the verb passive in English in order to convey the effect of <valsi>ko</valsi> in the x<subscript>2</subscript> place. Indeed, <valsi>ko</valsi> does not even have to be a sumti of the main bridi:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-VTRG">
       <title>
@@ -747,7 +747,7 @@
     </example>
     <para role="indent">
       <indexterm type="general"><primary>brika'i</primary><secondary>overriding sumti of antecedent bridi for</secondary></indexterm>
-      In the second bridi, <jbophrase>do brode</jbophrase> means <jbophrase>do klama le zarci</jbophrase>, because <valsi>brode</valsi> carries the x2 sumti of <jbophrase>mi klama le zarci</jbophrase> along with it. It also potentially carries the x1 sumti as well, but the explicit x1 sumti <valsi>do</valsi> overrides the <valsi>mi</valsi> of the antecedent bridi. Similarly, any tense or negation that is present in the antecedent is also carried, and can be overridden by explicit tense or negation cmavo on the brika'i. These rules hold for all brika'i that have antecedents.
+      In the second bridi, <jbophrase>do brode</jbophrase> means <jbophrase>do klama le zarci</jbophrase>, because <valsi>brode</valsi> carries the x<subscript>2</subscript> sumti of <jbophrase>mi klama le zarci</jbophrase> along with it. It also potentially carries the x<subscript>1</subscript> sumti as well, but the explicit x<subscript>1</subscript> sumti <valsi>do</valsi> overrides the <valsi>mi</valsi> of the antecedent bridi. Similarly, any tense or negation that is present in the antecedent is also carried, and can be overridden by explicit tense or negation cmavo on the brika'i. These rules hold for all brika'i that have antecedents.
     </para>
     <para>
       <indexterm type="general"><primary>broda-series brika'i</primary><secondary>with no assignment</secondary></indexterm>
@@ -1057,7 +1057,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      Here B's sentence repeats A's within an abstraction (explained in <xref linkend="chapter-abstractions"/>): <jbophrase>le si'o mi go'i</jbophrase> means <jbophrase>le si'o mi klama le zarci</jbophrase>. Why must B use the word <valsi>mi</valsi> explicitly to replace the x1 of <jbophrase>mi klama le zarci</jbophrase>, even though it looks like <valsi>mi</valsi> is replacing <valsi>mi</valsi>? Because B's <valsi>mi</valsi> refers to B, whereas A's <valsi>mi</valsi> refers to A. If B said:
+      Here B's sentence repeats A's within an abstraction (explained in <xref linkend="chapter-abstractions"/>): <jbophrase>le si'o mi go'i</jbophrase> means <jbophrase>le si'o mi klama le zarci</jbophrase>. Why must B use the word <valsi>mi</valsi> explicitly to replace the x<subscript>1</subscript> of <jbophrase>mi klama le zarci</jbophrase>, even though it looks like <valsi>mi</valsi> is replacing <valsi>mi</valsi>? Because B's <valsi>mi</valsi> refers to B, whereas A's <valsi>mi</valsi> refers to A. If B said:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-2uS7">
       <title>
@@ -1073,7 +1073,7 @@
       </para>
     </blockquote>
     <para>
-      The repetition signalled by <valsi>go'i</valsi> is not literally of words, but of concepts. Finally, A repeats her own sentence, but with the x1 changed to <valsi>do</valsi>, meaning B. Note that in <xref linkend="example-random-id-9hf5"/>, the tense <valsi>ba</valsi> (future time) is carried along by both <valsi>go'i</valsi> and <valsi>go'e</valsi>.
+      The repetition signalled by <valsi>go'i</valsi> is not literally of words, but of concepts. Finally, A repeats her own sentence, but with the x<subscript>1</subscript> changed to <valsi>do</valsi>, meaning B. Note that in <xref linkend="example-random-id-9hf5"/>, the tense <valsi>ba</valsi> (future time) is carried along by both <valsi>go'i</valsi> and <valsi>go'e</valsi>.
     </para>
     <para>
       Descriptions based on go'i-series cmavo can be very useful for repeating specific sumti of previous bridi:
@@ -1083,7 +1083,7 @@
       </title>
       <interlinear-gloss>
         <jbo>le xekri mlatu cu klama le zarci .i le</jbo>
-        <gloss>The black cat - goes-to the store. - That-described-as-the-x1-place-of</gloss>
+        <gloss>The black cat - goes-to the store. - That-described-as-the-x<subscript>1</subscript>-place-of</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
         <jbo>… go'i cu cadzu le bisli</jbo>
@@ -1092,7 +1092,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      Here the <valsi>go'i</valsi> repeats <jbophrase>le xekri mlatu cu klama le zarci</jbophrase>, and since <valsi>le</valsi> makes the x1 place into a description, and the x1 place of this bridi is <jbophrase>le xekri mlatu</jbophrase>, <jbophrase>le go'i</jbophrase> means <jbophrase>le xekri mlatu</jbophrase>.
+      Here the <valsi>go'i</valsi> repeats <jbophrase>le xekri mlatu cu klama le zarci</jbophrase>, and since <valsi>le</valsi> makes the x<subscript>1</subscript> place into a description, and the x<subscript>1</subscript> place of this bridi is <jbophrase>le xekri mlatu</jbophrase>, <jbophrase>le go'i</jbophrase> means <jbophrase>le xekri mlatu</jbophrase>.
     </para>
     <para>
       The cmavo <valsi>go'o</valsi>, <valsi>nei</valsi>, and <valsi>no'a</valsi> have been little used so far. They repeat respectively some future bridi, the current bridi, and the bridi that encloses the current bridi (<valsi>no'a</valsi>, unlike the other members of the go'i- series, can repeat non-sentence bridi). Here are a few examples:
@@ -1279,7 +1279,7 @@
       <indexterm type="general"><primary>zi'o</primary></indexterm>
       Finally, the cmavo <valsi>zi'o</valsi> represents a value which does not even exist. When a bridi fills one of its places with <valsi>zi'o</valsi>, what is really meant is that the selbri has a place which is irrelevant to the true relationship the speaker wishes to express. For example, the place structure of <valsi>zbasu</valsi> is:
     </para>
-    <definition><content>actor x1 makes x2 from materials x3</content></definition>
+    <definition><content>actor x<subscript>1</subscript> makes x<subscript>2</subscript> from materials x<subscript>3</subscript></content></definition>
     <para>
       <indexterm type="example"><primary>living things</primary></indexterm>
       Consider the sentence
@@ -1395,31 +1395,31 @@
         <cmavo>vo'a</cmavo>
         <selmaho>KOhA</selmaho>
         <series>vo'a-series</series>
-        <description>x1 of the outermost bridi </description>
+        <description>x<subscript>1</subscript> of the outermost bridi </description>
       </cmavo-entry>
       <cmavo-entry>
         <cmavo>vo'e</cmavo>
         <selmaho>KOhA</selmaho>
         <series>vo'a-series</series>
-        <description>x2 of the outermost bridi</description>
+        <description>x<subscript>2</subscript> of the outermost bridi</description>
       </cmavo-entry>
       <cmavo-entry>
         <cmavo>vo'i</cmavo>
         <selmaho>KOhA</selmaho>
         <series>vo'a-series</series>
-        <description>x3 of the outermost bridi</description>
+        <description>x<subscript>3</subscript> of the outermost bridi</description>
       </cmavo-entry>
       <cmavo-entry>
         <cmavo>vo'o</cmavo>
         <selmaho>KOhA</selmaho>
         <series>vo'a-series</series>
-        <description>x4 of the outermost bridi</description>
+        <description>x<subscript>4</subscript> of the outermost bridi</description>
       </cmavo-entry>
       <cmavo-entry>
         <cmavo>vo'u</cmavo>
         <selmaho>KOhA</selmaho>
         <series>vo'a-series</series>
-        <description>x5 of the outermost bridi</description>
+        <description>x<subscript>5</subscript> of the outermost bridi</description>
       </cmavo-entry>
       <cmavo-entry>
         <cmavo>soi</cmavo>
@@ -1476,7 +1476,7 @@
       </title>
       <interlinear-gloss>
         <jbo>mi prami do soi vo'a vo'e</jbo>
-        <gloss>I love you [reciprocity] [x1--of--outermost--bridi] [x2--of--outermost--bridi].</gloss>
+        <gloss>I love you [reciprocity] [x<subscript>1</subscript>--of--outermost--bridi] [x<subscript>2</subscript>--of--outermost--bridi].</gloss>
         <natlang>I love you and vice versa (swapping
         <quote>I</quote> and
         <quote>you</quote>).</natlang>
@@ -1484,7 +1484,7 @@
     </example>
     <para role="indent">
       <indexterm type="general"><primary>soi with one following sumti</primary><secondary>convention</secondary></indexterm>
-      The significance of <jbophrase>soi vo'a vo'e</jbophrase> is that the bridi is still true even if the x1 (specified by <valsi>vo'a</valsi>) and the x2 (specified by <valsi>vo'e</valsi>) places are interchanged. If only a single sumti follows <valsi>soi</valsi>, then the sumti immediately preceding <valsi>soi</valsi> is understood to be one of those involved:
+      The significance of <jbophrase>soi vo'a vo'e</jbophrase> is that the bridi is still true even if the x<subscript>1</subscript> (specified by <valsi>vo'a</valsi>) and the x<subscript>2</subscript> (specified by <valsi>vo'e</valsi>) places are interchanged. If only a single sumti follows <valsi>soi</valsi>, then the sumti immediately preceding <valsi>soi</valsi> is understood to be one of those involved:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-CMQ1">
       <title>
@@ -1492,11 +1492,11 @@
       </title>
       <interlinear-gloss>
         <jbo>mi prami do soi vo'a</jbo>
-        <gloss>I love you [reciprocity] [x1--of--outermost--bridi].</gloss>
+        <gloss>I love you [reciprocity] [x<subscript>1</subscript>--of--outermost--bridi].</gloss>
       </interlinear-gloss>
     </example>
     <para role="noindent">
-      again involves the x1 and x2 places.
+      again involves the x<subscript>1</subscript> and x<subscript>2</subscript> places.
     </para>
     <para>
       <indexterm type="general"><primary>soi</primary><secondary>use in expressing reciprocity</secondary></indexterm>
@@ -1527,7 +1527,7 @@
       </title>
       <interlinear-gloss>
         <jbo>mi bajykla ti soi vo'i se'u -- ta</jbo>
-        <gloss>I runningly-go-to this [reciprocity] [x3--of--this--bridi] -- from that</gloss>
+        <gloss>I runningly-go-to this [reciprocity] [x<subscript>3</subscript>--of--this--bridi] -- from that</gloss>
         <natlang>I runningly-go to this from that and vice versa.</natlang>
       </interlinear-gloss>
     </example>
@@ -1878,7 +1878,7 @@
       <indexterm type="general"><primary>identity predicate</primary></indexterm>
       The cmavo <valsi>du</valsi> has the place structure:
     </para>
-    <definition><content>x1 is identical with x2, x3, ...</content></definition>
+    <definition><content>x<subscript>1</subscript> is identical with x<subscript>2</subscript>, x<subscript>3</subscript>, ...</content></definition>
     <para role="noindent">
       <indexterm type="general"><primary>du</primary><secondary>rationale for selection of selma'o for</secondary></indexterm>
       and appears in selma'o GOhA for reasons of convenience: it is not a brika'i. <valsi>du</valsi> serves as mathematical <quote>=</quote>, and outside mathematical contexts is used for defining or identifying. Mathematical examples may be found in <xref linkend="chapter-mekso"/>.
@@ -1937,10 +1937,10 @@
     <example role="interlinear-gloss-example" xml:id="example-random-id-unmV">
       <title>
       </title>
-      <definition><content>t1 talks to you about subject t3 in language t4</content></definition>
+      <definition><content>t<subscript>1</subscript> talks to you about subject t<subscript>3</subscript> in language t<subscript>4</subscript></content></definition>
     </example>
     <para role="noindent">
-      since <dbinlinemath>t2</dbinlinemath> (the addressee) is already known to be <valsi>do</valsi>.
+      since <dbinlinemath>t<subscript>2</subscript></dbinlinemath> (the addressee) is already known to be <valsi>do</valsi>.
     </para>
     <para>
       <indexterm type="general"><primary>you-cmavo</primary><secondary>example</secondary></indexterm>
@@ -1949,10 +1949,10 @@
     <example role="interlinear-gloss-example" xml:id="example-random-id-H5NB">
       <title>
       </title>
-      <definition><content>c1 is a second person pronoun in language c4</content></definition>
+      <definition><content>c<subscript>1</subscript> is a second person pronoun in language c<subscript>4</subscript></content></definition>
     </example>
     <para role="noindent">
-      since both the <dbinlinemath>c2</dbinlinemath> place (the grammatical class) and the <dbinlinemath>c3</dbinlinemath> place (the meaning) are obvious from the context <valsi>do</valsi>.
+      since both the <dbinlinemath>c<subscript>2</subscript></dbinlinemath> place (the grammatical class) and the <dbinlinemath>c<subscript>3</subscript></dbinlinemath> place (the meaning) are obvious from the context <valsi>do</valsi>.
     </para>
     <para>
       <indexterm type="general"><primary>sumka'i rafsi</primary><secondary>anticipated use of for abbreviating inconvenient forms</secondary></indexterm>
@@ -1963,14 +1963,14 @@
       </title>
       <interlinear-gloss>
         <jbo>fo'a goi le kulnrsuuomi .i lo fo'arselsanga</jbo>
-        <gloss>x6 stands-for the Finnish-culture . An x6-song.</gloss>
+        <gloss>x<subscript>6</subscript> stands-for the Finnish-culture . An x<subscript>6</subscript>-song.</gloss>
       </interlinear-gloss>
     </example>
     <para role="noindent">
       <indexterm type="general"><primary>beverage</primary><secondary>example</secondary></indexterm>
       <indexterm type="general"><primary>zi'o rafsi</primary><secondary>effect of on place structure of lujvo</secondary></indexterm>
       <indexterm type="general"><primary>lujvo</primary><secondary>zi'o rafsi effect on place structure of</secondary></indexterm>
-      Finally, lujvo involving <valsi>zi'o</valsi> are also possible. The convention is to use the rafsi for <valsi>zi'o</valsi> as a prefix immediately followed by the rafsi for the number of the place to be deleted. Thus, if we consider a beverage (something drunk without considering who, if anyone, drinks it) as a <jbophrase>se pinxe be zi'o</jbophrase>, the lujvo corresponding to this is <valsi valid='maybe'>zilrelselpinxe</valsi> (deleting the second place of <jbophrase>se pinxe</jbophrase>). Deleting the x1 place in this fashion would move all remaining places up by one. This would mean that <valsi valid='maybe'>zilpavypinxe</valsi> has the same place structure as <valsi valid='maybe'>zilrelselpinxe</valsi>, and <jbophrase>lo zilpavypinxe</jbophrase>, like <jbophrase>lo zilrelselpinxe</jbophrase>, refers to a beverage, and not to a non-existent drinker.
+      Finally, lujvo involving <valsi>zi'o</valsi> are also possible. The convention is to use the rafsi for <valsi>zi'o</valsi> as a prefix immediately followed by the rafsi for the number of the place to be deleted. Thus, if we consider a beverage (something drunk without considering who, if anyone, drinks it) as a <jbophrase>se pinxe be zi'o</jbophrase>, the lujvo corresponding to this is <valsi valid='maybe'>zilrelselpinxe</valsi> (deleting the second place of <jbophrase>se pinxe</jbophrase>). Deleting the x<subscript>1</subscript> place in this fashion would move all remaining places up by one. This would mean that <valsi valid='maybe'>zilpavypinxe</valsi> has the same place structure as <valsi valid='maybe'>zilrelselpinxe</valsi>, and <jbophrase>lo zilpavypinxe</jbophrase>, like <jbophrase>lo zilrelselpinxe</jbophrase>, refers to a beverage, and not to a non-existent drinker.
     </para>
     <para>
       <indexterm type="general"><primary>brika'i rafsi</primary><secondary>as producing context-dependent meanings</secondary></indexterm>
@@ -2158,23 +2158,23 @@
     <cmavo-list>
       <cmavo-entry>
         <cmavo>vo'a</cmavo>
-        <description>x1 of the outermost bridi</description>
+        <description>x<subscript>1</subscript> of the outermost bridi</description>
       </cmavo-entry>
       <cmavo-entry>
         <cmavo>vo'e</cmavo>
-        <description>x2 of the outermost bridi</description>
+        <description>x<subscript>2</subscript> of the outermost bridi</description>
       </cmavo-entry>
       <cmavo-entry>
         <cmavo>vo'i</cmavo>
-        <description>x3 of the outermost bridi</description>
+        <description>x<subscript>3</subscript> of the outermost bridi</description>
       </cmavo-entry>
       <cmavo-entry>
         <cmavo>vo'o</cmavo>
-        <description>x4 of the outermost bridi</description>
+        <description>x<subscript>4</subscript> of the outermost bridi</description>
       </cmavo-entry>
       <cmavo-entry>
         <cmavo>vo'u</cmavo>
-        <description>x5 of the outermost bridi</description>
+        <description>x<subscript>5</subscript> of the outermost bridi</description>
       </cmavo-entry>
     </cmavo-list>
 
@@ -2308,7 +2308,7 @@
       </cmavo-entry>
       <cmavo-entry>
         <cmavo>du</cmavo>
-        <description>identity: x1 is identical to x2, x3 ...</description>
+        <description>identity: x<subscript>1</subscript> is identical to x<subscript>2</subscript>, x<subscript>3</subscript> ...</description>
         <rafsi>dub</rafsi>
         <rafsi>du'o</rafsi>
       </cmavo-entry>

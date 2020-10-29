@@ -943,10 +943,10 @@
     </para>
     <para>
       <indexterm type="general"><primary>tanru</primary><secondary>place structures of</secondary></indexterm>
-      For tanru, the place structure rule is simple: the place structure of a tanru is always the place structure of its tertau. Thus, the place structure of <jbophrase>blanu zdani</jbophrase> is that of <valsi>zdani</valsi>: the x1 place is a house or nest, and the x2 place is its occupants.
+      For tanru, the place structure rule is simple: the place structure of a tanru is always the place structure of its tertau. Thus, the place structure of <jbophrase>blanu zdani</jbophrase> is that of <valsi>zdani</valsi>: the x<subscript>1</subscript> place is a house or nest, and the x<subscript>2</subscript> place is its occupants.
     </para>
     <para>
-      What about the places of <valsi>blanu</valsi>? Is there any way to get them into the act? In fact, <valsi>blanu</valsi> has only one place, and this is merged, as it were, with the x1 place of <valsi>zdani</valsi>. It is whatever is in the x1 place that is being characterized as blue-for-a-house. But if we replace <valsi>blanu</valsi> with <valsi>xamgu</valsi>, we get:
+      What about the places of <valsi>blanu</valsi>? Is there any way to get them into the act? In fact, <valsi>blanu</valsi> has only one place, and this is merged, as it were, with the x<subscript>1</subscript> place of <valsi>zdani</valsi>. It is whatever is in the x<subscript>1</subscript> place that is being characterized as blue-for-a-house. But if we replace <valsi>blanu</valsi> with <valsi>xamgu</valsi>, we get:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-tffW">
       <title>
@@ -959,7 +959,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      Since <valsi>xamgu</valsi> has three places (x1, the good thing; x2, the person for whom it is good; and x3, the standard of goodness), <xref linkend="example-random-id-tffW"/> necessarily omits information about the last two: there is no room for them. Room can be made, however!
+      Since <valsi>xamgu</valsi> has three places (x<subscript>1</subscript>, the good thing; x<subscript>2</subscript>, the person for whom it is good; and x<subscript>3</subscript>, the standard of goodness), <xref linkend="example-random-id-tffW"/> necessarily omits information about the last two: there is no room for them. Room can be made, however!
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Uuio">
       <title>
@@ -973,7 +973,7 @@
     <para role="indent">
       <indexterm type="general"><primary>linked sumti</primary><secondary>in tanru</secondary></indexterm>
       <indexterm type="general"><primary>seltau</primary><secondary>filling sumti places in</secondary></indexterm>
-      Here, the gismu <valsi>xamgu</valsi> has been followed by the cmavo <valsi>be</valsi> (of selma'o BE), which signals that one or more sumti follows. These sumti are not part of the overall bridi place structure, but fill the places of the brivla they are attached to, starting with x2. If there is more than one sumti, they are separated by the cmavo <valsi>bei</valsi> (of selma'o BEI), and the list of sumti is terminated by the elidable terminator <valsi>be'o</valsi> (of selma'o BEhO).
+      Here, the gismu <valsi>xamgu</valsi> has been followed by the cmavo <valsi>be</valsi> (of selma'o BE), which signals that one or more sumti follows. These sumti are not part of the overall bridi place structure, but fill the places of the brivla they are attached to, starting with x<subscript>2</subscript>. If there is more than one sumti, they are separated by the cmavo <valsi>bei</valsi> (of selma'o BEI), and the list of sumti is terminated by the elidable terminator <valsi>be'o</valsi> (of selma'o BEhO).
     </para>
     <para>
       <indexterm type="general"><primary>linked sumti</primary><secondary>definition</secondary></indexterm>
@@ -985,7 +985,7 @@
       </title>
       <interlinear-gloss>
         <jbo>ti cmalu be le ka se canlu</jbo>
-        <gloss>This is-a-small (in-dimension the property-of [swap--x1--and--x2] volume</gloss>
+        <gloss>This is-a-small (in-dimension the property-of [swap--x<subscript>1</subscript>--and--x<subscript>2</subscript>] volume</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
         <jbo>… bei lo'e ckule be'o</jbo>
@@ -1058,7 +1058,7 @@
     <para>
       <indexterm type="general"><primary>FA tags and linked sumti</primary></indexterm>
       <indexterm type="general"><primary>linked sumti and FA tags</primary></indexterm>
-      It is possible to precede linked sumti by the place structure ordering tags <valsi>fe</valsi>, <valsi>fi</valsi>, <valsi>fo</valsi>, and <valsi>fu</valsi> (of selma'o FA, discussed further in <xref linkend="section-FA"/>), which serve to explicitly specify the x2, x3, x4, and x5 places respectively. Normally, the place following the <valsi>be</valsi> is the x2 place and the other places follow in order. If it seems convenient to change the order, however, it can be accomplished as follows:
+      It is possible to precede linked sumti by the place structure ordering tags <valsi>fe</valsi>, <valsi>fi</valsi>, <valsi>fo</valsi>, and <valsi>fu</valsi> (of selma'o FA, discussed further in <xref linkend="section-FA"/>), which serve to explicitly specify the x<subscript>2</subscript>, x<subscript>3</subscript>, x<subscript>4</subscript>, and x<subscript>5</subscript> places respectively. Normally, the place following the <valsi>be</valsi> is the x<subscript>2</subscript> place and the other places follow in order. If it seems convenient to change the order, however, it can be accomplished as follows:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-mhS7">
       <title>
@@ -1069,7 +1069,7 @@
       </interlinear-gloss>
     </example>
     <para role="noindent">
-      which is equivalent in meaning to <xref linkend="example-random-id-Uuio"/>. Note that the order of <valsi>be</valsi>, <valsi>bei</valsi>, and <valsi>be'o</valsi> does not change; only the inserted <valsi>fi</valsi> tells us that <valsi>mi</valsi> is the x3 place (and correspondingly, the inserted <valsi>fe</valsi> tells us that <valsi>do</valsi> is the x2 place). Changing the order of sumti is often done to match the order of another language, or for emphasis or rhythm.
+      which is equivalent in meaning to <xref linkend="example-random-id-Uuio"/>. Note that the order of <valsi>be</valsi>, <valsi>bei</valsi>, and <valsi>be'o</valsi> does not change; only the inserted <valsi>fi</valsi> tells us that <valsi>mi</valsi> is the x<subscript>3</subscript> place (and correspondingly, the inserted <valsi>fe</valsi> tells us that <valsi>do</valsi> is the x<subscript>2</subscript> place). Changing the order of sumti is often done to match the order of another language, or for emphasis or rhythm.
     </para>
     <para>
       Of course, using FA cmavo makes it easy to specify one place while omitting a previous place:
@@ -1202,7 +1202,7 @@
     <para>
       <indexterm type="general"><primary>place structure and tanru inversion</primary></indexterm>
       <indexterm type="general"><primary>tanru inversion and place structure</primary></indexterm>
-      The meaning, and more specifically, the place structure, of a tanru is not affected by inversion: the place structure of <jbophrase>zdani co blanu</jbophrase> is still that of <valsi>zdani</valsi>. However, the existence of inversion in a selbri has a very special effect on any sumti which follow that selbri. Instead of being interpreted as filling places of the selbri, they actually fill the places (starting with x2) of the seltau. In <xref linkend="section-be-sumti"/>, we saw how to fill interior places with <valsi>be</valsi>&hellip;<valsi>bei</valsi>&hellip;<valsi>be'o</valsi>, and in fact <xref linkend="example-random-id-qjuc"/> and <xref linkend="example-random-id-qjVx"/> have the same meaning:
+      The meaning, and more specifically, the place structure, of a tanru is not affected by inversion: the place structure of <jbophrase>zdani co blanu</jbophrase> is still that of <valsi>zdani</valsi>. However, the existence of inversion in a selbri has a very special effect on any sumti which follow that selbri. Instead of being interpreted as filling places of the selbri, they actually fill the places (starting with x<subscript>2</subscript>) of the seltau. In <xref linkend="section-be-sumti"/>, we saw how to fill interior places with <valsi>be</valsi>&hellip;<valsi>bei</valsi>&hellip;<valsi>be'o</valsi>, and in fact <xref linkend="example-random-id-qjuc"/> and <xref linkend="example-random-id-qjVx"/> have the same meaning:
     </para>
     <example xml:id="example-random-id-qjuc" role="interlinear-gloss-example">
       <title>
@@ -1233,7 +1233,7 @@
       <indexterm type="general"><primary>inverted tanru</primary><secondary>effect on sumti after the selbri</secondary></indexterm>
       <indexterm type="general"><primary>inverted tanru</primary><secondary>effect on sumti before the selbri</secondary></indexterm>
       <indexterm type="general"><primary>unfilled places of inverted tanru</primary></indexterm>
-      Any sumti which precede a selbri with an inverted tanru fill the places of the selbri (i.e., the places of the tertau) in the ordinary way. In <xref linkend="example-random-id-qjVx"/>, <valsi>mi</valsi> fills the x1 place of <jbophrase>troci co klama</jbophrase>, which is the x1 place of <valsi>troci</valsi>. The other places of the selbri remain unfilled. The trailing sumti <jbophrase>le zarci</jbophrase> and <jbophrase>le zdani</jbophrase> do not occupy selbri places, despite appearances.
+      Any sumti which precede a selbri with an inverted tanru fill the places of the selbri (i.e., the places of the tertau) in the ordinary way. In <xref linkend="example-random-id-qjVx"/>, <valsi>mi</valsi> fills the x<subscript>1</subscript> place of <jbophrase>troci co klama</jbophrase>, which is the x<subscript>1</subscript> place of <valsi>troci</valsi>. The other places of the selbri remain unfilled. The trailing sumti <jbophrase>le zarci</jbophrase> and <jbophrase>le zdani</jbophrase> do not occupy selbri places, despite appearances.
     </para>
     <para>
       As a result, the regular mechanisms (involving the vo'a and the go'a-series, explained in <xref linkend="section-ri-gohi-series"/> and <xref linkend="section-voha-series"/>) for referring to individual sumti of a bridi cannot refer to any of the trailing places of <xref linkend="example-random-id-qjVx"/>, because they are not really <quote>sumti of the bridi</quote> at all.
@@ -1443,7 +1443,7 @@
       <indexterm type="general"><primary>du</primary><secondary>as an exception within GOhA selma'o</secondary></indexterm>
       The exceptional member of GOhA is <valsi>du</valsi>, which represents the relation of identity. Its place structure is:
     </para>
-    <definition><content>x1 is identical with x2, x3, ...</content></definition>
+    <definition><content>x<subscript>1</subscript> is identical with x<subscript>2</subscript>, x<subscript>3</subscript>, ...</content></definition>
     <para role="noindent">
       for as many places as are given. More information on selma'o GOhA is available in <xref linkend="chapter-anaphoric-cmavo"/>.
     </para>
@@ -1452,9 +1452,9 @@
       <indexterm type="general"><primary>mathematical expressions in tanru</primary></indexterm>
       Relojban mathematical expressions (mekso) can be incorporated into selbri in two different ways. Mathematical operators such as <valsi>su'i</valsi>, meaning <quote>plus</quote>, can be transformed into selbri by prefixing them with <valsi>nu'a</valsi> (of selma'o NUhA). The resulting place structure is:
     </para>
-    <definition><content>x1 is the result of applying (the operator) to arguments x2, x3, etc.</content></definition>
+    <definition><content>x<subscript>1</subscript> is the result of applying (the operator) to arguments x<subscript>2</subscript>, x<subscript>3</subscript>, etc.</content></definition>
     <para role="noindent">
-      for as many arguments as are required. (The result goes in the x1 place because the number of following places may be indefinite.) For example:
+      for as many arguments as are required. (The result goes in the x<subscript>1</subscript> place because the number of following places may be indefinite.) For example:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-pp6j">
       <title>
@@ -1558,7 +1558,7 @@
       <indexterm type="general"><primary>selbri from sumti</primary></indexterm>
       A sumti can be made into a simple selbri by preceding it with <valsi>me</valsi> (of selma'o ME) and following it with the elidable terminator <valsi>me'u</valsi> (of selma'o MEhU). This makes a selbri with the place structure
     </para>
-    <definition><content>x1 is one of the referents of <quote>[the sumti]</quote></content></definition>
+    <definition><content>x<subscript>1</subscript> is one of the referents of <quote>[the sumti]</quote></content></definition>
     <para role="noindent">
       which is true of the thing, or things, that are the referents of the sumti, and not of anything else. For example, consider the sumti
     </para>
@@ -1737,7 +1737,7 @@
       </title>
       <interlinear-gloss>
         <jbo>do se prami mi</jbo>
-        <gloss>You [swap--x1--and--x2] love me.</gloss>
+        <gloss>You [swap--x<subscript>1</subscript>--and--x<subscript>2</subscript>] love me.</gloss>
         <natlang>You are loved by me.</natlang>
       </interlinear-gloss>
     </example>
@@ -1756,14 +1756,14 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      To convert this sentence so that <jbophrase>le zarci</jbophrase> is in the x1 place, one correct way is:
+      To convert this sentence so that <jbophrase>le zarci</jbophrase> is in the x<subscript>1</subscript> place, one correct way is:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-4mbn">
       <title>
       </title>
       <interlinear-gloss>
         <jbo>le zarci cu se</jbo>
-        <gloss>The market - is-a-[swap--x1/x2]</gloss>
+        <gloss>The market - is-a-[swap--x<subscript>1</subscript>/x<subscript>2</subscript>]</gloss>
         <gloss>The market - -</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
@@ -1782,7 +1782,7 @@
       </title>
       <interlinear-gloss>
         <jbo>le zarci cu se cadzu</jbo>
-        <gloss>The market - (is-a-[swap--x1/x2] walker)</gloss>
+        <gloss>The market - (is-a-[swap--x<subscript>1</subscript>/x<subscript>2</subscript>] walker)</gloss>
         <gloss>The market - - is-a-walking-surface</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
@@ -1803,7 +1803,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      But the tanru in <xref linkend="example-random-id-U0fo"/> may or may not have the same meaning as that in <xref linkend="example-random-id-mPX8"/>; in particular, because <valsi>cadzu</valsi> is not converted, there is a suggestion that although Alice is the goer, the market is the walker. With a different sumti as x1, this seemingly odd interpretation might make considerable sense:
+      But the tanru in <xref linkend="example-random-id-U0fo"/> may or may not have the same meaning as that in <xref linkend="example-random-id-mPX8"/>; in particular, because <valsi>cadzu</valsi> is not converted, there is a suggestion that although Alice is the goer, the market is the walker. With a different sumti as x<subscript>1</subscript>, this seemingly odd interpretation might make considerable sense:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-XEnd">
       <title>
@@ -1996,7 +1996,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      In <xref linkend="example-random-id-0WLq"/>, everything after <valsi>be</valsi> is a linked sumti, so the place structure is that of <valsi>cadzu</valsi>, whose x2 place is the surface walked upon. It is less than clear what an <quote>arm-type goer</quote> might be. Furthermore, since the x3 place has been occupied by the linked sumti, the <jbophrase>le zarci</jbophrase> following the selbri falls into the nonexistent x4 place of <valsi>cadzu</valsi>. As a result, the whole example, though grammatical, is complete nonsense. (The bracketed Relojban words appear where a fluent Relojbanist would understand them to be implied.)
+      In <xref linkend="example-random-id-0WLq"/>, everything after <valsi>be</valsi> is a linked sumti, so the place structure is that of <valsi>cadzu</valsi>, whose x<subscript>2</subscript> place is the surface walked upon. It is less than clear what an <quote>arm-type goer</quote> might be. Furthermore, since the x<subscript>3</subscript> place has been occupied by the linked sumti, the <jbophrase>le zarci</jbophrase> following the selbri falls into the nonexistent x<subscript>4</subscript> place of <valsi>cadzu</valsi>. As a result, the whole example, though grammatical, is complete nonsense. (The bracketed Relojban words appear where a fluent Relojbanist would understand them to be implied.)
     </para>
     <para>
       <indexterm type="general"><primary>na'e</primary><secondary>before gu'e</secondary></indexterm>

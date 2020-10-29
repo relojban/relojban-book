@@ -1316,7 +1316,7 @@
     </example>
     <para role="noindent">
       <indexterm type="general"><primary>spaghetti</primary></indexterm>
-      is a predicate with the place structure <quote>x1 is a quantity of spaghetti</quote>.
+      is a predicate with the place structure <quote>x<subscript>1</subscript> is a quantity of spaghetti</quote>.
     </para>
     <para>
       <indexterm type="general"><primary>borrowings</primary><secondary>Stage 2</secondary></indexterm>

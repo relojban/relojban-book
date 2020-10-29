@@ -161,7 +161,7 @@
     <para>
       <indexterm type="general"><primary>descriptions</primary><secondary>importance of selbri first place in</secondary></indexterm>
       <indexterm type="general"><primary>descriptors</primary><secondary>purpose of</secondary></indexterm>
-      The general purpose of all descriptors is to create a sumti which might occur in the x1 place of the selbri belonging to the description. Thus <jbophrase>le zarci</jbophrase> conveys something which might be found in the x1 place of <valsi>zarci</valsi>, namely a market.
+      The general purpose of all descriptors is to create a sumti which might occur in the x<subscript>1</subscript> place of the selbri belonging to the description. Thus <jbophrase>le zarci</jbophrase> conveys something which might be found in the x<subscript>1</subscript> place of <valsi>zarci</valsi>, namely a market.
     </para>
     <para>
       <indexterm type="general"><primary>le</primary><secondary>and truth of selbri</secondary></indexterm>
@@ -228,7 +228,7 @@
       <indexterm type="general"><primary>le</primary><secondary>contrasted with lo in truth requirement</secondary></indexterm>
       <indexterm type="general"><primary>le</primary><secondary>contrasted with lo in specificity</secondary></indexterm>
       <indexterm type="general"><primary>lo</primary><secondary>contrasted with le in specificity</secondary></indexterm>
-      Again, there are two colloquial English translations. The effect of using <valsi>lo</valsi> in <xref linkend="example-random-id-t11z"/> is to refer generally to one or more markets, without being specific about which. Unlike <jbophrase>le zarci</jbophrase>, <jbophrase>lo zarci</jbophrase> must refer to something which actually is a market (that is, which can appear in the x1 place of a truthful bridi whose selbri is <valsi>zarci</valsi>). Thus
+      Again, there are two colloquial English translations. The effect of using <valsi>lo</valsi> in <xref linkend="example-random-id-t11z"/> is to refer generally to one or more markets, without being specific about which. Unlike <jbophrase>le zarci</jbophrase>, <jbophrase>lo zarci</jbophrase> must refer to something which actually is a market (that is, which can appear in the x<subscript>1</subscript> place of a truthful bridi whose selbri is <valsi>zarci</valsi>). Thus
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-fSxN">
       <title>
@@ -467,7 +467,7 @@
     </example>
     <para role="indent">
       <indexterm type="general"><primary>mass object</primary><secondary>as dependent on intention</secondary></indexterm>
-      Of course, some butter is hard (for example, if it is frozen butter), so the <quote>part-of</quote> implication of <valsi>loi</valsi> becomes once again useful. The reason this mechanism works is that the English words like <quote>butter</quote>, which are seen as already describing masses, are translated in Relojban by non-mass forms. The place structure of <valsi>matne</valsi> is <quote>x1 is a quantity of butter from source x2</quote>, so the single English word <quote>butter</quote> is translated as something like <quote>a part of the mass formed from all the quantities of butter that exist</quote>. (Note that the operation of forming a mass entity does not imply, in Relojban, that the components of the mass are necessarily close to one another or even related in any way other than conceptually. Masses are formed by the speaker's intention to form a mass, and can in principle contain anything.)
+      Of course, some butter is hard (for example, if it is frozen butter), so the <quote>part-of</quote> implication of <valsi>loi</valsi> becomes once again useful. The reason this mechanism works is that the English words like <quote>butter</quote>, which are seen as already describing masses, are translated in Relojban by non-mass forms. The place structure of <valsi>matne</valsi> is <quote>x<subscript>1</subscript> is a quantity of butter from source x<subscript>2</subscript></quote>, so the single English word <quote>butter</quote> is translated as something like <quote>a part of the mass formed from all the quantities of butter that exist</quote>. (Note that the operation of forming a mass entity does not imply, in Relojban, that the components of the mass are necessarily close to one another or even related in any way other than conceptually. Masses are formed by the speaker's intention to form a mass, and can in principle contain anything.)
     </para>
     <para>
       <indexterm type="general"><primary>mass name</primary><secondary>use of</secondary></indexterm>
@@ -568,9 +568,9 @@
       <indexterm type="general"><primary>sets</primary><secondary>use in Relojban place structure</secondary></indexterm>
       Relojban speakers should generally think twice before employing the set descriptors. However, certain predicates have places that require set sumti to fill them. For example, the place structure of <valsi>fadni</valsi> is:
     </para>
-    <definition><content>x1 is ordinary/common/typical/usual in property x2 among the members of set x3</content></definition>
+    <definition><content>x<subscript>1</subscript> is ordinary/common/typical/usual in property x<subscript>2</subscript> among the members of set x<subscript>3</subscript></content></definition>
     <para>
-      Why is it necessary for the x3 place of <valsi>fadni</valsi> to be a set? Because it makes no sense for an individual to be typical of another individual: an individual is typical of a group. In order to make sure that the bridi containing <valsi>fadni</valsi> is about an entire group, its x3 place must be filled with a set:
+      Why is it necessary for the x<subscript>3</subscript> place of <valsi>fadni</valsi> to be a set? Because it makes no sense for an individual to be typical of another individual: an individual is typical of a group. In order to make sure that the bridi containing <valsi>fadni</valsi> is about an entire group, its x<subscript>3</subscript> place must be filled with a set:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-xIXo">
       <title>
@@ -583,7 +583,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      Note that the x2 place has been omitted; I am not specifying in exactly which way I am typical &ndash; whether in language knowledge, or age, or interests, or something else. If <valsi>lo'i</valsi> were changed to <valsi>lo</valsi> in <xref linkend="example-random-id-xIXo"/>, the meaning would be something like <quote>I am typical of some Relojban user</quote>, which is nonsense.
+      Note that the x<subscript>2</subscript> place has been omitted; I am not specifying in exactly which way I am typical &ndash; whether in language knowledge, or age, or interests, or something else. If <valsi>lo'i</valsi> were changed to <valsi>lo</valsi> in <xref linkend="example-random-id-xIXo"/>, the meaning would be something like <quote>I am typical of some Relojban user</quote>, which is nonsense.
     </para>
   </section>
   <section xml:id="section-typicals">
@@ -959,7 +959,7 @@
     <para>
       <indexterm type="general"><primary>le-series cmavo</primary><secondary>rationale for implicit inner quantifier</secondary></indexterm>
       <indexterm type="general"><primary>lo-series cmavo</primary><secondary>rationale for implicit inner quantifier</secondary></indexterm>
-      Why? Because lo-series descriptors always refer to all of the things which really fit into the x1 place of the selbri. They are not restricted by the speaker's intention. Descriptors of the le-series, however, are so restricted, and therefore talk about some number, definite or indefinite, of objects the speaker has in mind &ndash; but never less than one.
+      Why? Because lo-series descriptors always refer to all of the things which really fit into the x<subscript>1</subscript> place of the selbri. They are not restricted by the speaker's intention. Descriptors of the le-series, however, are so restricted, and therefore talk about some number, definite or indefinite, of objects the speaker has in mind &ndash; but never less than one.
     </para>
     <para>
       <indexterm type="general"><primary>masses</primary><secondary>rule for implicit outer quantifier</secondary></indexterm>
@@ -1267,7 +1267,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      The x2 place of <jbophrase>selsinxa</jbophrase> (the x1 place of <valsi>sinxa</valsi>) is a sign or symbol, and the x1 place of <jbophrase>selsinxa</jbophrase> (the x2 place of <valsi>sinxa</valsi>) is the thing represented by the sign. <xref linkend="example-random-id-MSVK"/> allows us to use a symbol (namely the title of a book) to represent the thing it is a symbol of (namely the book itself).
+      The x<subscript>2</subscript> place of <jbophrase>selsinxa</jbophrase> (the x<subscript>1</subscript> place of <valsi>sinxa</valsi>) is a sign or symbol, and the x<subscript>1</subscript> place of <jbophrase>selsinxa</jbophrase> (the x<subscript>2</subscript> place of <valsi>sinxa</valsi>) is the thing represented by the sign. <xref linkend="example-random-id-MSVK"/> allows us to use a symbol (namely the title of a book) to represent the thing it is a symbol of (namely the book itself).
     </para>
     <para>
       This operation turns out to be needed often enough that it's useful to be able to say:
@@ -1729,7 +1729,7 @@
       </title>
       <interlinear-gloss>
         <jbo>le cribe cu batci vo'a</jbo>
-        <gloss>The bear - bites what-is-in-the-x1-place.</gloss>
+        <gloss>The bear - bites what-is-in-the-x<subscript>1</subscript>-place.</gloss>
         <natlang>The bear bites itself.</natlang>
       </interlinear-gloss>
     </example>

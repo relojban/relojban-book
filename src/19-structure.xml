@@ -244,7 +244,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      Note: In Relojban, you do not <quote>want money</quote>; you <quote>want to have money</quote> or something of the sort, as the x2 place of <valsi>djica</valsi> demands an event. As a result, the straightforward rendering of <xref linkend="example-random-id-ggMy"/> without a topic is not:
+      Note: In Relojban, you do not <quote>want money</quote>; you <quote>want to have money</quote> or something of the sort, as the x<subscript>2</subscript> place of <valsi>djica</valsi> demands an event. As a result, the straightforward rendering of <xref linkend="example-random-id-ggMy"/> without a topic is not:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Mdjd">
       <title>
@@ -266,10 +266,10 @@
       </interlinear-gloss>
     </example>
     <para role="noindent">
-      namely, the possession of money. But topic-comment sentences like <xref linkend="example-random-id-mK5Y"/> are inherently vague, and this difference between <valsi>ponse</valsi> (which expects a physical object in x2) and <valsi>djica</valsi> is ignored. See <xref linkend="example-random-id-EXeq"/> for another topic/comment sentence.
+      namely, the possession of money. But topic-comment sentences like <xref linkend="example-random-id-mK5Y"/> are inherently vague, and this difference between <valsi>ponse</valsi> (which expects a physical object in x<subscript>2</subscript>) and <valsi>djica</valsi> is ignored. See <xref linkend="example-random-id-EXeq"/> for another topic/comment sentence.
     </para>
     <para>
-      The subject of an English sentence is often the topic as well, but in Relojban the sumti in the x1 place is not necessarily the topic. Thus Relojban sentences don't necessarily have a <quote>subject</quote> in the English sense.
+      The subject of an English sentence is often the topic as well, but in Relojban the sumti in the x<subscript>1</subscript> place is not necessarily the topic. Thus Relojban sentences don't necessarily have a <quote>subject</quote> in the English sense.
     </para>
   </section>
   <section xml:id="section-questions-and-answers">
@@ -378,7 +378,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      Of course, the <valsi>ma</valsi> need not be in the x1 place:
+      Of course, the <valsi>ma</valsi> need not be in the x<subscript>1</subscript> place:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-oAJT">
       <title>
@@ -575,7 +575,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      Consequently, selma'o SE (which operates on a selbri to change the order of its places) and selma'o FA (which provides place number tags for individual sumti) have only enough members to handle up to five places. Conversion of <xref linkend="example-random-id-GuYz"/>, using <valsi>xe</valsi> to swap the x1 and x5 places, would produce:
+      Consequently, selma'o SE (which operates on a selbri to change the order of its places) and selma'o FA (which provides place number tags for individual sumti) have only enough members to handle up to five places. Conversion of <xref linkend="example-random-id-GuYz"/>, using <valsi>xe</valsi> to swap the x<subscript>1</subscript> and x<subscript>5</subscript> places, would produce:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-QPGC">
       <title>
@@ -625,7 +625,7 @@
       <indexterm type="general"><primary>FA selma'o</primary><secondary>after 5th place</secondary></indexterm>
       <indexterm type="general"><primary>SE selma'o</primary><secondary>after 5th place</secondary></indexterm>
       <indexterm type="general"><primary>subscripts</primary><secondary>and sumti re-ordering</secondary></indexterm>
-      <xref linkend="example-random-id-sMPn"/> shows that <valsi>nunkla</valsi> has six places: the five places of <valsi>klama</valsi> plus a new one (placed first) for the event itself. Performing transformations similar to that of <xref linkend="example-random-id-QPGC"/> requires an additional conversion cmavo that exchanges the x1 and x6 places. The solution is to use any cmavo of SE with a subscript "6" (<xref linkend="section-subscripts-general"/>):
+      <xref linkend="example-random-id-sMPn"/> shows that <valsi>nunkla</valsi> has six places: the five places of <valsi>klama</valsi> plus a new one (placed first) for the event itself. Performing transformations similar to that of <xref linkend="example-random-id-QPGC"/> requires an additional conversion cmavo that exchanges the x<subscript>1</subscript> and x<subscript>6</subscript> places. The solution is to use any cmavo of SE with a subscript "6" (<xref linkend="section-subscripts-general"/>):
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-zGhw">
       <title>

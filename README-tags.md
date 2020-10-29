@@ -107,8 +107,8 @@ Used to denote a free-standing definition for a Relojban word (as opposed to the
 
 ```xml
 <definition>
-  <valsi>bridi</valsi> <content>x1 is a predicate relationship with
-  relation x2 (abstraction) among arguments (sequence/set) x3</content>
+  <valsi>bridi</valsi> <content>x<subscript>1</subscript> is a predicate relationship with
+  relation x<subscript>2</subscript> (abstraction) among arguments (sequence/set) x<subscript>3</subscript></content>
 </definition>
 ```
 

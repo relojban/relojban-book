@@ -1067,7 +1067,7 @@
     </para>
     <para>
       <indexterm type="general"><primary>compound bridi</primary><secondary>one sumti in common</secondary></indexterm>
-      The simplest cases result when the x1 sumti is the only common point:
+      The simplest cases result when the x<subscript>1</subscript> sumti is the only common point:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-WebJ">
       <title>
@@ -1184,7 +1184,7 @@
     </example>
     <para role="indent">
       <indexterm type="general"><primary>logical connection</primary><secondary>sentence connection with empty bridi head</secondary><tertiary>relation of first places</tertiary></indexterm>
-      Since x1 is omitted in both of the bridi underlying <xref linkend="example-random-id-rvUD"/>, this compound bridi does not necessarily imply that the goer and the walker are the same. Only the presence of an explicit x1 can force the goer and the walker to be identical.
+      Since x<subscript>1</subscript> is omitted in both of the bridi underlying <xref linkend="example-random-id-rvUD"/>, this compound bridi does not necessarily imply that the goer and the walker are the same. Only the presence of an explicit x<subscript>1</subscript> can force the goer and the walker to be identical.
     </para>
     <para>
       A strong argument for this convention is provided by analysis of the following example:
@@ -1210,7 +1210,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      If the rule were that the x1 places of the two underlying bridi were considered identical, then (since there is nothing special about x1), the unspecified x4 (route) and x5 (means) places would also have to be the same, leading to the absurd result that the route from Phoenix to New York is the same as the route from Rome to New York. Inserting <valsi>da</valsi>, meaning roughly <quote>something</quote>, into the x1 place cures the problem:
+      If the rule were that the x<subscript>1</subscript> places of the two underlying bridi were considered identical, then (since there is nothing special about x<subscript>1</subscript>), the unspecified x<subscript>4</subscript> (route) and x<subscript>5</subscript> (means) places would also have to be the same, leading to the absurd result that the route from Phoenix to New York is the same as the route from Rome to New York. Inserting <valsi>da</valsi>, meaning roughly <quote>something</quote>, into the x<subscript>1</subscript> place cures the problem:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-ij9G">
       <title>
@@ -1319,7 +1319,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      The literal English translation in <xref linkend="example-random-id-901t"/> is almost unintelligible, but the Relojban is perfectly grammatical. <valsi>mi</valsi> fills the x1 place of all three selbri; <jbophrase>lo rupnu</jbophrase> is the x2 of <valsi>dejni</valsi>, whereas <jbophrase>le cukta</jbophrase> is a tail-term shared between <valsi>dunda</valsi> and <valsi>lebna</valsi>; <jbophrase>la .djan.</jbophrase> is a tail-term shared by <valsi>dejni</valsi> and by <jbophrase>dunda gi'abo lebna</jbophrase>. In this case, greater clarity is probably achieved by moving <jbophrase>la .djan.</jbophrase> to the beginning of the sentence, as in <xref linkend="example-random-id-Evo4"/>:
+      The literal English translation in <xref linkend="example-random-id-901t"/> is almost unintelligible, but the Relojban is perfectly grammatical. <valsi>mi</valsi> fills the x<subscript>1</subscript> place of all three selbri; <jbophrase>lo rupnu</jbophrase> is the x<subscript>2</subscript> of <valsi>dejni</valsi>, whereas <jbophrase>le cukta</jbophrase> is a tail-term shared between <valsi>dunda</valsi> and <valsi>lebna</valsi>; <jbophrase>la .djan.</jbophrase> is a tail-term shared by <valsi>dejni</valsi> and by <jbophrase>dunda gi'abo lebna</jbophrase>. In this case, greater clarity is probably achieved by moving <jbophrase>la .djan.</jbophrase> to the beginning of the sentence, as in <xref linkend="example-random-id-Evo4"/>:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-7NnV">
       <title>
@@ -1464,11 +1464,11 @@
       </interlinear-gloss>
     </example>
     <para role="noindent">
-      which illustrates that the two bridi differ in the x2 and x3 places only.
+      which illustrates that the two bridi differ in the x<subscript>2</subscript> and x<subscript>3</subscript> places only.
     </para>
     <para>
       <indexterm type="general"><primary>termset logical connection</primary><secondary>unequal length</secondary></indexterm>
-      What happens if the two joined sets of terms are of unequal length? Expanding to bridi connection will always make clear which term goes in which place of which bridi. It can happen that a sumti may fall in the x2 place of one bridi and the x3 place of another:
+      What happens if the two joined sets of terms are of unequal length? Expanding to bridi connection will always make clear which term goes in which place of which bridi. It can happen that a sumti may fall in the x<subscript>2</subscript> place of one bridi and the x<subscript>3</subscript> place of another:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-yYsr">
       <title>
@@ -1495,7 +1495,7 @@
     </example>
     <para role="indent">
       <indexterm type="general"><primary>unequal termset connection</primary><secondary>compared with compound bridi connection with unequal separate bridi-tails</secondary></indexterm>
-      So <jbophrase>le briju</jbophrase> is your origin but my destination, and thus falls in the x2 and x3 places of <valsi>klama</valsi> simultaneously! This is legal because even though there is only one selbri, <valsi>klama</valsi>, there are two distinct bridi expressed here. In addition, <valsi>mi</valsi> in <xref linkend="example-random-id-yYsr"/> is serving as a termset containing only one term. An analogous paradox applies to compound bridi with tail-terms and unequal numbers of sumti within the connected bridi-tails:
+      So <jbophrase>le briju</jbophrase> is your origin but my destination, and thus falls in the x<subscript>2</subscript> and x<subscript>3</subscript> places of <valsi>klama</valsi> simultaneously! This is legal because even though there is only one selbri, <valsi>klama</valsi>, there are two distinct bridi expressed here. In addition, <valsi>mi</valsi> in <xref linkend="example-random-id-yYsr"/> is serving as a termset containing only one term. An analogous paradox applies to compound bridi with tail-terms and unequal numbers of sumti within the connected bridi-tails:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-zsiy">
       <title>
@@ -1506,7 +1506,7 @@
       </interlinear-gloss>
     </example>
     <para role="noindent">
-      means that I go to the market from the office, and I walk to the office; <jbophrase>le briju</jbophrase> is the x3 place of <valsi>klama</valsi> and the x2 place of <valsi>dzukla</valsi>.
+      means that I go to the market from the office, and I walk to the office; <jbophrase>le briju</jbophrase> is the x<subscript>3</subscript> place of <valsi>klama</valsi> and the x<subscript>2</subscript> place of <valsi>dzukla</valsi>.
     </para>
     <para>
       <indexterm type="general"><primary>forethought termsets</primary><secondary>logical connection of</secondary></indexterm>
@@ -2196,7 +2196,7 @@
       <indexterm type="general"><primary>mass</primary><secondary>contrasted with set in distribution of properties</secondary></indexterm>
       <indexterm type="general"><primary>set</primary><secondary>contrasted with mass in distribution of properties</secondary></indexterm>
       <indexterm type="general"><primary>set</primary><secondary>as specified by members</secondary></indexterm>
-      The x3 place of <valsi>cuxna</valsi> is a set from which the choice is being made. A set is an abstract object which is determined by specifying its members. Unlike those of a mass, the properties of a set are unrelated to its members' properties: the set of all rats is large (since many rats exist), but the rats themselves are small. This chapter does not attempt to explain set theory (the mathematical study of sets) in detail: explaining propositional logic is quite enough for one chapter!
+      The x<subscript>3</subscript> place of <valsi>cuxna</valsi> is a set from which the choice is being made. A set is an abstract object which is determined by specifying its members. Unlike those of a mass, the properties of a set are unrelated to its members' properties: the set of all rats is large (since many rats exist), but the rats themselves are small. This chapter does not attempt to explain set theory (the mathematical study of sets) in detail: explaining propositional logic is quite enough for one chapter!
     </para>
     <para>
       <indexterm type="general"><primary>set</primary><secondary>by listing members with ce</secondary></indexterm>
@@ -2222,7 +2222,7 @@
       <indexterm type="general"><primary>list</primary><secondary>as a physical object</secondary></indexterm>
       <indexterm type="general"><primary>sequence</primary><secondary>contrasted with list</secondary></indexterm>
       <indexterm type="general"><primary>list</primary><secondary>contrasted with sequence</secondary></indexterm>
-      The x2 place of <valsi>liste</valsi> is a sequence of the things which are mentioned in the list. (It is worth pointing out that <jbophrase>lo liste</jbophrase> means a physical object such as a grocery list: a purely abstract list is <jbophrase>lo porsi</jbophrase>, a sequence.) Here the three sumti connected by <valsi>ce'o</valsi> are in a definite order, not just lumped together in a set or a mass.
+      The x<subscript>2</subscript> place of <valsi>liste</valsi> is a sequence of the things which are mentioned in the list. (It is worth pointing out that <jbophrase>lo liste</jbophrase> means a physical object such as a grocery list: a purely abstract list is <jbophrase>lo porsi</jbophrase>, a sequence.) Here the three sumti connected by <valsi>ce'o</valsi> are in a definite order, not just lumped together in a set or a mass.
     </para>
     <para>
       <indexterm type="general"><primary>jo'u</primary><secondary>result of connection with</secondary></indexterm>
@@ -2273,7 +2273,7 @@
       </interlinear-gloss>
     </example>
     <para role="indent">
-      The tanru <jbophrase>remei bruna</jbophrase> is not strictly necessary in this sentence, but is used to make clear that we are not saying that James and George are both brothers of some third person not specified. Alternatively, we could turn the tanru around: the x1 place of <valsi>re</valsi><valsi>mei</valsi> is a mass with two components, leading to:
+      The tanru <jbophrase>remei bruna</jbophrase> is not strictly necessary in this sentence, but is used to make clear that we are not saying that James and George are both brothers of some third person not specified. Alternatively, we could turn the tanru around: the x<subscript>1</subscript> place of <valsi>re</valsi><valsi>mei</valsi> is a mass with two components, leading to:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-t0FJ">
       <title>
@@ -2477,9 +2477,9 @@
       <indexterm type="general"><primary>non-logical connection</primary><secondary>of termsets</secondary></indexterm>
       Non-logical connection is permitted at the joint of a termset; this is useful for associating more than one sumti or tagged sumti with each side of the non-logical connection. The place structure of <valsi>casnu</valsi> is:
     </para>
-    <definition><valsi>casnu</valsi> <content>the mass x1 discusses/talks about x2</content></definition>
+    <definition><valsi>casnu</valsi> <content>the mass x<subscript>1</subscript> discusses/talks about x<subscript>2</subscript></content></definition>
     <para role="noindent">
-      so the x1 place must be occupied by a mass (for reasons not explained here); however, different components of the mass may discuss in different languages. To associate each participant with his or her language, we can say:
+      so the x<subscript>1</subscript> place must be occupied by a mass (for reasons not explained here); however, different components of the mass may discuss in different languages. To associate each participant with his or her language, we can say:
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-sdba">
       <title>
@@ -2647,7 +2647,7 @@
     </example>
     <para role="indent">
       <indexterm type="general"><primary>non-logical connectives</primary><secondary>un-ordered intervals</secondary></indexterm>
-      In <xref linkend="example-random-id-sHhA"/>, it is all the same whether I am standing between Dresden and Frankfurt or between Frankfurt and Dresden, so <valsi>bi'i</valsi> is the appropriate interval connective. The sumti <jbophrase>la .drezdn. bi'i la .frankfurt.</jbophrase> falls into the x2 place of <valsi>sanli</valsi>, which is the surface I stand on; the interval specifies that surface by its limits. (Obviously, I am not standing on the whole of the interval; the x2 place of <valsi>sanli</valsi> specifies a surface which is typically larger in extent than just the size of the stander's feet.)
+      In <xref linkend="example-random-id-sHhA"/>, it is all the same whether I am standing between Dresden and Frankfurt or between Frankfurt and Dresden, so <valsi>bi'i</valsi> is the appropriate interval connective. The sumti <jbophrase>la .drezdn. bi'i la .frankfurt.</jbophrase> falls into the x<subscript>2</subscript> place of <valsi>sanli</valsi>, which is the surface I stand on; the interval specifies that surface by its limits. (Obviously, I am not standing on the whole of the interval; the x<subscript>2</subscript> place of <valsi>sanli</valsi> specifies a surface which is typically larger in extent than just the size of the stander's feet.)
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-rYv4">
       <title>

@@ -190,7 +190,8 @@
         <indexterm type="example"><primary>fish eat</primary></indexterm>
       </title>
       <itemizedlist>
-        <listitem><para xml:lang="zh">yú: chī</para></listitem>
+        <listitem><para xml:lang="zh">鱼吃</para></listitem>
+        <listitem><para xml:lang="zh">yú chī</para></listitem>
         <listitem><para>fish: eat</para></listitem>
       </itemizedlist>
     </example>

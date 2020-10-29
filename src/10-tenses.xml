@@ -209,7 +209,7 @@
       </cmavo-entry>
     </cmavo-list>
     <para role="noindent">
-      (The complete list of FAhA cmavo can be found in <xref linkend="section-tense-selmaho-summary"/>.)
+      (The complete list of FAhA cmavo can be found in <xref linkend="section-direction-cmavo"/>.)
     </para>
     <para>
       Why is this section about spatial tenses rather than the more familiar time tenses of <xref linkend="section-tenses-introduction"/>, asks the reader? Because the model to be used in explaining both will be easier to grasp for space than for time. The explanation of time tenses will resume in <xref linkend="section-temporal-tenses"/>.
@@ -461,7 +461,7 @@
     <para>
       <indexterm type="general"><primary>space</primary><secondary>contrasted with time in number of directions</secondary></indexterm>
       <indexterm type="general"><primary>time</primary><secondary>contrasted with space in number of directions</secondary></indexterm>
-      Relojban recognizes three temporal directions: <valsi>pu</valsi> for the past, <valsi>ca</valsi> for the present, and <valsi>ba</valsi> for the future. (Etymologically, these derive from the corresponding gismu <valsi>purci</valsi>, <valsi>cabna</valsi>, and <valsi>balvi</valsi>. See <xref linkend="section-tenses-vs-modals"/> for an explanation of the exact relationship between the cmavo and the gismu.) There are many more spatial directions, since there are FAhA cmavo for both absolute and relative directions as well as <quote>direction-like relationships</quote> like <quote>surrounding</quote>, <quote>within</quote>, <quote>touching</quote>, etc. (See <xref linkend="section-tense-selmaho-summary"/> for a complete list.) But there are really only two directions in time: forward and backward, toward the future and toward the past. Why, then, are there three cmavo of selma'o PU?
+      Relojban recognizes three temporal directions: <valsi>pu</valsi> for the past, <valsi>ca</valsi> for the present, and <valsi>ba</valsi> for the future. (Etymologically, these derive from the corresponding gismu <valsi>purci</valsi>, <valsi>cabna</valsi>, and <valsi>balvi</valsi>. See <xref linkend="section-tenses-vs-modals"/> for an explanation of the exact relationship between the cmavo and the gismu.) There are many more spatial directions, since there are FAhA cmavo for both absolute and relative directions as well as <quote>direction-like relationships</quote> like <quote>surrounding</quote>, <quote>within</quote>, <quote>touching</quote>, etc. (See <xref linkend="section-direction-cmavo"/> for a complete list.) But there are really only two directions in time: forward and backward, toward the future and toward the past. Why, then, are there three cmavo of selma'o PU?
     </para>
     <para>
       <indexterm type="general"><primary>tense</primary><secondary>as subjective perception</secondary></indexterm>
@@ -4009,6 +4009,12 @@
         <description role="movement">leftward</description>
       </cmavo-entry>
       <cmavo-entry>
+        <cmavo>ri'u</cmavo>
+        <gismu>pritu</gismu>
+        <description role="direction">on the right (of)</description>
+        <description role="movement">rightward</description>
+      </cmavo-entry>
+      <cmavo-entry>
         <cmavo>ga'u</cmavo>
         <gismu>gapru</gismu>
         <description role="direction">above</description>
@@ -4042,7 +4048,7 @@
         <cmavo>ne'a</cmavo>
         <gismu/>
         <description role="direction">next to</description>
-        <description role="movement">moving while next to </description>
+        <description role="movement">moving while next to</description>
       </cmavo-entry>
       <cmavo-entry>
         <cmavo>te'e</cmavo>
@@ -4109,6 +4115,12 @@
         <gismu/>
         <description role="direction">west (of)</description>
         <description role="movement">westward(ly)</description>
+      </cmavo-entry>
+      <cmavo-entry>
+        <cmavo>bu'u</cmavo>
+        <gismu/>
+        <description role="direction">coinciding (with)</description>
+        <description role="movement">moving to coincide with</description>
       </cmavo-entry>
     </cmavo-list>
     <para role="indent">

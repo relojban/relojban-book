@@ -54,7 +54,7 @@
       Attaches sumti which fill the place structure of a single unit making up a tanru. Unless otherwise indicated, the sumti fill the x<subscript>2</subscript>, x<subscript>3</subscript>, and successive places in that order. <xref linkend="BE"/> is most useful in descriptions formed with <xref linkend="LE"/>. See <xref linkend="BEI"/>, <xref linkend="BEhO"/>.
     </para>
     <interlinear-gloss>
-      <jbo>mi -- klama be ta -- troci</jbo>
+      <jbo>mi - klama be ta - troci</jbo>
       <gloss>I am-a (goer to that) type-of trier.</gloss>
       <natlang>I try to go to that place.</natlang>
     </interlinear-gloss>
@@ -65,7 +65,7 @@
       Separates multiple sumti attached by <xref linkend="BE"/> to a tanru unit.
     </para>
     <interlinear-gloss>
-      <jbo>mi -- klama be le zarci bei le zdani be'o -- troci</jbo>
+      <jbo>mi - klama be le zarci bei le zdani be'o - troci</jbo>
       <gloss>I am-a (goer to the store from the home ) type-of trier.</gloss>
       <natlang>I try to go from the home to the market.</natlang>
     </interlinear-gloss>
@@ -76,7 +76,7 @@
       Elidable terminator for <xref linkend="BE"/>. Terminates sumti that are attached to a tanru unit.
     </para>
     <interlinear-gloss>
-      <jbo>mi -- klama be le zarci be'o -- troci</jbo>
+      <jbo>mi - klama be le zarci be'o - troci</jbo>
       <gloss>I am-a (goer to the market ) type-of trier.</gloss>
       <natlang>I try to go to the market.</natlang>
     </interlinear-gloss>
@@ -109,7 +109,7 @@
       Joins tanru units, binding them together closely. Also used to bind logically or non-logically connected phrases, sentences, etc. <xref linkend="BO"/> is always high precedence and right-grouping.
     </para>
     <interlinear-gloss>
-      <jbo>ta cmalu -- nixli bo ckule</jbo>
+      <jbo>ta cmalu - nixli bo ckule</jbo>
       <gloss>That is-a-small type-of (girl type-of school).</gloss>
       <natlang>That is a small school for girls.</natlang>
     </interlinear-gloss>
@@ -120,7 +120,7 @@
       Elidable terminator for <xref linkend="PA"/> or <xref linkend="BY"/>. Used to terminate a number (string of numeric cmavo) or lerfu string (string of letter words) when another string immediately follows.
     </para>
     <interlinear-gloss>
-      <jbo>li re du li vu'u vo--boi -- re</jbo>
+      <jbo>li re du li vu'u vo--boi - re</jbo>
       <gloss>The-number two equals the-number the-difference-of four and two.</gloss>
     </interlinear-gloss>
     <bridgehead>
@@ -140,7 +140,7 @@
       Words representing the letters of the Relojban alphabet, plus various shift words which alter the interpretation of other letter words. Terminated by BOI.
     </para>
     <interlinear-gloss>
-      <jbo>.abu tavla by -- le -- la--.ibymym. skami</jbo>
+      <jbo>.abu tavla by - le - la--.ibymym. skami</jbo>
       <gloss>A talks-to B about the of- IBM computers.</gloss>
       <natlang>A talks to B about IBM computers.</natlang>
     </interlinear-gloss>
@@ -188,7 +188,7 @@
     </para>
     <interlinear-gloss>
       <jbo>mi ce'e do pe'e je la--.djan. ce'e la--.djeimyz. cu pendo</jbo>
-      <gloss>I [,] you [joint] and John [,] James -- are-friends-of.</gloss>
+      <gloss>I [,] you [joint] and John [,] James - are-friends-of.</gloss>
       <natlang>I am a friend of you, and John is a friend of James.</natlang>
     </interlinear-gloss>
     <bridgehead>
@@ -198,7 +198,7 @@
       When inserted between the components of a tanru, inverts it, so that the following tanru unit modifies the previous one.
     </para>
     <interlinear-gloss>
-      <jbo>mi troci co klama le zarci -- le zdani</jbo>
+      <jbo>mi troci co klama le zarci - le zdani</jbo>
       <gloss>I am-a-trier of-type (goer-to the market from the house).</gloss>
       <natlang>I try to go to the market from the house.</natlang>
     </interlinear-gloss>
@@ -220,7 +220,7 @@
     </para>
     <interlinear-gloss>
       <jbo>le gerku cu klama le zarci</jbo>
-      <gloss>The dog -- goes-to the store.</gloss>
+      <gloss>The dog - goes-to the store.</gloss>
     </interlinear-gloss>
     <bridgehead>
       <anchor xml:id="CUhE" xreflabel="CUhE"/> selma'o CUhE (<xref linkend="section-tense-questions"/>)
@@ -269,7 +269,7 @@
     </para>
     <interlinear-gloss>
       <jbo>fa mi cu klama fi la--.atlantas.</jbo>
-      <gloss>x<subscript>1</subscript>= I -- go x<subscript>3</subscript>= Atlanta</gloss>
+      <gloss>x<subscript>1</subscript>= I - go x<subscript>3</subscript>= Atlanta</gloss>
     </interlinear-gloss>
     <interlinear-gloss>
       <jbo>… fe la--.bastn. fo le dargu fu le karce</jbo>
@@ -433,7 +433,7 @@
     </para>
     <interlinear-gloss>
       <jbo>la--.djan. goi ko'a cu blanu</jbo>
-      <gloss>John (referred--to--as it-1) -- is-blue.</gloss>
+      <gloss>John (referred--to--as it-1) - is-blue.</gloss>
     </interlinear-gloss>
     <bridgehead>
       <anchor xml:id="GOhA" xreflabel="GOhA"/> selma'o GOhA (<xref linkend="section-ri-gohi-series"/>)
@@ -497,7 +497,7 @@
     </para>
     <interlinear-gloss>
       <jbo>la--.djan. joi la--.alis. cu bevri le pipno</jbo>
-      <gloss>John massed-with Alice -- carry the piano.</gloss>
+      <gloss>John massed-with Alice - carry the piano.</gloss>
     </interlinear-gloss>
     <bridgehead>
       <anchor xml:id="JOhI" xreflabel="JOhI"/> selma'o JOhI (<xref linkend="section-vectors-matrices"/>)
@@ -532,8 +532,8 @@
       Elidable terminator for <xref linkend="NU"/>. Marks the end of an abstraction bridi.
     </para>
     <interlinear-gloss>
-      <jbo>la--.djan. cu nu sonci kei -- djica</jbo>
-      <gloss>John -- is-an-(event-of being-a-soldier ) type-of desirer.</gloss>
+      <jbo>la--.djan. cu nu sonci kei - djica</jbo>
+      <gloss>John - is-an-(event-of being-a-soldier ) type-of desirer.</gloss>
       <natlang>John wants to be a soldier.</natlang>
     </interlinear-gloss>
     <bridgehead>
@@ -561,11 +561,11 @@
     </para>
     <interlinear-gloss>
       <jbo>le blanu zdani goi ko'a cu barda</jbo>
-      <gloss>The blue house (referred--to--as it-1) -- is-big.</gloss>
+      <gloss>The blue house (referred--to--as it-1) - is-big.</gloss>
     </interlinear-gloss>
     <interlinear-gloss>
       <jbo>… .i ko'a na cmamau ti</jbo>
-      <gloss>… -- It-1 is-not smaller-than this-thing.</gloss>
+      <gloss>… - It-1 is-not smaller-than this-thing.</gloss>
     </interlinear-gloss>
     <bridgehead>
       <anchor xml:id="KU" xreflabel="KU"/> selma'o KU (<xref linkend="section-basic-descriptors"/>, <xref linkend="section-tenses-introduction"/>)
@@ -574,7 +574,7 @@
       Elidable terminator for <xref linkend="LE"/> and some uses of <xref linkend="LA"/>. Indicates the end of a description sumti. Also used after a tense or modal to indicate that no sumti follows, and in the compound <xref linkend="NA"/>+<xref linkend="KU"/> to indicate natural language-style negation.
     </para>
     <interlinear-gloss>
-      <jbo>le prenu ku -- le zdani ku klama</jbo>
+      <jbo>le prenu ku - le zdani ku klama</jbo>
       <gloss>The person , to the house , goes.</gloss>
       <natlang>The person goes to the house.</natlang>
     </interlinear-gloss>
@@ -642,7 +642,7 @@
     </para>
     <interlinear-gloss>
       <jbo>le gerku cu klama le zdani</jbo>
-      <gloss>The dog -- goes-to the house.</gloss>
+      <gloss>The dog - goes-to the house.</gloss>
     </interlinear-gloss>
     <bridgehead>
       <anchor xml:id="LEhU" xreflabel="LEhU"/> selma'o LEhU (<xref linkend="section-quotations"/>)
@@ -652,7 +652,7 @@
     </para>
     <interlinear-gloss>
       <jbo>lo'u mi--du--do--du--mi le'u cu na reljbo drani</jbo>
-      <gloss>[quote] mi--du--do--du--mi [unquote] -- is-not Relojbanically correct.</gloss>
+      <gloss>[quote] mi--du--do--du--mi [unquote] - is-not Relojbanically correct.</gloss>
       <natlang>“mi du do du mi” is not correct Relojban.</natlang>
     </interlinear-gloss>
     <bridgehead>
@@ -684,7 +684,7 @@
     </para>
     <interlinear-gloss>
       <jbo>li vo lo'o li ci lo'o cu zmadu</jbo>
-      <gloss>The-number 4 [end-number], the-number 3 [end-number], -- is-greater.</gloss>
+      <gloss>The-number 4 [end-number], the-number 3 [end-number], - is-greater.</gloss>
       <natlang>4 &gt; 3</natlang>
     </interlinear-gloss>
     <bridgehead>
@@ -738,7 +738,7 @@
     </para>
     <interlinear-gloss>
       <jbo>ma'o fy. boi xy.</jbo>
-      <gloss>[operator] f -- x</gloss>
+      <gloss>[operator] f - x</gloss>
       <natlang><emphasis>f(x)</emphasis></natlang>
     </interlinear-gloss>
     <bridgehead>
@@ -769,8 +769,8 @@
       Suffixes added to numbers or other quantifiers to make various numerically-based selbri.
     </para>
     <interlinear-gloss>
-      <jbo>la--.djan. joi la--.frank. cu bruna -- remei</jbo>
-      <gloss>John in-a-mass-with Frank -- are-a-brother type-of twosome.</gloss>
+      <jbo>la--.djan. joi la--.frank. cu bruna - remei</jbo>
+      <gloss>John in-a-mass-with Frank - are-a-brother type-of twosome.</gloss>
       <natlang>John and Frank are two brothers.</natlang>
     </interlinear-gloss>
     <bridgehead>
@@ -785,7 +785,7 @@
     </interlinear-gloss>
     <interlinear-gloss>
       <jbo>… cu du li mo'e vo danlu</jbo>
-      <gloss>… -- equals the-number [operand] four animals.</gloss>
+      <gloss>… - equals the-number [operand] four animals.</gloss>
       <natlang>2 rats + 2 rabbits = 4 animals.</natlang>
     </interlinear-gloss>
     <bridgehead>
@@ -852,15 +852,15 @@
     </para>
     <interlinear-gloss>
       <jbo>li ni'e ni clani [te'u] pi'i</jbo>
-      <gloss>The-number -- quantity-of length -- times</gloss>
+      <gloss>The-number - quantity-of length - times</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
       <jbo>ni'e ni ganra [te'u] pi'i</jbo>
-      <gloss>-- quantity-of width -- times</gloss>
+      <gloss>- quantity-of width - times</gloss>
     </interlinear-gloss>
     <interlinear-gloss>
       <jbo>… ni'e ni condi te'u du li ni'e ni canlu</jbo>
-      <gloss>… -- quantity-of depth -- equals the-number -- quantity-of volume.</gloss>
+      <gloss>… - quantity-of depth - equals the-number - quantity-of volume.</gloss>
       <natlang>Length × Width × Depth = Volume</natlang>
     </interlinear-gloss>
     <bridgehead>
@@ -877,7 +877,7 @@
     </para>
     <interlinear-gloss>
       <jbo>le zdani poi blanu cu cmalu</jbo>
-      <gloss>The house which is-blue -- is-small.</gloss>
+      <gloss>The house which is-blue - is-small.</gloss>
     </interlinear-gloss>
     <bridgehead>
       <anchor xml:id="NU" xreflabel="NU"/> selma'o NU (<xref linkend="section-syntax"/>)
@@ -887,7 +887,7 @@
     </para>
     <interlinear-gloss>
       <jbo>la--.djan. cu djica le nu sonci [kei]</jbo>
-      <gloss>John -- desires the event-of being-a-soldier.</gloss>
+      <gloss>John - desires the event-of being-a-soldier.</gloss>
     </interlinear-gloss>
     <bridgehead>
       <anchor xml:id="NUhA" xreflabel="NUhA"/> selma'o NUhA (<xref linkend="section-other-mekso-uses"/>)
@@ -897,7 +897,7 @@
     </para>
     <interlinear-gloss>
       <jbo>li ni'umu cu nu'a--va'a li ma'umu</jbo>
-      <gloss>The-number -5 -- is-the-negation-of the-number +5</gloss>
+      <gloss>The-number -5 - is-the-negation-of the-number +5</gloss>
     </interlinear-gloss>
     <bridgehead>
       <anchor xml:id="NUhI" xreflabel="NUhI"/> selma'o NUhI (<xref linkend="section-termsets"/>,
@@ -907,11 +907,11 @@
       Marks the beginning of a termset, which is used to make simultaneous claims involving two or more different places of a selbri. Terminated by <xref linkend="NUhU"/>.
     </para>
     <interlinear-gloss>
-      <jbo>mi klama nu'i ge -- le zarci -- le briju</jbo>
+      <jbo>mi klama nu'i ge - le zarci - le briju</jbo>
       <gloss>I go [start] both to the market from the office</gloss>
     </interlinear-gloss>
     <interlinear-gloss>
-      <jbo>… nu'u gi -- le zdani -- le ckule [nu'u]</jbo>
+      <jbo>… nu'u gi - le zdani - le ckule [nu'u]</jbo>
       <gloss>… [joint] and to the house from the school.</gloss>
     </interlinear-gloss>
     <bridgehead>
@@ -921,11 +921,11 @@
       Elidable terminator for <xref linkend="NUhI"/>. Marks the end of a termset.
     </para>
     <interlinear-gloss>
-      <jbo>mi klama nu'i ge -- le zarci -- le briju</jbo>
+      <jbo>mi klama nu'i ge - le zarci - le briju</jbo>
       <gloss>I go [start] both to the market from the office</gloss>
     </interlinear-gloss>
     <interlinear-gloss>
-      <jbo>… nu'u gi -- le zdani -- le ckule [nu'u]</jbo>
+      <jbo>… nu'u gi - le zdani - le ckule [nu'u]</jbo>
       <gloss>… [joint] and to the house from the school.</gloss>
     </interlinear-gloss>
     <bridgehead>
@@ -946,7 +946,7 @@
     </para>
     <interlinear-gloss>
       <jbo>mi ce'e do pe'e je la--.djan. ce'e la--.djeimyz. cu pendo</jbo>
-      <gloss>I [,] you [joint] and John [,] James -- are-friends-of.</gloss>
+      <gloss>I [,] you [joint] and John [,] James - are-friends-of.</gloss>
       <natlang>I am a friend of you, and John is a friend of James.</natlang>
     </interlinear-gloss>
     <bridgehead>
@@ -1014,7 +1014,7 @@
     </para>
     <interlinear-gloss>
       <jbo>le zarci cu se--klama mi</jbo>
-      <gloss>The market -- is-gone-to-by me.</gloss>
+      <gloss>The market - is-gone-to-by me.</gloss>
     </interlinear-gloss>
     <para>
       Also used in constructing connective and modal compound cmavo.
@@ -1026,7 +1026,7 @@
       Marks the beginning of metalinguistic insertions which comment on the main bridi. Terminated by <xref linkend="SEhU"/>.
     </para>
     <interlinear-gloss>
-      <jbo>la--.frank. cu prami sei -- gleki [se'u] la--.djein.</jbo>
+      <jbo>la--.frank. cu prami sei - gleki [se'u] la--.djein.</jbo>
       <gloss>Frank - loves ( [he] is-happy ) Jane.</gloss>
     </interlinear-gloss>
     <bridgehead>
@@ -1036,7 +1036,7 @@
       Elidable terminator for <xref linkend="SEI"/> and <xref linkend="SOI"/>. Ends metalinguistic insertions.
     </para>
     <interlinear-gloss>
-      <jbo>la--.frank. cu prami sei -- gleki se'u la--.djein.</jbo>
+      <jbo>la--.frank. cu prami sei - gleki se'u la--.djein.</jbo>
       <gloss>Frank - loves ( [he] is-happy ) Jane.</gloss>
     </interlinear-gloss>
     <bridgehead>
@@ -1144,7 +1144,7 @@
     </interlinear-gloss>
     <interlinear-gloss>
       <jbo>… .i ganai vanju gi tolci'o [tu'u]</jbo>
-      <gloss>… -- If wine, then old.</gloss>
+      <gloss>… - If wine, then old.</gloss>
       <natlang>As for what is best: if food, then new [is best]; if wine, then old [is best].</natlang>
     </interlinear-gloss>
     <bridgehead>
@@ -1186,7 +1186,7 @@
       <gloss>I (give the book ) and</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
-      <jbo>lebna lo jdini vau -- do [vau]</jbo>
+      <jbo>lebna lo jdini vau - do [vau]</jbo>
       <gloss>(take some money ) to/from you.</gloss>
     </interlinear-gloss>
     <bridgehead>
@@ -1351,7 +1351,7 @@
     </para>
     <interlinear-gloss>
       <jbo>mi ponse pa gerku ku poi blabi</jbo>
-      <gloss>I own one dog -- such-that it-is-white</gloss>
+      <gloss>I own one dog - such-that it-is-white</gloss>
     </interlinear-gloss>
     <interlinear-gloss>
       <jbo>… zi'e noi mi prami ke'a</jbo>
@@ -1367,7 +1367,7 @@
     </para>
     <interlinear-gloss>
       <jbo>zo si cu reljbo valsi</jbo>
-      <gloss>The-word “si” -- is-a-Relojbanic word.</gloss>
+      <gloss>The-word “si” - is-a-Relojbanic word.</gloss>
     </interlinear-gloss>
     <bridgehead>
       <anchor xml:id="ZOI" xreflabel="ZOI"/> selma'o ZOI (<xref linkend="section-more-quotations"/>)
@@ -1377,7 +1377,7 @@
     </para>
     <interlinear-gloss>
       <jbo>zoi .kuuot. Socrates--is--mortal .kuuot. cu glico jufra</jbo>
-      <gloss>The-text “ Socrates--is--mortal ” -- is-an-English sentence.</gloss>
+      <gloss>The-text “ Socrates--is--mortal ” - is-an-English sentence.</gloss>
     </interlinear-gloss>
     <bridgehead>
       <anchor xml:id="ZOhU" xreflabel="ZOhU"/> selma'o ZOhU (<xref linkend="section-da-and-zohu"/>, <xref linkend="section-topic-comments"/>)

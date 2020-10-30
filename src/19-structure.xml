@@ -238,7 +238,7 @@
       <title>
       </title>
       <interlinear-gloss>
-        <jbo>lo--jdini zo'u tu'e -- ponse .i--na--ja djica [tu'u]</jbo>
+        <jbo>lo--jdini zo'u tu'e - ponse .i--na--ja djica [tu'u]</jbo>
         <gloss>Money : ( [if] possess, then want )</gloss>
         <natlang>Money: if you have it, you want it.</natlang>
       </interlinear-gloss>
@@ -570,8 +570,8 @@
       <title>
       </title>
       <interlinear-gloss>
-        <jbo>mi cu klama -- lo zarci -- lo zdani -- lo dargu -- lo karce</jbo>
-        <gloss>I -- go to the market from the house via the road using the car.</gloss>
+        <jbo>mi cu klama - lo zarci - lo zdani - lo dargu - lo karce</jbo>
+        <gloss>I - go to the market from the house via the road using the car.</gloss>
       </interlinear-gloss>
     </example>
     <para role="indent">
@@ -581,11 +581,11 @@
       <title>
       </title>
       <interlinear-gloss>
-        <jbo>lo karce cu xe-klama -- lo zarci</jbo>
-        <gloss>The car -- is-a-transportation-means to the market</gloss>
+        <jbo>lo karce cu xe-klama - lo zarci</jbo>
+        <gloss>The car - is-a-transportation-means to the market</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
-        <jbo>… -- lo zdani -- lo dargu -- mi</jbo>
+        <jbo>… - lo zdani - lo dargu - mi</jbo>
         <gloss>… from the house via the road for me.</gloss>
       </interlinear-gloss>
     </example>
@@ -611,11 +611,11 @@
       <title>
       </title>
       <interlinear-gloss>
-        <jbo>la'e di'u cu nunkla -- mi</jbo>
+        <jbo>la'e di'u cu nunkla - mi</jbo>
         <gloss>The-referent-of the-previous-sentence - is-an-event-of-going by me</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
-        <jbo>… -- lo zarci -- lo zdani -- lo dargu -- lo karce</jbo>
+        <jbo>… - lo zarci - lo zdani - lo dargu - lo karce</jbo>
         <gloss>… to the market from the house via the road using the car.</gloss>
       </interlinear-gloss>
     </example>
@@ -631,15 +631,15 @@
       <title>
       </title>
       <interlinear-gloss>
-        <jbo>lo karce cu sexixa--nunkla -- mi</jbo>
+        <jbo>lo karce cu sexixa--nunkla - mi</jbo>
         <gloss>The car - is-a-transportation-means-in-the-event-of-going by me</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
-        <jbo>… -- lo zarci -- lo zdani</jbo>
+        <jbo>… - lo zarci - lo zdani</jbo>
         <gloss>… to the market from the house</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
-        <jbo>… -- lo dargu -- la'e di'u</jbo>
+        <jbo>… - lo dargu - la'e di'u</jbo>
         <gloss>… via the road the-event-being that-which-is-referred-to-by the-last-sentence.</gloss>
       </interlinear-gloss>
     </example>
@@ -941,8 +941,7 @@
       <interlinear-gloss>
         <jbo>mi pu cusku lu mi'e .djan. [li'u]</jbo>
         <gloss>I [past] express [quote] I-am John [unquote]</gloss>
-        <natlang>I said,
-        <quote>I'm John</quote>.</natlang>
+        <natlang>I said, <quote>I'm John</quote>.</natlang>
       </interlinear-gloss>
     </example>
     <para role="indent">
@@ -1072,8 +1071,7 @@
       </title>
       <interlinear-gloss>
         <jbophrase>zoi gy. John is a man .gy. cu glico jufra</jbophrase>
-        <natlang>
-        <quote>John is a man</quote> is an English sentence.</natlang>
+        <natlang><quote>John is a man</quote> is an English sentence.</natlang>
       </interlinear-gloss>
     </example>
     <para role="noindent">
@@ -1087,8 +1085,7 @@
       </title>
       <interlinear-gloss>
         <jbophrase>mi djuno fi lo valsi po'u zoi fi. fight .fi.</jbophrase>
-        <natlang>I know about the word
-        <quote>fight</quote>.</natlang>
+        <natlang>I know about the word <quote>fight</quote>.</natlang>
       </interlinear-gloss>
     </example>
     <example xml:id="example-random-id-qIsx" role="interlinear-gloss-example">
@@ -1096,8 +1093,7 @@
       </title>
       <interlinear-gloss>
         <jbophrase>mi djuno fi lo valsi po'u zoi fai. fight .fai.</jbophrase>
-        <natlang>I know about the word
-        <quote>fight</quote>.</natlang>
+        <natlang>I know about the word <quote>fight</quote>.</natlang>
       </interlinear-gloss>
     </example>
     <para role="indent">
@@ -1515,9 +1511,7 @@
       </title>
       <interlinear-gloss>
         <jbo>zo .bab. cmene zo si si la .bab.</jbo>
-        <gloss>The-word
-        <quote>Bob</quote> is-the-name-of the word
-        <jbophrase>si,</jbophrase> er, Bob.</gloss>
+        <gloss>The-word <quote>Bob</quote> is-the-name-of the word <jbophrase>si,</jbophrase> er, Bob.</gloss>
       </interlinear-gloss>
     </example>
     <para role="indent">

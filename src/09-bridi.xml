@@ -505,7 +505,7 @@
       </title>
       <interlinear-gloss>
         <jbo>[fa] la .rik. fa la .djein. cu klama</jbo>
-        <gloss>[x<subscript>1</subscript>=] that-named Rick x<subscript>1</subscript>= that-named Jane -- goes-to</gloss>
+        <gloss>[x<subscript>1</subscript>=] that-named Rick x<subscript>1</subscript>= that-named Jane - goes-to</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
         <jbo>… [fe] le kindi'u fe le zdani fe le zarci</jbo>
@@ -1067,11 +1067,11 @@
       </title>
       <interlinear-gloss>
         <jbo>la .djan. cu cpacu le pamoi se--jinga</jbo>
-        <gloss>- John -- gets the first prize</gloss>
+        <gloss>- John - gets the first prize</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
         <jbo>… ki'u le nu la .djan. cu jinga</jbo>
-        <gloss>… with-justification the event-of that-named John -- wins.</gloss>
+        <gloss>… with-justification the event-of that-named John - wins.</gloss>
         <natlang>John got the first prize because he won.</natlang>
       </interlinear-gloss>
     </example>
@@ -1094,11 +1094,11 @@
       </title>
       <interlinear-gloss>
         <jbo>la .sokrates. cu morsi binxo ni'i</jbo>
-        <gloss>- Socrates -- dead became with-logical-justification</gloss>
+        <gloss>- Socrates - dead became with-logical-justification</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
         <jbo>… le nu la .sokrates. cu remna</jbo>
-        <gloss>… the event-of that-named Socrates -- is-human.</gloss>
+        <gloss>… the event-of that-named Socrates - is-human.</gloss>
         <natlang>Socrates died because Socrates is human.</natlang>
       </interlinear-gloss>
     </example>
@@ -1307,7 +1307,7 @@
       </interlinear-gloss>
       <interlinear-gloss>
         <jbo>… .imu'ibo la .djan. cu dunda lei jdini mi</jbo>
-        <gloss>… Motivated-by that-named John -- gave the-mass-of money to-me.</gloss>
+        <gloss>… Motivated-by that-named John - gave the-mass-of money to-me.</gloss>
         <natlang>I gave the book to John, because John gave money to me.</natlang>
       </interlinear-gloss>
     </example>
@@ -1639,7 +1639,7 @@
       </title>
       <interlinear-gloss>
         <jbo>la .apasiionatas. pe la .artr.rubnstain. cu se--nelci mi</jbo>
-        <gloss>The Appassionata of that-named Arthur--Rubinstein -- is-liked-by me.</gloss>
+        <gloss>The Appassionata of that-named Arthur--Rubinstein - is-liked-by me.</gloss>
       </interlinear-gloss>
     </example>
     <example xml:id="example-random-id-qMQ1" role="interlinear-gloss-example">
@@ -1712,7 +1712,7 @@
       </title>
       <interlinear-gloss>
         <jbo>la .frank. cu nelci la .betis.</jbo>
-        <gloss>That-named Frank -- likes that-named Betty,</gloss>
+        <gloss>That-named Frank - likes that-named Betty,</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
         <jbo>ne semau la .meiris.</jbo>
@@ -1729,7 +1729,7 @@
       </title>
       <interlinear-gloss>
         <jbo>la .frank. cu nelci la .meiris.</jbo>
-        <gloss>That-named Frank -- likes that-named Mary,</gloss>
+        <gloss>That-named Frank - likes that-named Mary,</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
         <jbo>ne seme'a la .betis.</jbo>
@@ -1753,7 +1753,7 @@
       </title>
       <interlinear-gloss>
         <jbo>la .frank. cu nelci la .meiris. seme'a la .betis.</jbo>
-        <gloss>That-named Frank -- likes that-named Mary is-less-than that-named Betty.</gloss>
+        <gloss>That-named Frank - likes that-named Mary is-less-than that-named Betty.</gloss>
         <natlang>Frank's liking Mary is less than Betty.</natlang>
       </interlinear-gloss>
     </example>
@@ -1973,7 +1973,7 @@
       </title>
       <interlinear-gloss>
         <jbo>la .relojban. cu jai--bau--cusku fai mi</jbo>
-        <gloss>That-named Relojban -- is-the-language-of-expression used-by me.</gloss>
+        <gloss>That-named Relojban - is-the-language-of-expression used-by me.</gloss>
       </interlinear-gloss>
     </example>
     <para role="indent">
@@ -2172,11 +2172,11 @@
       </title>
       <interlinear-gloss>
         <jbo>la .frank. cu bajra seka'a le zdani</jbo>
-        <gloss>That-named Frank -- runs with-destination the house.</gloss>
+        <gloss>That-named Frank - runs with-destination the house.</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
         <jbo>… .ije la .frank. cu bajra teka'a le zdani</jbo>
-        <gloss>… And that-named Frank -- runs with-origin the house.</gloss>
+        <gloss>… And that-named Frank - runs with-origin the house.</gloss>
         <natlang>Frank runs to the house, and Frank runs from the house.</natlang>
       </interlinear-gloss>
     </example>
@@ -2186,7 +2186,7 @@
       </title>
       <interlinear-gloss>
         <jbo>la .frank. cu bajra seka'a</jbo>
-        <gloss>That-named Frank -- runs with-destination</gloss>
+        <gloss>That-named Frank - runs with-destination</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
         <jbo>… je teka'a le zdani</jbo>
@@ -2202,7 +2202,7 @@
       </title>
       <interlinear-gloss>
         <jbo>la .frank. cu bajra seka'a le zdani</jbo>
-        <gloss>That-named Frank -- runs with-destination the house</gloss>
+        <gloss>That-named Frank - runs with-destination the house</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
         <jbo>… ce'e teka'a le zdani</jbo>

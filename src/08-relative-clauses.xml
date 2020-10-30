@@ -41,7 +41,7 @@
       </title>
       <interlinear-gloss>
         <jbo>ti cu barda</jbo>
-        <gloss>This-one -- is-big.</gloss>
+        <gloss>This-one - is-big.</gloss>
       </interlinear-gloss>
     </example>
     <para role="indent">
@@ -65,7 +65,7 @@
       </title>
       <interlinear-gloss>
         <jbo>ti poi ke'a prenu ku'o cu barda</jbo>
-        <gloss>This-thing such-that-( IT is-a-person ) -- is-large.</gloss>
+        <gloss>This-thing such-that-( IT is-a-person ) - is-large.</gloss>
         <natlang>This thing which is a person is big.</natlang>
         <natlang>This person is big.</natlang>
       </interlinear-gloss>
@@ -76,7 +76,7 @@
       </title>
       <interlinear-gloss>
         <jbo>ti poi ke'a nazbi ku'o cu barda</jbo>
-        <gloss>This-thing such-that-( IT is-a-nose ) -- is-large.</gloss>
+        <gloss>This-thing such-that-( IT is-a-nose ) - is-large.</gloss>
         <natlang>This thing which is a nose is big.</natlang>
         <natlang>This nose is big.</natlang>
       </interlinear-gloss>
@@ -86,8 +86,8 @@
         <indexterm type="example"><primary>big nose-pores</primary></indexterm>
       </title>
       <interlinear-gloss>
-        <jbo>ti poi ke'a nazbi -- kapkevna ku'o cu barda</jbo>
-        <gloss>This-thing such-that-( IT is-a-nose type-of skin-hole ) -- is-big.</gloss>
+        <jbo>ti poi ke'a nazbi - kapkevna ku'o cu barda</jbo>
+        <gloss>This-thing such-that-( IT is-a-nose type-of skin-hole ) - is-big.</gloss>
         <natlang>These things which are nose-pores are big.</natlang>
         <natlang>These nose-pores are big.</natlang>
       </interlinear-gloss>
@@ -105,7 +105,7 @@
       </title>
       <interlinear-gloss>
         <jbo>tu poi le mlatu pu lacpu ke'a ku'o cu ratcu</jbo>
-        <gloss>That-distant-thing such-that-( the cat [past] drags IT ) -- is-a-rat.</gloss>
+        <gloss>That-distant-thing such-that-( the cat [past] drags IT ) - is-a-rat.</gloss>
         <natlang>That thing which the cat dragged is a rat.</natlang>
         <natlang>What the cat dragged is a rat.</natlang>
       </interlinear-gloss>
@@ -119,7 +119,7 @@
       </interlinear-gloss>
       <interlinear-gloss>
         <jbo>mi ponse ke'a [kei] ku'o cu bloti</jbo>
-        <gloss>I own IT ) ) -- is-a-boat.</gloss>
+        <gloss>I own IT ) ) - is-a-boat.</gloss>
         <natlang>That thing that I want to own is a boat.</natlang>
       </interlinear-gloss>
     </example>
@@ -136,7 +136,7 @@
       </title>
       <interlinear-gloss>
         <jbo>ti poi nazbi cu barda</jbo>
-        <gloss>This-thing which is-a-nose -- is-big.</gloss>
+        <gloss>This-thing which is-a-nose - is-big.</gloss>
       </interlinear-gloss>
     </example>
     <para role="noindent">
@@ -147,7 +147,7 @@
       </title>
       <interlinear-gloss>
         <jbo>tu poi le mlatu pu lacpu cu ratcu</jbo>
-        <gloss>That-distant-thing which the cat [past] drags -- is-a-rat</gloss>
+        <gloss>That-distant-thing which the cat [past] drags - is-a-rat</gloss>
       </interlinear-gloss>
     </example>
     <para>
@@ -162,7 +162,7 @@
       </title>
       <interlinear-gloss>
         <jbo>ti poi prenu cu barda</jbo>
-        <gloss>That which is-a-person -- is-big.</gloss>
+        <gloss>That which is-a-person - is-big.</gloss>
         <natlang>That person is big.</natlang>
       </interlinear-gloss>
     </example>
@@ -220,7 +220,7 @@
       </title>
       <interlinear-gloss>
         <jbo>le gerku poi blanu cu barda</jbo>
-        <gloss>The dog which is-blue -- is-large.</gloss>
+        <gloss>The dog which is-blue - is-large.</gloss>
         <natlang>The dog which is blue is large.</natlang>
       </interlinear-gloss>
     </example>
@@ -229,7 +229,7 @@
       </title>
       <interlinear-gloss>
         <jbo>le gerku noi blanu cu barda</jbo>
-        <gloss>The dog incidentally-which is-blue -- is-large.</gloss>
+        <gloss>The dog incidentally-which is-blue - is-large.</gloss>
         <natlang>The dog, which is blue, is large.</natlang>
       </interlinear-gloss>
     </example>
@@ -251,7 +251,7 @@
       </title>
       <interlinear-gloss>
         <jbo>mi noi pajni cu zvati</jbo>
-        <gloss>I who-incidentally am-a-judge -- am-at [some-place].</gloss>
+        <gloss>I who-incidentally am-a-judge - am-at [some-place].</gloss>
         <natlang>I, a judge, am present.</natlang>
       </interlinear-gloss>
     </example>
@@ -263,7 +263,7 @@
       </title>
       <interlinear-gloss>
         <jbo>xu do viska le mi karce noi blabi</jbo>
-        <gloss>[True?] You see -- my car incidentally-which is-white.</gloss>
+        <gloss>[True?] You see - my car incidentally-which is-white.</gloss>
         <natlang>Do you see my car, which is white?</natlang>
       </interlinear-gloss>
     </example>
@@ -275,7 +275,7 @@
       </title>
       <interlinear-gloss>
         <jbo>xu do viska le mi karce poi blabi</jbo>
-        <gloss>[True?] You see -- my car which is-white.</gloss>
+        <gloss>[True?] You see - my car which is-white.</gloss>
         <natlang>Do you see my car that is white?</natlang>
         <natlang>Do you see my white car?</natlang>
       </interlinear-gloss>
@@ -289,7 +289,7 @@
       </title>
       <interlinear-gloss>
         <jbo>xu do viska le mi blabi karce</jbo>
-        <gloss>[True?] You see -- my white car.</gloss>
+        <gloss>[True?] You see - my white car.</gloss>
         <natlang>Do you see my car, the white one?</natlang>
       </interlinear-gloss>
     </example>
@@ -357,7 +357,7 @@
       </title>
       <interlinear-gloss>
         <jbo>le stizu pe mi cu blanu</jbo>
-        <gloss>The chair associated-with me -- is-blue.</gloss>
+        <gloss>The chair associated-with me - is-blue.</gloss>
         <natlang>My chair is blue.</natlang>
       </interlinear-gloss>
     </example>
@@ -384,7 +384,7 @@
       </title>
       <interlinear-gloss>
         <jbo>le stizu po mi cu xunre</jbo>
-        <gloss>The chair specific-to me -- is-red.</gloss>
+        <gloss>The chair specific-to me - is-red.</gloss>
       </interlinear-gloss>
     </example>
     <example xml:id="example-random-id-qm3I" role="interlinear-gloss-example">
@@ -417,7 +417,7 @@
       </title>
       <interlinear-gloss>
         <jbo>le birka po'e mi cu spofu</jbo>
-        <gloss>The arm intrinsically-possessed-by me -- is-broken</gloss>
+        <gloss>The arm intrinsically-possessed-by me - is-broken</gloss>
       </interlinear-gloss>
     </example>
     <example xml:id="example-random-id-qm5E" role="interlinear-gloss-example">
@@ -430,7 +430,7 @@
       </interlinear-gloss>
       <interlinear-gloss>
         <jbo>… srana mi cu spofu</jbo>
-        <gloss>… associated-with) me -- is-broken.</gloss>
+        <gloss>… associated-with) me - is-broken.</gloss>
       </interlinear-gloss>
     </example>
     <example xml:id="example-random-id-qm7W" role="interlinear-gloss-example">
@@ -438,7 +438,7 @@
       </title>
       <interlinear-gloss>
         <jbo>le botpi po mi cu spofu</jbo>
-        <gloss>The bottle specific-to me -- is-broken</gloss>
+        <gloss>The bottle specific-to me - is-broken</gloss>
       </interlinear-gloss>
     </example>
     <para role="indent">
@@ -462,7 +462,7 @@
       </title>
       <interlinear-gloss>
         <jbo>le birka be mi cu spofu</jbo>
-        <gloss>The arm of-body me -- is-broken</gloss>
+        <gloss>The arm of-body me - is-broken</gloss>
       </interlinear-gloss>
     </example>
     <para role="noindent">
@@ -477,7 +477,7 @@
       </title>
       <interlinear-gloss>
         <jbo>le gerku po'u le mi pendo cu cinba mi</jbo>
-        <gloss>The dog which-is -- my friend -- kisses me.</gloss>
+        <gloss>The dog which-is - my friend - kisses me.</gloss>
       </interlinear-gloss>
     </example>
     <example xml:id="example-random-id-qm90" role="interlinear-gloss-example">
@@ -485,7 +485,7 @@
       </title>
       <interlinear-gloss>
         <jbo>le gerku poi du le mi pendo cu cinba mi</jbo>
-        <gloss>The dog which = -- my friend -- kisses me.</gloss>
+        <gloss>The dog which = - my friend - kisses me.</gloss>
       </interlinear-gloss>
     </example>
     <para role="indent">
@@ -502,7 +502,7 @@
       </title>
       <interlinear-gloss>
         <jbo>le mi pendo po'u le gerku cu cinba mi</jbo>
-        <gloss>-- My friend which-is the dog -- kisses me.</gloss>
+        <gloss>- My friend which-is the dog - kisses me.</gloss>
       </interlinear-gloss>
     </example>
     <para role="indent">
@@ -542,7 +542,7 @@
       </title>
       <interlinear-gloss>
         <jbo>le kabri pe le mi pendo cu cmalu</jbo>
-        <gloss>The cup associated-with -- my friend -- is-small.</gloss>
+        <gloss>The cup associated-with - my friend - is-small.</gloss>
         <natlang>My friend's cup is small</natlang>
       </interlinear-gloss>
     </example>
@@ -552,7 +552,7 @@
       </title>
       <interlinear-gloss>
         <jbo>le mi pendo pe le kabri cu cmalu</jbo>
-        <gloss>-- My friend associated-with the cup -- is-small.</gloss>
+        <gloss>- My friend associated-with the cup - is-small.</gloss>
         <natlang>My friend, the one with the cup, is small.</natlang>
       </interlinear-gloss>
     </example>
@@ -602,7 +602,7 @@
       </title>
       <interlinear-gloss>
         <jbo>le nanmu po'u la .djim. cu terpemci</jbo>
-        <gloss>The man who-is that-named Jim -- is-a-poet.</gloss>
+        <gloss>The man who-is that-named Jim - is-a-poet.</gloss>
         <natlang>The man Jim is a poet.</natlang>
       </interlinear-gloss>
     </example>
@@ -629,8 +629,8 @@
         <indexterm type="example"><primary>hands in pockets</primary></indexterm>
       </title>
       <interlinear-gloss>
-        <jbo>le nanmu cu punji le xance -- le daski</jbo>
-        <gloss>The man -- puts the hand at-locus the pocket.</gloss>
+        <jbo>le nanmu cu punji le xance - le daski</jbo>
+        <gloss>The man - puts the hand at-locus the pocket.</gloss>
       </interlinear-gloss>
     </example>
     <para role="noindent">
@@ -685,7 +685,7 @@
       </interlinear-gloss>
       <interlinear-gloss>
         <jbo>… le mi pendo cu ponse ke'a cu klama</jbo>
-        <gloss>… (- my friend -- owns IT ) goes.</gloss>
+        <gloss>… (- my friend - owns IT ) goes.</gloss>
         <natlang>The dog that is white, which my friend owns, is going.</natlang>
       </interlinear-gloss>
     </example>
@@ -701,7 +701,7 @@
       </title>
       <interlinear-gloss>
         <jbo>le botpi po mi zi'e poi blanu cu spofu</jbo>
-        <gloss>The bottle specific-to me and which-is blue -- is-broken.</gloss>
+        <gloss>The bottle specific-to me and which-is blue - is-broken.</gloss>
         <natlang>My blue bottle is broken.</natlang>
       </interlinear-gloss>
     </example>
@@ -736,8 +736,8 @@
         <gloss>I [future] eat the beans associated-with me and which are-upon</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
-        <jbo>… le mi palta zi'e noi do dunda ke'a -- mi</jbo>
-        <gloss>… -- my plate and which-incidentally you gave IT to me.</gloss>
+        <jbo>… le mi palta zi'e noi do dunda ke'a - mi</jbo>
+        <gloss>… - my plate and which-incidentally you gave IT to me.</gloss>
         <natlang>I'll eat my beans that are on my plate, the ones you gave me.</natlang>
       </interlinear-gloss>
     </example>
@@ -759,7 +759,7 @@
       </title>
       <interlinear-gloss>
         <jbo>le gerku poi blabi cu klama</jbo>
-        <gloss>The dog which is-white -- goes.</gloss>
+        <gloss>The dog which is-white - goes.</gloss>
       </interlinear-gloss>
     </example>
     <para role="noindent">
@@ -770,7 +770,7 @@
       </title>
       <interlinear-gloss>
         <jbo>le gerku voi blabi cu klama</jbo>
-        <gloss>The dog which-I-describe-as white -- goes.</gloss>
+        <gloss>The dog which-I-describe-as white - goes.</gloss>
       </interlinear-gloss>
     </example>
     <para role="noindent">
@@ -784,9 +784,8 @@
       </title>
       <interlinear-gloss>
         <jbo>le nanmu cu ninmu</jbo>
-        <gloss>That-which-I-describe-as a-man -- is-a-woman.</gloss>
-        <natlang>The
-        <quote>guy</quote> is actually a gal.</natlang>
+        <gloss>That-which-I-describe-as a-man - is-a-woman.</gloss>
+        <natlang>The <quote>guy</quote> is actually a gal.</natlang>
       </interlinear-gloss>
     </example>
     <example xml:id="example-random-id-qmcE" role="interlinear-gloss-example">
@@ -794,7 +793,7 @@
       </title>
       <interlinear-gloss>
         <jbo>ti voi nanmu cu ninmu</jbo>
-        <gloss>This-thing which-I-describe-as a-man -- is-a-woman.</gloss>
+        <gloss>This-thing which-I-describe-as a-man - is-a-woman.</gloss>
       </interlinear-gloss>
     </example>
     <para role="noindent">
@@ -814,7 +813,7 @@
       </title>
       <interlinear-gloss>
         <jbo>le gerku poi blabi ku'o ku cu klama vau</jbo>
-        <gloss>The (dog which (is-white ) ) -- goes .</gloss>
+        <gloss>The (dog which (is-white ) ) - goes .</gloss>
         <natlang>The dog which is white is going.</natlang>
       </interlinear-gloss>
     </example>
@@ -829,7 +828,7 @@
       </title>
       <interlinear-gloss>
         <jbo>le poi blabi ku'o gerku cu klama</jbo>
-        <gloss>The such-that-( it-is-white ) dog -- goes.</gloss>
+        <gloss>The such-that-( it-is-white ) dog - goes.</gloss>
       </interlinear-gloss>
     </example>
     <example xml:id="example-random-id-qMct" role="interlinear-gloss-example">
@@ -837,7 +836,7 @@
       </title>
       <interlinear-gloss>
         <jbo>le gerku ku poi blabi cu klama</jbo>
-        <gloss>The (dog ) which is-white -- goes.</gloss>
+        <gloss>The (dog ) which is-white - goes.</gloss>
       </interlinear-gloss>
     </example>
     <para role="indent">
@@ -850,8 +849,8 @@
       <title>
       </title>
       <interlinear-gloss>
-        <jbo>re -- le mu prenu cu klama le zarci</jbo>
-        <gloss>Two of the five persons -- go-to the market.</gloss>
+        <jbo>re - le mu prenu cu klama le zarci</jbo>
+        <gloss>Two of the five persons - go-to the market.</gloss>
         <natlang>Two of the five people [that I have in mind] are going to the market.</natlang>
       </interlinear-gloss>
     </example>
@@ -862,12 +861,12 @@
       <title>
       </title>
       <interlinear-gloss>
-        <jbo>re -- le poi ninmu ku'o</jbo>
+        <jbo>re - le poi ninmu ku'o</jbo>
         <gloss>Two of the such-that([they] are-women )</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
         <jbo>mu prenu cu klama le zarci</jbo>
-        <gloss>five persons -- go-to the market.</gloss>
+        <gloss>five persons - go-to the market.</gloss>
         <natlang>Two women out of the five persons go to the market.</natlang>
       </interlinear-gloss>
     </example>
@@ -875,8 +874,8 @@
       <title>
       </title>
       <interlinear-gloss>
-        <jbo>re -- le mu prenu poi ninmu [ku] cu klama le zarci</jbo>
-        <gloss>Two of the (five persons which-( are-women) ) -- go-to the market.</gloss>
+        <jbo>re - le mu prenu poi ninmu [ku] cu klama le zarci</jbo>
+        <gloss>Two of the (five persons which-( are-women) ) - go-to the market.</gloss>
         <natlang>Two of the five women go to the market.</natlang>
       </interlinear-gloss>
     </example>
@@ -884,7 +883,7 @@
       <title>
       </title>
       <interlinear-gloss>
-        <jbo>re -- le mu prenu ku poi ninmu cu klama le zarci</jbo>
+        <jbo>re - le mu prenu ku poi ninmu cu klama le zarci</jbo>
         <gloss>(Two of the five persons ) which-( are-women ) go-to the market.</gloss>
         <natlang>Two women out of the five persons go to the market.</natlang>
       </interlinear-gloss>
@@ -912,7 +911,7 @@
       </title>
       <interlinear-gloss>
         <jbo>lo prenu noi blabi [ku] cu klama le zarci</jbo>
-        <gloss>Some (persons incidentally-which are-white ) -- go to-the market.</gloss>
+        <gloss>Some (persons incidentally-which are-white ) - go to-the market.</gloss>
         <natlang>Some of the people, who by the way are white, go to the market.</natlang>
       </interlinear-gloss>
     </example>
@@ -952,8 +951,7 @@
       <interlinear-gloss>
         <jbo>mi viska la nanmu ku poi terpa le ke'a xirma.</jbo>
         <gloss>I see that-named-( Man ) which fears the of-IT horse.</gloss>
-        <natlang>I see the person named
-        <quote>Man</quote> who is afraid of his horse.</natlang>
+        <natlang>I see the person named <quote>Man</quote> who is afraid of his horse.</natlang>
       </interlinear-gloss>
     </example>
     <para role="noindent">
@@ -969,7 +967,7 @@
       </title>
       <interlinear-gloss>
         <jbo>mi ponse re karce [ku] poi xekri</jbo>
-        <gloss>I possess two cars -- which-are black.</gloss>
+        <gloss>I possess two cars - which-are black.</gloss>
       </interlinear-gloss>
     </example>
     <para role="indent">
@@ -992,7 +990,7 @@
       </title>
       <interlinear-gloss>
         <jbo>le mi karce cu xunre</jbo>
-        <gloss>-- My car -- is-red.</gloss>
+        <gloss>- My car - is-red.</gloss>
       </interlinear-gloss>
     </example>
     <para role="noindent">
@@ -1003,7 +1001,7 @@
       </title>
       <interlinear-gloss>
         <jbo>le pe mi karce cu xunre</jbo>
-        <gloss>The (associated-with me) car -- is-red.</gloss>
+        <gloss>The (associated-with me) car - is-red.</gloss>
       </interlinear-gloss>
     </example>
     <para role="noindent">
@@ -1014,7 +1012,7 @@
       </title>
       <interlinear-gloss>
         <jbo>le karce pe mi cu xunre</jbo>
-        <gloss>The car associated-with me -- is-red.</gloss>
+        <gloss>The car associated-with me - is-red.</gloss>
       </interlinear-gloss>
     </example>
     <para role="noindent">
@@ -1045,8 +1043,8 @@
       <title>
       </title>
       <interlinear-gloss>
-        <jbo>le -- le nanmu ku karce cu blanu</jbo>
-        <gloss>The (associated-with the man ) car -- is-blue.</gloss>
+        <jbo>le - le nanmu ku karce cu blanu</jbo>
+        <gloss>The (associated-with the man ) car - is-blue.</gloss>
         <natlang>The man's car is blue.</natlang>
       </interlinear-gloss>
     </example>
@@ -1084,7 +1082,7 @@
       </title>
       <interlinear-gloss>
         <jbo>le mi noi sipna vau karce cu na klama</jbo>
-        <gloss>The of-me incidentally-which-( is-sleeping ) car -- isn't going.</gloss>
+        <gloss>The of-me incidentally-which-( is-sleeping ) car - isn't going.</gloss>
       </interlinear-gloss>
     </example>
     <para role="noindent">
@@ -1095,7 +1093,7 @@
       </title>
       <interlinear-gloss>
         <jbo>le mi karce poi sipna cu na klama</jbo>
-        <gloss>The of-me car which sleeps -- isn't going.</gloss>
+        <gloss>The of-me car which sleeps - isn't going.</gloss>
       </interlinear-gloss>
     </example>
     <para role="indent">
@@ -1144,8 +1142,7 @@
       <interlinear-gloss>
         <jbo>… noi mi cusku ke'a cu jufra</jbo>
         <gloss>… incidentally-which-( I express IT ) is-a-sentence.</gloss>
-        <natlang>
-        <quote>I'm going to the market</quote>, which I'd said, is a sentence.</natlang>
+        <natlang><quote>I'm going to the market</quote>, which I'd said, is a sentence.</natlang>
       </interlinear-gloss>
     </example>
     <para role="noindent">
@@ -1172,8 +1169,7 @@
       <interlinear-gloss>
         <jbo>… cmaxirma li'u cu zvati le vu kumfa</jbo>
         <gloss>… Small-horse [unquote] - is-at the [far-distance] room.</gloss>
-        <natlang>An old
-        <quote>The Red Pony</quote> is in the far room.</natlang>
+        <natlang>An old <quote>The Red Pony</quote> is in the far room.</natlang>
       </interlinear-gloss>
     </example>
     <para role="indent">
@@ -1228,7 +1224,7 @@
       </interlinear-gloss>
       <interlinear-gloss>
         <jbo>… noi nanmu cu klama le zdani</jbo>
-        <gloss>… incidentally-who are-men -- go to-the house.</gloss>
+        <gloss>… incidentally-who are-men - go to-the house.</gloss>
         <natlang>Frank and George, who are men, go to the house.</natlang>
       </interlinear-gloss>
     </example>
@@ -1248,7 +1244,7 @@
       </interlinear-gloss>
       <interlinear-gloss>
         <jbo>… pu bajra cu klama le zdani</jbo>
-        <gloss>… [past] runs) -- go-to the house.</gloss>
+        <gloss>… [past] runs) - go-to the house.</gloss>
         <natlang>Frank and George, who ran, go to the house.</natlang>
       </interlinear-gloss>
     </example>
@@ -1261,7 +1257,7 @@
       </interlinear-gloss>
       <interlinear-gloss>
         <jbo>… noi pu bajra cu klama le zdani</jbo>
-        <gloss>… who [past] run -- go-to the house.</gloss>
+        <gloss>… who [past] run - go-to the house.</gloss>
         <natlang>Frank and George, who ran, go to the house.</natlang>
       </interlinear-gloss>
     </example>
@@ -1308,8 +1304,7 @@
       </title>
       <interlinear-gloss>
         <jbo>coi la .frank.</jbo>
-        <gloss>Hello, the-one-named
-        <quote>Frank</quote>.</gloss>
+        <gloss>Hello, the-one-named <quote>Frank</quote>.</gloss>
       </interlinear-gloss>
     </example>
     <para>
@@ -1368,7 +1363,7 @@
       </title>
       <interlinear-gloss>
         <jbo>le prenu poi zvati le kumfa poi blanu cu masno</jbo>
-        <gloss>The person who is-in the room which is-blue -- is-slow.</gloss>
+        <gloss>The person who is-in the room which is-blue - is-slow.</gloss>
       </interlinear-gloss>
     </example>
     <para role="indent">
@@ -1386,7 +1381,7 @@
       </title>
       <interlinear-gloss>
         <jbo>le prenu poi zvati le kumfa poi ke'axire zbasu ke'a cu masno</jbo>
-        <gloss>The person who is-in the room which IT-sub-2 built IT -- is-slow.</gloss>
+        <gloss>The person who is-in the room which IT-sub-2 built IT - is-slow.</gloss>
         <natlang>The person who is in the room which he built is slow.</natlang>
       </interlinear-gloss>
     </example>
@@ -1412,7 +1407,7 @@
       </interlinear-gloss>
       <interlinear-gloss>
         <jbo>… ko'a zbasu ko'e cu masno</jbo>
-        <gloss>… it1 built it2) -- is-slow.</gloss>
+        <gloss>… it1 built it2) - is-slow.</gloss>
       </interlinear-gloss>
     </example>
     <para role="indent">

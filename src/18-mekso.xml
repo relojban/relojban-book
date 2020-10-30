@@ -870,7 +870,7 @@
     <example xml:id="example-random-id-qi0g" role="interlinear-gloss-example">
       <title>
       </title>
-        <jbophrase>li zy du li pe'o ma'o fy.boi xy. ku'e</jbophrase>
+      <jbophrase>li zy du li pe'o ma'o fy.boi xy. ku'e</jbophrase>
     </example>
     <para role="indent">
       Note: When using forethought mekso, be sure that the operands really are operands: they cannot contain regular infix expressions unless parenthesized with <valsi>vei</valsi> and <valsi>ve'o</valsi>. An earlier version of the complex <xref linkend="example-random-id-k36J"/> came to grief because I forgot this rule.
@@ -915,10 +915,7 @@
       </title>
       <interlinear-gloss>
         <jbo>py. du xy.boi zy.</jbo>
-        <gloss>
-          <quote>p</quote> is-identical-to
-          <quote>x</quote>
-        <quote>z</quote></gloss>
+        <gloss><quote>p</quote> is-identical-to <quote>x</quote> <quote>z</quote></gloss>
         <dbmath>p = x = z</dbmath>
       </interlinear-gloss>
     </example>
@@ -1264,8 +1261,7 @@
       <interlinear-gloss>
         <jbo>mi speni so'ici prenu</jbo>
         <gloss>I am-married-to many/three persons.</gloss>
-        <natlang>I am married to three persons (which is
-        <quote>many</quote> in the circumstances).</natlang>
+        <natlang>I am married to three persons (which is <quote>many</quote> in the circumstances).</natlang>
       </interlinear-gloss>
     </example>
     <para role="indent">
@@ -1329,9 +1325,7 @@
       <interlinear-gloss>
         <jbo>vo no ji'i mu no</jbo>
         <gloss>four zero approximation five zero</gloss>
-        <natlang>roughly 4050 (where the
-        <quote>four thousand</quote> is exact, but the
-        <quote>fifty</quote> is approximate)</natlang>
+        <natlang>roughly 4050 (where the <quote>four thousand</quote> is exact, but the <quote>fifty</quote> is approximate)</natlang>
       </interlinear-gloss>
     </example>
     <para role="indent">

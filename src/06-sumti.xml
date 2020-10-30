@@ -256,8 +256,7 @@
       </title>
       <interlinear-gloss>
         <jbo>la cribe pu finti le lisri</jbo>
-        <gloss>That-named
-        <quote>bear</quote> [past] creates the story.</gloss>
+        <gloss>That-named <quote>bear</quote> [past] creates the story.</gloss>
         <natlang>Bear wrote the story.</natlang>
       </interlinear-gloss>
     </example>
@@ -479,8 +478,7 @@
       </title>
       <interlinear-gloss>
         <jbo>lai cribe pu finti le vi cukta</jbo>
-        <gloss>The-mass-of-those-named
-        <quote>bear</quote> [past] creates the nearby book.</gloss>
+        <gloss>The-mass-of-those-named <quote>bear</quote> [past] creates the nearby book.</gloss>
         <natlang>The Bears wrote this book.</natlang>
       </interlinear-gloss>
     </example>
@@ -762,8 +760,7 @@
       <interlinear-gloss>
         <jbo>mi cusku lu do cadzu le bisli li'u</jbo>
         <gloss>I express [quote] you walk-on the ice [unquote].</gloss>
-        <natlang>I say,
-        <quote>You walk on the ice.</quote></natlang>
+        <natlang>I say, <quote>You walk on the ice.</quote></natlang>
       </interlinear-gloss>
     </example>
     <para role="indent">
@@ -792,10 +789,8 @@
       <interlinear-gloss>
         <jbo>mi cusku su'o lu do cadzu le bisli li'u</jbo>
         <gloss>I express at-least-one-of [quote] you walk-on the ice [unquote].</gloss>
-        <natlang>I say one or more instances of
-        <quote>You walk on the ice</quote>.</natlang>
-        <natlang>I say
-        <quote>You walk on the ice</quote>.</natlang>
+        <natlang>I say one or more instances of <quote>You walk on the ice</quote>.</natlang>
+        <natlang>I say <quote>You walk on the ice</quote>.</natlang>
       </interlinear-gloss>
     </example>
     <para role="indent">
@@ -1904,8 +1899,7 @@
       <interlinear-gloss>
         <jbo>mi cusku zoi .kuuot. I'm--John .kuuot</jbo>
         <gloss>I express [non-Relojban] &lt; I'm--John &gt;.</gloss>
-        <natlang>I say
-        <quote>I'm John</quote>.</natlang>
+        <natlang>I say <quote>I'm John</quote>.</natlang>
       </interlinear-gloss>
     </example>
     <para role="indent">

@@ -143,10 +143,9 @@
       <title>
       </title>
       <interlinear-gloss>
-        <jbo>mi'e .djan. doi .frank. mi cusku lu mi bajra li'u -- do</jbo>
+        <jbo>mi'e .djan. doi .frank. mi cusku lu mi bajra li'u - do</jbo>
         <gloss>I-am John, O Frank, I express [quote] I run [unquote] to you</gloss>
-        <natlang>I am John, Frank; I tell you
-        <quote>I run</quote>.</natlang>
+        <natlang>I am John, Frank; I tell you <quote>I run</quote>.</natlang>
       </interlinear-gloss>
     </example>
     <para role="indent">
@@ -484,8 +483,7 @@
       <interlinear-gloss>
         <jbo>do'i jetnu jufra</jbo>
         <gloss>Some-utterance is-a-true sentence.</gloss>
-        <natlang>That's true (where
-        <quote>that</quote> is not necessarily what was just said).</natlang>
+        <natlang>That's true (where <quote>that</quote> is not necessarily what was just said).</natlang>
       </interlinear-gloss>
     </example>
     <para role="indent">
@@ -683,7 +681,7 @@
       </interlinear-gloss>
       <interlinear-gloss>
         <jbo>.i la .alis. goi ko'a cu blanu</jbo>
-        <gloss>. That-named Alice, also-known-as it-1, -- is-blue.</gloss>
+        <gloss>. That-named Alice, also-known-as it-1, - is-blue.</gloss>
       </interlinear-gloss>
     </example>
     <para role="noindent">
@@ -698,7 +696,7 @@
       </title>
       <interlinear-gloss>
         <jbo>la .alis. goi ko'a cu klama le zarci .i ko'a cu blanu</jbo>
-        <gloss>That-named Alice, also-known-as it-1 , goes-to the store . It-1 -- is-blue.</gloss>
+        <gloss>That-named Alice, also-known-as it-1 , goes-to the store . It-1 - is-blue.</gloss>
       </interlinear-gloss>
     </example>
     <para role="noindent">
@@ -759,7 +757,7 @@
       <title>
       </title>
       <interlinear-gloss>
-        <jbo>-- broda -- ke brode -- brodi</jbo>
+        <jbo>- broda - ke brode - brodi</jbo>
         <gloss>a thing-1 type-of ( thing-2 type-of thing-3 )</gloss>
       </interlinear-gloss>
     </example>
@@ -797,7 +795,7 @@
       </title>
       <interlinear-gloss>
         <jbo>le ninmu goi la .sam. cu klama le zarci</jbo>
-        <gloss>The woman also-known-as that-named Sam -- goes-to the store.</gloss>
+        <gloss>The woman also-known-as that-named Sam - goes-to the store.</gloss>
         <natlang>The woman, whom I'll call Sam, goes to the store.</natlang>
       </interlinear-gloss>
     </example>
@@ -888,7 +886,7 @@
       <title>
       </title>
       <interlinear-gloss>
-        <jbo>la .alis. cu sipna ne'i le -- ri kumfa</jbo>
+        <jbo>la .alis. cu sipna ne'i le - ri kumfa</jbo>
         <gloss>That-named Alice - sleeps in the of- [repeat-last-sumti] room.</gloss>
         <natlang>Alice sleeps in her room.</natlang>
       </interlinear-gloss>
@@ -900,7 +898,7 @@
       <title>
       </title>
       <interlinear-gloss>
-        <jbo>la .alis. cu sipna ne'i le -- la .alis. kumfa</jbo>
+        <jbo>la .alis. cu sipna ne'i le - la .alis. kumfa</jbo>
         <gloss>That-named Alice - sleeps in the of- that-named Alice room.</gloss>
         <natlang>Alice sleeps in Alice's room.</natlang>
       </interlinear-gloss>
@@ -931,7 +929,7 @@
         <gloss>That-named John sees the tree. -</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
-        <jbo>… ri se--jadni le -- ri jimca</jbo>
+        <jbo>… ri se--jadni le - ri jimca</jbo>
         <gloss>… [repeat-last] is-adorned-by the of- [repeat-last] branch.</gloss>
         <natlang>John sees the tree. It is adorned by its branches.</natlang>
       </interlinear-gloss>
@@ -1015,8 +1013,7 @@
       </title>
       <interlinear-gloss>
         <jbo>xu zo .djan. cmene do .i go'i</jbo>
-        <gloss>[True-false?] The-word
-        <quote>John</quote> is-the-name-of you? -- [repeat--last--bridi].</gloss>
+        <gloss>[True-false?] The-word <quote>John</quote> is-the-name-of you? - [repeat--last--bridi].</gloss>
         <natlang>Is John your name? Yes.</natlang>
       </interlinear-gloss>
     </example>
@@ -1105,11 +1102,11 @@
         <gloss>I promise the event-of I [repeat-future-bridi].</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
-        <jbo>… .i ba dunda le jdini -- le bersa</jbo>
+        <jbo>… .i ba dunda le jdini - le bersa</jbo>
         <gloss>… - [Future] give the money to the son</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
-        <jbo>… .i ba dunda le zdani -- le tixnu</jbo>
+        <jbo>… .i ba dunda le zdani - le tixnu</jbo>
         <gloss>… - [Future] give the house to the daughter</gloss>
         <natlang>I promise to do the following: Give the money to my son. Give the house to my daughter.</natlang>
       </interlinear-gloss>
@@ -1297,7 +1294,7 @@
       </title>
       <interlinear-gloss>
         <jbo>loi jmive cu se--zbasu [zo'e] fi loi selci</jbo>
-        <gloss>The-mass-of living-things -- is-made [by-something] from the-mass-of cells</gloss>
+        <gloss>The-mass-of living-things - is-made [by-something] from the-mass-of cells</gloss>
       </interlinear-gloss>
     </example>
     <para role="noindent">
@@ -1308,10 +1305,10 @@
       </title>
       <interlinear-gloss>
         <jbo>loi jmive cu</jbo>
-        <gloss>The-mass-of living-things --</gloss>
+        <gloss>The-mass-of living-things -</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
-        <jbo>se--zbasu zi'o -- loi selci</jbo>
+        <jbo>se--zbasu zi'o - loi selci</jbo>
         <gloss>is-made [without-maker] from the-mass-of cells.</gloss>
       </interlinear-gloss>
     </example>
@@ -1323,7 +1320,7 @@
       <title>
       </title>
       <interlinear-gloss>
-        <jbo>mi zbasu le dinju -- loi mudri</jbo>
+        <jbo>mi zbasu le dinju - loi mudri</jbo>
         <gloss>I make the building from some-of-the-mass-of wood.</gloss>
         <natlang>I make the building out of wood.</natlang>
       </interlinear-gloss>
@@ -1332,7 +1329,7 @@
       <title>
       </title>
       <interlinear-gloss>
-        <jbo>zi'o zbasu le dinju -- loi mudri</jbo>
+        <jbo>zi'o zbasu le dinju - loi mudri</jbo>
         <gloss>[without-maker] makes the building from some-of-the-mass-of wood.</gloss>
         <natlang>The building is made out of wood.</natlang>
       </interlinear-gloss>
@@ -1341,7 +1338,7 @@
       <title>
       </title>
       <interlinear-gloss>
-        <jbo>mi zbasu zi'o -- loi mudri</jbo>
+        <jbo>mi zbasu zi'o - loi mudri</jbo>
         <gloss>I make [without-thing-made] from some-of-the-mass-of wood.</gloss>
         <natlang>I build using wood.</natlang>
       </interlinear-gloss>
@@ -1477,9 +1474,7 @@
       <interlinear-gloss>
         <jbo>mi prami do soi vo'a vo'e</jbo>
         <gloss>I love you [reciprocity] [x<subscript>1</subscript>--of--outermost--bridi] [x<subscript>2</subscript>--of--outermost--bridi].</gloss>
-        <natlang>I love you and vice versa (swapping
-        <quote>I</quote> and
-        <quote>you</quote>).</natlang>
+        <natlang>I love you and vice versa (swapping <quote>I</quote> and <quote>you</quote>).</natlang>
       </interlinear-gloss>
     </example>
     <para role="indent">
@@ -1526,8 +1521,8 @@
         <indexterm type="example"><primary>vice versa</primary></indexterm>
       </title>
       <interlinear-gloss>
-        <jbo>mi bajykla ti soi vo'i se'u -- ta</jbo>
-        <gloss>I runningly-go-to this [reciprocity] [x<subscript>3</subscript>--of--this--bridi] -- from that</gloss>
+        <jbo>mi bajykla ti soi vo'i se'u - ta</jbo>
+        <gloss>I runningly-go-to this [reciprocity] [x<subscript>3</subscript>--of--this--bridi] - from that</gloss>
         <natlang>I runningly-go to this from that and vice versa.</natlang>
       </interlinear-gloss>
     </example>
@@ -1618,8 +1613,8 @@
       <title>
       </title>
       <interlinear-gloss>
-        <jbo>lo mo -- prenu cu darxi do .i barda</jbo>
-        <gloss>A [what--selbri?] type-of person -- hit you? -- A--big--thing.</gloss>
+        <jbo>lo mo - prenu cu darxi do .i barda</jbo>
+        <gloss>A [what--selbri?] type-of person - hit you? - A--big--thing.</gloss>
         <natlang>Which person hit you? The big one.</natlang>
       </interlinear-gloss>
     </example>
@@ -1666,7 +1661,7 @@
         <gloss>I see a cat such-that something-unspecified</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
-        <jbo>… zbasu ke'a -- lei slasi</jbo>
+        <jbo>… zbasu ke'a - lei slasi</jbo>
         <gloss>… makes the-thing-being-relativized-[the-cat] from some-mass-of plastic.</gloss>
         <natlang>I see a cat made of plastic.</natlang>
       </interlinear-gloss>

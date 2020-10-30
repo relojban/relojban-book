@@ -721,7 +721,7 @@
       </title>
       <interlinear-gloss>
         <jbo>xy. boi ro [boi] prenu cu prami</jbo>
-        <gloss>X -- all -- persons -- loves.</gloss>
+        <gloss>X - all - persons - loves.</gloss>
         <natlang>X loves everybody.</natlang>
       </interlinear-gloss>
     </example>
@@ -744,7 +744,7 @@
       </title>
       <interlinear-gloss>
         <jbo>.abu cu lerfu</jbo>
-        <gloss>A -- is-a-letteral.</gloss>
+        <gloss>A - is-a-letteral.</gloss>
       </interlinear-gloss>
     </example>
     <para role="noindent">
@@ -792,7 +792,7 @@
       </title>
       <interlinear-gloss>
         <jbo>lu .abu li'u cu lerfu</jbo>
-        <gloss>[quote] .abu [unquote] -- is-a-letteral.</gloss>
+        <gloss>[quote] .abu [unquote] - is-a-letteral.</gloss>
       </interlinear-gloss>
     </example>
     <para role="noindent">
@@ -814,7 +814,7 @@
       </title>
       <interlinear-gloss>
         <jbo>la'e lu .abu li'u cu lerfu</jbo>
-        <gloss>The-referent-of [quote] .abu [unquote] -- is-a-letteral.</gloss>
+        <gloss>The-referent-of [quote] .abu [unquote] - is-a-letteral.</gloss>
       </interlinear-gloss>
     </example>
     <para role="noindent">
@@ -1047,7 +1047,7 @@
       </title>
       <interlinear-gloss>
         <jbo>la cribe cu ciska</jbo>
-        <gloss>That-named <quote>Bear</quote> -- writes.</gloss>
+        <gloss>That-named <quote>Bear</quote> - writes.</gloss>
         <natlang>Bear is a writer.</natlang>
       </interlinear-gloss>
     </example>
@@ -1072,7 +1072,7 @@
       </title>
       <interlinear-gloss>
         <jbo>me'o se'e cixa cu lerfu la .asycy'i'is.</jbo>
-        <gloss>The-expression [code] 36 -- is-a-letteral-in-set -- ASCII</gloss>
+        <gloss>The-expression [code] 36 - is-a-letteral-in-set - ASCII</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
         <jbo>loi rupnu be fi le merko</jbo>

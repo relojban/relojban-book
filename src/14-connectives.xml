@@ -685,7 +685,7 @@
       <title>
       </title>
       <interlinear-gloss>
-        <jbo>la .djan. -- .ije</jbo>
+        <jbo>la .djan. - .ije</jbo>
         <gloss>That-named John [is/does-something]. And</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
@@ -1501,7 +1501,7 @@
       <title>
       </title>
       <interlinear-gloss>
-        <jbo>mi -- klama le zarci gi'e dzukla vau le briju</jbo>
+        <jbo>mi - klama le zarci gi'e dzukla vau le briju</jbo>
         <gloss>I ( go to-the market and walk ) to/from-the office.</gloss>
       </interlinear-gloss>
     </example>
@@ -3013,9 +3013,7 @@
       </title>
       <interlinear-gloss>
         <jbo>xy. boi xi vei by. ce'o dy. [ve'o]</jbo>
-        <gloss>
-          <quote>x</quote> - sub (<quote>b</quote> sequence
-        <quote>d</quote>)</gloss>
+        <gloss><quote>x</quote> - sub (<quote>b</quote> sequence <quote>d</quote>)</gloss>
         <dbmath>x<subscript>b,d</subscript></dbmath>
       </interlinear-gloss>
     </example>

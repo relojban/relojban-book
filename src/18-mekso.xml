@@ -383,7 +383,7 @@
       <cmavo-entry>
         <cmavo>ka'o</cmavo>
         <selmaho>PA</selmaho>
-        <description>imaginary <dbinlinemath>i</dbinlinemath>, sqrt(-1)</description>
+        <description>imaginary <dbinlinemath>i</dbinlinemath>, <dbinlinemath>√-1</dbinlinemath></description>
       </cmavo-entry>
       <cmavo-entry>
         <cmavo>pai</cmavo>
@@ -398,7 +398,7 @@
       <cmavo-entry>
         <cmavo>fi'u</cmavo>
         <selmaho>PA</selmaho>
-        <description>golden ratio, <dbinlinemath>Φ</dbinlinemath>, phi, <dbinlinemath>(1 + sqrt(5))/2</dbinlinemath> (approx. 1.61803...)</description>
+        <description>golden ratio, <dbinlinemath>φ</dbinlinemath>, phi, <dbinlinemath>(1 + √5)/2</dbinlinemath> (approx. 1.61803...)</description>
       </cmavo-entry>
     </cmavo-list>
     <para role="indent">

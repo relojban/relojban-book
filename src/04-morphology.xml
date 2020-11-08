@@ -881,7 +881,7 @@
       <indexterm type="general"><primary>y-hyphen</primary><secondary>and consonant cluster determination</secondary></indexterm>
       <indexterm type="general"><primary>rafsi</primary><secondary>rules for combining to form lujvo</secondary></indexterm>
       <indexterm type="general"><primary>lujvo</primary><secondary>rules for formation of</secondary></indexterm>
-      When assembling rafsi together into lujvo, the rules for valid brivla must be followed: a consonant cluster must occur in the first five letters (excluding <letteral>y</letteral> and <letteral>'</letteral> ), and the lujvo must end in a vowel.
+      When assembling rafsi together into lujvo, the rules for valid brivla must be followed: a consonant cluster must occur in the first five letters (excluding <letteral>y</letteral> and <letteral>'</letteral>), and the lujvo must end in a vowel.
     </para>
     <para>
       <indexterm type="general"><primary>glue in lujvo</primary><secondary>y-hyphen as</secondary></indexterm>
@@ -1225,7 +1225,7 @@
       <indexterm type="general"><primary>cmevla</primary><secondary>method of including in lujvo</secondary></indexterm>
       <indexterm type="general"><primary>rafsi</primary><secondary>lack of</secondary><tertiary>effect on forming lujvo</tertiary></indexterm>
       <indexterm type="general"><primary>lujvo</primary><secondary>from cmavo with no rafsi</secondary></indexterm>
-      is the exact equivalent of <valsi>brivla</valsi> (but not necessarily the same as the underlying tanru <jbophrase>bridi valsi</jbophrase>, which could have other meanings.) Using <valsi>zei</valsi> is the only way to get a cmavo lacking a rafsi, or a cmevla into a lujvo:
+      is the exact equivalent of <valsi>brivla</valsi> (but not necessarily the same as the underlying tanru <jbophrase>bridi valsi</jbophrase>, which could have other meanings). Using <valsi>zei</valsi> is the only way to get a cmavo lacking a rafsi, or a cmevla into a lujvo:
     </para>
     <example xml:id="example-random-id-qJe1" role="lujvo-example">
       <title>

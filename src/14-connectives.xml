@@ -2035,7 +2035,7 @@
     <para role="indent">
       <indexterm type="general"><primary>and</primary><secondary>compared with but</secondary></indexterm>
       <indexterm type="general"><primary>but</primary><secondary>compared with and</secondary></indexterm>
-      In logical terms, however, <quote>but</quote> is the same as <quote>and</quote>; the difference is that the sentence after a <quote>but</quote> is felt to be in tension or opposition to the sentence before it. Relojban represents this distinction by adding the discursive cmavo <valsi>ku'i</valsi> (of selma'o UI), which is explained in <xref linkend="section-discursives"/>, to the logical <valsi>.i</valsi><valsi>je</valsi>.)
+      In logical terms, however, <quote>but</quote> is the same as <quote>and</quote>; the difference is that the sentence after a <quote>but</quote> is felt to be in tension or opposition to the sentence before it. Relojban represents this distinction by adding the discursive cmavo <valsi>ku'i</valsi> (of selma'o UI), which is explained in <xref linkend="section-discursives"/>, to the logical <valsi>.i</valsi><valsi>je</valsi>.
     </para>
   </section>
   <section xml:id="section-non-logical-connectives">

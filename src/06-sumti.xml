@@ -1632,7 +1632,7 @@
     </example>
     <para role="indent">
       <indexterm type="general"><primary>name-words</primary><secondary>permissible consonant combinations</secondary></indexterm>
-      A name may not contain any consonant combination that is illegal in Relojban words generally: the <quote>impermissible consonant clusters</quote> of Relojban morphology (explained in <xref linkend="section-clusters"/>). Thus <cmevla valid="false">.djeimz.</cmevla> is not a valid version of <quote>James</quote> (because <morphology>mz</morphology> is invalid): <cmevla>djeimyz</cmevla> will suffice.
+      A name may not contain any consonant combination that is illegal in Relojban words generally: the <quote>impermissible consonant clusters</quote> of Relojban morphology (explained in <xref linkend="section-clusters"/>).
     </para>
     <para>
       <indexterm type="general"><primary>names</primary><secondary>using rafsi</secondary></indexterm>

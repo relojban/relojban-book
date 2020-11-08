@@ -647,26 +647,13 @@
       </listitem>
       <listitem>
         <para>
-          The specific pairs <morphology>cx</morphology>, <morphology>kx</morphology>, <morphology>xc</morphology>, <morphology>xk</morphology>, and <morphology>mz</morphology> are forbidden.
+          The specific pairs <morphology>cx</morphology>, <morphology>kx</morphology>, <morphology>xc</morphology>, and <morphology>xk</morphology> are forbidden.
         </para>
       </listitem>
     </orderedlist>
     <para>
       <indexterm type="general"><primary>y</primary><secondary>use in avoiding forbidden consonant pairs</secondary></indexterm>
-      These rules apply to all kinds of words, even cmevla. If a cmevla would normally contain a forbidden consonant pair, a <letteral>y</letteral> can be inserted to break up the pair:
-    </para>
-    <example role="pronunciation-example" xml:id="example-random-id-k2cK">
-      <title>
-        <indexterm type="example"><primary>James</primary></indexterm>
-      </title>
-      <pronunciation>
-        <jbo>.djeimyz.</jbo>
-        <ipa>[ʔdʒɛj.məzʔ]</ipa>
-        <natlang>James</natlang>
-      </pronunciation>
-    </example>
-    <para role="indent">
-      The regular English pronunciation of <quote>James</quote>, which is <phrase role="IPA">[dʒɛjmz]</phrase>, would Lojbanize as <cmevla valid="false">.djeimz.</cmevla>, which contains a forbidden consonant pair.
+      These rules apply to all kinds of words, even cmevla. If a cmevla would normally contain a forbidden consonant pair, a <letteral>y</letteral> can be inserted to break up the pair.
     </para>
   </section>
   <section xml:id="section-initial-pairs">

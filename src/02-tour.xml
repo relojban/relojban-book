@@ -2021,19 +2021,18 @@
       </title>
       <interlinear-gloss-itemized>
         <jbo>
-          <sumti>lo vi tavla</sumti>
+          <sumti>lo ca vi tavla</sumti>
           <elidable>ku</elidable>
           <elidable>cu</elidable>
-          <selbri>ba klama</selbri>
+          <selbri>ba vu tavla</selbri>
         </jbo>
         <gloss>
-          <sumti>The here talker</sumti>
+          <sumti>The [present] here talker</sumti>
           <elidable></elidable>
           <elidable></elidable>
-          <selbri>[future] goes.</selbri>
+          <selbri>[future] there talks.</selbri>
         </gloss>
-        <natlang>The one who talks here will go.</natlang>
-        <natlang>This talker will go.</natlang>
+        <natlang>The one who is talking here will talk there.</natlang>
       </interlinear-gloss-itemized>
     </example>
   </section>

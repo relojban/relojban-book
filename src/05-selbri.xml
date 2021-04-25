@@ -1869,14 +1869,14 @@
       <indexterm type="general"><primary>negation</primary><secondary>complex examples</secondary></indexterm>
       <indexterm type="general"><primary>complex negation</primary><secondary>examples</secondary></indexterm>
       <indexterm type="general"><primary>na'e</primary><secondary>contrasted with na'e ke</secondary></indexterm>
-      Here is an assortment of more complex examples showing the interaction of scalar negation with normal grouping, <valsi>ke</valsi> and <valsi>ke'e</valsi> grouping, logical connection, and sumti linked with <valsi>be</valsi> and <valsi>bei</valsi>:
+      Here is an assortment of more complex examples showing the interaction of scalar negation with <valsi>bo</valsi> grouping, <valsi>ke</valsi> and <valsi>ke'e</valsi> grouping, logical connection, and sumti linked with <valsi>be</valsi> and <valsi>bei</valsi>. Note that both <valsi>bo</valsi> and <valsi>be</valsi> bind less tightly than NAhE.
     </para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-I1Rd">
       <title>
       </title>
       <interlinear-gloss>
-        <jbo>mi na'e sutra cadzu be fi le birka be'o klama le zarci</jbo>
-        <gloss>I ((non- quickly) (walking - using the arms )) go-to the market.</gloss>
+        <jbo>mi na'e sutra bo cadzu be fi le birka be'o klama le zarci</jbo>
+        <gloss>I ((non- quickly) - (walking - using the arms )) go-to the market.</gloss>
         <natlang>I go to the market, walking using my arms other than quickly.</natlang>
       </interlinear-gloss>
     </example>
